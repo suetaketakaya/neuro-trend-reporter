@@ -92,6 +92,31 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update trend data [skip ci]"
           git push || true
 
+      - name: Deploy to Firebase Hosting
+        if: steps.gate.outputs.run == 'true'
+        env:
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          if [ -z "${FIREBASE_PROJECT_ID:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_PROJECT_ID is not set."
+            exit 0
+          fi
+
+          if [ -z "${FIREBASE_SERVICE_ACCOUNT:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_SERVICE_ACCOUNT secret is not set."
+            exit 0
+          fi
+
+          credentials_file="$RUNNER_TEMP/firebase-service-account.json"
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$credentials_file"
+          export GOOGLE_APPLICATION_CREDENTIALS="$credentials_file"
+
+          npx --yes firebase-tools@latest deploy \
+            --only hosting \
+            --project "$FIREBASE_PROJECT_ID" \
+            --non-interactive
+
       - uses: actions/configure-pages@v5
         if: steps.gate.outputs.run == 'true'
 

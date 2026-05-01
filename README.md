@@ -8,6 +8,7 @@ GitHub Actionsで1日置きに脳情報関連の情報を収集し、GitHub Page
 - 取得結果を `public/data/*.json` として公開する
 - 論文はOpenAlexの年別引用数を使って前年比の伸びを集計する
 - Webサイトのアクセス数は、GA4/Search Console/Matomoなどから別途出力した `data/access-metrics.json` がある場合だけ前年比を集計する
+- GitHub PagesまたはFirebase Hostingへ同じWebアプリをdeployする
 
 ## 公開されるAPI
 
@@ -71,6 +72,8 @@ GitHub側では、Repository settingsでPagesのSourceを「GitHub Actions」に
 GitHub ActionsのRepository Variablesで探索対象を変更できます。
 
 GitHub側の初期設定は [docs/github-settings.md](docs/github-settings.md) を参照してください。GitHub CLIが使える場合は、`npm run configure:github -- OWNER/REPO` でRepository Variables、Pages、初回workflow実行まで設定できます。
+
+Firebase Hostingへ公開する場合は [docs/firebase-hosting.md](docs/firebase-hosting.md) を参照してください。`FIREBASE_PROJECT_ID` と `FIREBASE_SERVICE_ACCOUNT` が設定されている場合、GitHub Actionsの収集後にFirebase Hostingへ自動deployします。
 
 | Variable | 例 |
 |---|---|

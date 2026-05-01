@@ -11,6 +11,8 @@
     "collect:startups": "node src/cli.mjs --section startups",
     "collect:funding": "node src/cli.mjs --section funding",
     "configure:github": "scripts/configure-github.sh",
+    "configure:firebase": "scripts/configure-firebase-github.sh",
+    "firebase:deploy": "npx firebase-tools@latest deploy --only hosting",
     "check": "node --check src/cli.mjs && node --check src/config.mjs && node --check src/lib/http.mjs && node --check src/lib/rss.mjs && node --check src/lib/scoring.mjs && node --check src/collectors/papers.mjs && node --check src/collectors/news.mjs && node --check src/collectors/startups.mjs && node --check src/collectors/funding.mjs && node --check public/assets/app.js",
     "serve": "python3 -m http.server 8000 -d public"
   },
