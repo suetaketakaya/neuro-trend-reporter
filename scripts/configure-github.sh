@@ -30,7 +30,7 @@ set_var() {
   local key="$1"
   local value="$2"
   if [[ -n "$value" ]]; then
-    printf "%s" "$value" | gh variable set "$key" --repo "$repo" --body-file -
+    gh variable set "$key" --repo "$repo" --body "$value"
   fi
 }
 
