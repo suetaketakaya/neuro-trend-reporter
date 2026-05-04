@@ -6,6 +6,31 @@
   "items": [
     {
       "kind": "research_news",
+      "title": "Scientists found the brain doesn’t start blank, it starts full",
+      "summary": "The brain’s memory center may begin life more like a crowded web than an empty canvas. Researchers discovered that early neural networks in the hippocampus are dense and seemingly random, then become more organized by shedding connections over time. This pruning process creates a faster, more efficient system for linking experiences and forming memories. It challenges the idea that the brain starts from scratch.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260501052842.htm",
+      "publishedAt": "2026-05-03T12:50:47.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
       "title": "A hidden map in your nose could explain how smell works",
       "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
       "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
@@ -31,17 +56,40 @@
     },
     {
       "kind": "research_news",
-      "title": "Scientists may have found the brain’s switch for chronic pain",
-      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
-      "publishedAt": "2026-04-27T12:37:49.000Z",
+      "title": "Scientists reveal creatine’s hidden power beyond muscle gains",
+      "summary": "Creatine might be famous in the gym, but its real story is far more interesting. Naturally produced in the body, it helps power cells by rapidly regenerating ATP—the fuel that keeps muscles, the brain, and even the heart running during intense activity. Supplementing with creatine can boost short bursts of physical performance and may even support memory, mood, and cognitive speed, especially in people with lower baseline levels.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "publishedAt": "2026-05-04T08:13:48.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain",
-        "cortex"
+        "brain"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
+      "summary": "A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physicists think about time and entropy, the study raises fresh doubts about what we can truly know about the past.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
+      "publishedAt": "2026-05-03T11:47:08.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -104,16 +152,17 @@
     },
     {
       "kind": "research_news",
-      "title": "Fish oil may be hurting your brain, new study finds",
-      "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
-      "publishedAt": "2026-04-26T05:57:51.000Z",
+      "title": "Scientists may have found the brain’s switch for chronic pain",
+      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
+      "publishedAt": "2026-04-27T12:37:49.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain"
+        "brain",
+        "cortex"
       ],
-      "signalScore": 24,
+      "signalScore": 20,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -128,17 +177,16 @@
     },
     {
       "kind": "research_news",
-      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
-      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
-      "publishedAt": "2026-04-03T07:10:50.000Z",
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+      "publishedAt": "2026-04-26T05:57:51.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain",
-        "cortex"
+        "brain"
       ],
-      "signalScore": 20,
+      "signalScore": 16,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -537,16 +585,17 @@
     },
     {
       "kind": "research_news",
-      "title": "These overlooked brain cells may control fear and PTSD",
-      "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
-      "publishedAt": "2026-04-04T11:47:25.000Z",
+      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
+      "publishedAt": "2026-04-03T07:10:50.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain"
+        "brain",
+        "cortex"
       ],
-      "signalScore": 16,
+      "signalScore": 14,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -611,16 +660,16 @@
     },
     {
       "kind": "research_news",
-      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding.",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
-      "publishedAt": "2026-03-02T15:04:35.000Z",
+      "title": "These overlooked brain cells may control fear and PTSD",
+      "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
+      "publishedAt": "2026-04-04T11:47:25.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "mental health"
+        "brain"
       ],
-      "signalScore": 14,
+      "signalScore": 10,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -663,54 +712,6 @@
       "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delivered lasting relief without affecting normal sensations. The discovery could mark a major step toward safer, non-addictive pain treatments.",
       "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
       "publishedAt": "2026-03-29T00:57:04.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 10,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Scientists discover why your appetite suddenly disappears when you’re sick",
-      "summary": "Scientists have uncovered how your body actually tells your brain to stop eating when you’re sick. In a new study, researchers found that specialized cells in the gut detect parasites and send signals that ultimately trigger the brain to suppress appetite. This process builds over time, explaining why you may feel fine at first but then suddenly lose interest in food as an infection takes hold.",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328024519.htm",
-      "publishedAt": "2026-03-28T08:35:02.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 10,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Vivid dreams may be the secret to deeper, more restful sleep",
-      "summary": "Vivid dreams might be doing more than just entertaining your mind at night. Researchers found that immersive dreaming can actually make sleep feel deeper and more refreshing, even when brain activity is high. Surprisingly, people reported their deepest sleep after intense dream experiences, not just during quiet, inactive periods. This suggests dreams may play a key role in helping us feel truly rested.",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
-      "publishedAt": "2026-03-26T06:00:56.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
