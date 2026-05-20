@@ -3,5 +3,56 @@
   "title": "Funding Opportunities",
   "description": "Neuro-related funding opportunities from Grants.gov, NIH Guide, NSF, and configured RSS feeds.",
   "sourceCount": 9,
-  "items": []
+  "items": [
+    {
+      "kind": "funding_feed",
+      "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain Native Research Resource Partners",
+      "summary": "Notice NOT-DA-26-011 from the NIH Guide for Grants and Contracts",
+      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-011.html",
+      "publishedAt": "2026-05-19T07:18:28.000Z",
+      "source": "grants.nih.gov",
+      "sourceUrl": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+      "relevanceKeywords": [
+        "mental health",
+        "mental health"
+      ],
+      "signalScore": 36,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "funding_feed",
+      "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain Advancing Native Research Projects",
+      "summary": "Notice NOT-DA-26-012 from the NIH Guide for Grants and Contracts",
+      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-012.html",
+      "publishedAt": "2026-05-19T07:17:28.000Z",
+      "source": "grants.nih.gov",
+      "sourceUrl": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+      "relevanceKeywords": [
+        "mental health",
+        "mental health"
+      ],
+      "signalScore": 36,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    }
+  ]
 }
