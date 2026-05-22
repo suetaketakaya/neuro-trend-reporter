@@ -5,113 +5,22 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "48076815",
+      "id": "48221805",
       "kind": "startup_hn_signal",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/nooga/let-go",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48076815",
-      "publishedAt": "2026-05-09T17:52:13.000Z",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48221805",
+      "publishedAt": "2026-05-21T12:49:07.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 292,
-        "comments": 85
+        "points": 32,
+        "comments": 7
       },
-      "signalScore": 251,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46909037",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/artifact-keeper",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46909037",
-      "publishedAt": "2026-02-06T04:12:59.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 166,
-        "comments": 67
-      },
-      "signalScore": 159,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48125088",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Neural window manager, neural network moving windows from mouse actions",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://lusob.github.io/neural-os/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48125088",
-      "publishedAt": "2026-05-13T17:46:15.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 8,
-        "comments": 1
-      },
-      "signalScore": 37,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47846089",
-      "kind": "startup_hn_signal",
-      "title": "The first neural interface that transforms your thoughts into text",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://sabi.com/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
-      "publishedAt": "2026-04-21T08:24:38.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 33.5,
+      "signalScore": 51,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -187,6 +96,35 @@
       }
     },
     {
+      "id": "48195533",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Heard Google copied part of our product for IO. Want to show off first",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=48195533",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48195533",
+      "publishedAt": "2026-05-19T16:28:32.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 6,
+        "comments": 0
+      },
+      "signalScore": 31,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "46245673",
       "kind": "startup_hn_signal",
       "title": "Is Entertainment Discovery Fundamentally Broken?",
@@ -205,35 +143,6 @@
         "comments": 9
       },
       "signalScore": 31,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48195533",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Heard Google copied part of our product for IO. Want to show off first",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=48195533",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48195533",
-      "publishedAt": "2026-05-19T16:28:32.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 5,
-        "comments": 0
-      },
-      "signalScore": 30.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -307,35 +216,6 @@
       }
     },
     {
-      "id": "48192239",
-      "kind": "startup_hn_signal",
-      "title": "Oil Dependence and U.S. Foreign Policy",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://www.cfr.org/articles/oil-dependence-and-us-foreign-policy",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48192239",
-      "publishedAt": "2026-05-19T12:05:50.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 1
-      },
-      "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "47116630",
       "kind": "startup_hn_signal",
       "title": "China's brain-computer interface industry is racing ahead",
@@ -385,6 +265,37 @@
         "comments": 2
       },
       "signalScore": 28.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47846089",
+      "kind": "startup_hn_signal",
+      "title": "The first neural interface that transforms your thoughts into text",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://sabi.com/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
+      "publishedAt": "2026-04-21T08:24:38.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 27.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -910,6 +821,98 @@
         "comments": 0
       },
       "signalScore": 23,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47225289",
+      "kind": "startup_hn_signal",
+      "title": "Neurotechnology? For Cancer?",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://www.owlposting.com/p/neurotechnology-for-cancer-ben-woodington",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47225289",
+      "publishedAt": "2026-03-02T22:46:44.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotechnology",
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46814541",
+      "kind": "startup_hn_signal",
+      "title": "Chinese Startup to Build a New Brain-Computer Interface–No Implant Required",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
+      "publishedAt": "2026-01-29T18:43:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46457133",
+      "kind": "startup_hn_signal",
+      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
+      "publishedAt": "2026-01-01T19:23:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
