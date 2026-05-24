@@ -17,41 +17,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 32,
-        "comments": 7
+        "points": 35,
+        "comments": 17
       },
-      "signalScore": 51,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47890354",
-      "kind": "startup_hn_signal",
-      "title": "Sensing Cognitive Responses Through a Non-Invasive Brain-Computer Interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.mdpi.com/1424-8220/26/6/1892",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47890354",
-      "publishedAt": "2026-04-24T13:53:50.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 33,
+      "signalScore": 62.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -96,35 +65,6 @@
       }
     },
     {
-      "id": "48195533",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Heard Google copied part of our product for IO. Want to show off first",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=48195533",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48195533",
-      "publishedAt": "2026-05-19T16:28:32.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 6,
-        "comments": 0
-      },
-      "signalScore": 31,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "46245673",
       "kind": "startup_hn_signal",
       "title": "Is Entertainment Discovery Fundamentally Broken?",
@@ -156,35 +96,6 @@
       }
     },
     {
-      "id": "48157877",
-      "kind": "startup_hn_signal",
-      "title": "Electronics engineer – neurotech – London (hybrid/remote)",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://netholabs.com/electronics_engineer_812",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48157877",
-      "publishedAt": "2026-05-16T07:56:43.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 1
-      },
-      "signalScore": 30,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "45222444",
       "kind": "startup_hn_signal",
       "title": "Pegasus Airlines lost my brain-computer interface – ignored 10 days",
@@ -203,37 +114,6 @@
         "comments": 4
       },
       "signalScore": 30,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47116630",
-      "kind": "startup_hn_signal",
-      "title": "China's brain-computer interface industry is racing ahead",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47116630",
-      "publishedAt": "2026-02-23T00:51:18.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 7,
-        "comments": 0
-      },
-      "signalScore": 29.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -389,6 +269,37 @@
         "comments": 1
       },
       "signalScore": 27.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47890354",
+      "kind": "startup_hn_signal",
+      "title": "Sensing Cognitive Responses Through a Non-Invasive Brain-Computer Interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.mdpi.com/1424-8220/26/6/1892",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47890354",
+      "publishedAt": "2026-04-24T13:53:50.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 27,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -637,6 +548,37 @@
         "comments": 3
       },
       "signalScore": 25.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47116630",
+      "kind": "startup_hn_signal",
+      "title": "China's brain-computer interface industry is racing ahead",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47116630",
+      "publishedAt": "2026-02-23T00:51:18.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 7,
+        "comments": 0
+      },
+      "signalScore": 24.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -913,6 +855,66 @@
         "comments": 0
       },
       "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48157877",
+      "kind": "startup_hn_signal",
+      "title": "Electronics engineer – neurotech – London (hybrid/remote)",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://netholabs.com/electronics_engineer_812",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48157877",
+      "publishedAt": "2026-05-16T07:56:43.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 1
+      },
+      "signalScore": 22,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46637819",
+      "kind": "startup_hn_signal",
+      "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
+      "publishedAt": "2026-01-15T19:26:25.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 22,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
