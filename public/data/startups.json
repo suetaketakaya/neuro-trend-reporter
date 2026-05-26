@@ -17,10 +17,39 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 35,
+        "points": 39,
         "comments": 17
       },
-      "signalScore": 62.5,
+      "signalScore": 64.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47969140",
+      "kind": "startup_hn_signal",
+      "title": "Ask HN: Rant, Am I bad or is this a company with a poor tech culture?",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=47969140",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47969140",
+      "publishedAt": "2026-04-30T22:35:28.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 6,
+        "comments": 28
+      },
+      "signalScore": 51,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -96,6 +125,35 @@
       }
     },
     {
+      "id": "48281284",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Chunk sidecars for validating agent-generated code before pushing to CI",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://circleci.com/blog/chunk-sidecars/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48281284",
+      "publishedAt": "2026-05-26T15:41:32.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 2
+      },
+      "signalScore": 30.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "45222444",
       "kind": "startup_hn_signal",
       "title": "Pegasus Airlines lost my brain-computer interface – ignored 10 days",
@@ -114,6 +172,35 @@
         "comments": 4
       },
       "signalScore": 30,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48280511",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Stratus: Open-Source Game Streaming Powered by WebTransport and Wayland",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.playstratus.io/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48280511",
+      "publishedAt": "2026-05-26T14:40:28.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 29.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -824,97 +911,6 @@
         "comments": 0
       },
       "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46457133",
-      "kind": "startup_hn_signal",
-      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
-      "publishedAt": "2026-01-01T19:23:16.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48157877",
-      "kind": "startup_hn_signal",
-      "title": "Electronics engineer – neurotech – London (hybrid/remote)",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://netholabs.com/electronics_engineer_812",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48157877",
-      "publishedAt": "2026-05-16T07:56:43.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 1
-      },
-      "signalScore": 22,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46637819",
-      "kind": "startup_hn_signal",
-      "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
-      "publishedAt": "2026-01-15T19:26:25.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 22,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
