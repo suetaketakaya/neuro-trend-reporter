@@ -17,10 +17,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 39,
+        "points": 40,
         "comments": 17
       },
-      "signalScore": 64.5,
+      "signalScore": 57,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -34,22 +34,22 @@
       }
     },
     {
-      "id": "47969140",
+      "id": "48296828",
       "kind": "startup_hn_signal",
-      "title": "Ask HN: Rant, Am I bad or is this a company with a poor tech culture?",
+      "title": "Show HN: Hm – a task runner with a Python DSL, growing into a CI/CD system",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=47969140",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47969140",
-      "publishedAt": "2026-04-30T22:35:28.000Z",
+      "url": "https://github.com/harmont-dev/harmont-cli",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48296828",
+      "publishedAt": "2026-05-27T16:41:36.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 6,
-        "comments": 28
+        "points": 12,
+        "comments": 1
       },
-      "signalScore": 51,
+      "signalScore": 35,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -94,6 +94,35 @@
       }
     },
     {
+      "id": "48295375",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Zorilla – vibe-code a 3D game in the browser",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.zoril.la/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48295375",
+      "publishedAt": "2026-05-27T14:59:07.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 2
+      },
+      "signalScore": 31.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "46245673",
       "kind": "startup_hn_signal",
       "title": "Is Entertainment Discovery Fundamentally Broken?",
@@ -125,22 +154,22 @@
       }
     },
     {
-      "id": "48281284",
+      "id": "48308487",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Chunk sidecars for validating agent-generated code before pushing to CI",
+      "title": "Will This $11B AI Startup Disrupt Big Law? [audio]",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://circleci.com/blog/chunk-sidecars/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48281284",
-      "publishedAt": "2026-05-26T15:41:32.000Z",
+      "url": "https://podcasts.apple.com/ci/podcast/will-this-%2411b-ai-startup-disrupt-big-law/id1744631325?i=1000765869522",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48308487",
+      "publishedAt": "2026-05-28T13:10:22.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 1,
-        "comments": 2
+        "points": 2,
+        "comments": 1
       },
-      "signalScore": 30.5,
+      "signalScore": 30,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -172,66 +201,6 @@
         "comments": 4
       },
       "signalScore": 30,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48280511",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Stratus: Open-Source Game Streaming Powered by WebTransport and Wayland",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://www.playstratus.io/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48280511",
-      "publishedAt": "2026-05-26T14:40:28.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47183899",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://github.com/CooDiiNgg/NeuroSync",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47183899",
-      "publishedAt": "2026-02-27T18:37:27.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 2
-      },
-      "signalScore": 28.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -443,37 +412,6 @@
         "brain-computer interface",
         "brain",
         "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 26.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47180169",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: OneSentence – An offline macOS voice utility built entirely with AI",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://www.onesentence.app",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47180169",
-      "publishedAt": "2026-02-27T13:15:06.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
       ],
       "metrics": {
         "points": 1,
@@ -708,6 +646,37 @@
       }
     },
     {
+      "id": "47183899",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://github.com/CooDiiNgg/NeuroSync",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47183899",
+      "publishedAt": "2026-02-27T18:37:27.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 2
+      },
+      "signalScore": 23.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "44560424",
       "kind": "startup_hn_signal",
       "title": "Show HN: Social network where anyone can be seen (Quickpost)",
@@ -900,6 +869,37 @@
       "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
       "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
       "publishedAt": "2026-01-29T18:43:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46457133",
+      "kind": "startup_hn_signal",
+      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
+      "publishedAt": "2026-01-01T19:23:16.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "brain-computer interface",
