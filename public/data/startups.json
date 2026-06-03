@@ -5,22 +5,51 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "48296828",
+      "id": "46909037",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Hm – a task runner with a Python DSL, growing into a CI/CD system",
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/harmont-dev/harmont-cli",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48296828",
-      "publishedAt": "2026-05-27T16:41:36.000Z",
+      "url": "https://github.com/artifact-keeper",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46909037",
+      "publishedAt": "2026-02-06T04:12:59.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 12,
-        "comments": 1
+        "points": 166,
+        "comments": 67
       },
-      "signalScore": 35,
+      "signalScore": 159,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48377340",
+      "kind": "startup_hn_signal",
+      "title": "I hadn't coded in 30 years. Then I built a space game with Godot",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=48377340",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48377340",
+      "publishedAt": "2026-06-02T22:46:13.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 6,
+        "comments": 2
+      },
+      "signalScore": 33,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -52,6 +81,35 @@
         "comments": 0
       },
       "signalScore": 32.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48339824",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: AI Simulaionen Based on FEP",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://aic-ai-lab.site/login",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48339824",
+      "publishedAt": "2026-05-30T19:32:53.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 4,
+        "comments": 2
+      },
+      "signalScore": 32,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -127,42 +185,13 @@
       }
     },
     {
-      "id": "48360373",
+      "id": "48370360",
       "kind": "startup_hn_signal",
-      "title": "Show HN: AI Sandbox based on FEP now online – no LLM",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://aic-ai-lab.site/login",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48360373",
-      "publishedAt": "2026-06-01T17:59:51.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48344623",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Cordium: FOSS sandbox platform that eliminates credential injection",
+      "title": "Show HN: Circus Chief – Claude Code, Codex, and Gemini from Your Phone",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/octelium/cordium",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48344623",
-      "publishedAt": "2026-05-31T10:41:00.000Z",
+      "url": "https://github.com/ferrislucas/Circus-Chief",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48370360",
+      "publishedAt": "2026-06-02T13:59:56.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
@@ -172,35 +201,6 @@
         "comments": 0
       },
       "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48356655",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: One-click open-source ecommerce starter (Magento), drive it with Claude",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://ecommerce-ai-starter.graycore.io",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48356655",
-      "publishedAt": "2026-06-01T13:32:44.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
