@@ -369,5 +369,48 @@
     },
     "topCitationGrowth": [],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-06-07T21:55:25.705Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 0
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Amendment CCXX — Biophotonic Coherence Corroboration: Mitochondrial Light Signaling as Φ-State Emission",
+        "url": "https://doi.org/10.5281/zenodo.20572663",
+        "publishedAt": "2026-06-06T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2,
+          "previousValue": 0,
+          "delta": 2,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
