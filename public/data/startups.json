@@ -5,22 +5,22 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "47520220",
+      "id": "48076815",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/jonwiggins/optio",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47520220",
-      "publishedAt": "2026-03-25T17:10:21.000Z",
+      "url": "https://github.com/nooga/let-go",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48076815",
+      "publishedAt": "2026-05-09T17:52:13.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 88,
-        "comments": 60
+        "points": 292,
+        "comments": 85
       },
-      "signalScore": 118,
+      "signalScore": 245,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -46,10 +46,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 21,
-        "comments": 10
+        "points": 25,
+        "comments": 13
       },
-      "signalScore": 48.5,
+      "signalScore": 53.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -76,9 +76,9 @@
       ],
       "metrics": {
         "points": 11,
-        "comments": 8
+        "comments": 9
       },
-      "signalScore": 41.5,
+      "signalScore": 42.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -105,9 +105,9 @@
       ],
       "metrics": {
         "points": 5,
-        "comments": 9
+        "comments": 10
       },
-      "signalScore": 39.5,
+      "signalScore": 40.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -167,37 +167,6 @@
         "comments": 0
       },
       "signalScore": 34,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48100885",
-      "kind": "startup_hn_signal",
-      "title": "Coloradan can plug his brain into a computer",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.denverpost.com/2026/05/10/colorado-brain-computer-interface/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48100885",
-      "publishedAt": "2026-05-11T21:26:06.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 32.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -415,6 +384,37 @@
         "comments": 1
       },
       "signalScore": 27,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48100885",
+      "kind": "startup_hn_signal",
+      "title": "Coloradan can plug his brain into a computer",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.denverpost.com/2026/05/10/colorado-brain-computer-interface/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48100885",
+      "publishedAt": "2026-05-11T21:26:06.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 26.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
