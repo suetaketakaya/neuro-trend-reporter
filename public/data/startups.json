@@ -20,7 +20,36 @@
         "points": 58,
         "comments": 25
       },
-      "signalScore": 82,
+      "signalScore": 74,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48447484",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.blockchainednovel.com/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48447484",
+      "publishedAt": "2026-06-08T16:29:38.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 27,
+        "comments": 14
+      },
+      "signalScore": 47.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -96,22 +125,22 @@
       }
     },
     {
-      "id": "48569203",
+      "id": "48581930",
       "kind": "startup_hn_signal",
-      "title": "We Need to Start Planning Beyond Leo",
+      "title": "Show HN: Topaz – A small application language that compiles through Rust",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=48569203",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48569203",
-      "publishedAt": "2026-06-17T12:04:17.000Z",
+      "url": "https://github.com/studiohaze/topaz",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48581930",
+      "publishedAt": "2026-06-18T07:18:55.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 7,
-        "comments": 0
+        "points": 4,
+        "comments": 1
       },
-      "signalScore": 31.5,
+      "signalScore": 31,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -156,22 +185,22 @@
       }
     },
     {
-      "id": "48552217",
+      "id": "48583551",
       "kind": "startup_hn_signal",
-      "title": "The Most Important Scientist You've Never Heard of (2017)",
+      "title": "Questions to ask when evaluating neurotech approaches",
       "summary": "Matched Hacker News query: neurotech",
-      "url": "https://www.mentalfloss.com/science/environment/clair-patterson-scientist-who-determined-age-earth-and-then-saved-it",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48552217",
-      "publishedAt": "2026-06-16T08:22:45.000Z",
+      "url": "https://www.owlposting.com/p/questions-to-ponder-when-evaluating",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48583551",
+      "publishedAt": "2026-06-18T10:56:48.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "neurotech"
       ],
       "metrics": {
-        "points": 4,
+        "points": 3,
         "comments": 0
       },
-      "signalScore": 30,
+      "signalScore": 29.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -185,22 +214,22 @@
       }
     },
     {
-      "id": "48517164",
+      "id": "48600381",
       "kind": "startup_hn_signal",
-      "title": "Making our AI coding agent the only way we build our product",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48517164",
-      "publishedAt": "2026-06-13T13:30:29.000Z",
+      "title": "Show HN: Intelligrade – EU Based Digital Exams",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.intelligrade.de/en",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48600381",
+      "publishedAt": "2026-06-19T16:34:28.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "neurotech"
+        "BCI startup"
       ],
       "metrics": {
-        "points": 4,
+        "points": 2,
         "comments": 0
       },
-      "signalScore": 30,
+      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -880,37 +909,6 @@
         "comments": 0
       },
       "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46637819",
-      "kind": "startup_hn_signal",
-      "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
-      "publishedAt": "2026-01-15T19:26:25.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 22,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
