@@ -6,14 +6,16 @@
   "items": [
     {
       "kind": "research_news",
-      "title": "Why grandparents matter more than ever for children's mental health",
-      "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
-      "publishedAt": "2026-06-13T09:11:52.000Z",
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "publishedAt": "2026-06-10T10:10:54.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "mental health"
+        "brain",
+        "neural",
+        "connectome"
       ],
       "signalScore": 28,
       "access": {
@@ -30,18 +32,40 @@
     },
     {
       "kind": "research_news",
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "publishedAt": "2026-06-10T10:10:54.000Z",
+      "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s",
+      "summary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells, the researchers found that tubulin—the protein that builds the cell’s internal transport network—can redirect these proteins away from forming toxic clumps and toward healthy, productive work.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100432.htm",
+      "publishedAt": "2026-06-21T13:08:10.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain",
-        "neural",
-        "connectome"
+        "brain"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain has evolved an impressive ability to repair the damage almost immediately.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+      "publishedAt": "2026-06-21T06:30:35.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -176,40 +200,16 @@
     },
     {
       "kind": "research_news",
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-      "publishedAt": "2026-06-13T14:47:04.000Z",
+      "title": "Why grandparents matter more than ever for children's mental health",
+      "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+      "publishedAt": "2026-06-13T09:11:52.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain"
+        "mental health"
       ],
-      "signalScore": 24,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Learning a musical instrument in your 70s could help protect memory",
-      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
-      "publishedAt": "2026-06-13T12:24:37.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 24,
+      "signalScore": 20,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -235,6 +235,54 @@
         "neural"
       ],
       "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Your brain can keep improving into your 90s, study finds",
+      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "publishedAt": "2026-06-13T14:47:04.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Learning a musical instrument in your 70s could help protect memory",
+      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
+      "publishedAt": "2026-06-13T12:24:37.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -661,54 +709,6 @@
       "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone loss, and other aging-related changes in mice. Restoring Menin reversed several of these effects, while a simple amino acid supplement called D-serine boosted cognition. The discovery opens a surprising new path for fighting age-related decline.",
       "url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
       "publishedAt": "2026-05-24T05:40:19.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-      "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
-      "publishedAt": "2026-05-22T12:33:40.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Childhood junk food may rewire the brain for life",
-      "summary": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted appetite-control regions in the brain. Excitingly, certain gut-friendly bacteria and prebiotic fibers appeared to help undo some of the damage.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260520093807.htm",
-      "publishedAt": "2026-05-21T13:31:48.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
