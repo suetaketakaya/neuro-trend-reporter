@@ -1,8 +1,1431 @@
 {
   "section": "papers",
-  "title": "papers",
-  "description": "Collector failed.",
-  "sourceCount": 0,
-  "error": "HTTP 503 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle%2Cfrom_publication_date%3A2026-01-02%2Cto_publication_date%3A2026-07-01&sort=publication_date%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
-  "items": []
+  "title": "Papers",
+  "description": "Recent and citation-growing neuroscience-related papers from OpenAlex.",
+  "sourceCount": 1,
+  "items": [
+    {
+      "id": "https://openalex.org/W7167038275",
+      "kind": "paper",
+      "title": "Editorial: Women in brain imaging and stimulation in the era of artificial intelligence",
+      "summary": "The Brain Imaging and Stimulation section of Frontiers in Human Neuroscience launched this Research Topic series in 2022 with a straightforward premise: women investigators were leading consequential science in this field, and that work deserved a dedicated platform. Two volumes later (Fang, Bai et al. 2023, Hermiller, Fang et al. 2025), the premise has been borne out. What has changed is the landscape in which that science now unfolds. Artificial intelligence has moved from a set of promising techniques at the margins of neuroimaging into a central methodological force, reshaping how data are",
+      "url": "https://doi.org/10.3389/fnhum.2026.1904700",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Human Neuroscience",
+      "authors": [
+        "W Li",
+        "Ruogu Fang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1904700/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural decoding",
+        "neuromodulation",
+        "brain",
+        "neural"
+      ],
+      "signalScore": 36,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167052333",
+      "kind": "paper",
+      "title": "Editorial: Emerging perspectives in psychiatry: innovations and insights from early career researchers",
+      "summary": "researchers to make contributions in the mental health field. It aims to collect high-quality scientific work across different areas of psychiatry and neuroscience, highlighting the vitality of the new generation of researchers working in collaboration with senior academics. This Research Topic also underscores the value of mentorship and international collaboration, being hosted under the auspices of the European Psychiatric Association.The Topic Editors are part of the Executive Committee of EPA, being respectively the President, the Treasurer and the Chair of the Early Career Psychiatrists ",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1909981",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Psychiatry",
+      "authors": [
+        "Gaia Sampogna",
+        "Bianca Della Rocca",
+        "Martina Roijnic Kuzman",
+        "Andrea Fiorillo"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1909981/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "mental health"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2031753087",
+      "kind": "paper",
+      "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+      "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+      "url": "https://doi.org/10.1137/1010093",
+      "publishedAt": "1968-10-01T00:00:00.000Z",
+      "source": "SIAM Review",
+      "authors": [
+        "Benoît B. Mandelbrot",
+        "John W. Van Ness"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 7705
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 145,
+        "previousValue": 337,
+        "delta": -192,
+        "growthRate": -0.5697,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167082190",
+      "kind": "paper",
+      "title": "Next-generation chemogenetic inhibition using a brain-permeant non-prescription agent",
+      "summary": "Abstract Chemogenetics allows the controllable manipulation of brain circuits upon delivery of a selective activating ligand, and has been invaluable in dissecting brain circuits underlying many behaviours. The Gαi/o-coupled designer muscarinic receptor hM4Di is an especially versatile tool for on-demand inhibition, and has proven effective not only in fundamental neuroscience but also as a therapeutic transgene in preclinical models of epilepsy and other CNS disorders. Indeed, by placing the circuit modulation under the control of an exogenous ligand, chemogenetics mitigates the potential ris",
+      "url": "https://doi.org/10.1038/s41392-026-02865-4",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Signal Transduction and Targeted Therapy",
+      "authors": [
+        "S.O. Devenish",
+        "Sahil D. Patel",
+        "Laura V. Ussingkær",
+        "Luiz F. Almeida Silva",
+        "Olivia Goff"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1038/s41392-026-02865-4"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167071440",
+      "kind": "paper",
+      "title": "The Test of Non-Specificity of Analogies (TNSA): A Method for Evaluating the Evidential Value of Analogical Inference in Cognitive and Behavioral Neuroscience",
+      "summary": "Analogical reasoning is pervasive in cognitive and behavioral neuroscience, from cross-species comparisons to metaphors linking neural circuits and cognitive functions. We present the Test of Non-Specificity of Analogies (TNSA), a five-step protocol adapted to neuroscience that assesses whether observed resemblances between heterogeneous entities carry discriminative, mechanistic, or causal weight. The TNSA operationalizes selection, category extraction, transfer, and inversion procedures to determine whether analogies reflect domain-specific mechanisms or arise from broadly applicable descrip",
+      "url": "https://doi.org/10.5281/zenodo.21128334",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Steve Girard"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.21128334"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167142729",
+      "kind": "paper",
+      "title": "The Test of Non-Specificity of Analogies (TNSA): A Method for Evaluating the Evidential Value of Analogical Inference in Cognitive and Behavioral Neuroscience",
+      "summary": "Analogical reasoning is pervasive in cognitive and behavioral neuroscience, from cross-species comparisons to metaphors linking neural circuits and cognitive functions. We present the Test of Non-Specificity of Analogies (TNSA), a five-step protocol adapted to neuroscience that assesses whether observed resemblances between heterogeneous entities carry discriminative, mechanistic, or causal weight. The TNSA operationalizes selection, category extraction, transfer, and inversion procedures to determine whether analogies reflect domain-specific mechanisms or arise from broadly applicable descrip",
+      "url": "https://doi.org/10.5281/zenodo.21128333",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Steve Girard"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.21128333"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166796615",
+      "kind": "paper",
+      "title": "Beyond Prompting: Biological Memory, Cognitive Offloading, and Human Expertise in the Age of GenAI",
+      "summary": "Generative artificial intelligence (GenAI) is driving unprecedented changes in higher education by enabling students to outsource complex cognitive tasks, including writing, summarisation, reasoning, and problem-solving. While these technologies offer accessibility, personalisation, and educational support, they raise concerns regarding cognitive offloading, eroding biological memory, and development of human expertise. This paper argues that prompting AI systems should not be conflated with learning because expertise depends upon durable internal cognitive structures developed through encodin",
+      "url": "https://doi.org/10.55578/fepr.2607.009",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Educational Practice and Research",
+      "authors": [
+        "Meena Jha",
+        "Stephen Colbran",
+        "Ken Purnell"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2104135721",
+      "kind": "paper",
+      "title": "A robust and high-throughput Cre reporting and characterization system for the whole mouse brain",
+      "summary": "",
+      "url": "https://doi.org/10.1038/nn.2467",
+      "publishedAt": "2009-12-20T00:00:00.000Z",
+      "source": "Nature Neuroscience",
+      "authors": [
+        "Linda Madisen",
+        "Theresa A. Zwingman",
+        "Susan M. Sunkin",
+        "Seung Wook Oh",
+        "Hatim A. Zariwala"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2840225"
+      },
+      "metrics": {
+        "citedByCount": 7403
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 301,
+        "previousValue": 732,
+        "delta": -431,
+        "growthRate": -0.5888,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2116658855",
+      "kind": "paper",
+      "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+      "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+      "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+      "publishedAt": "2007-02-28T00:00:00.000Z",
+      "source": "Journal of Neuroscience",
+      "authors": [
+        "William W. Seeley",
+        "Vinod Menon",
+        "Alan F. Schatzberg",
+        "Jennifer Keller",
+        "Gary H. Glover"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+      },
+      "metrics": {
+        "citedByCount": 7541
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 250,
+        "previousValue": 475,
+        "delta": -225,
+        "growthRate": -0.4737,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167055010",
+      "kind": "paper",
+      "title": "Intensity-specific leisure-time physical activity and depressive symptoms among first-year university students: a four-wave longitudinal study",
+      "summary": "Background Depressive symptoms are common among first-year university students, yet the longitudinal associations between different intensities of leisure-time physical activity (LTPA) and mental health remain unclear. This study examined the relationships between moderate- and vigorous-intensity LTPA and depressive symptoms over one academic year, as well as potential gender differences. Methods A four-wave longitudinal survey was conducted over one academic year among 456 freshmen (Mage = 18.18, SD = 0.67; 202 males and 254 females). Latent growth modeling was employed to analyze temporal ch",
+      "url": "https://doi.org/10.7717/peerj.21498",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "PeerJ",
+      "authors": [
+        "Xinyang Lu",
+        "Lianghao Zhu",
+        "Lunxin Chen",
+        "M. Wen",
+        "Lingzi Yao"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://peerj.com/articles/21498.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167066732",
+      "kind": "paper",
+      "title": "Public nature-based mental healthcare",
+      "summary": "Nature is beneficial for mental health, but clinical healthcare does not provide it, and lifestyle medicine is not available to all. Here, therefore, we propose a public health approach, which involves education, transport, and parks agencies as well as health.",
+      "url": "https://doi.org/10.1038/s44528-026-00012-7",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Communications Health",
+      "authors": [
+        "Ralf Buckley",
+        "Ratna Singh",
+        "Zoë Jiabo Zhang",
+        "Meisha Liddon",
+        "Linsheng Zhong"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s44528-026-00012-7.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167032310",
+      "kind": "paper",
+      "title": "Neural effects of expectation violation generalise across sensory modalities",
+      "summary": "The brain receives more sensory information than it can usefully employ to control behaviour. This sensory overload can be reduced by exploiting regularities in the environment to predict future events. Previous work on the role of prediction in perception has mostly focused on events within a single sensory modality. Here, we asked whether expectation violations in one sensory modality (audition) can affect neural representations of stimuli in a separate modality (vision). Human observers viewed rapid sequences of randomly-oriented visual gratings together with a task-irrelevant stream of alt",
+      "url": "https://doi.org/10.1038/s42003-026-10588-z",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Communications Biology",
+      "authors": [
+        "Dragan Rangelov",
+        "Edwina Shi",
+        "Jason B. Mattingley"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s42003-026-10588-z_reference.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167095134",
+      "kind": "paper",
+      "title": "Glymphatic dysfunction in Alzheimer's disease: a systematic review and meta-analysis of the DTI-ALPS index as an imaging biomarker",
+      "summary": "Introduction Although the diffusion tensor image analysis along the perivascular space (DTI-ALPS) index is widely utilized as a proxy for glymphatic function in Alzheimer's Disease (AD) research, its association with core AD pathological biomarkers remains inconclusive due to inter-study heterogeneity. This systematic review aimed to investigate associations between the DTI-ALPS index and AD biomarkers and to elucidate potential sources of heterogeneity. Methods The study protocol adhered to PRISMA guidelines and was registered with PROSPERO (CRD420251266067). We systematically searched Web of",
+      "url": "https://doi.org/10.3389/fnagi.2026.1832525",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Aging Neuroscience",
+      "authors": [
+        "Yutong Wu",
+        "Chen Zhang",
+        "Jiayi Yan",
+        "Lan Lin",
+        "Yuan Tian"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1832525/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167065636",
+      "kind": "paper",
+      "title": "LAS NEUROCIENCIAS Y LA TRANSDISCIPLINARIEDAD EN EL DEPORTE",
+      "summary": "Historically, the study of neuroscience as applied to sports has evolved from reductionist approaches focused on physiology toward more integrative perspectives that bring together cognitive, psychological, and social processes to optimize human performance. Consequently, understanding the athlete’s brain involves analyzing complex systems of regulation and adaptation within the highly demanding sports environment and the specific social context in which the athlete competes. Essentially, one of the purposes of this article is to analyze the contributions of neuroscience to sports from differe",
+      "url": "https://doi.org/10.15366/citius2026.19.1.002",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Tendencias pedagógicas",
+      "authors": [
+        "Antonio Jesús Pérez Sierra",
+        "F. Álvarez",
+        "Suri Arely ARELLANES URÍAS",
+        "Álvaro Saúl OLGUÍN GUITÉRREZ"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167064391",
+      "kind": "paper",
+      "title": "Effects of BCI-based lower limb robots on lower limb function and cognition in stroke patients: a preliminary systematic review",
+      "summary": "Background BCI-based lower limb robots (BCI-LLR) represent a novel technology used in neurological rehabilitation for stroke patients. However, the effectiveness of BCI-LLR compared to traditional rehabilitation in improving lower extremity function and cognition remains a topic of debate. This study aimed to determine whether BCI-based lower limb robots are more effective than traditional rehabilitation for lower limb dysfunction after stroke. Methods A comprehensive search was conducted across multiple databases, including PubMed, Embase, Web of Science, and Cochrane Library. The database re",
+      "url": "https://doi.org/10.3389/fnhum.2026.1782862",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Human Neuroscience",
+      "authors": [
+        "Mengqi Shao",
+        "X H Wang",
+        "Kui Wang",
+        "Kang Yang",
+        "Andi Zou"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1782862/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7166827391",
+      "kind": "paper",
+      "title": "Socioemotional Factors Associated with Resilience in Conflict-Affected Colombian Children and Adolescents: A Cross-Sectional Study",
+      "summary": "Abstract The rise in mental health issues among youth in Colombia is a critical public health concern. This study examined factors associated with baseline resilience in 4,361 children and adolescents participating in the “Conmigo, Contigo, Con Todos” program across three conflict-affected Colombian departments (Amazonas, Boyacá, Vaupés). This cross-sectional study analyzed participants aged 8–17 years from 56 schools. Resilience was measured using the CD-RISC. Socioemotional competencies were assessed using validated instruments. Due to systematic missing data in children's mental health scre",
+      "url": "https://doi.org/10.1007/s42844-026-00233-3",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Adversity and Resilience Science",
+      "authors": [
+        "Lina María González Ballesteros",
+        "Camila Andrea Castellanos Roncancio",
+        "Sofía Pérez-Lalinde",
+        "Sofía Santos-Simancas",
+        "Jennifer Clavijo Marin"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s42844-026-00233-3.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167070129",
+      "kind": "paper",
+      "title": "Cannabidiol in the anterior insular cortex attenuates chronic neuropathic pain and comorbid anxiety- and depression-like behaviors: involvement of CB1 and 5-HT1A receptor signaling",
+      "summary": "Abstract Background Chronic neuropathic pain (NP) is frequently accompanied by anxiety- and depression‑like symptoms, reflecting maladaptive interactions between nociceptive and affective brain networks. The anterior insular cortex (AIC) integrates sensory and emotional dimensions of pain and represents a potential target for pharmacological modulation. Cannabidiol (CBD) exhibits analgesic and anxiolytic/antidepressant‑like properties through interactions with endocannabinoid and serotonergic systems. Objectives We investigated whether CBD microinjection into the AIC modulates NP and its affec",
+      "url": "https://doi.org/10.1007/s00213-026-07116-6",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Psychopharmacology",
+      "authors": [
+        "Renata Moreira Acunha",
+        "Bruna Rabelo Ribeiro Domingues",
+        "Núbia Barros",
+        "Priscila Medeiros",
+        "J E Hallak"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s00213-026-07116-6.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "cortex"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167064360",
+      "kind": "paper",
+      "title": "Global Trends in Virtual Reality Research on Motor Rehabilitation from 2005 to 2025: A Bibliometric Analysis",
+      "summary": "Background: Virtual reality (VR) has been increasingly used in motor rehabilitation over the past two decades, but the overall research landscape of this field has not been fully mapped from a bibliometric perspective. Objective: This study aimed to conduct a bibliometric analysis to determine the development of research on VR for motor rehabilitation, focusing on its knowledge structure, major research topics, and temporal changes in the field. Methods: A topic-based search combining VR- and motor rehabilitation-related terms was conducted in the Web of Science Core Collection for the period ",
+      "url": "https://doi.org/10.3390/healthcare14131976",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Healthcare",
+      "authors": [
+        "Yarong Kong",
+        "Ziyi Shu",
+        "Yun-Hee Han"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3390/healthcare14131976"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167021966",
+      "kind": "paper",
+      "title": "Piezo1 in neuropathic pain: a putative mechanotransduction hub and underlying mechanisms",
+      "summary": "Neuropathic pain (NP) is a chronic pain syndrome caused by damage or dysfunction in the nervous system. Its pathogenesis involves enhanced neuronal excitability, inflammatory responses, and neuron–glial interactions. Mechanotransduction, a critical process converting physical forces into biochemical signals, significantly contributes to the initiation and maintenance of NP. Piezo1 is a novel mechanosensitive membrane protein widely expressed in the dorsal root ganglion (DRG). It mediates membrane tension perception and regulates intracellular calcium influx, influencing neuronal excitability a",
+      "url": "https://doi.org/10.3389/fnmol.2026.1852195",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Molecular Neuroscience",
+      "authors": [
+        "Kuangpin Liu",
+        "Chunyan Li",
+        "Wei Ma",
+        "Wenyu Zhao",
+        "Rongdi Sun"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1852195/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167076592",
+      "kind": "paper",
+      "title": "Mapping the research landscape of artificial intelligence in heart failure: a bibliometric analysis",
+      "summary": "Heart failure (HF) is a complex syndrome with high morbidity and mortality. Despite advancements in treatment, its management remains a challenge. The objective of this study was to map the scientific landscape of artificial intelligence (AI) applications in HF management through a bibliometric analysis. Data were retrieved from the Web of Science Core Collection. Keywords related to AI and HF were used to identify relevant research articles. Various bibliometric tools, such as Biblioshiny, VOS viewer, and CiteSpace, were used for quantitative trends, collaboration networks, and thematic areas",
+      "url": "https://doi.org/10.1097/ms9.0000000000005235",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Annals of Medicine and Surgery",
+      "authors": [
+        "Pegah Rashidian",
+        "Saisree Reddy Adla Jala",
+        "Kavya Priya Somu",
+        "Abinash Mahapatro",
+        "Nikitha Chellapuram"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1097/ms9.0000000000005235"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167050511",
+      "kind": "paper",
+      "title": "Joint Associations of Meditation and Physical Activity with Depression and Anxiety Symptoms in US Adults: NHIS 2022",
+      "summary": "Abstract Objectives Physical activity and meditation may each relate to mental health, but their joint associations in U.S. adults are unclear. We examined the separate and joint associations of any past-year meditation and meeting physical activity (PA) guidelines with depression and anxiety symptoms. Method We analyzed data from the 2022 National Health Interview Survey Sample Adult file ( n = 24,927). Exposures were meeting PA guidelines, any past-year meditation, and their four-level combination (Neither, PA only, Meditation only, Both). Outcomes were moderate-to-severe depressive and anxi",
+      "url": "https://doi.org/10.1007/s12671-026-02912-9",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Mindfulness",
+      "authors": [
+        "Yubing Wang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s12671-026-02912-9.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7143595035",
+      "kind": "paper",
+      "title": "Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety",
+      "summary": "Social anxiety (SA) is a prevalent mental health challenge that significantly impacts daily social interactions. Imaginal Exposure (IE), a Cognitive Behavioral Therapy (CBT) technique involving imagined anxiety-provoking scenarios, is effective but underutilized, in part because traditional IE homework requires clients to construct and sustain clinically relevant fear narratives. In this work, we explore the feasibility of an LLM-enabled tool that supports IE by generating vivid, personalized exposure scripts. We first co-designed ImaginalExpoBot with mental health professionals, followed by a",
+      "url": "https://doi.org/10.1145/3786579.3804922",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "OpenAlex",
+      "authors": [
+        "Yimeng Wang",
+        "Yinzhou Wang",
+        "Alicia Hong",
+        "Yixuan Zhang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1145/3786579.3804922"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167120434",
+      "kind": "paper",
+      "title": "Tuina therapy alleviates neuropathic pain by modulating the CX3CL1/CX3CR1 axis to inhibit degradation of the perineuronal nets",
+      "summary": "Introduction Tuina, a traditional Chinese non-pharmacological therapy, is effective in treating neuropathic pain (NP). However, its underlying molecular mechanisms remain elusive. The degradation of perineuronal nets (PNNs) via the CX3CL1/CX3CR1 axis is a key driver of central sensitization. This study investigates whether Tuina exerts analgesia by modulating this specific neuro-immune axis to preserve PNNs integrity in a rat model of chronic compression of the dorsal root ganglion (CCD). Methods Sprague–Dawley rats were subjected to CCD surgery to establish the NP model. To validate the role ",
+      "url": "https://doi.org/10.3389/fnmol.2026.1860375",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Molecular Neuroscience",
+      "authors": [
+        "Yukui Tian",
+        "Cheng Wang",
+        "Qingguang Zhu",
+        "Li Guo",
+        "Xue Bai"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1860375/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167072134",
+      "kind": "paper",
+      "title": "Editorial: Home cage-based phenotyping in rodents: innovation, standardization, reproducibility, and translational improvement, volume II",
+      "summary": "the biology of the species in question. In fact, it has repeatedly been shown that HCM is not limited to small, minimally stimulating enclosures. Its full potential can likewise be exploited in more complex enclosures, right up to semi-natural environments in which a home cage can be connected to different accessible environments (Mieske et al., 2021;Rivalan et al 2024). Now the animal deliberately decides if and when to explore these environments. This is already the second volume of the research topics series (see Gaburro et al., 2022) devoted to the fascinating and highly timely topic of HC",
+      "url": "https://doi.org/10.3389/fnins.2026.1894837",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Lars Lewejohann",
+        "Oliver Stiedl",
+        "Stefano Gaburro",
+        "Silvia Mandillo"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1894837/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2751884637",
+      "kind": "paper",
+      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+      "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+      "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+      "publishedAt": "2017-09-01T00:00:00.000Z",
+      "source": "The Lancet",
+      "authors": [
+        "Theo Vos",
+        "Amanuel Alemu Abajobir",
+        "Kalkidan Hassen Abate",
+        "Cristiana Abbafati",
+        "Kaja Abbas"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
+      },
+      "metrics": {
+        "citedByCount": 13551
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 217,
+        "previousValue": 655,
+        "delta": -438,
+        "growthRate": -0.6687,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2166073443",
+      "kind": "paper",
+      "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+      "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+      "url": "https://doi.org/10.1155/2011/156869",
+      "publishedAt": "2010-12-23T00:00:00.000Z",
+      "source": "Computational Intelligence and Neuroscience",
+      "authors": [
+        "Robert Oostenveld",
+        "Pascal Fries",
+        "Eric Maris",
+        "Jan‐Mathijs Schoffelen"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+      },
+      "metrics": {
+        "citedByCount": 11338
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 436,
+        "previousValue": 1228,
+        "delta": -792,
+        "growthRate": -0.645,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2138825607",
+      "kind": "paper",
+      "title": "Image processing with ImageJ",
+      "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+      "url": "https://dspace.library.uu.nl/handle/1874/204900",
+      "publishedAt": "2004-01-01T00:00:00.000Z",
+      "source": "Data Archiving and Networked Services (DANS)",
+      "authors": [
+        "Michael D. Abràmoff",
+        "Paulo Magalhães",
+        "Sunanda J. Ram"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://dspace.library.uu.nl/handle/1874/204900"
+      },
+      "metrics": {
+        "citedByCount": 11904
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1,
+        "previousValue": 215,
+        "delta": -214,
+        "growthRate": -0.9953,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167021962",
+      "kind": "paper",
+      "title": "When emotions hurt: negative interpretations of bodily signals and interoceptive difficulties in fibromyalgia",
+      "summary": "People with fibromyalgia often demonstrate hypersensitivity to benign bodily signals and misattribute non-noxious physical signals as pain, suggesting alterations in body-brain communication and interoception. However, little is known about whether altered body-brain communication may extend to misattribution of emotion as pain. Here, using a cross-sectional design, we aimed to investigate how individuals with fibromyalgia perceive, identify, and interpret emotions and other bodily sensations, including pain, compared to healthy controls. Across two independent studies, individuals with fibrom",
+      "url": "https://doi.org/10.1007/s00426-026-02341-2",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "source": "Psychological Research",
+      "authors": [
+        "Aleksandra M. Herman",
+        "Julia Szczawińska",
+        "Carolyn Berryman",
+        "Tasha R. Stanton"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s00426-026-02341-2.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W1996024251",
+      "kind": "paper",
+      "title": "Copper-Zinc Superoxide Dismutase (SOD1) Is Released by Microglial Cells and Confers Neuroprotection against 6-OHDA Neurotoxicity",
+      "summary": "Microglial-neuronal interactions are essential for brain physiopathology. In this framework, recent data have changed the concept of microglia from essentially macrophagic cells to crucial elements in maintaining neuronal homeostasis and function through the release of neuroprotective molecules. Using proteomic analysis, here we identify copper-zinc superoxide dismutase (SOD1) as a protein produced and released by cultured rat primary microglia. Evidence for a neuroprotective role of microglia-derived SOD1 resulted from experiments in which primary cerebellar granule neurons (CGNs) were expose",
+      "url": "https://doi.org/10.1159/000337115",
+      "publishedAt": "2012-05-09T00:00:00.000Z",
+      "source": "Neurosignals",
+      "authors": [
+        "Elisabetta Polazzi",
+        "Ilaria Mengoni",
+        "Marco Caprini",
+        "Emiliano Peña‐Altamira",
+        "Ewelina Kurtys"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.karger.com/Article/Pdf/337115"
+      },
+      "metrics": {
+        "citedByCount": 9017
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 140,
+        "delta": -140,
+        "growthRate": -1,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2024165284",
+      "kind": "paper",
+      "title": "Tensor Decompositions and Applications",
+      "summary": "This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or N-way array. Decompositions of higher-order tensors (i.e., N-way arrays with $N \\geq 3$) have applications in psycho-metrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value decomposition: CANDECOMP/PARAFAC (CP) decomposes a tenso",
+      "url": "https://doi.org/10.1137/07070111x",
+      "publishedAt": "2009-08-05T00:00:00.000Z",
+      "source": "SIAM Review",
+      "authors": [
+        "Tamara G. Kolda",
+        "Brett W. Bader"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 10467
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 305,
+        "previousValue": 822,
+        "delta": -517,
+        "growthRate": -0.629,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    }
+  ]
 }
