@@ -5,37 +5,6 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "48726770",
-      "kind": "startup_hn_signal",
-      "title": "Brain2Qwerty v2 – Meta's non-invasive brain-computer interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://facebookresearch.github.io/brain2qwerty/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48726770",
-      "publishedAt": "2026-06-29T23:42:46.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 10,
-        "comments": 0
-      },
-      "signalScore": 45,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "48753160",
       "kind": "startup_hn_signal",
       "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
@@ -50,10 +19,41 @@
         "neural interface"
       ],
       "metrics": {
-        "points": 2,
+        "points": 61,
+        "comments": 13
+      },
+      "signalScore": 83.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48791964",
+      "kind": "startup_hn_signal",
+      "title": "Meta's Brain2Qwerty v2: A non-invasive brain-computer interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://facebookresearch.github.io/brain2qwerty/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48791964",
+      "publishedAt": "2026-07-05T07:15:52.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
         "comments": 0
       },
-      "signalScore": 41,
+      "signalScore": 41.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -501,36 +501,6 @@
       }
     },
     {
-      "id": "48413047",
-      "kind": "startup_hn_signal",
-      "title": "China Becomes First Country to Approve Commercial Use of Invasive Brain Implant",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://slguardian.org/china-approves-first-invasive-brain-implant-for-mass-use-redrawing-the-neurotech-race/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48413047",
-      "publishedAt": "2026-06-05T14:28:28.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain",
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 4,
-        "comments": 0
-      },
-      "signalScore": 26,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "43277239",
       "kind": "startup_hn_signal",
       "title": "Show HN: Physical Programming Language Using Coding Bricks (DrBartha Toys)",
@@ -911,6 +881,37 @@
         "neural interface",
         "neural",
         "neural interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 22,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46394093",
+      "kind": "startup_hn_signal",
+      "title": "Paralysed man controls robots by mind using China's BCI tech",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://scienceclock.com/china-brain-computer-interface-paralysed-man-controls-robots-neuralink/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46394093",
+      "publishedAt": "2025-12-26T17:21:49.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
       ],
       "metrics": {
         "points": 2,
