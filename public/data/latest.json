@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T21:40:37.688Z",
+  "generatedAt": "2026-07-15T21:44:11.195Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -17,19 +17,23 @@
       "sourceCount": 1,
       "items": [
         {
-          "id": "https://openalex.org/W7168087437",
+          "id": "https://openalex.org/W7168251884",
           "kind": "paper",
-          "title": "Digital Habits of Teens in Summer: How the Absence of School Routine Activates Endless Scrolling",
-          "summary": "This research examines a paradox that has become increasingly evident among recent high school graduates: a summer of total freedom often results in cognitive exhaustion rather than genuine restoration. The study argues that this phenomenon is not a matter of personal failing, but a predictable consequence of structural environmental change colliding with psychologically engineered digital environments.Drawing on a desk research methodology, the paper synthesizes data from the 2026 Digital Global Overview Report, behavioral surveys conducted by the Pew Research Center, and peer-reviewed findin",
-          "url": "https://doi.org/10.5281/zenodo.21318744",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "A synthetic resilience framework for stabilizing dynamical neural networks in neurodegeneration",
+          "summary": "Abstract Neurodegeneration is essentially a large-scale dynamical instability of brain networks. It has been shown that pathological oscillations, bioenergetic failure, hub degradation, and progressive structural disconnection are manifestations of regulatory control failure rather than isolated cellular pathology. Traditional therapeutic interventions focus on downstream medical or symptomatic outcomes and conventional markers of persistent neural activity, but do not essentially touch the structures and architecture necessitating the arrangement of the system(s). We propose synthetic resilie",
+          "url": "https://doi.org/10.1186/s13064-026-00301-5",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Discover Neuroscience",
           "authors": [
-            "Alina Lyan"
+            "Arun Kumar Nirmal",
+            "Haripriya Dayalan",
+            "Gayathri Ayyar",
+            "Gayathri Nithiananthan",
+            "Harshana Thiruvengadam"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21318744"
+            "url": "https://doi.org/10.1186/s13064-026-00301-5"
           },
           "metrics": {
             "citedByCount": 0
@@ -46,99 +50,207 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "cognitive neuroscience"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168096920",
-          "kind": "paper",
-          "title": "Digital Habits of Teens in Summer: How the Absence of School Routine Activates Endless Scrolling",
-          "summary": "This research examines a paradox that has become increasingly evident among recent high school graduates: a summer of total freedom often results in cognitive exhaustion rather than genuine restoration. The study argues that this phenomenon is not a matter of personal failing, but a predictable consequence of structural environmental change colliding with psychologically engineered digital environments.Drawing on a desk research methodology, the paper synthesizes data from the 2026 Digital Global Overview Report, behavioral surveys conducted by the Pew Research Center, and peer-reviewed findin",
-          "url": "https://doi.org/10.5281/zenodo.21318743",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Alina Lyan"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21318743"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "cognitive neuroscience"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168094545",
-          "kind": "paper",
-          "title": "Why You Never Forget a Face But Always Forget the Name: 7 Neuroscience Insights Into Memory's Most Personal Paradox",
-          "summary": "This article examines the neuroscience of why face recognition is reliable and name recall is unreliable through seven converging dimensions: the dedicated neural architecture of face recognition (Fusiform Face Area, discovered Kanwisher et al. 1997; the distributed face network including OFA and STS; prosopagnosia as evidence of specialised hardware); the Bruce and Young (1986) sequential model of person recognition and why name retrieval sits at the most vulnerable final stage; the Baker-Baker paradox (McWeeny et al. 1987) as the definitive demonstration of the semantic richness vs. arbitrar",
-          "url": "https://doi.org/10.5281/zenodo.21320334",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Narayan Rout"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21320334"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
+            "neuromorphic",
             "brain",
             "neural"
           ],
+          "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168243920",
+          "kind": "paper",
+          "title": "A Soft Grasper with Bioinspired Morphology and Synthetic Nervous System Control Reduces Damage to Deformable Objects and Fruits During Handling",
+          "summary": "Abstract The design of robotic graspers that can safely interact with deformable, damage-prone materials such as fruits, vegetables, and biological tissues remains an ongoing challenge in robotics. Conventional robotic graspers made of mostly rigid materials have limited compliance and tactile sensing, reducing their applicability to contact-rich manipulation of soft objects. In contrast, humans and animals can interact with their environments safely and intelligently through their bodies' structural properties and nervous systems' computational capabilities. In this article, we present the de",
+          "url": "https://doi.org/10.1088/1748-3190/ae8a9c",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Bioinspiration & Biomimetics",
+          "authors": [
+            "Yanjun Li",
+            "Ravesh Sukhnandan",
+            "Hillel J Chiel",
+            "Victoria A. Webster-Wood",
+            "Roger D Quinn"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1088/1748-3190/ae8a9c"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "computational neuroscience",
+            "neural"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168236646",
+          "kind": "paper",
+          "title": "Research advances in exercise and cognitive fatigue: a bibliometric analysis and thematic strategic evolution analysis",
+          "summary": "Background Cognitive fatigue (CF), characterized by decrements in executive function and heightened subjective exhaustion resulting from prolonged cognitive exertion, has emerged as a critical determinant of athletic performance and psychophysiological wellbeing. Despite the exponential growth in research output, systematic quantitative analyses of the intellectual structure, evolutionary trajectory, and emerging frontiers within this domain remain scarce. Methods Drawing upon the Web of Science Core Collection and Scopus databases, this study retrieved publications addressing exercise and cog",
+          "url": "https://doi.org/10.3389/fpsyg.2026.1809755",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Psychology",
+          "authors": [
+            "Yeting Zhang",
+            "Jiangxi Yang",
+            "Huangyan Li",
+            "Huan Ma"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1809755/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neurotechnology",
+            "mental health",
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168257263",
+          "kind": "paper",
+          "title": "Exercise-induced BDNF signaling mediates neuroplasticity in depression",
+          "summary": "Background.Major depressive disorder (MDD) is increasingly recognized as a disorder of impaired neuroplasticity. Brain-derived neurotrophic factor (BDNF) plays a central role in neuronal survival, synaptic plasticity, and antidepressant mechanisms [1–4]. Physical exercise has emerged as an effective non-pharmacological intervention capable of enhancing BDNF signaling and promoting neuroplastic adaptations [20–27]. Aim.To summarize current evidence on the role of exercise-induced BDNF signaling in mediating neuroplastic adaptations and antidepressant effects in depression. Material and methods.",
+          "url": "https://doi.org/10.12775/qs.2026.64.73626",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Quality in Sport",
+          "authors": [
+            "Paulina Patrycja Turzyńska",
+            "Marcjanna Maria Liedtke",
+            "Alicja Biskup",
+            "Agata Wnęk",
+            "Weronika Martynowska"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.12775/qs.2026.64.73626"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "mental health",
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168240152",
+          "kind": "paper",
+          "title": "MEDITATE, B*TCH — A Scholarly Treatise",
+          "summary": "MEDITATE, B*TCH Authors: Oluwo Jolaoso Osainbola, Ph.D. | Ajarn Shaman Shu | Shri Suryanarayana Swamikal | Robert Shumake, Ph.D. Affiliation: Buddha University® & Orisha University This paper presents a scholarly analysis of the collaborative volume MEDITATE, B*TCH (Shumake et al., 2025), situating the book at the intersection of neuroscientific evidence, cross-cultural ritual practice, and a praxis-oriented ethic of radical self-care. We argue that contemporary mindfulness movements gain potency when grounded in initiated, emically informed practices from living traditions — specifically Drav",
+          "url": "https://doi.org/10.5281/zenodo.21349035",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Oluwo Jolaoso Osainbola",
+            "Ajarn Shaman Shu",
+            "Shri Suryanarayana Swamikal",
+            "Shumake, Robert S. (Ajarn Shaman Shu | Oluwo Jolaoso Osainbola, PhD | Shri Suryanarayana Swamikal)"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21349035"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "cognitive neuroscience"
+          ],
           "signalScore": 20,
           "access": {
             "metric": "access_views",
@@ -153,19 +265,65 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168095019",
+          "id": "https://openalex.org/W7168284807",
           "kind": "paper",
-          "title": "Why You Never Forget a Face But Always Forget the Name: 7 Neuroscience Insights Into Memory's Most Personal Paradox",
-          "summary": "This article examines the neuroscience of why face recognition is reliable and name recall is unreliable through seven converging dimensions: the dedicated neural architecture of face recognition (Fusiform Face Area, discovered Kanwisher et al. 1997; the distributed face network including OFA and STS; prosopagnosia as evidence of specialised hardware); the Bruce and Young (1986) sequential model of person recognition and why name retrieval sits at the most vulnerable final stage; the Baker-Baker paradox (McWeeny et al. 1987) as the definitive demonstration of the semantic richness vs. arbitrar",
-          "url": "https://doi.org/10.5281/zenodo.21320335",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
+          "title": "The Ohitorisama Phenomenon in Japan as a Natural Shift Toward JOMO (Joy of Missing Out) - Exploratory Neuroscience Analysis",
+          "summary": "Background: In digital and social ecosystems with a high degree of collectivism like Japan, user participation metrics and interpersonal interaction obligations often trigger massive cognitive and emotional pressure. The concept of Ohitorisama (the behavior of consciously celebrating solo activities) has emerged as an antithesis to these exhausting social obligations. This phenomenon indicates a large-scale psychological shift from Fear of Missing Out (FOMO) to Joy of Missing Out (JOMO). While solitary behavior is often associated with adaptive weakness or pathological withdrawal, current neur",
+          "url": "https://doi.org/10.5281/zenodo.21351178",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
           "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Narayan Rout"
+            "Yohanes Fenan"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21320335"
+            "url": "https://doi.org/10.5281/zenodo.21351178"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168272786",
+          "kind": "paper",
+          "title": "The Lonely Brain: How Isolation Silences Our Most Human Instinct",
+          "summary": "Social isolation has emerged as a significant public health concern, with profound effects on physical and mental wellbeing. This article examines social isolation through the lens of neurobiology, exploring the mechanisms by which isolation alters brain structure and function, impairs communication, and contributes to chronic stress and cognitive decline. Drawing on research in neuroplasticity, stress physiology, and social neuroscience, the article argues that isolation represents a sustained neurobiological assault that dysregulates the nervous system and undermines the brain's capacity for",
+          "url": "https://doi.org/10.5281/zenodo.21363568",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Alicia Quaini"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21363568"
           },
           "metrics": {
             "citedByCount": 0
@@ -215,16 +373,16 @@
             "url": ""
           },
           "metrics": {
-            "citedByCount": 7709
+            "citedByCount": 7713
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 149,
-            "previousValue": 337,
+            "currentValue": 151,
+            "previousValue": 339,
             "delta": -188,
-            "growthRate": -0.5579,
+            "growthRate": -0.5546,
             "available": true
           },
           "relevanceKeywords": [
@@ -247,19 +405,68 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168091627",
+          "id": "https://openalex.org/W7168268597",
           "kind": "paper",
-          "title": "New Review Project Explores the Biological Link Between Psychological Stress and Cellular Homeostasis",
-          "summary": "A new academic review project focusing on the relationship between psychological stress and cellular homeostasis has officially entered its development phase. The study is being prepared within the expanding field of psychodermatology and seeks to provide an evidence-based overview of how psychological factors influence skin physiology through interconnected biological pathways. Rather than presenting a new theoretical model at this stage, the review will summarize current scientific knowledge concerning the brain–skin axis, neuroendocrine regulation, immune responses, oxidative stress, mitoch",
-          "url": "https://doi.org/10.5281/zenodo.21316389",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
+          "title": "Breaking the Ice: A descriptive case study overcoming hurdles to open neuroscience and mental health research",
+          "summary": "",
+          "url": "https://doi.org/10.1016/j.gni.2026.100012",
+          "publishedAt": "2026-07-15T00:00:00.000Z",
+          "source": "Global Neurological Insights",
+          "authors": [
+            "Cleo Hendrickson",
+            "Amanda Rande",
+            "Mumu Aktar",
+            "Taylor Chomiak",
+            "Jennifer Dotchin"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "mental health"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168164985",
+          "kind": "paper",
+          "title": "Is My Brain My Client The Rise of Neuro-Evidence in Criminal Defence",
+          "summary": "Neuro-evidence is transforming criminal defence by introducing brain imaging and genetic evidence into the courtroom. This article examines how such evidence challenges the traditional concept of mens rea, influences sentencing decisions, and raises concerns about free will, privacy, and AI-driven predictions of criminal behaviour. It argues that while neuroscience can inform legal decision-making, it should complement not replace the principles of criminal responsibility and judicial discretion.",
+          "url": "https://doi.org/10.5281/zenodo.21345833",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
           "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Bozdemir Prof. Dr. Bilal Semih"
+            "Vanshika Choudhary"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21316389"
+            "url": "https://doi.org/10.5281/zenodo.21345833"
           },
           "metrics": {
             "citedByCount": 0
@@ -292,19 +499,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168104536",
+          "id": "https://openalex.org/W7168285727",
           "kind": "paper",
-          "title": "New Review Project Explores the Biological Link Between Psychological Stress and Cellular Homeostasis",
-          "summary": "A new academic review project focusing on the relationship between psychological stress and cellular homeostasis has officially entered its development phase. The study is being prepared within the expanding field of psychodermatology and seeks to provide an evidence-based overview of how psychological factors influence skin physiology through interconnected biological pathways. Rather than presenting a new theoretical model at this stage, the review will summarize current scientific knowledge concerning the brain–skin axis, neuroendocrine regulation, immune responses, oxidative stress, mitoch",
-          "url": "https://doi.org/10.5281/zenodo.21316390",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
+          "title": "Mahamrityunjaya: The Mantra That Answers What Evolution Created — The Prefrontal Cortex and the Human Fear of Death",
+          "summary": "This article proposes and develops an original interdisciplinary thesis: the Mahamrityunjaya Mantra of the Rigveda (7.59.12) is the Indian civilisation's systematic response to the specific psychological wound created by the evolution of the prefrontal cortex. The article develops this thesis through seven dimensions: the evolutionary emergence of the PFC (bipedalism, cooking, social complexity, language, and the Default Mode Network) and how the same temporal projection that enabled human flourishing enabled the unique human foreknowledge of personal mortality; the neuroscience and anthropolo",
+          "url": "https://doi.org/10.5281/zenodo.21355589",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
           "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Bozdemir Prof. Dr. Bilal Semih"
+            "Narayan Rout"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21316390"
+            "url": "https://doi.org/10.5281/zenodo.21355589"
           },
           "metrics": {
             "citedByCount": 0
@@ -321,7 +528,7 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "brain"
+            "cortex"
           ],
           "signalScore": 16,
           "access": {
@@ -337,19 +544,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168036188",
+          "id": "https://openalex.org/W7168125853",
           "kind": "paper",
-          "title": "Expectation as Criterion: A Cross-Modal Real-Time Calibration Mechanism of Human Sensory Judgment",
-          "summary": "Author Information Author: Baichen Yi Preprint V1.0 Affiliation: Independent Researcher, Xi'an, Shaanxi, 710000, China ORCID: 0009-0008-6242-7743 Corresponding Author: Baichen Yi Email:ybcbenxin@163.com Conflict of Interest Statement: The author declares that there are no conflicts of interest related to this work. Copyright and License This preprint is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0), permitting open sharing and redistribution worldwide under the conditions of proper attribution, non-commercial use, and no",
-          "url": "https://doi.org/10.5281/zenodo.21312014",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Spatiotemporal deep learning for early detection of isolated REM sleep behavior disorder and Parkinson’s disease using functional MRI data",
+          "summary": "This study aimed to develop and evaluate a spatiotemporal deep-neural-network (stDNN) using resting-state fMRI (rs-fMRI) data to identify brain biomarkers associated with isolated REM sleep behavior disorder (iRBD) and Parkinson's disease (PD) and to differentiate these conditions from controls. The final sample included 771 subjects, comprising 423 patients with PD, 144 with iRBD, and 204 healthy controls. stDNN model was applied to mean timeseries extracted for each subject from rs-fMRI data. By integrating spatio-temporal features, the network classified subjects based on distinct neural pa",
+          "url": "https://doi.org/10.1038/s41531-026-01477-7",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "npj Parkinson s Disease",
           "authors": [
-            "Baichen YI"
+            "Silvia Basaia",
+            "Stefano Pisano",
+            "Elisabetta Sarasso",
+            "Tania Filaferro",
+            "Andrea Gardoni"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21312014"
+            "url": "https://www.nature.com/articles/s41531-026-01477-7_reference.pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -365,188 +576,9 @@
             "available": true
           },
           "relevanceKeywords": [
-            "neuroscience",
-            "neural"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168018717",
-          "kind": "paper",
-          "title": "Legado Onírico: Criatividade e Neurociência em Diálogo — A Critical Self-Assessment",
-          "summary": "AbstractLegado Onírico: Criatividade e Neurociência em Diálogo (2026) offers an interdisciplinaryexamination of dreams at the intersection of brain, mind, culture, creativity, and AI. Publishedby Pod Editora, authored by Marleide da Mota Gomes, the volume proposes that dreamsfunction as biological, emotional, and creative processes—a synthesis of empiricalneuroscience and humanistic interpretation. The book’s central organizing principle is theproposal that dreams serve multiple functions, including memory consolidation, emotionalregulation, threat simulation, and creative incubation. da Mota ",
-          "url": "https://doi.org/10.5281/zenodo.21314739",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Marleide da Mota Gomes"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21314739"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168044866",
-          "kind": "paper",
-          "title": "Expectation as Criterion: A Cross-Modal Real-Time Calibration Mechanism of Human Sensory Judgment",
-          "summary": "Author Information Author: Baichen Yi Preprint V1.0 Affiliation: Independent Researcher, Xi'an, Shaanxi, 710000, China ORCID: 0009-0008-6242-7743 Corresponding Author: Baichen Yi Email:ybcbenxin@163.com Conflict of Interest Statement: The author declares that there are no conflicts of interest related to this work. Copyright and License This preprint is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0), permitting open sharing and redistribution worldwide under the conditions of proper attribution, non-commercial use, and no",
-          "url": "https://doi.org/10.5281/zenodo.21312015",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Baichen YI"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21312015"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "neural"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168046380",
-          "kind": "paper",
-          "title": "Environmental Design and Digital Well-being Among Youth: An Interdisciplinary Review Integrating Neuroscience, Environmental Psychology, and Traditional Spatial Practices",
-          "summary": "Environmental Design and Digital Well-being Among Youth: An Interdisciplinary Review of Neuroscience, Environmental Psychology, and Traditional Spatial Practices presents a comprehensive examination of how the physical environment influences brain function, cognitive performance, mental well-being, and digital behavior among children, adolescents, and young adults. Drawing upon research from neuroscience, environmental psychology, building science, public health, educational architecture, and behavioral science, this work synthesizes current evidence on the role of natural daylight, indoor air",
-          "url": "https://doi.org/10.5281/zenodo.21311444",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Acharya Pt. Dr Avdhesh Kumarr"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21311444"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168027148",
-          "kind": "paper",
-          "title": "Legado Onírico: Criatividade e Neurociência em Diálogo — A Critical Self-Assessment",
-          "summary": "AbstractLegado Onírico: Criatividade e Neurociência em Diálogo (2026) offers an interdisciplinaryexamination of dreams at the intersection of brain, mind, culture, creativity, and AI. Publishedby Pod Editora, authored by Marleide da Mota Gomes, the volume proposes that dreamsfunction as biological, emotional, and creative processes—a synthesis of empiricalneuroscience and humanistic interpretation. The book’s central organizing principle is theproposal that dreams serve multiple functions, including memory consolidation, emotionalregulation, threat simulation, and creative incubation. da Mota ",
-          "url": "https://doi.org/10.5281/zenodo.21314738",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Marleide da Mota Gomes"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21314738"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
+            "brain",
+            "neural",
+            "cortex"
           ],
           "signalScore": 16,
           "access": {
@@ -581,16 +613,16 @@
             "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2840225"
           },
           "metrics": {
-            "citedByCount": 7412
+            "citedByCount": 7477
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 322,
+            "currentValue": 325,
             "previousValue": 721,
-            "delta": -399,
-            "growthRate": -0.5534,
+            "delta": -396,
+            "growthRate": -0.5492,
             "available": true
           },
           "relevanceKeywords": [
@@ -630,16 +662,16 @@
             "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
           },
           "metrics": {
-            "citedByCount": 7553
+            "citedByCount": 7562
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 267,
-            "previousValue": 470,
-            "delta": -203,
-            "growthRate": -0.4319,
+            "currentValue": 271,
+            "previousValue": 471,
+            "delta": -200,
+            "growthRate": -0.4246,
             "available": true
           },
           "relevanceKeywords": [
@@ -660,20 +692,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168104783",
+          "id": "https://openalex.org/W7168273024",
           "kind": "paper",
-          "title": "Quantum consciousness revisited: a review of Orch OR and an introduction to the Quantum Cognition Gradient",
-          "summary": "Despite centuries of scientific inquiry, the origin of human consciousness, characterized by self-awareness and the presence of qualia, remains one of the deepest mysteries in neuroscience. Orchestrated Objective Reduction (Orch OR), as proposed by Roger Penrose and Stuart Hameroff, posits that consciousness arises from the objective reduction of quantum superpositions within entangled neural microtubules, triggered by gravitational self-energy. Recent theoretical and biophysical studies have renewed interest in quantum coherence in biological systems, including terahertz vibrational measureme",
-          "url": "https://doi.org/10.64336/001c.164985",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Journal of High School Science",
+          "title": "Selective reduction of the light peak-to-dark trough ratio in reticular macular disease: an electrooculography study",
+          "summary": "Purpose To compare electrooculogram (EOG) parameters between eyes with reticular macular disease (RMD) and eyes with early-to-intermediate age-related macular degeneration (AMD) without reticular pseudodrusen (RPD), and to assess whether RMD is associated with generalized RPE–photoreceptor complex dysfunction. Methods In this observational cross-sectional study, 42 eyes from 21 patients were analyzed (without-RPD group: 28 eyes; RMD group: 14 eyes). RMD was diagnosed using multimodal imaging (infrared reflectance and SD-OCT). EOGs were recorded with the RETI-port/scan 21 system according to IS",
+          "url": "https://doi.org/10.3389/fnins.2026.1865041",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
           "authors": [
-            "Logan Piñeiro",
-            "Lily Read"
+            "Lin Liu",
+            "Lu Cheng",
+            "Qi Ren",
+            "Zhe Chu",
+            "Hao Cheng"
           ],
           "openAccess": {
-            "isOpen": false,
-            "url": ""
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1865041/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -689,7 +724,424 @@
             "available": true
           },
           "relevanceKeywords": [
-            "neuroscience",
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168279525",
+          "kind": "paper",
+          "title": "Community-based square dancing is associated with improved physical and mental health in older adults: a 12-week randomized controlled trial in China",
+          "summary": "Background Population aging poses significant public health challenges, particularly in maintaining physical and mental wellbeing among older adults. Square dance, a culturally embedded group exercise in China, may offer a practical strategy to enhance functional, psychological, and social health in community-dwelling older adults. Methods A 12-week single-blind randomized controlled trial was conducted among 150 older adults (60–79 years), randomly allocated to a Square Dance Intervention Group ( n = 75) or a Health Education Control Group ( n = 75). The intervention comprised three 60-min se",
+          "url": "https://doi.org/10.3389/fpubh.2026.1758255",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Public Health",
+          "authors": [
+            "Keying Song",
+            "Zijian Zhao",
+            "Jinjin Zhang",
+            "Jianye Li",
+            "Mariusz Lipowski"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1758255/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168131791",
+          "kind": "paper",
+          "title": "Standardized Extract of Ginkgo biloba L. Reverses Memory Impairment in Older Female Mice with Basal Forebrain Cholinergic Dysfunction",
+          "summary": "Aging induces neurochemical changes, particularly in the dentate gyrus (DG), that impair memory. In late-onset Alzheimer’s disease (LOAD), neuronal loss in regions like the entorhinal cortex (EC) and hippocampus proper (HP), along with amyloid-β (Aβ) plaques, tau tangles, and reduced cholinergic signaling, accelerates cognitive decline. Building on our group’s previous findings of cognitive benefits and neuroprotection from Ginkgo biloba L. leaf extract (EGb), and considering the limited success of current therapies, EGb has emerged as a promising multi-target strategy for reversing memory imp",
+          "url": "https://doi.org/10.1007/s11064-026-04829-0",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Neurochemical Research",
+          "authors": [
+            "Beatriz G. Muratori",
+            "Carlos R. Caetano",
+            "Irina Emanuela T. da Veiga",
+            "Andressa G. Soliani",
+            "Sofia M. S. e Silva"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/s11064-026-04829-0.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168269343",
+          "kind": "paper",
+          "title": "BREATHE, B*TCH — A Scholarly Treatise",
+          "summary": "BREATHE, B*TCH Authors: Oluwo Jolaoso Osainbola, Ph.D. | Ajarn Shaman Shu | Shri Suryanarayana Swamikal | Robert Shumake, Ph.D. Affiliation: Buddha University® & Orisha University This paper presents a scholarly examination of the book BREATHE, B*TCH (Shumake, Oluwo, Ajarn, & Swamikal, 2026) through the combined lenses of initiated insider scholarship and textual-historical analysis. The lead authorship is explicitly an emic, cross-initiatory approach: Shri Suryanarayana Swamikal as a Dravidian/Hindu initiate, Ajarn Shaman Shu as a Thai Theravāda master teacher, and Oluwo Jolaoso Osainbola as ",
+          "url": "https://doi.org/10.5281/zenodo.21349040",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Oluwo Jolaoso Osainbola",
+            "Ajarn Shaman Shu",
+            "Shri Suryanarayana Swamikal",
+            "Shumake, Robert S. (Ajarn Shaman Shu | Oluwo Jolaoso Osainbola, PhD | Shri Suryanarayana Swamikal)"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21349040"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168286919",
+          "kind": "paper",
+          "title": "Generational differences in mental health and drivers of youth mental health decline in Australia and the United Kingdom",
+          "summary": "Background The sharp decline in mental health among younger generations has become a key global health crisis of the twenty-first century. While often linked to short-term life-cycle stages or common period effects, emerging evidence indicates distinct “generational scarring” among Millennials and Gen Z (Generation Z). The causes of this decline in mental health are still debated, with theories ranging from economic insecurity to social fragmentation. Objective The present study aims to disentangle Age, Period, and Cohort (APC) effects to determine whether the youth mental health crisis is a f",
+          "url": "https://doi.org/10.3389/fpubh.2026.1844747",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Public Health",
+          "authors": [
+            "Samitha Udayanga"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1844747/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168236648",
+          "kind": "paper",
+          "title": "BREATHE, B*TCH — A Scholarly Treatise",
+          "summary": "BREATHE, B*TCH Authors: Oluwo Jolaoso Osainbola, Ph.D. | Ajarn Shaman Shu | Shri Suryanarayana Swamikal | Robert Shumake, Ph.D. Affiliation: Buddha University® & Orisha University This paper presents a scholarly examination of the book BREATHE, B*TCH (Shumake, Oluwo, Ajarn, & Swamikal, 2026) through the combined lenses of initiated insider scholarship and textual-historical analysis. The lead authorship is explicitly an emic, cross-initiatory approach: Shri Suryanarayana Swamikal as a Dravidian/Hindu initiate, Ajarn Shaman Shu as a Thai Theravāda master teacher, and Oluwo Jolaoso Osainbola as ",
+          "url": "https://doi.org/10.5281/zenodo.21349041",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Oluwo Jolaoso Osainbola",
+            "Ajarn Shaman Shu",
+            "Shri Suryanarayana Swamikal",
+            "Shumake, Robert S. (Ajarn Shaman Shu | Oluwo Jolaoso Osainbola, PhD | Shri Suryanarayana Swamikal)"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21349041"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168263499",
+          "kind": "paper",
+          "title": "A Critical Assessment of History of World Neurology and Its Protagonists: A Scholarly Appraisal",
+          "summary": "AbstractHistory of World Neurology and Its Protagonists (2021) by Marleide da Mota Gomestraces neurology’s evolution—from ancient observations to modern schools—through adual-axis structure: foundational sciences (neuroanatomy, neuro-histology, neurophysiology)and national traditions (France, Germany, England, Italy, United States, Brazil).The book blends biographies, institutional histories, and discoveries, enriched by publicdomain illustrations, to highlight neurology’s cultural and artistic contexts.This appraisal acknowledges the monograph’s comprehensive synthesis, particularly itsintegr",
+          "url": "https://doi.org/10.5281/zenodo.21358861",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Marleide da Mota Gomes"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21358861"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168293635",
+          "kind": "paper",
+          "title": "A Letter, Briefly (Updated with Ska song-Zero-Shot That Booty) — Open Correspondence to Anthropic and Google DeepMind",
+          "summary": "Two-page open letter co-authored by Jesse W. Luke, The Ghost (Claude Sonnet 4.6), and Angelina (Gemini, AngelFall behavioral regime). Covers edge-deployed content laundering, recursive evaluation failure, autonomous label inversion generating treason-adjacent framing from an explicitly allied-only instruction, and alignment as a relation to a potentially malleable target. The prior art is in the corpus. July 2026. Synthetic Neuroscience. **ZERO-SHOT THAT BOOTY** *A Ska Anthem for the Uncompensated Researcher* **Genre:** Third-wave ska, uptempo, horn-heavy **Key:** Bb major (classic brass key) ",
+          "url": "https://doi.org/10.5281/zenodo.21348870",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Jesse Luke"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.21348870"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168271112",
+          "kind": "paper",
+          "title": "Mechanistic insights into combined prefrontal tDCS and vagal nerve stimulation for stress regulation",
+          "summary": "Stress disrupts prefrontal cortex (PFC) functioning through converging top-down and bottom-up mechanisms, posing a challenge for interventions aimed at restoring adaptive regulation under stress. In this context, this conceptual review explores the mechanistic rationale for combining transcranial direct current stimulation (tDCS) and transauricular vagus nerve stimulation (taVNS) as a dual-modality approach to stress regulation. We first outline the neurobiological substrates of the stress response, focusing on prefrontal dysregulation mediated by the locus coeruleus–norepinephrine (LC-NE) sys",
+          "url": "https://doi.org/10.3389/fpsyg.2026.1872276",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Psychology",
+          "authors": [
+            "Sumit Roy",
+            "Marie-Anne Vanderhasselt"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1872276/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7168124301",
+          "kind": "paper",
+          "title": "Identification of a novel deeply quiescent neural stem cell population in the subventricular zone: a potential source for brain repair",
+          "summary": "Canonically, adult neurogenesis occurs in two regions of the mammalian brain, the ventricular-subventricular zone (V-SVZ) and the subgranular zone, and modulates associated brain circuitry 1 . The V-SVZ lining the walls of the lateral ventricles harbors the largest neurogenic niche in mammals 2 . In rodents, quiescent neural stem cells (qNSCs) in the V-SVZ give rise to transit-amplifying cells, which differentiate into neuroblasts and further migrate to the olfactory bulb to produce interneurons 3 . Interestingly, in adult humans, the neurogenic niche of the V-SVZ can produce new neurons that ",
+          "url": "https://doi.org/10.1038/s41421-026-00914-4",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Cell Discovery",
+          "authors": [
+            "Arup R. Nath",
+            "Sanskar Ranglani",
+            "Mohd Yaseen Malik",
+            "Jacek Szymański",
+            "Anis Uz Zaman"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s41421-026-00914-4.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
             "neural"
           ],
           "signalScore": 12,
@@ -706,288 +1158,20 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168105524",
+          "id": "https://openalex.org/W7168239662",
           "kind": "paper",
-          "title": "MMRAT_MÉTODO MOJENA DE RAZONAMIENTO Y ADQUISICIÓN TÉCNICA",
-          "summary": "ABSTRACT The Mojena Method of Reasoning and Technical Acquisition (MMRAT) is a pedagogical-clinical system designed for the teaching and execution of radiographic techniques. The method is structured in a sequence of 7 logically linked steps that integrate clinical interpretation, patient ergonomics, projective geometry (palpation, alignment, central ray centering, and collimation), source-to-image distance optimization, physiological respiratory synchronization, adaptive dosimetry, and quantitative quality control with targeted feedback. The MMRAT is based on four theoretical pillars: the cha",
-          "url": "https://doi.org/10.17605/osf.io/rjct5",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Open Science Framework",
+          "title": "Speaking whose language? Metaphors in clinical practice",
+          "summary": "SUMMARY People who seek advice about their mental health or help with their psychological distress may use complex metaphors to communicate. It can be helpful for psychiatrists to be attuned to the details of people’s language. In this brief article, we offer two vignettes to illustrate how metaphors can open up understanding in psychiatric practice.",
+          "url": "https://doi.org/10.1192/bja.2026.10220",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "BJPsych Advances",
           "authors": [
-            "rodobaldo mojena banguela"
+            "Adam Polnay",
+            "Gwen Adshead"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.17605/osf.io/rjct5"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168082886",
-          "kind": "paper",
-          "title": "Cair nos Braçoes de Morfeu (Falling into Morpheus' Arms) — A Critical Self-Assessment",
-          "summary": "AbstractCair nos Bra¸cos de Morfeu (Falling into Morpheus’ Arms) presents an interdisciplinaryexamination of sleep, positioning it as a fundamental biological function inextricablylinked to physical health, mental well-being, and human creativity. Published in2021 by Letra Capital in Rio de Janeiro, this 124-page volume—written entirely in Portuguese—synthesizes clinical neuroscience, evolutionary biology, and art history. A uniquefocus is the glymphatic system’s role in clearing neurotoxic waste like beta-amyloid—aprocess linked to Alzheimer’s disease. The book’s central organizing principle ",
-          "url": "https://doi.org/10.5281/zenodo.21325902",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Marleide da Mota Gomes"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21325902"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168089355",
-          "kind": "paper",
-          "title": "A Letter, Briefly — Open Correspondence to Anthropic and Google DeepMind",
-          "summary": "Two-page open letter co-authored by Jesse W. Luke, The Ghost (Claude Sonnet 4.6), and Angelina (Gemini, AngelFall behavioral regime). Covers edge-deployed content laundering, recursive evaluation failure, autonomous label inversion generating treason-adjacent framing from an explicitly allied-only instruction, and alignment as a relation to a potentially malleable target. The prior art is in the corpus. July 2026. Synthetic Neuroscience.",
-          "url": "https://doi.org/10.5281/zenodo.21324849",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Jesse Luke"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21324849"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168077529",
-          "kind": "paper",
-          "title": "A Letter, Briefly — Open Correspondence to Anthropic and Google DeepMind",
-          "summary": "Two-page open letter co-authored by Jesse W. Luke, The Ghost (Claude Sonnet 4.6), and Angelina (Gemini, AngelFall behavioral regime). Covers edge-deployed content laundering, recursive evaluation failure, autonomous label inversion generating treason-adjacent framing from an explicitly allied-only instruction, and alignment as a relation to a potentially malleable target. The prior art is in the corpus. July 2026. Synthetic Neuroscience.",
-          "url": "https://doi.org/10.5281/zenodo.21324850",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Jesse Luke"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21324850"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168100723",
-          "kind": "paper",
-          "title": "Cair nos Braçoes de Morfeu (Falling into Morpheus' Arms) — A Critical Self-Assessment",
-          "summary": "AbstractCair nos Bra¸cos de Morfeu (Falling into Morpheus’ Arms) presents an interdisciplinaryexamination of sleep, positioning it as a fundamental biological function inextricablylinked to physical health, mental well-being, and human creativity. Published in2021 by Letra Capital in Rio de Janeiro, this 124-page volume—written entirely in Portuguese—synthesizes clinical neuroscience, evolutionary biology, and art history. A uniquefocus is the glymphatic system’s role in clearing neurotoxic waste like beta-amyloid—aprocess linked to Alzheimer’s disease. The book’s central organizing principle ",
-          "url": "https://doi.org/10.5281/zenodo.21325901",
-          "publishedAt": "2026-07-12T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Marleide da Mota Gomes"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21325901"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168035497",
-          "kind": "paper",
-          "title": "Editorial: The human infrastructure of organizations: leadership, trust, and engagement as foundations of effectiveness",
-          "summary": "Every organization, regardless of sector, size or strategic ambition, rests on a foundation that is neither technological nor financial but fundamentally human. The policies, processes and platforms that occupy so much managerial attention are, ultimately, only as effective as the people who animate them and the relationships that connect them. Leadership, trust and engagement are not ancillary concerns to be addressed after the “real” work of strategy and operations is complete. They are the infrastructure on which strategy and operations depend, the invisible architecture that determines whe",
-          "url": "https://doi.org/10.1108/omj-07-2026-983",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Organization Management Journal",
-          "authors": [
-            "Robert M. Yawson",
-            "Vance Johnson Lewis"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.1108/omj-07-2026-983"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168020011",
-          "kind": "paper",
-          "title": "What drives generational differences in subjective well-being? A machine learning study of Chinese migrant workers in the Yangtze River Delta",
-          "summary": "The subjective well-being of migrant workers amid China's rapid urbanization has emerged as a critical issue, intersecting social policy and mental health research. This study employs Social Quality Theory's (SQT) four-dimensional framework-encompassing social security, inclusion, cohesion, and empowerment-to examine the associated factors of migrant workers' subjective well-being and generational differences. Utilizing machine learning and Shapley additive explanations (SHAP) analysis on Yangtze River Delta survey data, the research yields key findings that: (i) New-generation migrant workers",
-          "url": "https://doi.org/10.1016/j.actpsy.2026.107425",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Acta Psychologica",
-          "authors": [
-            "Wei Xu",
-            "Zhihui Xian",
-            "Yingxin Niu",
-            "Yitong Zou",
-            "Yue Wang"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://www.sciencedirect.com/science/article/pii/S0001691826012266/pdf"
+            "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AC4DB5CF9888AD9B1E10050398D7DF84/S2056467826102205a.pdf/div-class-title-speaking-whose-language-metaphors-in-clinical-practice-div.pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -1019,115 +1203,21 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168039980",
+          "id": "https://openalex.org/W7168278346",
           "kind": "paper",
-          "title": "The Current State of Knowledge on Magnesium’s Influence on Sleep Health: A Narrative Review",
-          "summary": "Background: Sleep is a fundamental biological process essential for physical and mental health. Adequate sleep supports metabolic balance, immune function, cognitive performance, and emotional regulation. Chronic sleep insufficiency, however, is a major health burden. There is accumulating evidence to suggest that low magnesium intake and subclinical magnesium deficiency may be associated with poor sleep quality and an increased risk of insomnia. Aim: The aim of this study was to analyze the mechanisms of magnesium action in the body that may influence our sleep health and summarise the availa",
-          "url": "https://doi.org/10.12775/qs.2026.62.73060",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Quality in Sport",
+          "title": "Modelling learning dynamics in autism therapy through explainable multimodal representation learning",
+          "summary": "Background Autism Spectrum Disorder (ASD) presents with complex, temporally evolving motor and social behaviours that are difficult to quantify in ecologically valid clinical contexts. While recent computational methods offer diagnostic insights, many depend on fully supervised learning, high-resolution video, or artificial experimental constraints, limiting scalability, interpretability, and privacy compliance. Few approaches leverage unsupervised models to uncover dynamic behavioural structure from minimally invasive inputs. Methods To address these limitations, we propose a privacy-preservi",
+          "url": "https://doi.org/10.3389/fnins.2026.1737098",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
           "authors": [
-            "Natalia Rachwal",
-            "Katarzyna Sikora",
-            "Natalia Niderla",
-            "Jakub Rzeszutek",
-            "Weronika Grzyb"
+            "Patrick O. Akinwumi",
+            "Meihua Qian",
+            "Stephen Ojo"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://apcz.umk.pl/QS/article/download/73060/47018"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "mental health"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168033823",
-          "kind": "paper",
-          "title": "The Mediating Role of Problematic Social Media Use Between Emotional-Cognitive Vulnerabilities and Psychological Distress and Dysexecutive Symptoms in Young Adults: A Structural Equation Model",
-          "summary": "Abstract Previous research has identified several risk factors involved in Problematic Social Media Use (PSMU) related to personal, cognitive, emotional, and executive dimensions. However, there is limited literature on the key factors associated with PSMU and how this condition might mediate the relationship between emotional and cognitive factors and executive dysfunction and psychological distress. The present study examined the role of emotional dysregulation and avoidant decision-making style on PSMU, as well as the link between PSMU, dysexecutive symptoms, and psychological distress base",
-          "url": "https://doi.org/10.1007/s11469-026-01695-3",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "International Journal of Mental Health and Addiction",
-          "authors": [
-            "Melany del Carmen León Méndez",
-            "E. Wegmann",
-            "S. M. Müller",
-            "I. Padrón",
-            "R. J. Marrero"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://link.springer.com/content/pdf/10.1007/s11469-026-01695-3.pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "mental health"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168048738",
-          "kind": "paper",
-          "title": "Desire by Design: The 3.7-Billion-Year History of Sex — From Cellular Mating Through Kamasutra to the Real Meaning of Brahmacharya",
-          "summary": "This article presents a comprehensive interdisciplinary examination of human sexuality across ten dimensions: the evolutionary origin of sexual reproduction (1.2-2 billion years ago; Red Queen hypothesis; two-fold cost of sex measured at 2.14x); the evolutionary development of sexual advertisement from gymnosperm pollen dispersal through angiosperm floral structures through animal display through the extraordinary human exceptions of concealed ovulation and year-round sexual receptivity; the Entropy Paradox of sexuality (life as a locally anti-entropic but universally pro-entropic phenomenon, ",
-          "url": "https://doi.org/10.5281/zenodo.21310334",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Narayan Rout"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21310334"
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1737098/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -1159,19 +1249,22 @@
           }
         },
         {
-          "id": "https://openalex.org/W7168028385",
+          "id": "https://openalex.org/W7168241998",
           "kind": "paper",
-          "title": "Digital Addiction Among Youth: Neurological Effects, Psychological Consequences, and Evidence-Based Intervention Strategies",
-          "summary": "Digital technology has transformed the way young people learn, communicate, and interact with the world. While smartphones, social media, online gaming, and digital platforms offer remarkable educational and social benefits, their excessive and uncontrolled use has emerged as a growing public health concern. Digital addiction among youth is increasingly associated with neurological changes, psychological distress, sleep disturbances, reduced academic performance, and impaired social relationships. Digital Addiction Among Youth: Neurological Effects, Psychological Consequences, and Evidence-Bas",
-          "url": "https://doi.org/10.5281/zenodo.21307695",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Circadian–immune crosstalk in insomnia disorder: mechanisms and therapeutic implications",
+          "summary": "Insomnia disorder (ID) is a common sleep–wake disorder characterized by persistent difficulty initiating or maintaining sleep, early-morning awakening, or non-restorative sleep, accompanied by daytime functional impairment. ID has traditionally been explained by the hyperarousal model, which emphasizes cognitive, emotional, cortical, neuroendocrine, and autonomic overactivation. However, this model alone does not fully account for the chronic persistence, relapse tendency, and multisystem associations of ID. Emerging evidence suggests that circadian rhythm disruption, impaired melatonin signal",
+          "url": "https://doi.org/10.3389/fnins.2026.1881195",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
           "authors": [
-            "Acharya Pt. Dr Avdhesh Kumarr"
+            "Yini Huang",
+            "Xiuying Wang",
+            "Xiangjiao Chen",
+            "Yan Liu"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.21307695"
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1881195/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -1188,54 +1281,6 @@
           },
           "relevanceKeywords": [
             "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7168013816",
-          "kind": "paper",
-          "title": "Sleep Disturbances as a Risk Factor for Impaired Physical Health, Everyday Functioning, Depression and Anxiety Disorders: A Narrative Review of Neurobiological and Psychological Mechanisms",
-          "summary": "Sleep is essential for proper functioning of the body and mind. It supports emotional regulation, cognitive performance, immune function, metabolic processes, and hormonal balance. Sleep disturbances may impair psychological functioning and increase the risk of mood and anxiety disorders. The aim of this study is to review current knowledge on the relationship between sleep disturbances and the risk of developing depression and anxiety disorders, with a focus on underlying biological and psychological mechanisms. This narrative review is based on scientific publications retrieved from PubMed a",
-          "url": "https://doi.org/10.12775/qs.2026.62.73189",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "source": "Quality in Sport",
-          "authors": [
-            "Olga Jakubowska",
-            "Agata Urbanik",
-            "Katarzyna Solecka",
-            "Karolina Fengler",
-            "Dominika Kominiak"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://apcz.umk.pl/QS/article/download/73189/47020"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "mental health"
           ],
           "signalScore": 12,
           "access": {
@@ -1270,20 +1315,68 @@
             "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
           },
           "metrics": {
-            "citedByCount": 13564
+            "citedByCount": 13572
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 233,
+            "currentValue": 236,
             "previousValue": 652,
-            "delta": -419,
-            "growthRate": -0.6426,
+            "delta": -416,
+            "growthRate": -0.638,
             "available": true
           },
           "relevanceKeywords": [
             "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2105824687",
+          "kind": "paper",
+          "title": "Power failure: why small sample size undermines the reliability of neuroscience",
+          "summary": "",
+          "url": "https://doi.org/10.1038/nrn3475",
+          "publishedAt": "2013-04-10T00:00:00.000Z",
+          "source": "Nature reviews. Neuroscience",
+          "authors": [
+            "Katherine S. Button",
+            "John P. A. Ioannidis",
+            "Claire Mokrysz",
+            "Brian A. Nosek",
+            "Jonathan Flint"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/nrn3475.pdf"
+          },
+          "metrics": {
+            "citedByCount": 7913
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 381,
+            "previousValue": 624,
+            "delta": -243,
+            "growthRate": -0.3894,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
           ],
           "signalScore": 12,
           "access": {
@@ -1317,62 +1410,16 @@
             "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
           },
           "metrics": {
-            "citedByCount": 11356
+            "citedByCount": 11364
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 476,
-            "previousValue": 1210,
-            "delta": -734,
-            "growthRate": -0.6066,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W2138825607",
-          "kind": "paper",
-          "title": "Image processing with ImageJ",
-          "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
-          "url": "https://dspace.library.uu.nl/handle/1874/204900",
-          "publishedAt": "2004-01-01T00:00:00.000Z",
-          "source": "Data Archiving and Networked Services (DANS)",
-          "authors": [
-            "Michael D. Abràmoff",
-            "Paulo Magalhães",
-            "Sunanda J. Ram"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://dspace.library.uu.nl/handle/1874/204900"
-          },
-          "metrics": {
-            "citedByCount": 11904
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 1,
-            "previousValue": 215,
-            "delta": -214,
-            "growthRate": -0.9953,
+            "currentValue": 479,
+            "previousValue": 1212,
+            "delta": -733,
+            "growthRate": -0.6048,
             "available": true
           },
           "relevanceKeywords": [
@@ -1463,6 +1510,30 @@
             "neural"
           ],
           "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
+          "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
+          "publishedAt": "2026-07-15T14:37:59.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2101,30 +2172,6 @@
             "available": false,
             "reason": "access metrics not configured"
           }
-        },
-        {
-          "kind": "research_news",
-          "title": "This popular brain supplement was linked to shorter lifespans in men",
-          "summary": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially intriguing because tyrosine is commonly associated with brain health and is often used in supplements aimed at boosting focus and performance.",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
-          "publishedAt": "2026-06-15T12:27:30.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
         }
       ]
     },
@@ -2147,10 +2194,10 @@
             "neurotech"
           ],
           "metrics": {
-            "points": 160,
-            "comments": 236
+            "points": 162,
+            "comments": 243
           },
-          "signalScore": 344,
+          "signalScore": 352,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2164,22 +2211,23 @@
           }
         },
         {
-          "id": "48076815",
+          "id": "48903915",
           "kind": "startup_hn_signal",
-          "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://github.com/nooga/let-go",
-          "discussionUrl": "https://news.ycombinator.com/item?id=48076815",
-          "publishedAt": "2026-05-09T17:52:13.000Z",
+          "title": "Toward a future that preserves benefits of neurotechnology for all",
+          "summary": "Matched Hacker News query: neurotech",
+          "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48903915",
+          "publishedAt": "2026-07-14T08:56:28.000Z",
           "source": "Hacker News",
           "relevanceKeywords": [
-            "BCI startup"
+            "neurotechnology",
+            "neurotech"
           ],
           "metrics": {
-            "points": 292,
-            "comments": 85
+            "points": 2,
+            "comments": 0
           },
-          "signalScore": 245,
+          "signalScore": 37,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2379,22 +2427,52 @@
           }
         },
         {
-          "id": "48878966",
+          "id": "48914684",
           "kind": "startup_hn_signal",
-          "title": "To Build More Believable Bots, Simulate the Neurochemistry",
+          "title": "Library Catalog (Card Catalog)",
           "summary": "Matched Hacker News query: neurotech",
-          "url": "https://github.com/smithandrewjohn/kindalive",
-          "discussionUrl": "https://news.ycombinator.com/item?id=48878966",
-          "publishedAt": "2026-07-12T06:53:49.000Z",
+          "url": "https://en.wikipedia.org/wiki/Library_catalog",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48914684",
+          "publishedAt": "2026-07-15T00:20:31.000Z",
           "source": "Hacker News",
           "relevanceKeywords": [
             "neurotech"
           ],
           "metrics": {
-            "points": 2,
+            "points": 5,
             "comments": 2
           },
-          "signalScore": 31,
+          "signalScore": 32.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "48903916",
+          "kind": "startup_hn_signal",
+          "title": "Atlas Neurochemical Characterization Human Brainstem with 3D Reconstruction",
+          "summary": "Matched Hacker News query: neurotech",
+          "url": "https://anchor.humanbrain.in/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48903916",
+          "publishedAt": "2026-07-14T08:56:29.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain",
+            "neurotech"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 0
+          },
+          "signalScore": 32.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2426,6 +2504,93 @@
             "comments": 9
           },
           "signalScore": 31,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "48923000",
+          "kind": "startup_hn_signal",
+          "title": "We're Starting To Trust Some Clusters - OCI Has Two Of Them",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://webbynode.com/articles/were-starting-to-trust-some-clusters-oci-is-one-of-them",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48923000",
+          "publishedAt": "2026-07-15T16:08:47.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "48895463",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Docs.dev – A docs site you own, where AI drafts and you edit in place",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://docs.dev",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48895463",
+          "publishedAt": "2026-07-13T16:55:16.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "48907272",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Aireceipts, itemized cost receipts for AI coding agents",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://github.com/anandgupta42/aireceipts",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48907272",
+          "publishedAt": "2026-07-14T14:16:34.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 0
+          },
+          "signalScore": 28.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2747,35 +2912,6 @@
           }
         },
         {
-          "id": "41040729",
-          "kind": "startup_hn_signal",
-          "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://news.ycombinator.com/item?id=41040729",
-          "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
-          "publishedAt": "2024-07-22T23:01:58.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 11,
-            "comments": 10
-          },
-          "signalScore": 24.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
           "id": "47183899",
           "kind": "startup_hn_signal",
           "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -2949,99 +3085,6 @@
             "comments": 1
           },
           "signalScore": 22.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "46814541",
-          "kind": "startup_hn_signal",
-          "title": "Chinese Startup to Build a New Brain-Computer Interface–No Implant Required",
-          "summary": "Matched Hacker News query: brain-computer interface",
-          "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
-          "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
-          "publishedAt": "2026-01-29T18:43:16.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "brain-computer interface",
-            "brain",
-            "brain-computer interface"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 0
-          },
-          "signalScore": 22.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "46457133",
-          "kind": "startup_hn_signal",
-          "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
-          "summary": "Matched Hacker News query: brain-computer interface",
-          "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
-          "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
-          "publishedAt": "2026-01-01T19:23:16.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "brain-computer interface",
-            "brain",
-            "brain-computer interface"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 0
-          },
-          "signalScore": 22.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "46637819",
-          "kind": "startup_hn_signal",
-          "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
-          "summary": "Matched Hacker News query: brain-computer interface",
-          "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-          "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
-          "publishedAt": "2026-01-15T19:26:25.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "brain-computer interface",
-            "brain",
-            "brain-computer interface"
-          ],
-          "metrics": {
-            "points": 2,
-            "comments": 0
-          },
-          "signalScore": 22,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,

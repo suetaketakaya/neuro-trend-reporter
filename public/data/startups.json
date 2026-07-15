@@ -17,10 +17,10 @@
         "neurotech"
       ],
       "metrics": {
-        "points": 160,
-        "comments": 236
+        "points": 162,
+        "comments": 243
       },
-      "signalScore": 344,
+      "signalScore": 352,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -34,22 +34,23 @@
       }
     },
     {
-      "id": "48076815",
+      "id": "48903915",
       "kind": "startup_hn_signal",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/nooga/let-go",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48076815",
-      "publishedAt": "2026-05-09T17:52:13.000Z",
+      "title": "Toward a future that preserves benefits of neurotechnology for all",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48903915",
+      "publishedAt": "2026-07-14T08:56:28.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "BCI startup"
+        "neurotechnology",
+        "neurotech"
       ],
       "metrics": {
-        "points": 292,
-        "comments": 85
+        "points": 2,
+        "comments": 0
       },
-      "signalScore": 245,
+      "signalScore": 37,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -249,22 +250,52 @@
       }
     },
     {
-      "id": "48878966",
+      "id": "48914684",
       "kind": "startup_hn_signal",
-      "title": "To Build More Believable Bots, Simulate the Neurochemistry",
+      "title": "Library Catalog (Card Catalog)",
       "summary": "Matched Hacker News query: neurotech",
-      "url": "https://github.com/smithandrewjohn/kindalive",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48878966",
-      "publishedAt": "2026-07-12T06:53:49.000Z",
+      "url": "https://en.wikipedia.org/wiki/Library_catalog",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48914684",
+      "publishedAt": "2026-07-15T00:20:31.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "neurotech"
       ],
       "metrics": {
-        "points": 2,
+        "points": 5,
         "comments": 2
       },
-      "signalScore": 31,
+      "signalScore": 32.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48903916",
+      "kind": "startup_hn_signal",
+      "title": "Atlas Neurochemical Characterization Human Brainstem with 3D Reconstruction",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://anchor.humanbrain.in/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48903916",
+      "publishedAt": "2026-07-14T08:56:29.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain",
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 32.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -296,6 +327,93 @@
         "comments": 9
       },
       "signalScore": 31,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48923000",
+      "kind": "startup_hn_signal",
+      "title": "We're Starting To Trust Some Clusters - OCI Has Two Of Them",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://webbynode.com/articles/were-starting-to-trust-some-clusters-oci-is-one-of-them",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48923000",
+      "publishedAt": "2026-07-15T16:08:47.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 29,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48895463",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Docs.dev – A docs site you own, where AI drafts and you edit in place",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://docs.dev",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48895463",
+      "publishedAt": "2026-07-13T16:55:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 29,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48907272",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Aireceipts, itemized cost receipts for AI coding agents",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/anandgupta42/aireceipts",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48907272",
+      "publishedAt": "2026-07-14T14:16:34.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 28.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -617,35 +735,6 @@
       }
     },
     {
-      "id": "41040729",
-      "kind": "startup_hn_signal",
-      "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=41040729",
-      "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
-      "publishedAt": "2024-07-22T23:01:58.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 11,
-        "comments": 10
-      },
-      "signalScore": 24.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "47183899",
       "kind": "startup_hn_signal",
       "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -819,99 +908,6 @@
         "comments": 1
       },
       "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46814541",
-      "kind": "startup_hn_signal",
-      "title": "Chinese Startup to Build a New Brain-Computer Interface–No Implant Required",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
-      "publishedAt": "2026-01-29T18:43:16.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46457133",
-      "kind": "startup_hn_signal",
-      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
-      "publishedAt": "2026-01-01T19:23:16.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46637819",
-      "kind": "startup_hn_signal",
-      "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
-      "publishedAt": "2026-01-15T19:26:25.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 22,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
