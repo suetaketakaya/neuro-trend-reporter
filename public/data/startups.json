@@ -18,9 +18,9 @@
       ],
       "metrics": {
         "points": 163,
-        "comments": 250
+        "comments": 253
       },
-      "signalScore": 351.5,
+      "signalScore": 354.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -49,7 +49,36 @@
         "points": 52,
         "comments": 35
       },
-      "signalScore": 89,
+      "signalScore": 81,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49074817",
+      "kind": "startup_hn_signal",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.rise-reforming.com",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49074817",
+      "publishedAt": "2026-07-27T19:58:22.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 40,
+        "comments": 9
+      },
+      "signalScore": 57,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -81,35 +110,6 @@
         "comments": 0
       },
       "signalScore": 43,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48929304",
-      "kind": "startup_hn_signal",
-      "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://news.ycombinator.com/item?id=48929304",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48929304",
-      "publishedAt": "2026-07-16T01:12:35.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 12
-      },
-      "signalScore": 33.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -185,6 +185,35 @@
       }
     },
     {
+      "id": "49068241",
+      "kind": "startup_hn_signal",
+      "title": "AI PR reviewer is looking at the diff, not the intent",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=49068241",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49068241",
+      "publishedAt": "2026-07-27T11:51:40.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 1
+      },
+      "signalScore": 30,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "48903915",
       "kind": "startup_hn_signal",
       "title": "Toward a future that preserves benefits of neurotechnology for all",
@@ -233,64 +262,6 @@
         "comments": 1
       },
       "signalScore": 29,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49035145",
-      "kind": "startup_hn_signal",
-      "title": "Retrotechnology Media",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://typewritten.org/Media/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49035145",
-      "publishedAt": "2026-07-24T13:20:24.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 28.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49018427",
-      "kind": "startup_hn_signal",
-      "title": "Richard Sutton leaves Keen Technologies to Start Oak Lab",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://twitter.com/RichardSSutton/status/2076663628301058329",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49018427",
-      "publishedAt": "2026-07-23T08:24:25.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 28.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -614,36 +585,6 @@
       }
     },
     {
-      "id": "48903916",
-      "kind": "startup_hn_signal",
-      "title": "Atlas Neurochemical Characterization Human Brainstem with 3D Reconstruction",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://anchor.humanbrain.in/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48903916",
-      "publishedAt": "2026-07-14T08:56:29.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain",
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 24.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "47116630",
       "kind": "startup_hn_signal",
       "title": "China's brain-computer interface industry is racing ahead",
@@ -689,35 +630,6 @@
       "metrics": {
         "points": 15,
         "comments": 8
-      },
-      "signalScore": 24.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "41040729",
-      "kind": "startup_hn_signal",
-      "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=41040729",
-      "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
-      "publishedAt": "2024-07-22T23:01:58.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 11,
-        "comments": 10
       },
       "signalScore": 24.5,
       "access": {
@@ -782,35 +694,6 @@
         "comments": 0
       },
       "signalScore": 23.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48878966",
-      "kind": "startup_hn_signal",
-      "title": "To Build More Believable Bots, Simulate the Neurochemistry",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://github.com/smithandrewjohn/kindalive",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48878966",
-      "publishedAt": "2026-07-12T06:53:49.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 2
-      },
-      "signalScore": 23,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -898,6 +781,130 @@
         "neural interface",
         "neural",
         "neural interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47432372",
+      "kind": "startup_hn_signal",
+      "title": "Shared databases are not modular, they are just a weakness",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://news.ycombinator.com/item?id=47432372",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47432372",
+      "publishedAt": "2026-03-18T22:48:31.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 1
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47297631",
+      "kind": "startup_hn_signal",
+      "title": "Brain Computer Interfaces Giving Sight Back to the Blind (YC startup)",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://garryslist.org/posts/brain-computer-interfaces-are-now-giving-sight-back-to-the-blind",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47297631",
+      "publishedAt": "2026-03-08T14:29:47.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 1
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46814541",
+      "kind": "startup_hn_signal",
+      "title": "Chinese Startup to Build a New Brain-Computer Interface–No Implant Required",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
+      "publishedAt": "2026-01-29T18:43:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46457133",
+      "kind": "startup_hn_signal",
+      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
+      "publishedAt": "2026-01-01T19:23:16.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
       ],
       "metrics": {
         "points": 3,
