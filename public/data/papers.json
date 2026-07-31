@@ -5,20 +5,23 @@
   "sourceCount": 1,
   "items": [
     {
-      "id": "https://openalex.org/W7171375123",
+      "id": "https://openalex.org/W7171832658",
       "kind": "paper",
-      "title": "Interpretasi Hadis Kesehatan Mental dan Dampaknya bagi Neuropsikologi",
-      "summary": "This study aims to interpret the Prophetic hadiths related to mental health and examine their relevance to modern neuropsychology. It employs a qualitative approach using library research with a thematic (mawdu’i) method. The data were collected from hadiths contained in the Kutub al-Sittah, classical hadith commentaries (sharh), and relevant literature on psychology, neuropsychology, and neuroscience. The analysis involved takhrij of the hadiths, interpretation based on the explanations of classical scholars, and integration with contemporary neuropsychological theories. The findings reveal t",
-      "url": "https://doi.org/10.59024/jipa.v4i3.2286",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "JURNAL ILMIAH PENDIDIKAN KEBUDAYAAN DAN AGAMA",
+      "title": "Rebuilding Function After Stroke: Emerging Technologies and New Frontiers in Neurological Recovery",
+      "summary": "Stroke remains a major cause of long-term neurological disability worldwide, creating a growing need for rehabilitation strategies capable of promoting functional recovery through intensive, repetitive, task-oriented, and personalized interventions. Digital neurorehabilitation has emerged as a multidisciplinary approach that integrates neuroscience, physical and rehabilitation medicine, neurology, and biomedical engineering through technologies such as virtual reality, robot-assisted rehabilitation, brain-computer interfaces, wearable sensors, artificial intelligence, and telerehabilitation. T",
+      "url": "https://doi.org/10.64784/265",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "source": "IECCMEXICO",
       "authors": [
-        "Surya Azhari",
-        "Sulaiman Muhammad Amir"
+        "Benitez Barrios Sosimo Isaac",
+        "Melany Patricia Bolagay Apráez",
+        "Dr. Robinson Alexander Morey Contreras",
+        "Miguel Alberto Montañez Romero",
+        "Juan José Vergara Serpa"
       ],
       "openAccess": {
-        "isOpen": true,
-        "url": "https://jurnal.alimspublishing.co.id/index.php/JIPA/article/download/2286/1497"
+        "isOpen": false,
+        "url": ""
       },
       "metrics": {
         "citedByCount": 0
@@ -35,11 +38,11 @@
       },
       "relevanceKeywords": [
         "neuroscience",
-        "mental health",
+        "brain-computer interface",
         "brain",
-        "cortex"
+        "neural"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -53,20 +56,71 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171518821",
+      "id": "https://openalex.org/W7171831077",
       "kind": "paper",
-      "title": "James Thomas Fitzsimons",
-      "summary": "Abstract Photograph of James Fitzsimons. James Fitzsimons was a scientific giant, a revered colleague and a charismatic leader. He discovered the physiological basis of thirst and sodium appetite, and the neural control for their perception. His work provided a conceptual shift by showing that peptides are not just hormones in the blood but can act as signalling molecules that can act directly in the brain to regulate behaviour and physiology, fundamentally changing our understanding of neuroscience. He was an inspirational lecturer in the Physiological Laboratory at the University of Cambridg",
-      "url": "https://doi.org/10.1098/rsbm.2025.0020",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "source": "Biographical Memoirs of Fellows of the Royal Society",
+      "title": "Conductance-based reversal potentials in spiking recurrent neural networks enhance energy efficiency and task performance",
+      "summary": "Spiking recurrent neural networks (SRNNs) rival gated recurrent neural networks (RNNs) on various tasks, yet they still lack several hallmarks of biological neural networks. We introduce a biologically grounded SRNN that implements Dale's law with conductance-based stands for a-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) and gamma-aminobutyric acid (GABA) reversal potentials. These reversal potentials modulate synaptic gain as a function of the postsynaptic membrane potential, and we derive theoretically how they make each neuron's effective dynamics and subthreshold resonance in",
+      "url": "https://doi.org/10.3389/fncom.2026.1870593",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Computational Neuroscience",
       "authors": [
-        "Dino A. Giussani",
-        "Joseph Herbert"
+        "Miguel Rodrigues",
+        "Carmen Gasco-Galvez",
+        "Martin Vinck"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1098/rsbm.2025.0020"
+        "url": "https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1870593/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "computational neuroscience",
+        "neural"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171872776",
+      "kind": "paper",
+      "title": "Design of Conformal Planar Penetrating Multi-Electrode Arrays for Recording Multiple Brain Regions",
+      "summary": "Abstract Simultaneous recording of neural activity across multiple functionally interacting brain regions is a central objective in systems neuroscience and neural engineering. Penetrating multi-electrode arrays (MEAs) are essential for this purpose, yet their performance is fundamentally constrained by the complex three-dimensional anatomy of the brain and by substantial variability across species and brain regions. As a result, fixed or generic MEA designs, with periodic electrode distribution, often provide limited spatial coverage and suboptimal recording efficiency.&amp;#xD;In this work, ",
+      "url": "https://doi.org/10.1088/2516-1091/ae92c4",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Progress in Biomedical Engineering",
+      "authors": [
+        "Huijing Xu",
+        "Zihan Jin",
+        "Yingyi Gao",
+        "Yan Gong",
+        "Jingjing Liang Liang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1088/2516-1091/ae92c4"
       },
       "metrics": {
         "citedByCount": 0
@@ -85,146 +139,6 @@
         "neuroscience",
         "brain",
         "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171528632",
-      "kind": "paper",
-      "title": "From cellular diversity to coordinating nervous system function: the next frontier in non-neuronal cell biology",
-      "summary": "Non-neuronal cells do not simply detect neuronal activity; they can regulate neuronal plasticity and behaviour. One way these cells regulate neuronal plasticity is by removing synapses. For example, microglia clear synapses during development and disease through complement-dependent and independent mechanisms (Pereira-Iglesias et al., 2025). These processes are regulated by neuronal activity. Microglial synaptic clearance has been understood in several circuits, but how this synaptic clearance relates more broadly to brain and spinal cord plasticity, cognition and behaviour is still being defi",
-      "url": "https://doi.org/10.3389/fncel.2026.1934284",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Cellular Neuroscience",
-      "authors": [
-        "Jason R. Plemel"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2026.1934284/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171497929",
-      "kind": "paper",
-      "title": "Normative age-related changes in resting-state EEG alpha power and theta/alpha ratio across eyes-open and eyes-closed conditions",
-      "summary": "Resting-state electroencephalography (EEG) provides a sensitive measure of large-scale neural dynamics and has been widely used to characterize age-related changes in brain function. However, many prior studies have relied on relatively small samples or single-condition recordings, limiting the generalizability of findings. In this study, we investigated normative age-related trajectories of EEG spectral features across eyes-closed (EC) and eyes-open (EO) conditions in a large cohort of healthy adults. After reproducible preprocessing and artifact rejection, a total of 3,229 resting-state EEG ",
-      "url": "https://doi.org/10.3389/fnagi.2026.1869339",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Ye-Ji Park",
-        "Hoo-Joon Lee",
-        "Beom-Jin Kwon",
-        "Jin-Hyoung Jeong"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1869339/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171486842",
-      "kind": "paper",
-      "title": "If We Know We Will Die, Why Do We Live So Hard? — A Conversation in Seven Questions",
-      "summary": "A structured dialogue between two interlocutors (Quest Sage and The Witness) addressing seven fundamental questions about human existence through the convergent frameworks of physics, evolutionary biology, cognitive neuroscience, psychology, philosophy, cosmology, and contemplative tradition. Seven questions addressed: (1) Why humans live urgently knowing death is certain: entropy and negentropy (Schrödinger 1944); Terror Management Theory (Becker 1973; Solomon, Greenberg & Pyszczynski, 500+ experiments); predictive coding and the constructed future self (Friston). (2) The adult’s hidden paren",
-      "url": "https://doi.org/10.5281/zenodo.21637827",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Narayan Rout"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21637827"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "cognitive neuroscience"
       ],
       "signalScore": 20,
       "access": {
@@ -256,16 +170,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 7719
+        "citedByCount": 7723
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 157,
+        "currentValue": 161,
         "previousValue": 339,
-        "delta": -182,
-        "growthRate": -0.5369,
+        "delta": -178,
+        "growthRate": -0.5251,
         "available": true
       },
       "relevanceKeywords": [
@@ -288,22 +202,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171566683",
+      "id": "https://openalex.org/W7171821499",
       "kind": "paper",
-      "title": "Comparison of subject-to-template registration schemes using CT and MR radiotherapy images with brain lesions",
-      "summary": "Introduction Voxel-based analyses have been used more widely in radiotherapy in recent years. The purpose of this study is to compare eight different methods of registering images on to a template space for such analyses. A novel way, using both CT and MR data, is proposed. Methods CT and MR brain images from 85 participants in the CoDe-B-Rad study (NCT06466720) were registered on an age-specific template. The registration schemes used included sCT-Template (linear and non-linear); MR-Template (linear, non-linear, masked, and enantiomorphic); and Dual-Template (linear and non-linear). The regi",
-      "url": "https://doi.org/10.3389/fnins.2026.1858490",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "O Livro de Gênesis e o Início da Civilização",
+      "summary": "Resumo A transição do estilo de vida nômade de caça e coleta para o modelo agrícola sedentário (estável em um único local), ocorrida há aproximadamente 10 mil anos durante a Revolução Neolítica, reconfigurou radicalmente a biologia, a psique e a estrutura social da humanidade. Este artigo realiza uma análise comparativa e neutra entre a narrativa do livro de Gênesis (capítulos 1 a 3) e os dados empíricos (baseados em evidências e fatos observáveis) da antropologia, bioarqueologia, neurociência e ecologia evolutiva. Por meio da citação direta e integral de passagens bíblicas chave e da apresent",
+      "url": "https://doi.org/10.5281/zenodo.21703268",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Anna Bangiri",
-        "Stefanie Thust",
-        "Paul S. Morgan",
-        "Stefan Pszczółkowski"
+        "Adalberto Souza"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1858490/pdf"
+        "url": "https://doi.org/10.5281/zenodo.21703268"
       },
       "metrics": {
         "citedByCount": 0
@@ -336,23 +247,72 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171556225",
+      "id": "https://openalex.org/W7171792381",
       "kind": "paper",
-      "title": "Gut microbiota dysbiosis in autism spectrum disorder: 10 years of progress on compositional alterations, metabolic/immune mechanisms, and therapeutic strategies",
-      "summary": "Autism spectrum disorder (ASD) is a common neurodevelopmental condition frequently accompanied by gastrointestinal symptoms, pointing to a potential role of the gut microbiota–brain axis. To explore this connection, the present review synthesizes findings from studies published between 2016 and 2026, including observational studies, meta-analyses, animal experiments, and clinical trials, with the aim of characterizing gut microbiota alterations in ASD, elucidating underlying mechanisms, and evaluating emerging therapeutic strategies. Across diverse populations, the most consistent microbial si",
-      "url": "https://doi.org/10.3389/fnins.2026.1873864",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "Resting-state EEG connectome topology and social norm processing in healthy young adults",
+      "summary": "Resting-state network topology may provide a powerful framework for understanding how large-scale brain organisation supports cognitive functions. However, the topological correlates of social cognition remain poorly characterised. This study examined whether individual differences in social cognition are associated with the global topology of the resting-state functional connectome derived from high-density EEG across canonical frequency bands. Twenty-eight healthy young adults underwent a comprehensive neuropsychological assessment, including measures of global cognition, theory of mind, emp",
+      "url": "https://doi.org/10.1007/s00429-026-03167-9",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Brain Structure and Function",
       "authors": [
-        "Yan Zeng",
-        "Fengyang Wang",
-        "Silu Li",
-        "Qianfang Liu",
-        "Lin Liu"
+        "Nicola Davide Cavallo",
+        "Simone Papallo",
+        "Marianna Chianese",
+        "Leandro Donisi",
+        "Chiara Baiano"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1873864/pdf"
+        "url": "https://link.springer.com/content/pdf/10.1007/s00429-026-03167-9.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "connectome"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171863713",
+      "kind": "paper",
+      "title": "MiR-7 in neurological disorders: beyond metabolic dysregulation",
+      "summary": "Brain health depends on the fine coordination of metabolic and neuronal pathways, and disturbances in this balance are recognized as major drivers of neurodegenerative, neurological, and neuropsychiatric disorders. Increasing evidence indicates that microRNAs (miRNAs), as key post-transcriptional regulators of gene expression, play important roles in the molecular networks underlying neurological diseases by modulating pathways involved in energy metabolism, inflammation, oxidative stress, and neuronal survival. Among them, miR-7 has emerged as a particularly relevant regulator due to its high",
+      "url": "https://doi.org/10.3389/fnins.2026.1884638",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Cristina Puigdueta",
+        "Virginia Pardo",
+        "Marta Torrecilla-Parra",
+        "Mario Fernández-de Frutos",
+        "José L. López-Aceituno"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1884638/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -385,23 +345,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171557922",
+      "id": "https://openalex.org/W7171840597",
       "kind": "paper",
-      "title": "Intrathecal injection of 3D-mesenchymal stem cells attenuates disseminated neuroinflammation and improves cognitive function in controlled cortical impact rats",
-      "summary": "Background Persistent cognitive impairment following traumatic brain injury (TBI) represents a significant unmet clinical need. Neuroinflammation has been implicated as one of the pathological processes that may contribute to this outcome. Given the limitations of current therapies, this study explored the therapeutic potential of three-dimensional cultured mesenchymal stem cells (3D-MSCs) for TBI, with a focus on long-term cognitive outcome and their immunomodulatory properties. Methods A controlled cortical impact (CCI) model was established in male Sprague-Dawley rats. Twenty-four hours pos",
-      "url": "https://doi.org/10.3389/fnins.2026.1895538",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "O Livro de Gênesis e o Início da Civilização",
+      "summary": "Resumo A transição do estilo de vida nômade de caça e coleta para o modelo agrícola sedentário (estável em um único local), ocorrida há aproximadamente 10 mil anos durante a Revolução Neolítica, reconfigurou radicalmente a biologia, a psique e a estrutura social da humanidade. Este artigo realiza uma análise comparativa e neutra entre a narrativa do livro de Gênesis (capítulos 1 a 3) e os dados empíricos (baseados em evidências e fatos observáveis) da antropologia, bioarqueologia, neurociência e ecologia evolutiva. Por meio da citação direta e integral de passagens bíblicas chave e da apresent",
+      "url": "https://doi.org/10.5281/zenodo.21703267",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Rui Xu",
-        "Wenwen Zhang",
-        "Zizi He",
-        "Yunyun Huo",
-        "Yaojiong Wu"
+        "Adalberto Souza"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1895538/pdf"
+        "url": "https://doi.org/10.5281/zenodo.21703267"
       },
       "metrics": {
         "citedByCount": 0
@@ -434,21 +390,72 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171535418",
+      "id": "https://openalex.org/W7171868859",
       "kind": "paper",
-      "title": "Activity-dependent neuroprotective protein (ADNP) derived peptide NAP prevents musculoskeletal abnormalities in ovariectomized mice",
-      "summary": "Estrogen is an essential hormone that critically impacts bodily and brain functions, supporting learning, memory, and motor activities. A decrease in estrogen levels is associated with cognitive decline and motor dysfunction, such as muscle weakness. While conventional hormone replacement treatments (HRT) exist, those have limitations and potentially severe side effects. NAP (davunetide) is the smallest neuroprotective peptide site of activity-dependent neuroprotective protein (ADNP), a master regulator of cognition, essential for brain formation. It is known that NAP restores ADNP activity in",
-      "url": "https://doi.org/10.3389/fnins.2026.1891428",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "Advances in understanding adolescent emotion dysregulation: Mechanisms, risk factors, and interventions",
+      "summary": "Adolescence is a developmental period associated with increased vulnerability to emotion dysregulation (ED), reflecting interacting neurodevelopmental and psychosocial influences. This review synthesizes current theoretical models, risk factors, and interventions for adolescent ED, with a focus on integrative and transdiagnostic perspectives. The risk factors for ED in adolescents are multifaceted, involving biological factors, psychological factors, and social&amp;ndash;environmental factors, all of which form a complex network of causes. Regarding interventions, neuromodulation techniques su",
+      "url": "https://doi.org/10.36922/jcbp026150019",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Journal of Clinical and Basic Psychosomatics",
       "authors": [
-        "Liri Sophia Guz",
-        "Artur Galushkin",
-        "Illana Gozes"
+        "Caixia Zhao",
+        "Zhenzhen Yang",
+        "Liping Li",
+        "Kun Li",
+        "Liju Qian"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1891428/pdf"
+        "url": "https://article.accscience.com/journal/JCBP/online_first/jcbp026150019/article_jcbp0261500191_eb0a9f.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuromodulation",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171857135",
+      "kind": "paper",
+      "title": "Breaking the vicious cycle: a bibliometric and visual analysis of the bidirectional relationship between pruritus and negative emotions",
+      "summary": "Background Pruritus is a common skin symptom, frequently associated with substantial psychological burden. Recent advances in neuroscience and clinical practice suggest a clinically significant reciprocal association between chronic pruritus and negative emotions (e.g., anxiety and depression), moving beyond simple models of causality. Despite increasing research interest, this interdisciplinary field still lacks a comprehensive bibliometric overview. Therefore, this study aims to systematically visualize the research landscape and identify emerging hotspots, underexplored areas, and translati",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1883590",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Psychiatry",
+      "authors": [
+        "Shuman Yu",
+        "Siying Qu",
+        "Donghai Wu",
+        "Yutian Chen",
+        "Yixiang Wang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3389/fpsyt.2026.1883590"
       },
       "metrics": {
         "citedByCount": 0
@@ -481,23 +488,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171542566",
+      "id": "https://openalex.org/W7171789701",
       "kind": "paper",
-      "title": "EEG oscillatory changes following rehabilitative tactile and thermal stimulation in disorders of consciousness: a longitudinal and pilot study",
-      "summary": "Introduction Recent advances in the understanding of sensory processing in disorders of consciousness (DoC) have highlighted the potential of exteroceptive stimuli, particularly tactile stimulation. Unlike auditory or visual inputs, tactile stimuli engage primary somatosensory pathways that may be preserved even in severely brain injured patients. The aim of our study is to identify cortical neurophysiological markers for diagnosis, prognosis, and structured rehabilitative planning. Methods Seven patients were included. EEG was recorded at baseline (T0) and after 1 month of repeated tactile an",
-      "url": "https://doi.org/10.3389/fnins.2026.1855580",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "Repeatable tract-based diffusion metrics on a portable 64 mT MRI: a foundation for global population neuroscience",
+      "summary": "Diffusion MRI underpins much of modern population neuroscience, yet scanner access remains concentrated in high-income settings, excluding the genetic, developmental, and disease diversity needed for generalizable discovery. Portable low-field MRI systems (field strengths below 0.1 T) offer a cheaper, infrastructure-light alternative that could extend diffusion imaging to under-represented populations, but only if the measurements are sufficiently repeatable. Here we provide the first systematic test-retest evaluation of tract-based diffusion tensor MRI (DT-MRI) metrics at 64 mT. Ten healthy p",
+      "url": "https://doi.org/10.3389/fnimg.2026.1845201",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Neuroimaging",
       "authors": [
-        "Caterina Formica",
-        "Simona De Salvo",
-        "Elvira Gjonaj",
-        "Serena Dattola",
-        "Angelo Quartarone"
+        "William Royer",
+        "James Gholam",
+        "Mara Cercignani",
+        "Derek K. Jones",
+        "Emre Kopanoğlu"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1855580/pdf"
+        "url": "https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1845201/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -515,55 +522,6 @@
       "relevanceKeywords": [
         "neuroscience",
         "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171388358",
-      "kind": "paper",
-      "title": "The Illusion of Distinction in ‘Neural Data’ Governance: Rethinking United States Consumer Data Protections Through a European Lens",
-      "summary": "Abstract Neurotechnology-derived data faces increasing challenges due to the lack of salient policy and regulatory guidance. Current legal frameworks produce inconsistencies in how data is regulated, which constrains both harmonization and standardization in the consumer domain. This Article begins by reviewing the current state of data protections in the United States that are relevant to consumer neurotechnology. It then examines the safeguards available within the European Union. As part of our comparative analysis, we assess how these legal frameworks apply to neural data collected by 47 d",
-      "url": "https://doi.org/10.1007/s12152-026-09659-z",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Neuroethics",
-      "authors": [
-        "Nicole Chiappone",
-        "Diana Urian",
-        "Leili Soo",
-        "Chanel Matney",
-        "Julie Moonga"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://link.springer.com/content/pdf/10.1007/s12152-026-09659-z.pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neurotechnology",
-        "neural"
       ],
       "signalScore": 16,
       "access": {
@@ -598,16 +556,16 @@
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2840225"
       },
       "metrics": {
-        "citedByCount": 7502
+        "citedByCount": 7506
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 352,
+        "currentValue": 356,
         "previousValue": 719,
-        "delta": -367,
-        "growthRate": -0.5104,
+        "delta": -363,
+        "growthRate": -0.5049,
         "available": true
       },
       "relevanceKeywords": [
@@ -647,16 +605,16 @@
         "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
       },
       "metrics": {
-        "citedByCount": 7579
+        "citedByCount": 7583
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 288,
+        "currentValue": 292,
         "previousValue": 471,
-        "delta": -183,
-        "growthRate": -0.3885,
+        "delta": -179,
+        "growthRate": -0.38,
         "available": true
       },
       "relevanceKeywords": [
@@ -677,23 +635,66 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171524779",
+      "id": "https://openalex.org/W2119821739",
       "kind": "paper",
-      "title": "Professional traumatic grief in neurosurgery: domains, red flags, and first-line support for trainees and surgeons, informed by a nursing framework",
-      "summary": "OBJECTIVE Complications and deaths are unavoidable in neurosurgery, and although their emotional impact on surgeons and trainees is increasingly recognized, distress, burnout, and silent attrition remain substantial. In parallel, fields such as nursing and psychology have developed rich frameworks for understanding and supporting professional grief, suggesting opportunities for collaboration. Herein, the authors aimed to 1) use a nursing-derived professional traumatic grief (PTG) framework to describe how this construct might manifest in neurosurgeons and neurosurgical trainees after major adv",
-      "url": "https://doi.org/10.3171/2026.5.focus251152",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "source": "Neurosurgical FOCUS",
+      "title": "Support-Vector Networks",
+      "summary": "",
+      "url": "https://doi.org/10.1023/a:1022627411411",
+      "publishedAt": "1995-09-01T00:00:00.000Z",
+      "source": "Machine Learning",
       "authors": [
-        "Alejandro García‐Rudolph",
-        "José Manuel Méndez",
-        "Lidia Ledesma",
-        "Alejandro Del Arco",
-        "Maria Dolors Soler"
+        "Corinna Cortes",
+        "Vladimir Vapnik"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.3171/2026.5.focus251152"
+        "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
+      },
+      "metrics": {
+        "citedByCount": 33429
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 2086,
+        "previousValue": 2077,
+        "delta": 9,
+        "growthRate": 0.0043,
+        "available": true
+      },
+      "relevanceKeywords": [],
+      "signalScore": 13,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171797850",
+      "kind": "paper",
+      "title": "Machine learning-based lateralization and localization of seizure onset in focal cortical dysplasia patients using ictal scalp EEG",
+      "summary": "Inroduction This study aimed to develop and evaluate a machine learning framework for classifying seizure onset zone lateralization and localization in patients with focal cortical dysplasia using ictal scalp electroencephalography (EEG). Methods We retrospectively analyzed ictal scalp EEG recordings from 69 patients with focal cortical dysplasia, including 63 surgical and 6 non-surgical patients. EEG signals were preprocessed using common average referencing, segmented into overlapping 1-s windows, and filtered into five frequency bands. Morphological and connectivity features were extracted,",
+      "url": "https://doi.org/10.3389/fnins.2026.1915535",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Youmin Shin",
+        "Sungeun Hwang",
+        "Seung-Bo Lee",
+        "Hyoshin Son",
+        "Jun‐Sang Sunwoo"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1915535/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -725,115 +726,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171515328",
+      "id": "https://openalex.org/W7171858306",
       "kind": "paper",
-      "title": "Therapeutic strategies for spinal muscular atrophy: the history and future perspective",
-      "summary": "Spinal muscular atrophy (SMA) is a devastating autosomal recessive neuromuscular disorder characterized by progressive degeneration of lower motor neurons, leading to muscle weakness and atrophy predominantly manifesting in childhood. The disease is caused by homozygous deletion or loss-of-function mutations in the survival motor neuron 1 (SMN1) gene, with the nearly identical SMN2 gene acting as a critical modifier of disease severity. Since the initial clinical descriptions in 1891 and the identification of the causative gene in 1995, the field has witnessed transformative therapeutic progre",
-      "url": "https://doi.org/10.3389/fnhum.2026.1833269",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Human Neuroscience",
-      "authors": [
-        "Jiayi Liu",
-        "Yang Liu",
-        "Annie Yuan",
-        "Ke Ning"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1833269/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171558544",
-      "kind": "paper",
-      "title": "Skin innervation and its in vitro modeling",
-      "summary": "Skin innervation consists of myelinated Aβ fibers connected to sensory corpuscles and responsible for the sense of touch, and of free nerve endings including myelinated Aδ fibers and unmyelinated C fibers, that detect temperature and transmit pain signals, in addition to induce neurogenic inflammation through the release of neuropeptides. Moreover, the ability of skin innervation to detect pathogens that trigger or modulate immune reactions, such as TH1, TH2, or TH17 responses, has recently been identified, further growing interest in studying these neuroimmune interactions in the context of s",
-      "url": "https://doi.org/10.3389/fncel.2026.1904623",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Frontiers in Cellular Neuroscience",
-      "authors": [
-        "Émilie Genin",
-        "Lucile Guerber",
-        "Elodie Aymard",
-        "Jacques Leng",
-        "Joëlle Amédée"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2026.1904623/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171430111",
-      "kind": "paper",
-      "title": "The Bahareth Method",
-      "summary": "Conventional goal-setting frameworks often emphasize measurable outcomes while giving limited attention to the deeper motivational and holistic integration required for sustained success. This paper introduces the Bahareth Method, an interdisciplinary framework designed for personal and organizational goal achievement. It synthesizes principles from strategic management, cognitive psychology, systems thinking, neuroscience-informed visualization, and Islamic concepts of intention (niyyah) and supplication (dua). The method is built upon three foundational pillars—Intention, Integrity, and Alig",
-      "url": "https://doi.org/10.5281/zenodo.21632676",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "title": "NEUROUNBOUND: The Autonomous Research & Educational Ecosystem for Neurodivergent Minds",
+      "summary": "NEUROUNBOUND is a whitepaper and manifesto proposing a free, decentralized, and borderless research and educational ecosystem designed specifically for neurodivergent minds — individuals with ADHD, AuDHD, and Autism. Rather than replicating conventional academic structures, this framework is built around hyperfocus, non-linear reasoning, and proof-of-creation rather than standardized testing or rote memorization. Main Goal: To design an alternative educational and research model that removes the structural, sensory, and social barriers neurodivergent individuals face in traditional institution",
+      "url": "https://doi.org/10.5281/zenodo.21698032",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
       "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Bahareth Mohammad",
-        "Bahareth Mohammad"
+        "Hussain Noori"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21632676"
+        "url": "https://doi.org/10.5281/zenodo.21698032"
       },
       "metrics": {
         "citedByCount": 0
@@ -865,23 +770,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171424290",
+      "id": "https://openalex.org/W7171854194",
       "kind": "paper",
-      "title": "Advances in the “Neuro-endocrine-Adipose” Axis Mediated by Acupuncture for Lipid Metabolism Regulation",
-      "summary": "Adipose tissue serves as a key endocrine organ for dynamic lipid metabolism in the human body, in which adipocytes store and consume energy, secrete adipokines, and participate in diverse biological processes. Adipose-derived stem cells exhibit a robust capacity for adipogenic differentiation. The hypothalamus, a critical brain region within the central nervous system, regulates systemic lipid metabolism by modulating energy homeostasis, feeding behavior, immune responses, and gut microbiota equilibrium. Lipid droplets function as essential organelles within adipocytes. Collectively, adipose t",
-      "url": "https://doi.org/10.1186/s44424-026-00062-2",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Innovations in Acupuncture and Medicine",
+      "title": "Emerging Pharmacological Therapies for Huntington’s Disease:Translational Insights from Recent Clinical Trials",
+      "summary": "Abstract: Huntington’s disease [HD] is a progressive, autosomal dominant neurodegenerative disorder caused by a pathogenic CAG repeat expansion in the HTT gene, resulting in mutant huntingtin [mHTT] protein accumulation, neuronal dysfunction, and selective neurodegeneration. Current pharmacological management remains largely symptomatic, with no approved therapies capable of modifying disease progression. In recent years, however, significant advances in molecular neuroscience and translational medicine have accelerated the development of disease-modifying strategies targeting the underlying p",
+      "url": "https://doi.org/10.2174/0113892010447442260727092257",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Current Pharmaceutical Biotechnology",
       "authors": [
-        "Minda Ju",
-        "Yang Liu",
-        "Qi Ding",
-        "Xiaoqing Zhou",
-        "Zhenzhen Ling"
+        "Bhupesh Chander Semwal",
+        "Kuldeep Singh",
+        "Ritesh Sharma",
+        "Deepak Sharma",
+        "Abhishek Sharma"
       ],
       "openAccess": {
-        "isOpen": true,
-        "url": "https://link.springer.com/content/pdf/10.1186/s44424-026-00062-2.pdf"
+        "isOpen": false,
+        "url": ""
       },
       "metrics": {
         "citedByCount": 0
@@ -897,8 +802,8 @@
         "available": true
       },
       "relevanceKeywords": [
-        "brain",
-        "neural"
+        "neuroscience",
+        "brain"
       ],
       "signalScore": 12,
       "access": {
@@ -914,20 +819,66 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171392443",
+      "id": "https://openalex.org/W7171769342",
       "kind": "paper",
-      "title": "The Bahareth Method",
-      "summary": "Conventional goal-setting frameworks often emphasize measurable outcomes while giving limited attention to the deeper motivational and holistic integration required for sustained success. This paper introduces the Bahareth Method, an interdisciplinary framework designed for personal and organizational goal achievement. It synthesizes principles from strategic management, cognitive psychology, systems thinking, neuroscience-informed visualization, and Islamic concepts of intention (niyyah) and supplication (dua). The method is built upon three foundational pillars—Intention, Integrity, and Alig",
-      "url": "https://doi.org/10.5281/zenodo.21632677",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "title": "Clustered pattern projection for EEG dementia classification: evaluating the reliability of disorder patterns",
+      "summary": "Introduction Electroencephalography (EEG)-based classification of Alzheimer's disease (AD) and frontotemporal dementia (FTD) relative to cognitively normal (CN) controls is commonly interpreted through stable disease-related patterns. However, classification-relevant EEG responses in computational models may also appear fragmented or weakly preserved, making subject-level reliability difficult to assess. This study investigated whether recurrent disorder-like EEG patterns can provide exploratory evidence of subject-wise discriminative organization in dementia classification. Methods We analyze",
+      "url": "https://doi.org/10.3389/fnins.2026.1871265",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Hunseok Kang",
+        "Jacob Kang",
+        "Mustafa Zeki",
+        "Jong-Hyeon Seo"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1871265/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7140577942",
+      "kind": "paper",
+      "title": "System Σ - A Conceptual Framework for the Temporal Cognitive Gap between Intuition and Reasoning, and How AI Transforms It",
+      "summary": "This working paper introduces System Sigma (Σ), a conceptual framework identifying the temporal cognitive gap between the arrival of an intuition and the moment analytical reasoning catches up with it — the fragile interval in which a nascent idea either consolidates into thought or vanishes before it forms. Building on dual-process theory (Kahneman), the notion of System 0 (Chiriatti et al.), and neuroscience on creative incubation, it argues that generative AI transforms this interval in two opposite ways: it can act as a cognitive scaffold that holds an intuition alive until reasoning reach",
+      "url": "https://doi.org/10.5281/zenodo.19238515",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
       "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Bahareth Mohammad",
-        "Bahareth Mohammad"
+        "Nicoletta Iacobacci"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21632677"
+        "url": "https://doi.org/10.5281/zenodo.19238515"
       },
       "metrics": {
         "citedByCount": 0
@@ -959,20 +910,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171441317",
+      "id": "https://openalex.org/W7171844151",
       "kind": "paper",
-      "title": "Cell Therapy as Metabolic Rescue after Ischemic Stroke: Rewiring Bioenergetics, Redox Homeostasis, and Neurovascular Repair",
-      "summary": "Ischemic stroke represents a dynamic metabolic disorder of the neurovascular unit (NVU) rather than a static vascular occlusion followed by neuronal demise. Immediate oxygen and glucose deprivation rapidly deplete ATP, disrupt the transmembrane ionic gradients, increase glutamate excitotoxicity, and overload mitochondrial with calcium. These events alter glycolytic, lipid, amino acid, and redox pathways. During the subacute and chronic phases, astrocytes, microglia, macrophages, endothelial cells, pericytes, oligodendrocytes, and surviving neurons continue to remodel substrate utilization. The",
-      "url": "https://doi.org/10.1007/s12015-026-11200-x",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Stem Cell Reviews and Reports",
+      "title": "White matter abnormalities in amyotrophic lateral sclerosis: a free water imaging study",
+      "summary": "Objective To investigate white matter microstructural alterations in amyotrophic lateral sclerosis (ALS) using free-water-corrected diffusion tensor imaging (FW-DTI), compare its findings with those of conventional DTI, and examine the clinical correlations and preliminary diagnostic value of these metrics. Methods 44 ALS patients and 42 healthy controls underwent multi-b-value diffusion MRI. Conventional DTI metrics (fractional anisotropy [FA], mean diffusivity [MD], axial diffusivity [AxD], radial diffusivity [RD]), free-water-corrected metrics (FW-FA, FW-MD, FW-AxD, FW-RD), and the free-wat",
+      "url": "https://doi.org/10.3389/fnins.2026.1899073",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
       "authors": [
-        "Salar Bakhtiyari",
-        "Iraj Alipourfard"
+        "Zelin Liu",
+        "Haiqing Yang",
+        "Jiawei Cui",
+        "Zhengkun Guan",
+        "Duo Gao"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://link.springer.com/content/pdf/10.1007/s12015-026-11200-x.pdf"
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1899073/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -988,53 +942,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "brain",
-        "neural"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7171542266",
-      "kind": "paper",
-      "title": "Hybrid TabNet–Transformer Framework for Questionnaire-based Postpartum Psychological Distress Classification Using Anxiety-associated Indicators",
-      "summary": "Postpartum psychological distress following childbirth can significantly affect maternal well-being and early child development, highlighting the importance of timely mental health screening and supportive intervention.However, modeling questionnaire-derived postpartum psychological patterns remains challenging because of the complex and nonlinear relationships among psychological, behavioral, and demographic factors.Conventional statistical and machine learning approaches often exhibit limited capability in effectively modeling these intricate feature interactions, thereby reducing predictive",
-      "url": "https://doi.org/10.22266/ijies2026.0831.44",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "International journal of intelligent engineering and systems",
-      "authors": [
-        "Arya P. Pillai",
-        "K. Ranjith Singh"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.22266/ijies2026.0831.44"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "mental health"
+        "neuroscience"
       ],
       "signalScore": 12,
       "access": {
@@ -1069,16 +977,16 @@
         "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
       },
       "metrics": {
-        "citedByCount": 13587
+        "citedByCount": 13594
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 251,
+        "currentValue": 258,
         "previousValue": 652,
-        "delta": -401,
-        "growthRate": -0.615,
+        "delta": -394,
+        "growthRate": -0.6043,
         "available": true
       },
       "relevanceKeywords": [
@@ -1117,16 +1025,16 @@
         "url": "https://www.nature.com/articles/nrn3475.pdf"
       },
       "metrics": {
-        "citedByCount": 7933
+        "citedByCount": 7937
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 401,
+        "currentValue": 405,
         "previousValue": 624,
-        "delta": -223,
-        "growthRate": -0.3574,
+        "delta": -219,
+        "growthRate": -0.351,
         "available": true
       },
       "relevanceKeywords": [
@@ -1164,16 +1072,16 @@
         "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
       },
       "metrics": {
-        "citedByCount": 11388
+        "citedByCount": 11394
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 504,
+        "currentValue": 510,
         "previousValue": 1211,
-        "delta": -707,
-        "growthRate": -0.5838,
+        "delta": -701,
+        "growthRate": -0.5789,
         "available": true
       },
       "relevanceKeywords": [
@@ -1254,16 +1162,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 8422
+        "citedByCount": 8427
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 159,
+        "currentValue": 163,
         "previousValue": 262,
-        "delta": -103,
-        "growthRate": -0.3931,
+        "delta": -99,
+        "growthRate": -0.3779,
         "available": true
       },
       "relevanceKeywords": [
@@ -1284,20 +1192,68 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171586916",
+      "id": "https://openalex.org/W7171848643",
       "kind": "paper",
-      "title": "A Deep Learning-Driven Computer Vision and Web-Based Monitoring System for Automated Nutrient Management in Soilless Agriculture",
-      "summary": "Sustainable food production increasingly relies on intelligent automation technologies that optimize resource usage while maintaining crop health. This study presents a deep learning-driven computer vision and web based monitoring system designed for automated nutrient management in soilless (hydroponic) agriculture. The proposed system integrates environmental sensors and a Raspberry Pi-based control unit to continuously monitor plant growth parameters and manage nutrient solutions through real-time feedback. A novel strawberry leaf image dataset was constructed to detect visual symptoms of n",
-      "url": "https://doi.org/10.15832/ankutbd.1817471",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Tarım Bilimleri Dergisi",
+      "title": "أثر صدمات الطفولة على الدماغ: مراجعة منهجية وتحليل نوعي لدراسات التصوير العصبي",
+      "summary": "ترتبط صدمات الطفولة بتغيرات عصبية طويلة المدى ومع وجود ندرة واضحة في المراجعات الشمولية ضمن الأبيات العربية تبرز أهمية تقنيات التصوير العصبي لفهم هذه التغيرات. تهدف هذه المراجعة المنهجية إلى تحليل الدراسات العصبية التي استخدمت تقنيات التصوير العصبي مثل (fMRI, MFI, DTI). لاستكشاف تأثير صدمات الطفولة على بنية الدماغ ووظائفه خلال الفترة (2015-2025). تم اتباع منهجية PRISMA للفرز، واستخدام أداة CASP لتقييم الجودة المنهجية، مما أسفر عن تضمين 15 دراسة خضعت للتحليل النوعي. كشفت النتائج أن صدمات الطفولة تؤدي إلى تغيرات جوهرية في مناطق تنظيم الانفعالات والذاكرة؛ حيث جاءت اللوزة الدماغية (Amygdala) في ال",
+      "url": "https://doi.org/10.26389/ajsrp.k120226",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "مجلة العلوم التربوية و النفسية",
       "authors": [
-        "Eda Nur Urtekin",
-        "Emre Dandıl"
+        "أسماء حسن خضي",
+        "إرادة عمر حمد"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://dergipark.org.tr/en/download/article-file/5392117"
+        "url": "https://journals.ajsrp.com/index.php/jeps/article/download/10160/8969"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "cortex"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171853847",
+      "kind": "paper",
+      "title": "Neural correlates of language disfunction in psychiatric disorders: a developmental perspective",
+      "summary": "Language forms the foundation of social interactions, allowing us to connect with family and peers. Through speech, we express our thoughts and emotions to others. Experiencing challenges in speech and language functions during development can therefore significantly affect social relationships, cognitive and affective development. In child and adolescence psychiatry, clinicians have observed that speech and language abilities may be altered in various mental (behavioral/developmental) disorders (psychiatric disorders). This review provides an overview of systematic and original investigations",
+      "url": "https://doi.org/10.1007/s00702-026-03232-x",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Journal of Neural Transmission",
+      "authors": [
+        "Mirella Manfredi",
+        "Foivos Iliopoulos",
+        "Noémie L. Hehl",
+        "Susanne Walitza",
+        "Nathalie Giroud"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s00702-026-03232-x.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1329,20 +1285,67 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171541096",
+      "id": "https://openalex.org/W7171640905",
       "kind": "paper",
-      "title": "Reproducible Generalized Thermal Sensation Triggered by Levodopa in a Patient With Parkinson’s Disease",
-      "summary": "Parkinson’s disease (PD) is characterized by motor impairments and diverse nonmotor symptoms, including sensory disturbances. Although chronic peripheral neuropathy has been described in association with long-term levodopa therapy, thermal sensory disturbance acutely following levodopa administration has not been previously reported. Here we describe a 69-year-old woman with an 8-year history of PD who developed acute generalized thermal (heat) sensations—initially misinterpreted as somatization—following exposure to several levodopa-containing pharmacological regimens. The phenomenon was subs",
-      "url": "https://doi.org/10.14740/jmc5357",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Journal of Medical Cases",
+      "title": "Changing funding landscapes in biology research: An interview with Professor Hugo Bellen",
+      "summary": "MIT Science Policy Review spoke with Hugo Bellen about how basic biology research is fundamental for understanding human disease, and how critical resources for scientists are being threatened. Bellen is a Distinguished Service Professor in the Departments of Molecular and Human Genetics and Neuroscience at Baylor College of Medicine. Using the fruit fly species Drosophila melanogaster as a research model, he has made many contributions to the fields of genetics and neurodegeneration. His lab is part of the Duncan Neurological Research Institute at Texas Children’s Hospital, and is an integral",
+      "url": "https://doi.org/10.38105/spr.tkcnfe7qzk",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "OpenAlex",
       "authors": [
-        "Krittisak Anuroj",
-        "Numfah Paovanit"
+        "Yoki Miliard",
+        "Mariyah N. Saiduddin"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171848681",
+      "kind": "paper",
+      "title": "Microbiota-gut-brain axis in cerebral palsy: from mechanisms to interventions",
+      "summary": "Cerebral palsy (CP) is the most common cause of chronic motor disability in childhood and arises from non-progressive injury to the developing brain. Despite the static nature of the primary lesion, children with CP frequently experience evolving gastrointestinal, nutritional, inflammatory, sleep, cognitive, and seizure-related comorbidities that substantially influence functional recovery and caregiver burden. The microbiota-gut-brain axis (MGBA) provides a biologically plausible framework linking these multisystem manifestations. Emerging evidence suggests that children with CP may exhibit r",
+      "url": "https://doi.org/10.3389/fmed.2026.1911417",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Frontiers in Medicine",
+      "authors": [
+        "Fei Xie",
+        "Chao Bai",
+        "Jian Xu",
+        "Xinping Luan"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://jmc.elmerpub.com/index.php/jmc/article/download/5357/364"
+        "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1911417/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1374,22 +1377,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7171356884",
+      "id": "https://openalex.org/W7171777366",
       "kind": "paper",
-      "title": "Song decorrelates cortico–basal ganglia ensembles in zebra finches",
-      "summary": "The ability to acquire and adjust a sensorimotor skill relies on coordinated activity within a cortico–basal ganglia–thalamo–cortical loop, yet the underlying inter-areal dynamics remain unclear. The zebra finch ( Taeniopygia castanotis ) is well suited for studying these mechanisms, as male song depends on this circuit to bias downstream motor activity and adjust vocal output to social context. Using a custom-made reusable and torque-adjustable Neuropixels implant, we simultaneously recorded neural activity in the premotor region LMAN and in the basal ganglia–like striatal region Area X durin",
-      "url": "https://doi.org/10.1038/s41598-026-63374-6",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "source": "Scientific Reports",
+      "title": "Larval exposure to sertraline induces dose- and time-dependent remodeling of neuronal alternative splicing in adult Drosophila melanogaster",
+      "summary": "BACKGROUND: Alternative splicing is a central procedure that increases the variety of the transcriptome and helps regulate several neuronal processes. Various pharmacological factors have the capacity to alter splicing patterns, which could potentially affect cellular function. Sertraline, a selective serotonin reuptake inhibitor widely used in the treatment of neuropsychiatric disorders, also regulates intracellular pathways linked with calcium signaling and other cellular processes. However, information about its potential impact on the post-transcriptional regulation of the transcriptome is",
+      "url": "https://doi.org/10.1007/s11033-026-12452-z",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "source": "Molecular Biology Reports",
       "authors": [
-        "Corinna Lorenz",
-        "Ezequiel M. Arneodo",
-        "Richard H. R. Hahnloser",
-        "Nicolas Giret"
+        "Luis Felipe Santos-Cruz",
+        "Myriam Campos-Aguilar",
+        "Laura Castañeda-Partida",
+        "María Eugenia Heres-Pulido",
+        "Irma Elena Dueñas-García"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.nature.com/articles/s41598-026-63374-6_reference.pdf"
+        "url": "https://link.springer.com/content/pdf/10.1007/s11033-026-12452-z.pdf"
       },
       "metrics": {
         "citedByCount": 0
