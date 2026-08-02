@@ -18,9 +18,9 @@
       ],
       "metrics": {
         "points": 163,
-        "comments": 256
+        "comments": 260
       },
-      "signalScore": 357.5,
+      "signalScore": 361.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -46,10 +46,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 132,
-        "comments": 23
+        "points": 137,
+        "comments": 25
       },
-      "signalScore": 117,
+      "signalScore": 121.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -63,22 +63,53 @@
       }
     },
     {
-      "id": "49074817",
+      "id": "47520220",
       "kind": "startup_hn_signal",
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://www.rise-reforming.com",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49074817",
-      "publishedAt": "2026-07-27T19:58:22.000Z",
+      "url": "https://github.com/jonwiggins/optio",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47520220",
+      "publishedAt": "2026-03-25T17:10:21.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 85,
-        "comments": 38
+        "points": 88,
+        "comments": 60
       },
-      "signalScore": 108.5,
+      "signalScore": 113,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "45862500",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Geofenced chat communities anyone can create",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://vicinity.social/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=45862500",
+      "publishedAt": "2025-11-09T02:59:58.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 57,
+        "comments": 61
+      },
+      "signalScore": 110.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -107,67 +138,9 @@
       ],
       "metrics": {
         "points": 1,
-        "comments": 0
+        "comments": 2
       },
-      "signalScore": 40.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49086558",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/cynative/cynative",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49086558",
-      "publishedAt": "2026-07-28T16:43:09.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 16,
-        "comments": 4
-      },
-      "signalScore": 40,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49083615",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Loop – Find out what happened weeks after your warm intro",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://www.getlooped.cc",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49083615",
-      "publishedAt": "2026-07-28T13:32:26.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 6,
-        "comments": 7
-      },
-      "signalScore": 38,
+      "signalScore": 42.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -199,6 +172,35 @@
         "comments": 0
       },
       "signalScore": 35,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48929304",
+      "kind": "startup_hn_signal",
+      "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://news.ycombinator.com/item?id=48929304",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48929304",
+      "publishedAt": "2026-07-16T01:12:35.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 12
+      },
+      "signalScore": 33.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -322,35 +324,6 @@
         "comments": 1
       },
       "signalScore": 29,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49122020",
-      "kind": "startup_hn_signal",
-      "title": "Amiga Pips the PC for Mission-Critical Computing at NASA (2021)",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://hackaday.com/2021/08/16/retrotechtacular-amiga-pips-the-pc-for-mission-critical-computing-at-nasa/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49122020",
-      "publishedAt": "2026-07-31T11:59:47.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 28.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -643,6 +616,36 @@
       }
     },
     {
+      "id": "48903916",
+      "kind": "startup_hn_signal",
+      "title": "Atlas Neurochemical Characterization Human Brainstem with 3D Reconstruction",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://anchor.humanbrain.in/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48903916",
+      "publishedAt": "2026-07-14T08:56:29.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain",
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 24.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "47116630",
       "kind": "startup_hn_signal",
       "title": "China's brain-computer interface industry is racing ahead",
@@ -734,37 +737,6 @@
       }
     },
     {
-      "id": "44825752",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: We built a document AI, you only pay for good data",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://undatas.io/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=44825752",
-      "publishedAt": "2025-08-07T15:28:00.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 2
-      },
-      "signalScore": 23.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "44560424",
       "kind": "startup_hn_signal",
       "title": "Show HN: Social network where anyone can be seen (Quickpost)",
@@ -783,6 +755,35 @@
         "comments": 0
       },
       "signalScore": 23.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48878966",
+      "kind": "startup_hn_signal",
+      "title": "To Build More Believable Bots, Simulate the Neurochemistry",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://github.com/smithandrewjohn/kindalive",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48878966",
+      "publishedAt": "2026-07-12T06:53:49.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 2
+      },
+      "signalScore": 23,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
