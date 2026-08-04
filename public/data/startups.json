@@ -18,9 +18,9 @@
       ],
       "metrics": {
         "points": 163,
-        "comments": 260
+        "comments": 261
       },
-      "signalScore": 361.5,
+      "signalScore": 362.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -46,10 +46,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 137,
+        "points": 138,
         "comments": 25
       },
-      "signalScore": 121.5,
+      "signalScore": 122,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -63,22 +63,22 @@
       }
     },
     {
-      "id": "47520220",
+      "id": "49157807",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/jonwiggins/optio",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47520220",
-      "publishedAt": "2026-03-25T17:10:21.000Z",
+      "url": "https://armature.tech/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49157807",
+      "publishedAt": "2026-08-03T16:17:59.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 88,
-        "comments": 60
+        "points": 41,
+        "comments": 3
       },
-      "signalScore": 113,
+      "signalScore": 51.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -92,24 +92,22 @@
       }
     },
     {
-      "id": "45862500",
+      "id": "48221805",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Geofenced chat communities anyone can create",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://vicinity.social/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=45862500",
-      "publishedAt": "2025-11-09T02:59:58.000Z",
+      "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48221805",
+      "publishedAt": "2026-05-21T12:49:07.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
+        "BCI startup"
       ],
       "metrics": {
-        "points": 57,
-        "comments": 61
+        "points": 40,
+        "comments": 17
       },
-      "signalScore": 110.5,
+      "signalScore": 51,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -141,6 +139,37 @@
         "comments": 2
       },
       "signalScore": 42.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49155734",
+      "kind": "startup_hn_signal",
+      "title": "Built a 3D Neural Decode website interactive way to explore how AI models work",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://neuraldecode.vercel.app",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49155734",
+      "publishedAt": "2026-08-03T13:44:22.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 40.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -198,40 +227,9 @@
       ],
       "metrics": {
         "points": 3,
-        "comments": 12
+        "comments": 13
       },
-      "signalScore": 33.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48791964",
-      "kind": "startup_hn_signal",
-      "title": "Meta's Brain2Qwerty v2: A non-invasive brain-computer interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://facebookresearch.github.io/brain2qwerty/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48791964",
-      "publishedAt": "2026-07-05T07:15:52.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 33.5,
+      "signalScore": 34.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -263,6 +261,93 @@
         "comments": 9
       },
       "signalScore": 31,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49170377",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Capshelf – Share agent skills across repos with per-project lockfiles",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/genged/capshelf",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49170377",
+      "publishedAt": "2026-08-04T15:29:42.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 4,
+        "comments": 0
+      },
+      "signalScore": 30,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49170571",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Bean Network Tester – open-source bad network simulator",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/donislawdev/BeanNetworkTester",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49170571",
+      "publishedAt": "2026-08-04T15:45:28.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 29,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49161427",
+      "kind": "startup_hn_signal",
+      "title": "When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://blog.neutrontech.ai/2026/08/03/when-cloud-ai-escapes-openai-anthropic-models-breach-live-networks/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49161427",
+      "publishedAt": "2026-08-03T21:05:47.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -337,6 +422,35 @@
       }
     },
     {
+      "id": "49159363",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Renovate Log Parser – Detect and Analyse Renovate Bot Problems",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/MShekow/renovate-log-parser",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49159363",
+      "publishedAt": "2026-08-03T18:06:40.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 0
+      },
+      "signalScore": 28.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "48608788",
       "kind": "startup_hn_signal",
       "title": "Longterm use of intracortical brain–computer interface for speech&cursor control",
@@ -355,6 +469,37 @@
         "comments": 0
       },
       "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48791964",
+      "kind": "startup_hn_signal",
+      "title": "Meta's Brain2Qwerty v2: A non-invasive brain-computer interface",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://facebookresearch.github.io/brain2qwerty/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48791964",
+      "publishedAt": "2026-07-05T07:15:52.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 27.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -616,36 +761,6 @@
       }
     },
     {
-      "id": "48903916",
-      "kind": "startup_hn_signal",
-      "title": "Atlas Neurochemical Characterization Human Brainstem with 3D Reconstruction",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://anchor.humanbrain.in/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48903916",
-      "publishedAt": "2026-07-14T08:56:29.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain",
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 24.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "47116630",
       "kind": "startup_hn_signal",
       "title": "China's brain-computer interface industry is racing ahead",
@@ -768,35 +883,6 @@
       }
     },
     {
-      "id": "48878966",
-      "kind": "startup_hn_signal",
-      "title": "To Build More Believable Bots, Simulate the Neurochemistry",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://github.com/smithandrewjohn/kindalive",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48878966",
-      "publishedAt": "2026-07-12T06:53:49.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 2
-      },
-      "signalScore": 23,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "44509366",
       "kind": "startup_hn_signal",
       "title": "Show HN: I built \"Schnippi\", my dream screenshot Chrome extension",
@@ -815,99 +901,6 @@
         "comments": 0
       },
       "signalScore": 23,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47846089",
-      "kind": "startup_hn_signal",
-      "title": "The first neural interface that transforms your thoughts into text",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://sabi.com/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
-      "publishedAt": "2026-04-21T08:24:38.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47672141",
-      "kind": "startup_hn_signal",
-      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://news.ycombinator.com/item?id=47672141",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
-      "publishedAt": "2026-04-07T08:15:13.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47432372",
-      "kind": "startup_hn_signal",
-      "title": "Shared databases are not modular, they are just a weakness",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://news.ycombinator.com/item?id=47432372",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47432372",
-      "publishedAt": "2026-03-18T22:48:31.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 1
-      },
-      "signalScore": 22.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
