@@ -21,20 +21,20 @@
         "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
       },
       "metrics": {
-        "citedByCount": 33531
+        "citedByCount": 33543
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 2185,
+        "currentValue": 2195,
         "previousValue": 2080,
-        "delta": 105,
-        "growthRate": 0.0505,
+        "delta": 115,
+        "growthRate": 0.0553,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 109,
+      "signalScore": 119,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -48,118 +48,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7196963717",
+      "id": "https://openalex.org/W7202044490",
       "kind": "paper",
-      "title": "Integrating computational modeling, neuroimaging, and neuromodulation to decompose perceptual decision-making in healthy aging: a review of methods, findings, and gaps",
-      "summary": "Perceptual decision-making (PDM) — the transformation of sensory input into behavioral choice — declines with healthy aging, leading to slower responses, altered accuracy, and negative impacts on quality of life. Recent advances in model-based cognitive neuroscience, particularly drift-diffusion models (DDMs), allow decomposition of PDM into latent components (e.g., evidence accumulation, decision caution, non-decision time) and enable identification of neural circuits associated with each component. This decomposition provides a foundation for targeted neuromodulatory interventions (e.g., tra",
-      "url": "https://doi.org/10.3389/fnagi.2026.1906284",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Anna Udoratina",
-        "Vladimir Maksimenko",
-        "Susanna Gordleeva"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1906284/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "neuromodulation",
-        "cognitive neuroscience",
-        "neural"
-      ],
-      "signalScore": 32,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201842446",
-      "kind": "paper",
-      "title": "Perinatal Factors and Neuroimaging Changes for Brain Maturation Among Adolescents",
-      "summary": "Importance: Brain maturation varies between individuals, particularly during dynamic developmental periods such as adolescence. Directly assessing the differences in longitudinal trajectories can reveal deviations from normative patterns. Objective: To ascertain the association of longitudinal change in brain volumes with birth weight, gestational age, and longitudinal changes in psychopathology. Design, Setting, and Participants: In this cohort study, cross-sectional and longitudinal normative models were developed for brain volumes from the first 2 neuroimaging data collection time points (b",
-      "url": "https://doi.org/10.1001/jamanetworkopen.2026.27643",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "JAMA Network Open",
-      "authors": [
-        "Eren Kafadar",
-        "Margaret Gardner",
-        "Lena Dorfschmidt",
-        "Jonathan A. Berken",
-        "Audrey Luo"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1001/jamanetworkopen.2026.27643"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "mental health",
-        "brain"
-      ],
-      "signalScore": 24,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7196924324",
-      "kind": "paper",
-      "title": "Neural voice activity detection with ECoG correlation structure using a chronically implanted BCI in an individual with ALS",
-      "summary": "Chronically implanted brain-computer interfaces (BCI) for speech have demonstrated restoration of speech communication for people with severe motor impairment. Yet maintaining stable long-term performance remains a translational challenge. We investigated whether correlation and partial correlation features of electrocorticographic (ECoG) high-gamma activity (HG-C, HG-PC) could improve robustness compared with high-gamma log-power (HGLP) features for neural voice activity detection (NVAD). Using open-source BCI data from an individual with amyotrophic lateral sclerosis performing a syllable-re",
-      "url": "https://doi.org/10.1038/s41598-026-65477-6",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "title": "Expectation and acoustic neural network representations enhance music identification from brain activity",
+      "summary": "Abstract During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition. Here we show that distinguishing acoustic and expectation-related ANN representations as teacher targets improves EEG-based music identification. Models pretrained to predict either representation outperform non-pretrained baselines, and combining them yields complementary gains that exceed strong seed ensembles formed by varying random initializatio",
+      "url": "https://doi.org/10.1038/s41598-026-65711-1",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
       "source": "Scientific Reports",
       "authors": [
-        "Kamil A. Grajski"
+        "Shogo Noguchi",
+        "Taketo Akama",
+        "Tai Nakamura",
+        "Shun Minamikawa",
+        "Natalia Polouliakh"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.nature.com/articles/s41598-026-65477-6_reference.pdf"
+        "url": "https://www.nature.com/articles/s41598-026-65711-1_reference.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -175,194 +80,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201892638",
-      "kind": "paper",
-      "title": "NEURAL-RESONANCE-HYPOTHESIS",
-      "summary": "Description The Quantum-Neuronal Resonance Hypothesis of Déjà Vu (QNRHDV) is a speculative interdisciplinary hypothesis that explores whether certain experiences of déjà vu could involve a relationship between quantum processes and neuronal activity. Déjà vu is commonly described as the strong feeling that a present situation has already been experienced, even when the person knows that the situation is new. The hypothesis proposes that if multiple branches or states of reality exist, hypothetical quantum correlations between corresponding states might, through an unknown physical mechanism, i",
-      "url": "https://doi.org/10.5281/zenodo.21834031",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Raza MASUD"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21834031"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201860008",
-      "kind": "paper",
-      "title": "NEURAL-RESONANCE-HYPOTHESIS",
-      "summary": "Description The Quantum-Neuronal Resonance Hypothesis of Déjà Vu (QNRHDV) is a speculative interdisciplinary hypothesis that explores whether certain experiences of déjà vu could involve a relationship between quantum processes and neuronal activity. Déjà vu is commonly described as the strong feeling that a present situation has already been experienced, even when the person knows that the situation is new. The hypothesis proposes that if multiple branches or states of reality exist, hypothetical quantum correlations between corresponding states might, through an unknown physical mechanism, i",
-      "url": "https://doi.org/10.5281/zenodo.21834032",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Raza MASUD"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21834032"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201884745",
-      "kind": "paper",
-      "title": "Neuroplasticidade e recuperação motora após o acidente vascular cerebral: contribuições da fisioterapia para a reabilitação funcional",
-      "summary": "Stroke is one of the leading causes of functional disability in adults, resulting in motor, sensory, and cognitive impairments that significantly affect patients' independence and quality of life. In this context, advances in Neuroscience have expanded the understanding of neuroplasticity mechanisms and contributed to the development of more effective physiotherapeutic interventions for functional rehabilitation. This study aimed to analyze the contributions of Neuroscience to motor recovery after stroke, emphasizing the role of physiotherapy in promoting neuroplasticity and functional recover",
-      "url": "https://doi.org/10.69849/srg3cd70",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Revista fisio&terapia.",
-      "authors": [
-        "Maria Auxiliadora Andrade Pinto Ribeiro",
-        "Camila Araújo de Paula",
-        "Danielle Rodrigues de Oliveira",
-        "Evandro Rogério Roman",
-        "Thiago Mendes Sansevero"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.69849/srg3cd70"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "neuromodulation"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7197008212",
-      "kind": "paper",
-      "title": "Evaluating the biological relevance of the relativistic theory of consciousness",
-      "summary": "perspective by moving to the appropriate frame of reference\". Thus, the technological requirements for this transition are a most critical issue. When based on suitable premises, the mathematical formulation of changing from a third-person to a firstperson frame of reference is of course possible and may well be internally consistent, but this does not per se prove any corresponding biological reality. THE UNDERLYING CONCEPT OF CONSCIOUSNESS Lahav and Neemeh (2022) note that \"there are still several open questions that need to be addressed in the future. For example, what are the necessary and",
-      "url": "https://doi.org/10.3389/fpsyg.2026.1877478",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Psychology",
-      "authors": [
-        "Wolfgang Kromer"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1877478/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
+        "neural decoding",
         "brain",
         "neural"
       ],
@@ -396,16 +114,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 7732
+        "citedByCount": 7733
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 168,
+        "currentValue": 169,
         "previousValue": 341,
-        "delta": -173,
-        "growthRate": -0.5073,
+        "delta": -172,
+        "growthRate": -0.5044,
         "available": true
       },
       "relevanceKeywords": [
@@ -428,22 +146,109 @@
       }
     },
     {
-      "id": "https://openalex.org/W7197035836",
+      "id": "https://openalex.org/W7202045930",
       "kind": "paper",
-      "title": "EEG coherence signatures of sport-specific motor imagery in elite freestyle skiing aerials athletes",
-      "summary": "Objective This study characterized EEG coherence during sport-specific motor imagery in elite freestyle skiing aerials athletes and sought to identify coordinated neural oscillatory dynamics that may support the internal simulation of complex aerial actions. Methods Fourteen athletes from the Chinese national freestyle skiing aerials training team completed a sport-specific motor imagery task. The task combined high- and low-difficulty action cues with matched or mismatched in-run videos. EEG activity was recorded during the imagery phase. Using Fz as the seed electrode, coherence between Fz a",
-      "url": "https://doi.org/10.3389/fnins.2026.1879345",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "Synesthesia: Mechanisms, Mappings, and the Geometry of the Senses",
+      "summary": "Synesthesia — the automatic, involuntary coupling in which one stimulus (an inducer) triggers an additional percept (a concurrent) in a second pathway — is examined across neuroscience, genetics, linguistics, information theory, and the philosophy of mind. One thesis runs throughout: the trait is not a stray wire between two sensory maps but a difference in representational architecture. The mapping is assembled over a childhood window and thins in old age; its candidate genes converge on axon guidance rather than any single \"synesthesia gene\"; its colors carry strikingly little information be",
+      "url": "https://doi.org/10.5281/zenodo.21859233",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Jianing Liu",
-        "Zhuorui Jiang",
-        "Chenglin Zhou",
-        "Wenzi Wang"
+        "Alexandru C. Stan"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1879345/pdf"
+        "url": "https://doi.org/10.5281/zenodo.21859233"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202034888",
+      "kind": "paper",
+      "title": "Synesthesia: Mechanisms, Mappings, and the Geometry of the Senses",
+      "summary": "Synesthesia — the automatic, involuntary coupling in which one stimulus (an inducer) triggers an additional percept (a concurrent) in a second pathway — is examined across neuroscience, genetics, linguistics, information theory, and the philosophy of mind. One thesis runs throughout: the trait is not a stray wire between two sensory maps but a difference in representational architecture. The mapping is assembled over a childhood window and thins in old age; its candidate genes converge on axon guidance rather than any single \"synesthesia gene\"; its colors carry strikingly little information be",
+      "url": "https://doi.org/10.5281/zenodo.21859234",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Alexandru C. Stan"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.21859234"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201963125",
+      "kind": "paper",
+      "title": "The Origin of Meaning in Hallucination Domestication Theory (HDT)",
+      "summary": "This paper develops a neurodynamic account of the origin of meaning within Hallucination Domestication Theory (HDT). It begins from the hypothesis that semantic significance does not originate, either evolutionarily or developmentally, as a linguistic symbol, a logical definition, or a disembodied propositional representation. Instead, meaning first emerges from operational regularities that connect sensation, action, changes produced in the environment, and the internal consequences of those changes for the organism. On this account, the primitive meaning of food is not initially the proposit",
+      "url": "https://doi.org/10.5281/zenodo.21848633",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Najih Salhab"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.21848633"
       },
       "metrics": {
         "citedByCount": 0
@@ -476,211 +281,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7196935738",
+      "id": "https://openalex.org/W7201979165",
       "kind": "paper",
-      "title": "Optimal Size of Electrocorticography Grids for Classification of Hand Movements",
-      "summary": "Abstract Implanted Brain-Computer Interfaces (BCIs) hold significant promise as a replacement for conventional assistive technologies for people with extensive motor impairments. In recent years, significant progress has been made in enhancing BCI performance, bringing clinically viable systems within reach. Some of these developments rely on increasingly large numbers of high spatial-density electrocorticography (ECoG) electrodes, which enable the extraction of spatially detailed information from extensive brain areas, but may also elevate surgical burden, posing a challenge for the clinical ",
-      "url": "https://doi.org/10.1007/s12021-026-09807-z",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Neuroinformatics",
+      "title": "The Origin of Meaning in Hallucination Domestication Theory (HDT)",
+      "summary": "This paper develops a neurodynamic account of the origin of meaning within Hallucination Domestication Theory (HDT). It begins from the hypothesis that semantic significance does not originate, either evolutionarily or developmentally, as a linguistic symbol, a logical definition, or a disembodied propositional representation. Instead, meaning first emerges from operational regularities that connect sensation, action, changes produced in the environment, and the internal consequences of those changes for the organism. On this account, the primitive meaning of food is not initially the proposit",
+      "url": "https://doi.org/10.5281/zenodo.21848634",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Elena C Offenberg",
-        "Dirk Keller",
-        "Siamak Mehrkanoon",
-        "Julia Berezutskaya",
-        "Mariska J. Vansteensel"
+        "Najih Salhab"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://link.springer.com/content/pdf/10.1007/s12021-026-09807-z.pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201888564",
-      "kind": "paper",
-      "title": "The ADHD learner, time perception, and the listening skill in EAP: decoding the temporal rules of auditory processing of phonological information to rethink practices for an inclusive classroom",
-      "summary": "This article aims to explore the complexity behind the potential challenges that some students have in English for Academic Purposes (EAP) classrooms and contexts regarding listening skills. The developing argument comes from a perspective that not all listeners will process auditory information identically due to neurological differences (neurodiversity) and therefore that we should adjust our practices with divergent listeners as learners in mind. Part of this premise will be defended by advocating for the importance of scholarship of teaching and learning that draws from disciplines beyond ",
-      "url": "https://doi.org/10.48785/100/499",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "OpenAlex",
-      "authors": [
-        "Charles Marshall"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.48785/100/499"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W4416878969",
-      "kind": "paper",
-      "title": "Machine-learning classification of children and adolescents with ASD using resting-state frequency-specific intrinsic activity",
-      "summary": "Autism spectrum disorder (ASD) entails atypical neurodevelopment across social, affective, and control systems. Although atypical intrinsic activity is well documented in ASD, whether frequency-specific restingstate signals (e.g., slow-5/slow-4 vs conventional band) systematically differentiate children from adolescents remains unresolved. We assembled a multisite rs-fMRI cohort of 251 individuals with ASD from 10 ABIDE I/II sites, defined children (2-12 y) and adolescents (12-21 y), and computed ROI-wise regional homogeneity(ReHo) and amplitude of low-frequency fluctuation (ALFF) within three",
-      "url": "https://doi.org/10.3389/fnins.2026.1892288",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Qi Huang",
-        "Sisi Jiang",
-        "Cheng Luo",
-        "Dezhong Yao",
-        "Bharat B. Biswal"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1892288/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "cortex"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201842996",
-      "kind": "paper",
-      "title": "Ajna Focused Electromagnetic Induction and General Connectivity - Extended Theoretical Framework, Experimental Design, and Civilizational Implications",
-      "summary": "This extended paper presents a complete theoretical, mathematical, and experimental framework for an Ajna‑focused electromagnetic induction device capable of reproducibly generating high‑coherence “God Consciousness” states—characterised by unity, timelessness, bliss, and ego dissolution. Building on General Connectivity (GC) and Laszlo’s Akashic‑field hypothesis, the paper derives connectivity metrics, coherence measures, EM‑brain coupling equations, and a driven Kuramoto model in which Patanjali’s stages (Dhāraṇā, Dhyāna, Samādhi) emerge as distinct dynamical regimes. It specifies hardware a",
-      "url": "https://doi.org/10.17605/osf.io/bdc3n",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Open Science Framework",
-      "authors": [
-        "Bhopinderpal (Pal) Sahota"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.17605/osf.io/bdc3n"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7196948087",
-      "kind": "paper",
-      "title": "Effects of repetitive scanning ultrasound on the intraneuronal dendritic signalling of CA1 pyramidal neurons",
-      "summary": "Introduction Neural development is regulated by several spatiotemporally changing factors, which are essential for enabling neurons to develop functional networks, during early developmental stages. Additionally, external physical stimuli, like scanning prenatal ultrasound (US) examination, may influence neural development. Aim of our study is to examine potential consequences of diagnostic level ultrasound exposure during the early phase of hippocampal CA1 neural network development by using computational models. Methods Using in silico modelling, this study explores and compares multiple fea",
-      "url": "https://doi.org/10.3389/fnbeh.2026.1871826",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Behavioral Neuroscience",
-      "authors": [
-        "Bence Pelyvas",
-        "Ervin Wolf",
-        "Zita Képes",
-        "E Berényi",
-        "Tamás Papp"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1871826/pdf"
+        "url": "https://doi.org/10.5281/zenodo.21848634"
       },
       "metrics": {
         "citedByCount": 0
@@ -713,22 +326,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7201878734",
+      "id": "https://openalex.org/W7201961183",
       "kind": "paper",
-      "title": "Linking Gene Sequences to Brain Connectivity Alterations in Schizophrenia",
-      "summary": "Schizophrenia is a complex neuropsychiatric disorder characterized by altered brain connectivity patterns and strong genetic underpinnings. This study develops an intelligent computational system that integrates genomic data with functional magnetic resonance imaging to establish meaningful correlations between genetic variations in key schizophrenia-associated genes (DISC1, LRRTM1, DRD2) and altered brain connectivity patterns. The proposed methodology uses gene expression analysis combined with graph-based brain network analysis from fMRI data. Feature extraction involves constructing connec",
-      "url": "https://doi.org/10.22214/ijraset.2026.83573",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "International Journal for Research in Applied Science and Engineering Technology",
+      "title": "Wearable neural biosensors for early detection of neurodegenerative diseases",
+      "summary": "Neurodegenerative diseases, which include Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis, represent a growing worldwide health burden that can be attributed to the ageing of the population and the lack of effective modalities of early diagnosis. Conventional diagnostic methods rely on clinical assessment and neuroimaging, but they often reveal neuropathology only after it is too late, when neuronal damage has already occurred. Wearable neural biosensors are an emerging approach for continuous, non-invasive monitoring of neurophysiological, neuromuscular, and bioche",
+      "url": "https://doi.org/10.1186/s13064-026-00302-4",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Discover Neuroscience",
       "authors": [
-        "Aditya Pujari",
-        "Aditya Jagtap",
-        "Aditi Dixit",
-        "Anup Dange"
+        "Iftakhar Ahmad",
+        "Kumbha Ravindra",
+        "Yemineni Bala Bhargavi",
+        "Kojja Lakshmi Nagaraju",
+        "Jasvitha Mandava"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.22214/ijraset.2026.83573"
+        "url": "https://link.springer.com/content/pdf/10.1186/s13064-026-00302-4.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -744,9 +358,54 @@
         "available": true
       },
       "relevanceKeywords": [
-        "brain",
-        "neural",
-        "cortex"
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201882787",
+      "kind": "paper",
+      "title": "Silent Trauma: Implications of Non-Fatal Strangulation-Acquired Brain Injury — An Integrative Review",
+      "summary": "Non-fatal strangulation (NFS) is a severe form of Intimate partner violence (IPV) that can result in acquired brain injuries (ABI), yet this link is frequently overlooked. Misdiagnosis and limited awareness contribute to long-term physical and mental health complications. Evidence-based protocols for identifying and managing non-fatal strangulation-acquired brain injury (NFS-ABI) are lacking, which prevents the delivery of standardised care. Long-term outcomes remain understudied. To synthesise current evidence on the neurological and psychological sequelae of (NFS- ABI), and to identify impli",
+      "url": "https://doi.org/10.1007/s11065-026-09712-x",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Neuropsychology Review",
+      "authors": [
+        "Andrea Donaldson",
+        "K. M. Ali"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s11065-026-09712-x.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health",
+        "brain"
       ],
       "signalScore": 16,
       "access": {
@@ -781,16 +440,16 @@
         "url": "https://www.nature.com/articles/nn.2467.pdf"
       },
       "metrics": {
-        "citedByCount": 7520
+        "citedByCount": 7521
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 371,
+        "currentValue": 372,
         "previousValue": 717,
-        "delta": -346,
-        "growthRate": -0.4826,
+        "delta": -345,
+        "growthRate": -0.4812,
         "available": true
       },
       "relevanceKeywords": [
@@ -860,115 +519,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7201841110",
+      "id": "https://openalex.org/W7201968369",
       "kind": "paper",
-      "title": "What You're Holding: The Case for Nervous System-Informed Object Design",
-      "summary": "This working paper proposes a novel framework for designing everyday physical objects to support autonomic nervous system regulation. Drawing on affective neuroscience, somatic psychology, embodied cognition, and Stephen Porges' Polyvagal Theory, the author argues that all objects engage the human nervous system through touch, form, and behavioral affordances—whether or not these effects were intentionally designed. The paper identifies three primary regulatory pathways accessible through physical objects: tactile input (through mechanoreceptors and C-tactile afferents), breathing (through vag",
-      "url": "https://doi.org/10.5281/zenodo.21831447",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title": "Chronic Smartphone Exposure as a Behavioral Science Problem: Toward a Life-Course Agenda for Health Research",
+      "summary": "Abstract Smartphones are now woven into everyday behavior across development, yet much of the evidence linking digital technology to health relies on broad exposure categories, sparse measurement, and age-siloed literatures. As a result, current research is poorly positioned to evaluate chronic smartphone exposure as a device-specific, developmentally situated phenomenon. This commentary does not argue that smartphones are inherently harmful or beneficial, nor does it claim that smartphone use causes long-term cognitive decline. Instead, it argues that existing research designs are insufficien",
+      "url": "https://doi.org/10.1007/s41347-026-00699-z",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Journal of Technology in Behavioral Science",
       "authors": [
-        "Nikkia Gumbs"
+        "Sam Bibat"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21831447"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7197013966",
-      "kind": "paper",
-      "title": "Clinical and immunological correlates of elevated age-adjusted QAlb in anti-NMDAR encephalitis",
-      "summary": "Background Anti-NMDAR encephalitis is a common form of autoimmune encephalitis with marked clinical heterogeneity. The cerebrospinal fluid (CSF)/serum albumin quotient (QAlb) is a clinically accessible marker reflecting blood-CSF barrier (BCB) function. However, the clinical significance of elevated age-adjusted QAlb in anti-NMDAR encephalitis remains unclear. Methods We retrospectively enrolled 103 patients with anti-NMDAR encephalitis and classified them into Elevated QAlb and Normal QAlb groups according to whether measured QAlb exceeded its age-adjusted upper reference limit (Qlim). Clinic",
-      "url": "https://doi.org/10.3389/fnhum.2026.1914297",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Human Neuroscience",
-      "authors": [
-        "Binting Liu",
-        "Yuqian Zhang",
-        "Yifang Ma",
-        "Xiaojiao Ci",
-        "Jie Lu"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1914297/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7196991364",
-      "kind": "paper",
-      "title": "Psychological distress in stroke patients: latent class analysis and influencing factors",
-      "summary": "Background Psychological distress is common in stroke patients and adversely affects rehabilitation and quality of life. However, the heterogeneity of this distress remains underexplored. Aim This study aimed to explore the latent categories of psychological distress in patients with stroke and analyze its influencing factors. Methods A cross-sectional study was conducted using a convenience sample of 417 patients with stroke in a tertiary hospital in Zunyi from July to November 2024. Socio-demographic information and psychological distress of participants were obtained using a general informa",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1882641",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Psychiatry",
-      "authors": [
-        "Lingjun Luo",
-        "Yunmei Guo",
-        "Weiyan Tian",
-        "Linfei Li",
-        "Xianjuan Gou"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1882641/pdf"
+        "url": "https://link.springer.com/content/pdf/10.1007/s41347-026-00699-z.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1000,22 +563,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7196941439",
+      "id": "https://openalex.org/W7201994683",
       "kind": "paper",
-      "title": "When mild impairment is not safe: mini-mental state examination scores of ≤21 are associated with emergency response failure",
-      "summary": "Introduction Unrecognized emergency-response deficits contribute to preventable harm and loss of independence in older adults with cognitive decline. Although the Mini-Mental State Examination (MMSE) is widely used to assess global cognition, clinicians often use MMSE scores to inform judgments about everyday functioning. However, the relationship between MMSE performance and emergency-response ability remains unclear. The Test of Executive Functioning in an Emergency (TEFE) is a brief, performance-based assessment that evaluates a patient’s ability to relay critical information and contact em",
-      "url": "https://doi.org/10.3389/fnagi.2026.1916712",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
+      "title": "“It is Just Too Overwhelming and Constant”: Environmental Influences on Anxiety and Depression in Autistic Young People",
+      "summary": "PURPOSE: Autistic people experience high rates of anxiety and depression, yet an evidence-based understanding of how and why these difficulties first develop is lacking. By centring autistic young people's accounts, this study aims to understand how interactions between autistic people and their environment throughout childhood and adolescence give rise to anxiety and depression. METHODS: Twenty autistic young people aged 10-18 and 30 parents of autistic young people aged 5-18 completed semi-structured qualitative interviews about experiences of anxiety and depression. RESULTS: Framework Analy",
+      "url": "https://doi.org/10.1007/s10803-026-07463-5",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Journal of Autism and Developmental Disorders",
       "authors": [
-        "Howard Kim",
-        "Caitlyn Parker",
-        "Jennifer Severance",
-        "April Wiechmann"
+        "Sarah Hampton",
+        "Will Mandy",
+        "Reesha Zahir",
+        "Odette Miller",
+        "Susannah Carter"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1916712/pdf"
+        "url": "https://link.springer.com/content/pdf/10.1007/s10803-026-07463-5.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1031,7 +595,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "neuroscience"
+        "mental health"
       ],
       "signalScore": 12,
       "access": {
@@ -1047,19 +611,65 @@
       }
     },
     {
-      "id": "https://openalex.org/W7108477535",
+      "id": "https://openalex.org/W7201974444",
       "kind": "paper",
-      "title": "Lunch Break Lullaby™ A Physiology-First Micro-Regulation Tool for Workplace Stress Reduction",
-      "summary": "Lunch Break Lullaby (LBL) is a novel, passive auditory micro-intervention designed to support mid-day autonomic recovery in high-stress workplace environments. Unlike meditation, mindfulness, coaching, or clinical therapeutic practices—which require attentional control, cognitive effort, or emotional engagement—LBL leverages bottom-up sensory mechanisms to reduce sympathetic activation and promote parasympathetic dominance. Drawing on evidence from affective neuroscience, polyvagal theory, auditory entrainment, music cognition, and occupational stress research, this paper proposes a biological",
-      "url": "https://doi.org/10.5281/zenodo.17806722",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "title": "Analysis of stigma toward mental disorders among professionals, families, and the general population in Spain",
+      "summary": "Stigma toward individuals with severe mental disorders remains a major barrier to social inclusion and recovery. Although widely studied, fewer investigations have comparatively examined attitudes across key social agents (professionals, family members, and the general population) while controlling relevant sociodemographic variables. An ex post facto, cross-sectional, descriptive-comparative design was conducted with 665 participants in Spain: general population (n = 398), family members (n = 142), and mental health professionals (n = 125). The Community Attitudes toward the Mentally Ill (CAM",
+      "url": "https://doi.org/10.1080/00207411.2026.2705597",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "International Journal of Mental Health",
+      "authors": [
+        "Álvaro Moraleda Ruano",
+        "Diego Galán Casado",
+        "María García Pérez"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/00207411.2026.2705597?needAccess=true"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7103884738",
+      "kind": "paper",
+      "title": "SYNDROME HIPPOCAMPE",
+      "summary": "Genèse de cet essai, en trois strates Croire à l’harmonie des immeubles rectilignes de béton révélait une carence en savoir académique ; adhérer spontanément à l’uniformité comme forme de cohérence révélait l’exercice d’un biopouvoir au sens foucaldien ; imposer des portes quasiment invisibles par un « règlement de copropriété » révélait l’exercice du biopouvoir spatial, celui inscrit dans la loi du 10 juillet 1965 ; et ces deux phénomènes mettaient en évidence la relation pouvoir‑savoir. En premier, une classe sociale ; en second, un règlement de copropriété. Mais pour comprendre vraiment ce ",
+      "url": "https://doi.org/10.5281/zenodo.17517374",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
       "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Gumbs, Nikkia"
+        "GEMINET"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.17806722"
+        "url": "https://doi.org/10.5281/zenodo.17517374"
       },
       "metrics": {
         "citedByCount": 0
@@ -1091,19 +701,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7201855125",
+      "id": "https://openalex.org/W7201870275",
       "kind": "paper",
-      "title": "Ontological literacy: a pragmatic framework to foster ontological diversity in policy, research and education",
-      "summary": "<ns5:p>Background Policy, research, and education in the EU rely on secular-scientific ontologies, creating an “ontological blindness” that excludes diverse worldviews and more-than-human agency. Current scholarship lacks practical tools to operationalize ontology in decision-making domains, limiting responsiveness to ontological power imbalances and epistemological diversity. Methods This study employs an interdisciplinary theoretical synthesis drawing from philosophy, anthropology, neuroscience, political ecology, and critical pedagogy. Through a comprehensive literature review and peer-refi",
-      "url": "https://doi.org/10.12688/openreseurope.24697.1",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Open Research Europe",
+      "title": "Transdiagnostic symptoms of psychopathology interact with changes in environmental uncertainty",
+      "summary": "Abstract Uncertainty is a potential driver of poor mental health outcomes, and uncertainty is mounting across domains of daily life. It remains unclear how symptoms of anxiety and depression emerge in response to uncertainty in real-life contexts. The current study investigated how heightened environmental uncertainty interacts with intolerance of uncertainty (IU) to influence mental health symptoms. A total of 301 participants concurrently reported current symptoms of anxiety, depression and IU during higher environmental uncertainty ( t 2) and retrospectively recalled symptoms from a prior p",
+      "url": "https://doi.org/10.1038/s41598-026-61219-w",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Scientific Reports",
       "authors": [
-        "Ana Fernández-Aballí Altamirano"
+        "Friederike Elisabeth Hedley",
+        "Claudia Lage",
+        "Nimrod Hertz‐Palmor",
+        "Tim Sandhu",
+        "Susanne Schweizer"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.12688/openreseurope.24697.1"
+        "url": "https://www.nature.com/articles/s41598-026-61219-w_reference.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1119,7 +733,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "neuroscience"
+        "mental health"
       ],
       "signalScore": 12,
       "access": {
@@ -1135,22 +749,21 @@
       }
     },
     {
-      "id": "https://openalex.org/W7196956048",
+      "id": "https://openalex.org/W7201963088",
       "kind": "paper",
-      "title": "Mitochondrial transplantation for delirium superimposed on dementia: from pathogenic mechanisms to clinical translation challenges",
-      "summary": "Delirium Superimposed on Dementia (DSD) is a common neuropsychiatric disorder in hospitalized elderly populations with poor prognosis, which can accelerate cognitive decline and increase mortality. Despite its clinical significance, there is a lack of effective therapeutic methods in clinical practice. Mitochondrial dysfunction, characterized by impaired energy metabolism, excessive reactive oxygen species (ROS) production and neuroinflammation activation, has been suggested as a potentially critical pathogenic link in DSD. As an emerging organelle-based therapy, mitochondrial transplantation ",
-      "url": "https://doi.org/10.3389/fnagi.2026.1885815",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
+      "title": "Evolution of mental health information-seeking behavior: a longitudinal text mining analysis from the pre-pandemic to the COVID-19 endemic era",
+      "summary": "Abstract This study investigates the longitudinal evolution of healthcare consumers’ information-seeking behavior regarding mental health issues, specifically depression, across the pre-pandemic (2018), peak-pandemic (2022), and post-pandemic endemic (2025) eras. Utilizing a large-scale dataset from South Korea’s major search portals, we employed advanced text mining techniques, including word frequency, TF-IDF, and Bigram analysis, to identify shifting consumer interests and evolving psychological needs. The results reveal that while “Depression” and “Treatment” remained primary concerns thro",
+      "url": "https://doi.org/10.1057/s41599-026-08632-8",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Humanities and Social Sciences Communications",
       "authors": [
-        "Weiwei Hu",
-        "Yue He",
-        "Qiaoling Peng",
-        "Fang Sun"
+        "Lina Wen",
+        "Jebum Kim",
+        "SangYoon Lim"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1885815/pdf"
+        "url": "https://www.nature.com/articles/s41599-026-08632-8_reference.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1166,7 +779,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "neuroscience"
+        "mental health"
       ],
       "signalScore": 12,
       "access": {
@@ -1182,67 +795,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7197025250",
+      "id": "https://openalex.org/W7201972084",
       "kind": "paper",
-      "title": "Protein C activity may reflect endogenous anticoagulant balance and is associated with stroke severity and functional outcomes in acute ischemic stroke",
-      "summary": "Background Aging is associated with a shift toward a prothrombotic state, partly driven by alterations in endogenous anticoagulant pathways. Protein C is a key component of this pathway, but the clinical relevance of variation in protein C activity for ischemic stroke has not been fully established. We investigated whether variation in protein C activity is associated with stroke phenotypes, stroke severity, and functional outcomes in acute ischemic stroke (AIS). Methods We analyzed a prospective registry of patients with AIS admitted between 2016 and 2021. Protein C activity measured at admis",
-      "url": "https://doi.org/10.3389/fnagi.2026.1872982",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Soo-Hyun Park",
-        "Minwoo Lee",
-        "Yeo Jin Kim",
-        "Yeo Jin Kim",
-        "Dongwon Lee"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1872982/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7201872130",
-      "kind": "paper",
-      "title": "Lunch Break Lullaby™ A Physiology-First Micro-Regulation Tool for Workplace Stress Reduction",
-      "summary": "Lunch Break Lullaby (LBL) is a novel, passive auditory micro-intervention designed to support mid-day autonomic recovery in high-stress workplace environments. Unlike meditation, mindfulness, coaching, or clinical therapeutic practices—which require attentional control, cognitive effort, or emotional engagement—LBL leverages bottom-up sensory mechanisms to reduce sympathetic activation and promote parasympathetic dominance. Drawing on evidence from affective neuroscience, polyvagal theory, auditory entrainment, music cognition, and occupational stress research, this paper proposes a biological",
-      "url": "https://doi.org/10.5281/zenodo.21831197",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "title": "SYNDROME HIPPOCAMPE",
+      "summary": "Genèse de cet essai, en trois strates Croire à l’harmonie des immeubles rectilignes de béton révélait une carence en savoir académique ; adhérer spontanément à l’uniformité comme forme de cohérence révélait l’exercice d’un biopouvoir au sens foucaldien ; imposer des portes quasiment invisibles par un « règlement de copropriété » révélait l’exercice du biopouvoir spatial, celui inscrit dans la loi du 10 juillet 1965 ; et ces deux phénomènes mettaient en évidence la relation pouvoir‑savoir. En premier, une classe sociale ; en second, un règlement de copropriété. Mais pour comprendre vraiment ce ",
+      "url": "https://doi.org/10.5281/zenodo.21852839",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
       "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Nikkia Gumbs"
+        "GEMINET"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21831197"
+        "url": "https://doi.org/10.5281/zenodo.21852839"
       },
       "metrics": {
         "citedByCount": 0
@@ -1341,16 +906,16 @@
         "url": "https://www.nature.com/articles/nrn3475.pdf"
       },
       "metrics": {
-        "citedByCount": 7954
+        "citedByCount": 7956
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 422,
-        "previousValue": 624,
-        "delta": -202,
-        "growthRate": -0.3237,
+        "currentValue": 425,
+        "previousValue": 623,
+        "delta": -198,
+        "growthRate": -0.3178,
         "available": true
       },
       "relevanceKeywords": [
@@ -1388,22 +953,436 @@
         "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
       },
       "metrics": {
-        "citedByCount": 11403
+        "citedByCount": 11404
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 521,
+        "currentValue": 522,
         "previousValue": 1208,
-        "delta": -687,
-        "growthRate": -0.5687,
+        "delta": -686,
+        "growthRate": -0.5679,
         "available": true
       },
       "relevanceKeywords": [
         "neuroscience"
       ],
       "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2138825607",
+      "kind": "paper",
+      "title": "Image processing with ImageJ",
+      "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+      "url": "https://dspace.library.uu.nl/handle/1874/204900",
+      "publishedAt": "2004-01-01T00:00:00.000Z",
+      "source": "Data Archiving and Networked Services (DANS)",
+      "authors": [
+        "Michael D. Abràmoff",
+        "Paulo Magalhães",
+        "Sunanda J. Ram"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://dspace.library.uu.nl/handle/1874/204900"
+      },
+      "metrics": {
+        "citedByCount": 11925
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1,
+        "previousValue": 215,
+        "delta": -214,
+        "growthRate": -0.9953,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2158553737",
+      "kind": "paper",
+      "title": "Emotion Circuits in the Brain",
+      "summary": "The field of neuroscience has, after a long period of looking the other way, again embraced emotion as an important research area. Much of the progress has come from studies of fear, and especially fear conditioning. This work has pinpointed the amygdala as an important component of the system involved in the acquisition, storage, and expression of fear memory and has elucidated in detail how stimuli enter, travel through, and exit the amygdala. Some progress has also been made in understanding the cellular and molecular mechanisms that underlie fear conditioning, and recent studies have also ",
+      "url": "https://doi.org/10.1146/annurev.neuro.23.1.155",
+      "publishedAt": "2000-03-01T00:00:00.000Z",
+      "source": "Annual Review of Neuroscience",
+      "authors": [
+        "Joseph E. LeDoux"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 8440
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 175,
+        "previousValue": 262,
+        "delta": -87,
+        "growthRate": -0.3321,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7202037368",
+      "kind": "paper",
+      "title": "Pelvic Floor Dysfunction and Gut-Brain Axis: Implications for Multidisciplinary Diagnosis and Treatment in Gynecology, Gastroenterology, and General Surgery",
+      "summary": "Pelvic floor dysfunction is a prevalent multifactorial condition that significantly impairs quality of life. Traditionally managed from a compartmentalized perspective, recent evidence highlights the connection between the pelvic floor and the gut-brain axis. This review analyzes the pathophysiological association between both and proposes an integrated diagnostic and therapeutic approach involving gynecology, gastroenterology, and general surgery. A narrative review of the literature was conducted. Bidirectional communication between the central nervous system, enteric nervous system, and gut",
+      "url": "https://doi.org/10.47460/minerva.v7i20.338",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "source": "Minerva",
+      "authors": [
+        "C Calero",
+        "Genesis Guadalupe Cedeno Bazurto",
+        "Carla Emilia Parra Moran",
+        "Juan Geancarlo Tapia Olarte"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://minerva.autanabooks.com/index.php/Minerva/article/download/338/774"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201956864",
+      "kind": "paper",
+      "title": "Revisiting Empathy: A Model of Empathic Wisdom to Support Effective Counseling and Reduce Counselor Burnout",
+      "summary": "ABSTRACT Empathy is a core component of effective counseling, influencing both therapeutic relationships and counselor well‐being. The author extends Clark's integral model of empathy by expanding the subjective empathy modality and introduces the mindful empathic engagement (MEE) model as an extension of Clark's conceptualization of empathy. MEE integrates insights from neuroscience and counseling practice to illustrate how empathy operates through cognitive, affective, and somatic processes. The model highlights pathways leading to compassionate engagement or empathic distress, emphasizing t",
+      "url": "https://doi.org/10.1002/johc.70059",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "The Journal of Humanistic Counseling",
+      "authors": [
+        "Rakesh K. Maurya"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201971832",
+      "kind": "paper",
+      "title": "Dynamic Tension Between the Microbiome and the Macrobiome",
+      "summary": "Two largely separate research traditions have transformed our understanding of what shapes human cognition. The first, microbiota–gut–brain axis research, has established that the gut microbiome contributes causally to affective and cognitive processing through neuroactive metabolites, vagal signalling, and immune modulation. The second, cultural niche construction and extended cognition research, has shown that symbolic systems — language, institutions, and cumulative culture — scaffold the architecture of human thought. No framework has yet integrated these two lines of evidence within a com",
+      "url": "https://doi.org/10.65649/5usm8j7i",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Longevity Horizon",
+      "authors": [
+        "Jaba Tkemaladze"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://longevity.ge/longhoriz/article/download/204/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201987650",
+      "kind": "paper",
+      "title": "Expertise-related modulation of posterior superior temporal sulcus activity during observation of dog–human training interactions",
+      "summary": "Abstract Dog-training experts often evaluate dog–human interactions accurately, but the neural basis of this expertise is not well understood. Previous studies have shown that higher activation in the posterior superior temporal sulcus (pSTS) is a feature of dog experts. The pSTS is known to be related to social communication and the perception of expertise-related movement patterns. However, pSTS activation related to both of these factors in natural dog-human communication scenes remains unclear. In this study, pSTS activity in dog experts and non-experts was measured while participants obse",
+      "url": "https://doi.org/10.1038/s41598-026-64357-3",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Scientific Reports",
+      "authors": [
+        "Rina Ouchi",
+        "Kazuyuki Samejima",
+        "Miho Nagasawa",
+        "Takefumi Kikusui",
+        "Takashi Nakano"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s41598-026-64357-3_reference.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neural"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7201955154",
+      "kind": "paper",
+      "title": "Feeling Heard by a Machine: The Psychology of Perceived Understanding in AI Conversations",
+      "summary": "The recent advancements in conversational artificial intelligence have developed systems that are able to mimic human conversation, which can create the perception of hearing or understanding from a machine. This situation poses significant psychological issues about the nature of how human understanding is generated with AI, even though it doesn't have a real brain. What are the psychological mechanisms in relation to a perceived understanding when engaging in AI conversation and what are the key interactional factors that help create this experience? A conceptual mixed-methods approach was u",
+      "url": "https://doi.org/10.67785/pjpp.2.166",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "source": "Pakistan Journal of Positive Psychology",
+      "authors": [
+        "Muhammad Muaavia Khalid",
+        "Binish Nawaz",
+        "Faiza Abdul Latif",
+        "Sadia Sharif"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://pjpp.org/index.php/pjpp/article/download/166/87"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W1996024251",
+      "kind": "paper",
+      "title": "Copper-Zinc Superoxide Dismutase (SOD1) Is Released by Microglial Cells and Confers Neuroprotection against 6-OHDA Neurotoxicity",
+      "summary": "Microglial-neuronal interactions are essential for brain physiopathology. In this framework, recent data have changed the concept of microglia from essentially macrophagic cells to crucial elements in maintaining neuronal homeostasis and function through the release of neuroprotective molecules. Using proteomic analysis, here we identify copper-zinc superoxide dismutase (SOD1) as a protein produced and released by cultured rat primary microglia. Evidence for a neuroprotective role of microglia-derived SOD1 resulted from experiments in which primary cerebellar granule neurons (CGNs) were expose",
+      "url": "https://doi.org/10.1159/000337115",
+      "publishedAt": "2012-05-09T00:00:00.000Z",
+      "source": "Neurosignals",
+      "authors": [
+        "Elisabetta Polazzi",
+        "Ilaria Mengoni",
+        "Marco Caprini",
+        "Emiliano Peña‐Altamira",
+        "Ewelina Kurtys"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.karger.com/Article/Pdf/337115"
+      },
+      "metrics": {
+        "citedByCount": 9017
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 140,
+        "delta": -140,
+        "growthRate": -1,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2024165284",
+      "kind": "paper",
+      "title": "Tensor Decompositions and Applications",
+      "summary": "This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or N-way array. Decompositions of higher-order tensors (i.e., N-way arrays with $N \\geq 3$) have applications in psycho-metrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value decomposition: CANDECOMP/PARAFAC (CP) decomposes a tenso",
+      "url": "https://doi.org/10.1137/07070111x",
+      "publishedAt": "2009-08-05T00:00:00.000Z",
+      "source": "SIAM Review",
+      "authors": [
+        "Tamara G. Kolda",
+        "Brett W. Bader"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 10539
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 381,
+        "previousValue": 819,
+        "delta": -438,
+        "growthRate": -0.5348,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 8,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
