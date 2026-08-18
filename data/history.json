@@ -1189,5 +1189,102 @@
       }
     ],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-08-18T21:10:29.290Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 0
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Support-Vector Networks",
+        "url": "https://doi.org/10.1023/a:1022627411411",
+        "publishedAt": "1995-09-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2317,
+          "previousValue": 2085,
+          "delta": 232,
+          "growthRate": 0.1113,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "The Human Experience Framework: Clinical Manual (Version 3.0)",
+        "url": "https://doi.org/10.5281/zenodo.19157696",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 4,
+          "previousValue": 0,
+          "delta": 4,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Altered thalamo–prefrontal synchrony dynamics during spatial working memory task performance in a SETD1A loss-of-function mouse model of schizophrenia predisposition",
+        "url": "https://doi.org/10.1038/s41386-026-02532-w",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
