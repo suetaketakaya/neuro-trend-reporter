@@ -5,22 +5,51 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "46673809",
+      "id": "47520220",
       "kind": "startup_hn_signal",
-      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://calquio.com/finance/compound-interest",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46673809",
-      "publishedAt": "2026-01-19T00:50:20.000Z",
+      "url": "https://github.com/jonwiggins/optio",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47520220",
+      "publishedAt": "2026-03-25T17:10:21.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 314,
-        "comments": 433
+        "points": 88,
+        "comments": 60
       },
-      "signalScore": 599,
+      "signalScore": 113,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49372994",
+      "kind": "startup_hn_signal",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49372994",
+      "publishedAt": "2026-08-20T11:03:29.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 48,
+        "comments": 27
+      },
+      "signalScore": 79,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -46,39 +75,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 9,
-        "comments": 13
+        "points": 10,
+        "comments": 14
       },
-      "signalScore": 45.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49227024",
-      "kind": "startup_hn_signal",
-      "title": "Ask HN: How do you go from writing code to deploying with agents?",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=49227024",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49227024",
-      "publishedAt": "2026-08-08T23:54:42.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 17,
-        "comments": 13
-      },
-      "signalScore": 41.5,
+      "signalScore": 47,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -185,22 +185,51 @@
       }
     },
     {
-      "id": "49346284",
+      "id": "49377281",
       "kind": "startup_hn_signal",
-      "title": "Show HN: K7d – Fork live Kubernetes clusters in <1s –> GRPO-train AI on infra",
+      "title": "Ability Neurotech Infrared BCI to Begin Human Trials",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://spectrum.ieee.org/ability-neurotech-bci-human-trial",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49377281",
+      "publishedAt": "2026-08-20T17:03:41.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neurotech"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 29,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49363138",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Flow – Claude Code CLI for feature planning → review/testing → merge",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/katakate/k7d",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49346284",
-      "publishedAt": "2026-08-18T14:38:58.000Z",
+      "url": "https://github.com/gavingolden/flow/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49363138",
+      "publishedAt": "2026-08-19T15:47:38.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 3,
-        "comments": 1
+        "points": 2,
+        "comments": 0
       },
-      "signalScore": 30.5,
+      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -868,37 +897,6 @@
       "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
       "discussionUrl": "https://news.ycombinator.com/item?id=46814541",
       "publishedAt": "2026-01-29T18:43:16.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "46457133",
-      "kind": "startup_hn_signal",
-      "title": "Silicon Chips on the Brain: A New Generation of Brain-Computer Interface",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.engineering.columbia.edu/about/news/silicon-chips-brain-researchers-announce-new-generation-brain-computer-interface",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46457133",
-      "publishedAt": "2026-01-01T19:23:16.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "brain-computer interface",

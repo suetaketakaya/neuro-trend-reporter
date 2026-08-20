@@ -21,20 +21,20 @@
         "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
       },
       "metrics": {
-        "citedByCount": 33667
+        "citedByCount": 33684
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 2317,
-        "previousValue": 2085,
-        "delta": 232,
-        "growthRate": 0.1113,
+        "currentValue": 2335,
+        "previousValue": 2084,
+        "delta": 251,
+        "growthRate": 0.1204,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 236,
+      "signalScore": 255,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -48,19 +48,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203617487",
+      "id": "https://openalex.org/W7203715841",
       "kind": "paper",
-      "title": "A Review of Medical Applications of Brain-Computer Interface Technology",
-      "summary": "Brain–computer interfaces (BCIs) are opening new avenues for treating neurological disorders and physical impairments, yet clinical practice continues to be split between invasive and non-invasive strategies. This work approaches BCI medical applications from three angles: a systematic review of the principal literature, a comparative case analysis contrasting invasive techniques (electrocorticography, microelectrode arrays) with non-invasive ones (electroencephalography, functional near-infrared spectroscopy), and an interdisciplinary assessment that draws together neuroscience, engineering, ",
-      "url": "https://doi.org/10.54254/2753-8818/2026.hz36236",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Theoretical and Natural Science",
+      "title": "Hallucination versus Dream Theoretical Insights on Attribution Consciousness and Temporal Flow",
+      "summary": "This theoretical study analyzes the similarities and differences between hallucinations and dreams from the perspective of cognitive psychology and cognitive neuroscience, focusing on three dimensions: attribution, awareness, and temporal structure. We examine how perceptual experiences are internally generated and attributed either to external reality or to imagination. We argue that both phenomena involve stimulus-independent perceptions, yet they diverge in context and structure. Hallucinations typically occur in full wakefulness, appear as discrete sensory events overlaid on reality, and r",
+      "url": "https://doi.org/10.5281/zenodo.22003286",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Yuzhang Wu"
+        "Ahmad Drissi"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.54254/2753-8818/2026.hz36236"
+        "url": "https://doi.org/10.5281/zenodo.22003286"
       },
       "metrics": {
         "citedByCount": 0
@@ -77,11 +77,10 @@
       },
       "relevanceKeywords": [
         "neuroscience",
-        "brain-computer interface",
-        "brain",
+        "cognitive neuroscience",
         "neural"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -95,23 +94,66 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203641422",
+      "id": "https://openalex.org/W7203665341",
       "kind": "paper",
-      "title": "Neuropharmacology of Nicotine Addiction and Therapeutic Strategies for Smoking Cessation",
-      "summary": "Tobacco use remains one of the leading preventable causes of morbidity and mortality worldwide, contributing to more than 7 million deaths annually and imposing a substantial economic burden on healthcare systems and global productivity. The addictive properties of tobacco are primarily mediated by nicotine, which exerts its effects through neuronal nicotinic acetylcholine receptors (nAChRs) within brain reward circuits. Among these receptor subtypes, α4β2-containing nAChRs play a central role in nicotine dependence by regulating dopaminergic signaling associated with reinforcement, craving, w",
-      "url": "https://doi.org/10.3390/biology15161412",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Biology",
+      "title": "Hallucination versus Dream Theoretical Insights on Attribution Consciousness and Temporal Flow",
+      "summary": "This theoretical study analyzes the similarities and differences between hallucinations and dreams from the perspective of cognitive psychology and cognitive neuroscience, focusing on three dimensions: attribution, awareness, and temporal structure. We examine how perceptual experiences are internally generated and attributed either to external reality or to imagination. We argue that both phenomena involve stimulus-independent perceptions, yet they diverge in context and structure. Hallucinations typically occur in full wakefulness, appear as discrete sensory events overlaid on reality, and r",
+      "url": "https://doi.org/10.5281/zenodo.22003287",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Ahmed A. Hefny",
-        "Rahul C. Karuturi",
-        "Subha Kalyaanamoorthy",
-        "Praveen P. N. Rao",
-        "Aravindhan Ganesan"
+        "Ahmad Drissi"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.3390/biology15161412"
+        "url": "https://doi.org/10.5281/zenodo.22003287"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "cognitive neuroscience",
+        "neural"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203681272",
+      "kind": "paper",
+      "title": "Urban environmental exposure as a factor in adaptive neuromodulation: a conceptual framework",
+      "summary": "Urban neuromodulation and neurofeedback systems have become increasingly adaptive and closed-loop. However, they still focus primarily on brain signals and often ignore the urban areas where these signals happen. The framework introduced in this study integrates EEG, physiological measures, indicators of environmental exposures, and GIS spatial analysis. Our goal is to incorporate Local Climate Zone classification into one unified cycle of user-specific interpretation. Contrary to the typical methodology in digital exposomes and environmental neuroscience, where the individual-to-environment r",
+      "url": "https://doi.org/10.3389/fnhum.2026.1939863",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Frontiers in Human Neuroscience",
+      "authors": [
+        "Aurela Qamili",
+        "Anja Cenameri"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1939863/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -129,10 +171,9 @@
       "relevanceKeywords": [
         "neuroscience",
         "neuromodulation",
-        "brain",
-        "neural"
+        "brain"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -196,39 +237,38 @@
       }
     },
     {
-      "id": "https://openalex.org/W7140027611",
+      "id": "https://openalex.org/W7203710922",
       "kind": "paper",
-      "title": "The Human Experience Framework: Clinical Manual (Version 3.0)",
-      "summary": "This manual presents the Human Experience Framework (HEF), a neuroscience-grounded classification system for understanding human psychological suffering through the lens of predictive processing, primary affect systems, distributed functional brain networks, and somatic experience. The HEF is the clinical classification layer of the Human Experience System (HES; DeGarbo, 2026), the transdisciplinary theory it operationalizes. The framework addresses a documented limitation of existing classification systems: the DSM-5-TR and ICD-11 organize suffering by symptom clusters derived from committee ",
-      "url": "https://doi.org/10.5281/zenodo.19157696",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Open MIND",
+      "title": "Predictive Processing and Narrative Suspense: Toward a Computational Neuroaesthetics of Plot",
+      "summary": "This paper proposes a theoretical synthesis between the predictive processing framework in computational neuroscience — most rigorously formalized as Karl Friston's free energy principle — and the literary phenomenon of narrative suspense. We argue that suspense is not merely a felt quality of certain texts but a measurable consequence of how narrative structures modulate prediction error across a reader's generative model of unfolding events. Drawing on empirical work in neuroaesthetics, psycholinguistics, and narratology, we develop a model in which classical plot devices — foreshadowing, wi",
+      "url": "https://doi.org/10.5281/zenodo.21990599",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Justin DeGarbo"
+        "Yathish Kumar S"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://bioportal.bioontology.org/ontologies/CXSO"
+        "url": "https://doi.org/10.5281/zenodo.21990599"
       },
       "metrics": {
-        "citedByCount": 4
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 4,
+        "currentValue": 0,
         "previousValue": 0,
-        "delta": 4,
-        "growthRate": 1,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
         "neuroscience",
-        "brain",
-        "neural"
+        "computational neuroscience"
       ],
-      "signalScore": 24,
+      "signalScore": 20,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -242,19 +282,73 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203642517",
+      "id": "https://openalex.org/W7203685717",
       "kind": "paper",
-      "title": "Two hypotheses about consciousness: brain and spinal cord",
-      "summary": "Overview Consciousness is one of the most complex and unresolved subjects in neuroscience. Although modern neuroscience has identified many brain regions and neural processes associated with perception, awareness, attention, memory, decision-making, and voluntary movement, the precise biological basis of subjective conscious experience remains an open scientific question. This research proposal presents two related hypotheses concerning the possible relationship between the brain, spinal cord, and consciousness. The purpose of these hypotheses is not to claim that the existing scientific under",
-      "url": "https://doi.org/10.5281/zenodo.21983312",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title": "Altered cognitive performance is associated with auditory cortex functional connectivity in patients with unilateral sensorineural hearing loss",
+      "summary": "Sensorineural hearing loss (SNHL) has been suggested to be closely associated with cognitive decline, yet the underlying neural mechanisms remain largely unclear. This study sought to explore the potential association between cognitive function and auditory cortex functional connectivity in patients with unilateral sensorineural hearing loss (USNHL) and investigate the possible neural mechanisms underlying subtle cognitive decline. Sixty patients with moderate-to-severe USNHL (disease duration ≥3 years; 30 with right-sided USNHL and 30 with left-sided USNHL) and 30 age-matched normal-hearing c",
+      "url": "https://doi.org/10.3389/fnins.2026.1902588",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
       "authors": [
-        "Tanmay Marathe"
+        "Junming Chen",
+        "Bochen Wang",
+        "Youjun Yu",
+        "Xiaowei Zhou",
+        "Yuanxin Zhao"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21983312"
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1902588/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203711017",
+      "kind": "paper",
+      "title": "Functional Identification of Language-Responsive Sensors in Individual Participants in MEG Investigations",
+      "summary": "Making meaningful inferences about the functional architecture of the language system requires the ability to refer to the same neural units across individuals and studies. Traditional brain imaging approaches align and average brains together in a common space. However, lateral frontal and temporal cortices, where the language system resides, are characterized by high structural and functional inter-individual variability, which reduces the sensitivity and functional resolution of group-averaging analyses. This issue is compounded by the fact that language areas lay in close proximity to regi",
+      "url": "https://doi.org/10.1152/jn.00628.2025",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of Neurophysiology",
+      "authors": [
+        "M. Huybrechts",
+        "Rose Bruffaerts",
+        "Alvincé Pongos",
+        "Cory Shain",
+        "Benjamin Lipkin"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1152/jn.00628.2025"
       },
       "metrics": {
         "citedByCount": 0
@@ -304,16 +398,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 7742
+        "citedByCount": 7744
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 176,
+        "currentValue": 178,
         "previousValue": 341,
-        "delta": -165,
-        "growthRate": -0.4839,
+        "delta": -163,
+        "growthRate": -0.478,
         "available": true
       },
       "relevanceKeywords": [
@@ -336,73 +430,21 @@
       }
     },
     {
-      "id": "https://openalex.org/W7126237624",
+      "id": "https://openalex.org/W7203722478",
       "kind": "paper",
-      "title": "Altered thalamo–prefrontal synchrony dynamics during spatial working memory task performance in a SETD1A loss-of-function mouse model of schizophrenia predisposition",
-      "summary": "ABSTRACT Schizophrenia is associated with profound working memory deficits, for which there are no approved treatments. Rare heterozygous null mutations in SETD1A , a gene encoding a key epigenetic regulatory protein, have been definitively linked to increased risk for schizophrenia and neurodevelopmental disorders. To investigate how SETD1A haploinsufficiency impacts the function of circuits supporting working memory, this study examined neural oscillatory synchrony across a network of brain regions critical for spatial working memory (SWM) in mice carrying a loss-of-function allele in the or",
-      "url": "https://doi.org/10.1038/s41386-026-02532-w",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Neuropsychopharmacology",
+      "title": "Diet–gut microbiota–immune–brain interactions in aging: mechanistic pathways and clinical implications",
+      "summary": "With rising life expectancy and global population aging, cognitive decline has become a major and growing public health challenge. Advances in nutritional neuroscience highlight the gut microbiota–immune–brain axis as a key biological pathway through which diet may influence cognitive function during aging. The gut microbiota, a metabolically active ecosystem, responds dynamically to habitual dietary patterns and produces bioactive metabolites capable of modulating immune signaling, neuroinflammation, and neuronal function. Diets rich in microbiota-modulating foods (e.g., dietary fiber, polyph",
+      "url": "https://doi.org/10.3389/fnmol.2026.1847644",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Frontiers in Molecular Neuroscience",
       "authors": [
-        "Sofiya Hupalo",
-        "David A. Kupferschmidt",
-        "Ako Ikegami",
-        "Mia Railing",
-        "Maxym Myroshnychenko"
+        "Maha A. Jarfan",
+        "Karani S. Vimaleswaran",
+        "Anisha Wijeyesekera"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1038/s41386-026-02532-w"
-      },
-      "metrics": {
-        "citedByCount": 1
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural",
-        "cortex"
-      ],
-      "signalScore": 17,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203618394",
-      "kind": "paper",
-      "title": "Role of STX1A in Parkinson’s disease: evidence, mechanistic hypotheses, and translational perspectives",
-      "summary": "Parkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by degeneration of substantia nigra dopaminergic neurons, α-synuclein pathology, and widespread synaptic dysfunction. Syntaxin-1A (STX1A), a presynaptic Qa-SNARE protein, is essential for synaptic vesicle fusion and also interacts with proteins involved in ion-channel regulation and neuronal excitability. Several animal, extracellular-vesicle, and peripheral-blood studies have reported reduced STX1A abundance in PD. However, the available evidence is predominantly cross-sectional and does not establish whether S",
-      "url": "https://doi.org/10.3389/fnagi.2026.1905708",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Rui Xu",
-        "Rui Li",
-        "Hongmei Li",
-        "Qingyun Li",
-        "Yanping Li"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1905708/pdf"
+        "url": "https://doi.org/10.3389/fnmol.2026.1847644"
       },
       "metrics": {
         "citedByCount": 0
@@ -435,19 +477,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203650587",
+      "id": "https://openalex.org/W7203714502",
       "kind": "paper",
-      "title": "ALPHA-ORI-OMEGA THEORY OF EVERYTHING: Mathematical, Ontological, Physical, and Empirical Formulation",
-      "summary": "What if reality does not begin with matter, space, or time—but with the possibility of difference, relation, experience, and transformation? Alpha-ORI-Omega Theory of Everything: Mathematical, Ontological, Physical, and Empirical Formulation presents a unified and explicitly falsifiable framework that seeks to connect pregeometric potentiality, the emergence of spacetime and matter, thermodynamic evolution, biological organization, conscious experience, structural identity, death, persistence, and cosmological closure within a single conceptual architecture. The theory begins with three fundam",
-      "url": "https://doi.org/10.5281/zenodo.21984259",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "title": "A Comprehensive Review of the Glymphatic System and Sleep, Methodological Comparisons, and Future Advancements in Dementia Research",
+      "summary": "Abstract Dementia is the seventh leading cause of death globally, and yet there is no cure for these diseases because of the biological complexity of the brain and the delayed diagnoses of many patients. Several advancements in the field of neuroscience have been made to further understand the brain and its systems, including the groundbreaking discovery of the glymphatic system by Dr. Nedergaard and her team. The glymphatic system supports the brain’s clearance of metabolic waste, including key pathogenic proteins, Tau and Aβ, involved in neurodegeneration. Specifically, it is a specialized p",
+      "url": "https://doi.org/10.5281/zenodo.21987640",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
       "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Javier Jerez Fernández"
+        "Megan Li"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21984259"
+        "url": "https://doi.org/10.5281/zenodo.21987640"
       },
       "metrics": {
         "citedByCount": 0
@@ -480,120 +522,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W4415709756",
+      "id": "https://openalex.org/W7203726047",
       "kind": "paper",
-      "title": "Dissociable Roles of Primary Motor and Supplementary Motor Cortex in Shaping the Neural Drive to Muscle",
-      "summary": "Abstract The primary motor cortex (M1) and supplementary motor area (SMA) are critical for motor execution and planning, yet their distinct causal contributions to modulating the neural drive to muscles remain incompletely understood. To dissociate their roles, we applied inhibitory transcranial magnetic stimulation (TMS) over M1, SMA, or a sham condition in 72 healthy participants and characterized the activity of single motor units from high-density EMG recorded during a sustained isometric contraction. Our results revealed a clear functional divergence. M1 inhibition produced a direct failu",
-      "url": "https://doi.org/10.1152/jn.00014.2026",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Journal of Neurophysiology",
+      "title": "The hippocampal subgranular zone neurogenic niche: a modular perspective on neural stem cell regulation",
+      "summary": "The subgranular zone (SGZ) of the hippocampus represents a principal site of adult neurogenesis and exhibits distinct structural and organizational features. Increasing evidence indicates that neural stem cell (NSC) behavior in the SGZ is not solely determined by intrinsic cellular properties, but is critically shaped by its surrounding neurogenic niche. However, current studies largely describe niche-derived regulatory factors in isolation, and a systematic framework integrating these diverse signals remains lacking. In this review, we propose a structured perspective that links the unique an",
+      "url": "https://doi.org/10.3389/fncel.2026.1887577",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Frontiers in Cellular Neuroscience",
       "authors": [
-        "Yori R. Escalante",
-        "Owen N. Beck",
-        "Yuming Lei"
+        "Tengyu Zhao",
+        "Yuhan Zhou",
+        "Yuhan Zhou",
+        "Pengyu Pan",
+        "Ying Jia"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1152/jn.00014.2026"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural",
-        "cortex"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203596412",
-      "kind": "paper",
-      "title": "Chronic high-altitude exposure is associated with an internally-directed perceptual shift: differential links with attention networks and autonomic regulation",
-      "summary": "Background High-altitude environments impose unique physiological and cognitive demands that may reorganize brain–body communication. Our study investigates whether chronic high-altitude exposure is associated with a shift in perceptual priority toward internally-directed processing, rather than merely modifying external processing speed or accuracy. Methods We recruited 112 Han immigrants residing at high altitude to complete assessments of visual imagery vividness under eyes-open (externally-oriented) and eyes-closed (internally-oriented) conditions, along with attention network tests. We al",
-      "url": "https://doi.org/10.3389/fnins.2026.1901035",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Xia-Qian Jian",
-        "Nian-Nian Wang",
-        "Xiao-Yan Huang",
-        "Rui Su",
-        "Hao Li"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1901035/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203647238",
-      "kind": "paper",
-      "title": "EEG microstate reconfiguration across cognitive states in preschool children with developmental language disorder",
-      "summary": "Introduction Developmental language disorder (DLD) has been associated with atypical neural processing, but it remains unclear whether preschool children with DLD show altered EEG microstate organization across cognitive states. Most microstate studies in clinical populations have focused on resting-state activity, and much less is known about how microstate profiles vary across task contexts in young children. Methods EEG was recorded from preschool children with DLD ( n = 12) and typically developing (TD) children ( n = 22) during three consecutive paradigms: a video-based rest-like viewing ",
-      "url": "https://doi.org/10.3389/fnins.2026.1844934",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Aimin Liang",
-        "Hanxiao Wang",
-        "Yang Shi",
-        "Chunyan Qu",
-        "Zhuang Wei"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1844934/pdf"
+        "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2026.1887577/pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -626,21 +571,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203613447",
+      "id": "https://openalex.org/W7203692110",
       "kind": "paper",
-      "title": "Differential effects of cannabidiol on inhibitory avoidance memory reconsolidation and consolidation are associated with distinct hippocampal proBDNF and BDNF signaling profiles",
-      "summary": "Introduction Cannabidiol (CBD), a major non-psychoactive constituent of Cannabis sativa , exerts pleiotropic effects, including antipsychotic, anxiolytic, and neuroprotective properties, with low toxicity and minimal euphoric effects. Previous studies have demonstrated that CBD alleviates memory impairments associated with pathological conditions such as seizures, reserpine exposure, pneumococcal meningitis, and sepsis. However, its effects on memory processes, particularly inhibitory avoidance (IA) memory reconsolidation and consolidation, remain incompletely understood and inconsistently rep",
-      "url": "https://doi.org/10.3389/fnins.2026.1915561",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
+      "title": "A Comprehensive Review of the Glymphatic System and Sleep, Methodological Comparisons, and Future Advancements in Dementia Research",
+      "summary": "Abstract Dementia is the seventh leading cause of death globally, and yet there is no cure for these diseases because of the biological complexity of the brain and the delayed diagnoses of many patients. Several advancements in the field of neuroscience have been made to further understand the brain and its systems, including the groundbreaking discovery of the glymphatic system by Dr. Nedergaard and her team. The glymphatic system supports the brain’s clearance of metabolic waste, including key pathogenic proteins, Tau and Aβ, involved in neurodegeneration. Specifically, it is a specialized p",
+      "url": "https://doi.org/10.5281/zenodo.21987641",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Wen Dai",
-        "Wan-Ling Huang",
-        "Sherry Shu‐Jung Hu"
+        "Megan Li"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1915561/pdf"
+        "url": "https://doi.org/10.5281/zenodo.21987641"
       },
       "metrics": {
         "citedByCount": 0
@@ -692,16 +635,16 @@
         "url": "https://www.nature.com/articles/nn.2467.pdf"
       },
       "metrics": {
-        "citedByCount": 7530
+        "citedByCount": 7532
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 380,
+        "currentValue": 382,
         "previousValue": 717,
-        "delta": -337,
-        "growthRate": -0.47,
+        "delta": -335,
+        "growthRate": -0.4672,
         "available": true
       },
       "relevanceKeywords": [
@@ -741,16 +684,16 @@
         "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
       },
       "metrics": {
-        "citedByCount": 7615
+        "citedByCount": 7618
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 319,
-        "previousValue": 471,
-        "delta": -152,
-        "growthRate": -0.3227,
+        "currentValue": 321,
+        "previousValue": 472,
+        "delta": -151,
+        "growthRate": -0.3199,
         "available": true
       },
       "relevanceKeywords": [
@@ -771,19 +714,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7203627923",
+      "id": "https://openalex.org/W4414966897",
       "kind": "paper",
-      "title": "Corelating consciousness with enlightenment",
-      "summary": "I would make this a separate paper from earlier consciousness paper, because its central question has shifted from \"How did consciousness arise?\" to \"How did the evolutionary success of self-modelling create a second-order problem requiring regulation of the self itself?\" That distinction gives it a legitimate independent theory status.And importantly, the paper now sits near several established literatures—predictive processing, self-referential processing, social evolution, niche construction, cooperation and contemplative neuroscience—without simply duplicating any one of them. The stronges",
-      "url": "https://doi.org/10.5281/zenodo.21982666",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title": "Evaluating mental health and psychosocial support outcomes of the Self-Efficacy and Knowledge (SEEK) community-based randomized controlled trial in lebanon during active conflict",
+      "summary": "<title>Abstract</title> <bold>Background:</bold> Adolescent girls and young women (AGYW) affected by forced displacement are at high risk of poorer mental health and psychosocial wellbeing due to intersecting stressors. In humanitarian contexts like Lebanon, mental health challenges are exacerbated by protracted crises, including the 2024 war. In response to such challenges, the World Health Organization developed the Self-Efficacy and Knowledge (SEEK) package which is a low-resource, low-intensity community-based intervention designed to improve wellbeing and sexual reproductive health in an ",
+      "url": "https://doi.org/10.1186/s13031-026-00831-z",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "source": "Conflict and Health",
       "authors": [
-        "Rajeev Patil"
+        "Hady Naal",
+        "Asmaa El Dakdouki",
+        "Zahraa Chamseddine",
+        "Veloshnee Govender",
+        "Tania Bosqui"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21982666"
+        "url": "https://doi.org/10.1186/s13031-026-00831-z"
       },
       "metrics": {
         "citedByCount": 0
@@ -796,430 +743,6 @@
         "previousValue": 0,
         "delta": 0,
         "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203596447",
-      "kind": "paper",
-      "title": "Corelating consciousness with enlightenment",
-      "summary": "I would make this a separate paper from earlier consciousness paper, because its central question has shifted from \"How did consciousness arise?\" to \"How did the evolutionary success of self-modelling create a second-order problem requiring regulation of the self itself?\" That distinction gives it a legitimate independent theory status.And importantly, the paper now sits near several established literatures—predictive processing, self-referential processing, social evolution, niche construction, cooperation and contemplative neuroscience—without simply duplicating any one of them. The stronges",
-      "url": "https://doi.org/10.5281/zenodo.21982665",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Rajeev Patil"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.21982665"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203634291",
-      "kind": "paper",
-      "title": "Darting during platform-mediated avoidance in male and female rats is spatially organized between reward and safety locations",
-      "summary": "The platform-mediated active avoidance (PMA) task has been used as a rodent model of decision-based active avoidance in which rats learn to avoid a tone-signaled shock. Prior studies utilizing the PMA task have primarily investigated avoidance, freezing, and food-seeking behaviors, but few studies have thoroughly assessed darting behavior, a more recently identified measure of fear that has been largely explored in conditional fear paradigms. Here, we investigated the properties of darting that occur during the PMA task, in which rats either acquired the PMA task alone or with a social partner",
-      "url": "https://doi.org/10.3389/fnbeh.2026.1887899",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Behavioral Neuroscience",
-      "authors": [
-        "Karissa Payne",
-        "Shannon Ruble",
-        "H. Ness",
-        "Helen Durrett",
-        "Cassandra Kramer"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1887899/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7117133926",
-      "kind": "paper",
-      "title": "The limitations of non-mechanistic methods for characterizing pathogen-pathogen interactions: A simulation study",
-      "summary": "Abstract Pathogen-pathogen interactions occur when infection with one pathogen influences one’s chance of infection or disease due to another. Increasingly, evidence suggests that interactions are a common feature of infectious disease epidemiology. However, due to both the nonlinearities and stochasticity inherent to infectious disease transmission, and the frequency of confounding (e.g., by shared seasonal forcing), simple, purely statistical methods for characterizing interactions may be prone to failure. Here, we perform a simulation study to evaluate several more complex non-mechanistic a",
-      "url": "https://doi.org/10.1371/journal.pcbi.1013859",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "PLoS Computational Biology",
-      "authors": [
-        "Sarah Krämer",
-        "Sarah Pirikahu",
-        "Cana Kussmaul",
-        "Lulla Opatowski",
-        "Matthieu Domenech de Cellès"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1371/journal.pcbi.1013859"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203605705",
-      "kind": "paper",
-      "title": "Machine learning for the prediction of amyloid PET positivity using plasma biomarkers, cognition, APOE genotype, and structural imaging",
-      "summary": "Purpose Machine learning to enable precise, non-invasive detection of cerebral amyloid-beta (Aβ) pathology by integrating cognitive assessments, plasma biomarkers, and structural neuroimaging. Methods We developed an explainable multimodal machine-learning framework to predict amyloid PET visual read status using plasma biomarkers, cognitive assessments, APOE genotype, demographic variables, and structural MRI measurements. The development cohort consisted of 170 participants from the 1Florida Alzheimer’s Disease Research Center (ADRC) and 129 participants from the ADNI4 cohort. Machine-learni",
-      "url": "https://doi.org/10.3389/fnins.2026.1905974",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Thony Yan Liang",
-        "Xueting Cui",
-        "Micheal Adeyosoye",
-        "Luana Okino Sawada",
-        "Mercedes Cabrerizo"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1905974/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203601758",
-      "kind": "paper",
-      "title": "Direct toll-like receptor 4 inhibition in Alzheimer’s disease models: a focused scoping review of inflammatory, amyloid-handling, and functional outcomes",
-      "summary": "Objective This focused scoping review evaluated whether direct toll-like receptor 4 (TLR4) inhibition, antagonism, or genetic suppression in Alzheimer’s disease (AD)-related models was associated with concordant inflammatory, amyloid-β (Aβ)-handling, and functional outcomes. Methods Original AD- or Aβ-related animal, cellular, and ex vivo studies were eligible when they directly inhibited, antagonized, or genetically suppressed TLR4 signaling using pharmacological approaches, including TAK-242/CLI-095/resatorvid, IAXO-101, RSLA, or related TLR4-targeting strategies, or genetic approaches such ",
-      "url": "https://doi.org/10.3389/fnagi.2026.1889254",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Xiaolu Ren",
-        "Xinyu Jin",
-        "Ling Li",
-        "Fang Li"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1889254/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7124721657",
-      "kind": "paper",
-      "title": "Ascending and descending motor pathways converge in the centrolateral nucleus of the thalamus",
-      "summary": "<title>Abstract</title> Corollary discharge (CD) signals are copies of motor commands that inform the brain of impending movements. Dysfunction in CD has been implicated in a variety of disorders, from schizophrenia to Parkinson’s disease. In the current study, we used intersectional viral tracing techniques, electron microscopy, and dual opsin optogenetics to investigate potential CD circuits in mice. We focused on the centrolateral (CL) nucleus of the thalamus to relate our findings to previous studies of CD carried out in primates. We found that single neurons in the CL nucleus integrate as",
-      "url": "https://doi.org/10.1038/s42003-026-10268-y",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Communications Biology",
-      "authors": [
-        "Nazratan Naeem",
-        "Sean P. Masterson",
-        "Arkadiusz S. Slusarczyk",
-        "Martha E. Bickford"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1038/s42003-026-10268-y"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "cortex"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203615890",
-      "kind": "paper",
-      "title": "Acute total sleep deprivation transiently increases plasma total tau but not plasma P-tau181 in healthy adults",
-      "summary": "Background Sleep deprivation is a modifiable risk factor for Alzheimer’s disease (AD). Plasma amyloid-β (Aβ) and phosphorylated tau (P-tau) are closely related to cerebral AD pathology and serve as peripheral biomarkers. Our previous work showed that acute sleep deprivation elevated plasma Aβ 40 in healthy adults. Here we conducted an exploratory analysis to examine the effects of sleep deprivation and subsequent recovery on plasma total tau (T-tau) and P-tau181 levels. Methods Twenty healthy adults underwent 24 h of total sleep deprivation followed by daytime naps and a full night of recovery",
-      "url": "https://doi.org/10.3389/fnagi.2026.1904137",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Beiyu Zhao",
-        "Meng Wei",
-        "Suhang Shang",
-        "Ling Gao",
-        "Shan Wei"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1904137/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7203614912",
-      "kind": "paper",
-      "title": "From pathology to network failure: a Question–Model–Outcome framework for interpreting animal models of AD-related and dementia-relevant mechanisms",
-      "summary": "Animal studies remain indispensable for research on Alzheimer's disease (AD), vascular cognitive impairment, and other dementia-relevant mechanisms. Their value, however, is not that they reproduce human late-life dementia in miniature. A mouse line, vascular manipulation, or mixed-pathology preparation can make one aspect of the problem experimentally visible while not capturing the long preclinical course, clinical heterogeneity, and everyday functional consequences that define the human syndrome. This review therefore treats animal models as instruments for bounded inference. Drawing on tra",
-      "url": "https://doi.org/10.3389/fnagi.2026.1882211",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
-      "authors": [
-        "Umut Şimşekçi",
-        "Yıldırım Cesaretli"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1882211/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2751884637",
-      "kind": "paper",
-      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
-      "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
-      "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
-      "publishedAt": "2017-09-01T00:00:00.000Z",
-      "source": "The Lancet",
-      "authors": [
-        "Theo Vos",
-        "Amanuel Alemu Abajobir",
-        "Kalkidan Hassen Abate",
-        "Cristiana Abbafati",
-        "Kaja Abbas"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
-      },
-      "metrics": {
-        "citedByCount": 13613
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 273,
-        "previousValue": 652,
-        "delta": -379,
-        "growthRate": -0.5813,
         "available": true
       },
       "relevanceKeywords": [
@@ -1239,35 +762,31 @@
       }
     },
     {
-      "id": "https://openalex.org/W2105824687",
+      "id": "https://openalex.org/W7203689863",
       "kind": "paper",
-      "title": "Power failure: why small sample size undermines the reliability of neuroscience",
-      "summary": "",
-      "url": "https://doi.org/10.1038/nrn3475",
-      "publishedAt": "2013-04-10T00:00:00.000Z",
-      "source": "Nature reviews. Neuroscience",
+      "title": "Multiple Sclerosis, Neuromyelitis Optica Spectrum Disorder and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease: Challenges and Opportunities in Bangladesh",
+      "summary": "Abstract not available Journal of National Institute of Neurosciences Bangladesh, July 2025;11(2):96-97",
+      "url": "https://doi.org/10.3329/jninb.v11i2.92427",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
       "authors": [
-        "Katherine S. Button",
-        "John P. A. Ioannidis",
-        "Claire Mokrysz",
-        "Brian A. Nosek",
-        "Jonathan Flint"
+        "Mohammad Sayeed Hassan"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.nature.com/articles/nrn3475.pdf"
+        "url": "https://doi.org/10.3329/jninb.v11i2.92427"
       },
       "metrics": {
-        "citedByCount": 7995
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 445,
-        "previousValue": 624,
-        "delta": -179,
-        "growthRate": -0.2869,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
@@ -1287,34 +806,35 @@
       }
     },
     {
-      "id": "https://openalex.org/W2166073443",
+      "id": "https://openalex.org/W7203696138",
       "kind": "paper",
-      "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
-      "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
-      "url": "https://doi.org/10.1155/2011/156869",
-      "publishedAt": "2010-12-23T00:00:00.000Z",
-      "source": "Computational Intelligence and Neuroscience",
+      "title": "Multidimensional Assessment of Chronic Headache Burden Using VAS,MIDAS and HIT-6: A Cross-Sectional Study from a Tertiary Care Center in Bangladesh",
+      "summary": "Background: Headache disorders are one of the most common neurological disorders in the world and a significant but under-acknowledged burden to the population. Objective: The purpose of the present study was to perform the multidimensional assessment of chronic headache burden using VAS, MIDAS, and HIT-6 among the patients attended at a tertiary care center in Bangladesh. Methodology: This was a cross-sectional observational study that was carried out in a tertiary care hospital in Bangladesh during the month of May to July 2025. Consecutive enrolment of adult patients (patients aged 18 years",
+      "url": "https://doi.org/10.3329/jninb.v11i2.89751",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
       "authors": [
-        "Robert Oostenveld",
-        "Pascal Fries",
-        "Eric Maris",
-        "Jan‐Mathijs Schoffelen"
+        "Shahnaz Choudhury",
+        "Sultana Amena Ferdoucy",
+        "Tahmina Islam",
+        "Morsheda Begum",
+        "S. H. Ghimire"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+        "url": "https://doi.org/10.3329/jninb.v11i2.89751"
       },
       "metrics": {
-        "citedByCount": 11457
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 553,
-        "previousValue": 1214,
-        "delta": -661,
-        "growthRate": -0.5445,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
@@ -1334,32 +854,35 @@
       }
     },
     {
-      "id": "https://openalex.org/W2135894974",
+      "id": "https://openalex.org/W7203682852",
       "kind": "paper",
-      "title": "Nonparametric statistical testing of EEG- and MEG-data",
-      "summary": "",
-      "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
-      "publishedAt": "2007-04-11T00:00:00.000Z",
-      "source": "Journal of Neuroscience Methods",
+      "title": "Nephroprotective Effect of Nigella Sativa Linn (black seed) and Ramipril in Gentamicin Induced Nephrotoxic Rats: A Comparative Experimental Study",
+      "summary": "Background: Acute kidney injury is one of the significant public health issues in patients treated with gentamicin in Bangladesh. Black seed has some nephroprotective effects that can alleviate gentamicin induced nephrotoxicity. Objectives: This study was carried out on a group of rats to evaluate the nephroprotective effect of black seed. Methodology: This experimental study was conducted to demonstrate the effect of ethanolic extract of black seed on blood urea and serum creatinine levels as well as histopathological changes in gentamicin induced nephrotoxic rats and the nephroprotective eff",
+      "url": "https://doi.org/10.3329/jninb.v11i2.88888",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
       "authors": [
-        "Eric Maris",
-        "Robert Oostenveld"
+        "Mosfika Mahjabin",
+        "Zaida Rahman",
+        "Halima Begum",
+        "Sonia Akter",
+        "Shujhat Khan"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+        "url": "https://doi.org/10.3329/jninb.v11i2.88888"
       },
       "metrics": {
-        "citedByCount": 9365
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 558,
-        "previousValue": 1012,
-        "delta": -454,
-        "growthRate": -0.4486,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
@@ -1379,33 +902,510 @@
       }
     },
     {
-      "id": "https://openalex.org/W2138825607",
+      "id": "https://openalex.org/W7203681886",
       "kind": "paper",
-      "title": "Image processing with ImageJ",
-      "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
-      "url": "https://dspace.library.uu.nl/handle/1874/204900",
-      "publishedAt": "2004-01-01T00:00:00.000Z",
-      "source": "Data Archiving and Networked Services (DANS)",
+      "title": "The survival motor neuron protein: structure, functions, stability, and therapeutic targeting",
+      "summary": "The survival motor neuron (SMN) protein is an essential and highly versatile assembly factor that coordinates RNA metabolism and ribonucleoprotein (RNP) complex formation across multiple cellular compartments. Although SMN is required for the survival of virtually all cell types, its deficiency disproportionately affects α -motor neurons, causing their selective degeneration and giving rise to spinal muscular atrophy (SMA). Once viewed primarily as a motor neuron disease, SMA is now understood to be a multi-systemic disorder in which cell-intrinsic dysfunction extends to skeletal muscle, infla",
+      "url": "https://doi.org/10.3389/fncel.2026.1894100",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Frontiers in Cellular Neuroscience",
       "authors": [
-        "Michael D. Abràmoff",
-        "Paulo Magalhães",
-        "Sunanda J. Ram"
+        "Bradley R. Smith",
+        "Rachel Massalee",
+        "Mason Mayer",
+        "Brendan M. Melvin",
+        "Arianna Valeri"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://dspace.library.uu.nl/handle/1874/204900"
+        "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2026.1894100/pdf"
       },
       "metrics": {
-        "citedByCount": 11924
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 215,
-        "delta": -214,
-        "growthRate": -0.9953,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203666293",
+      "kind": "paper",
+      "title": "Management Strategies for 300 Cases of ST-Elevated Myocardial Infarction in a Tertiary Hospital: Experience from Rural Community in Bangladesh",
+      "summary": "Background: ST-Elevated Myocardial Infarction (STEMI) remains a critical cardiovascular emergency requiring prompt and effective intervention. Objective: This paper presented a comprehensive analysis of 300 STEMI cases managed at Khwaja Yunus Ali Medical College Hospital, a tertiary care center located in a rural region. Methodology: This retrospective study was conducted in the Department of Cardiology at Khwaja Yunus Ali Medical College Hospital, Bangladesh, including 300 consecutive adult patients (≥18 years) diagnosed with ST-elevation myocardial infarction (STEMI) between January 2022 and",
+      "url": "https://doi.org/10.3329/jninb.v11i2.89148",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Qamrul Huda Mohammed Sohel",
+        "SAM Husnayen",
+        "Rabia Sultana",
+        "Sultana Parvin",
+        "Abdullah Al Mamun"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.89148"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203671250",
+      "kind": "paper",
+      "title": "Understanding Health Information Seeking Behaviours Across Educational Status: A Cross-Sectional Survey",
+      "summary": "Background: Rapid advances in healthcare and information technology have transformed the way people access health information. Health information-seeking behaviour (HISB) plays a vital role in improving health literacy, supporting informed decision-making, and promoting appropriate healthcare utilization. Educational attainment is an important determinant of an individual's ability to obtain, understand, and use health information effectively. Objective: The purpose of the present study was to assess health information-seeking behaviours among adults with different educational levels in Dhaka ",
+      "url": "https://doi.org/10.3329/jninb.v11i2.91574",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Md Abul Bashar",
+        "Sharmin Jahan",
+        "Jannat Ara Ferdows",
+        "Kh. Shehneenla Tasmin",
+        "Zobaida Sultana Susan"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.91574"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203718343",
+      "kind": "paper",
+      "title": "Study of Fine Needle Aspiration Cytology of Lymph Node Lesions of Head and Neck Region",
+      "summary": "Background: Lymphadenopathy in the head and neck region is a common clinical issue with diverse causes, ranging from benign conditions to malignancies. Fine Needle Aspiration Cytology (FNAC) has become an essential diagnostic tool due to its minimally invasive nature, cost-effectiveness, and ability to provide rapid, accurate diagnoses. FNAC is particularly valuable for distinguishing between benign and malignant lymph node lesions and identifying specific infections like tuberculosis. Objective: This study focused on analyzing the frequency and types of lymph node lesions in the head and neck",
+      "url": "https://doi.org/10.3329/jninb.v11i2.88879",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Nazmun Nahar",
+        "Mohammed Iqbal",
+        "Kazi Md. Shahidur Rahman",
+        "Rawshon Ara",
+        "Mst. Rommana Akter"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.88879"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203709843",
+      "kind": "paper",
+      "title": "Predictors of Mortality among Patients with Flail Chest Following Thoracic Trauma",
+      "summary": "Background: Flail chest is a severe form of thoracic trauma associated with significant morbidity and mortality. Early identification of factors associated with adverse outcomes is essential for improving patient management and survival. Objective: This study aimed to identify predictors of mortality in patients with flail chest following thoracic trauma. Methodology: This cross-sectional study was conducted in the Department of Thoracic Surgery at National Institute of Diseases of the Chest and Hospital (NIDCH), Dhaka, Bangladesh from January 2010 to December 2010. A total of 60 patients with",
+      "url": "https://doi.org/10.3329/jninb.v11i2.90907",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Mobarak Hossain",
+        "Anwar Hossain",
+        "Faquir Walid Shah",
+        "Ashraful Alam Khan"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.90907"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203665791",
+      "kind": "paper",
+      "title": "Variations of Patterns of Electroencephalogram in West syndrom",
+      "summary": "Background: West syndrome (WS) or Infantile epileptic spasms syndrome (IESS) is a potentially devastating form of developmental and epileptic encephalopathy of early childhood. Early diagnosis and initiation of prompt treatment are very important for better outcome. But it has many differential diagnoses, especially in atypical or subtle cases. EEG is essential to diagnose it. Initially, hypsarrhythmia was described as the prototypical EEG pattern associated with WS. However, other EEG patterns were also found to be associated with WS in subsequent studies. Recognition of those patterns is imp",
+      "url": "https://doi.org/10.3329/jninb.v11i2.91743",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Mohammod Shah Jahan Chowdhury",
+        "Muhammad Mizanur Rahman",
+        "Kanij Fatema",
+        "SK Masiur Rahman"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.91743"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203705630",
+      "kind": "paper",
+      "title": "Assessment of Birth Weight Status and Intrauterine Growth Retardation using Cerebro-Umbilical Pulsatility Ratio at the Largest Teaching Hospital in Bangladesh",
+      "summary": "Background: Intrauterine Growth Retardation (IUGR) poses a substantial challenge in perinatal care, contributing significantly to preventable stillbirths, neonatal intensive care admissions, and long-term neurodevelopmental sequelae. Therefore, prompt identification and rigorous antenatal surveillance are paramount to guiding the optimal timing of delivery and improving overall neonatal outcomes Objective: The purpose of the present study was to assess the birth weight status among pregnant women attending Dhaka Medical College Hospital. Methodology: This was a cross-sectional study, conducted",
+      "url": "https://doi.org/10.3329/jninb.v11i2.92364",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Regina Bilquise",
+        "Mst Touhida Akter",
+        "Salina Akter",
+        "Noushin Huda",
+        "Faria Gaffar"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.92364"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7112463088",
+      "kind": "paper",
+      "title": "Linking signal integrity to probabilistic models of behavioral dynamics",
+      "summary": "Abstract Quantitative analysis of rodent behavior in naturalistic settings is crucial for neuroscience, yet traditional methods often lack precision or scalability. While ultra-wideband (UWB) sensor tracking provides centimeter-level localization, standard metrics like root mean square error (RMSE) fail to capture the probabilistic and sequential nature of behavior. We introduce a probabilistic, information-theoretic framework that leverages high-resolution UWB sensor trajectories to address this gap. By integrating Shannon entropy to quantify uncertainty, Bernoulli modeling to assess accuracy",
+      "url": "https://doi.org/10.3758/s13428-026-03132-8",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Behavior Research Methods",
+      "authors": [
+        "Reza Sayfoori",
+        "Hung Cao"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3758/s13428-026-03132-8"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203715682",
+      "kind": "paper",
+      "title": "Gestational Maturity and Gender Distribution in Children with Congenital Hydrocephalus Undergoing Ventriculoperitoneal Shunt Surgery: A Prospective Hospital-Based Study in Bangladesh",
+      "summary": "Background: Congenital hydrocephalus is a birth-onset neurological disorder that disproportionately affects children in low- and middle-income countries. Identifying the demographic profile of patients particularly gestational age at birth and sex distribution is fundamental for understanding disease heterogeneity, counseling families, and planning community-level screening programs. Objective: The purpose of the present study was to assess the distribution of gestational age at birth and gender distribution among children with congenital hydrocephalus undergoing ventriculoperitoneal shunt sur",
+      "url": "https://doi.org/10.3329/jninb.v11i2.91577",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Anwar Hossain",
+        "Kazi Saiful Islam",
+        "Kamrun Nahar Begum",
+        "Kalim Uddin",
+        "Md Ziaul Hoq"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.91577"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203686026",
+      "kind": "paper",
+      "title": "A 20 Years Old Lady with Quadriparesis and Convulsion: A Case Report",
+      "summary": "Acute intermittent porphyria (AIP) is a rare autosomal dominant metabolic disease that is caused by a partial deficiency of hydroxymethylbilane and deficiency results in the accumulation of delta-aminolaevulinic acid (ALA) and porphobilinogen (PBG). ALA is believed to be neurotoxic and affects the autonomic, peripheral and central nervous systems. We found a 20 years old Bangladeshi female complaining of severe debilitating weakness of all limbs. She was suffering from recurrent upper abdominal pain for last one year and underwent an emergency appendicectomy 4 months back. 2 months back she ex",
+      "url": "https://doi.org/10.3329/jninb.v11i2.90908",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Muhammad Abdullah Al Amin",
+        "Shadad Hossain",
+        "Mohammad Nur Uddin",
+        "Mouri Sarker",
+        "KM Ahasan Ahmed"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.90908"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7203672530",
+      "kind": "paper",
+      "title": "Sociodemographic and Obstetric Factors Influencing Perinatal Outcomes in Pregnancy with Reduced Fetal Movement",
+      "summary": "Background: Reduced fetal movement is a concern during late pregnancy and may indicate fetal compromise. Perinatal outcomes are influenced by maternal characteristics, obstetric factors and fetal surveillance. Objective: This study evaluated how sociodemographic and obstetric factors affect perinatal outcomes in women with reduced fetal movement. Methodology: This cross-sectional study was conducted at the Department of Obstetrics and Gynaecology, Bangladesh Medical University (BMU), Dhaka, from June 2015 to December 2016. A total of 100 women with singleton pregnancies of at least 34 weeks' g",
+      "url": "https://doi.org/10.3329/jninb.v11i2.90486",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "source": "Journal of National Institute of Neurosciences Bangladesh",
+      "authors": [
+        "Farzana Sharmin",
+        "Sharmeen Mahmood",
+        "Mehriban Amatullah",
+        "Shah Aziz",
+        "Afzal Momin"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.3329/jninb.v11i2.90486"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
