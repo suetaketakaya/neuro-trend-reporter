@@ -5,35 +5,6 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "47520220",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/jonwiggins/optio",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47520220",
-      "publishedAt": "2026-03-25T17:10:21.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 88,
-        "comments": 60
-      },
-      "signalScore": 113,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "49372994",
       "kind": "startup_hn_signal",
       "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
@@ -46,10 +17,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 48,
-        "comments": 27
+        "points": 54,
+        "comments": 33
       },
-      "signalScore": 79,
+      "signalScore": 88,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -79,6 +50,35 @@
         "comments": 14
       },
       "signalScore": 47,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49386514",
+      "kind": "startup_hn_signal",
+      "title": "Ask HN: Do teams really need to use GitHub?",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=49386514",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49386514",
+      "publishedAt": "2026-08-21T11:26:50.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 5,
+        "comments": 5
+      },
+      "signalScore": 35.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -185,22 +185,22 @@
       }
     },
     {
-      "id": "49377281",
+      "id": "49382968",
       "kind": "startup_hn_signal",
-      "title": "Ability Neurotech Infrared BCI to Begin Human Trials",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://spectrum.ieee.org/ability-neurotech-bci-human-trial",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49377281",
-      "publishedAt": "2026-08-20T17:03:41.000Z",
+      "title": "Show HN: Fsel –. a Rust TUI launcher, fuzzy picker and clipboard browser",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/Mjoyufull/fsel",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49382968",
+      "publishedAt": "2026-08-21T02:28:21.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "neurotech"
+        "BCI startup"
       ],
       "metrics": {
-        "points": 2,
+        "points": 5,
         "comments": 0
       },
-      "signalScore": 29,
+      "signalScore": 30.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -214,16 +214,16 @@
       }
     },
     {
-      "id": "49363138",
+      "id": "49377281",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Flow – Claude Code CLI for feature planning → review/testing → merge",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/gavingolden/flow/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49363138",
-      "publishedAt": "2026-08-19T15:47:38.000Z",
+      "title": "Ability Neurotech Infrared BCI to Begin Human Trials",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://spectrum.ieee.org/ability-neurotech-bci-human-trial",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49377281",
+      "publishedAt": "2026-08-20T17:03:41.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "BCI startup"
+        "neurotech"
       ],
       "metrics": {
         "points": 2,
