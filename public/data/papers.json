@@ -1,8 +1,1435 @@
 {
   "section": "papers",
-  "title": "papers",
-  "description": "Collector failed.",
-  "sourceCount": 0,
-  "error": "HTTP 429 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle&sort=cited_by_count%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
-  "items": []
+  "title": "Papers",
+  "description": "Recent and citation-growing neuroscience-related papers from OpenAlex.",
+  "sourceCount": 1,
+  "items": [
+    {
+      "id": "https://openalex.org/W2119821739",
+      "kind": "paper",
+      "title": "Support-Vector Networks",
+      "summary": "",
+      "url": "https://doi.org/10.1023/a:1022627411411",
+      "publishedAt": "1995-09-01T00:00:00.000Z",
+      "source": "Machine Learning",
+      "authors": [
+        "Corinna Cortes",
+        "Vladimir Vapnik"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
+      },
+      "metrics": {
+        "citedByCount": 33803
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 2426,
+        "previousValue": 2089,
+        "delta": 337,
+        "growthRate": 0.1613,
+        "available": true
+      },
+      "relevanceKeywords": [],
+      "signalScore": 341,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204180234",
+      "kind": "paper",
+      "title": "A Bayesian Spatiotemporal Model for Joint Estimation of Brain Activation and Connectivity in fMRI Studies",
+      "summary": "Task-based functional magnetic resonance imaging (fMRI) experiments play a crucial role in modern data-driven neuroscience research. These studies often aim to understand how external stimuli trigger activation in specific brain regions and to explore functional connectivity patterns among predefined regions, commonly referred to as regions of interest (ROIs). Accurately estimating both brain activation and inter-regional connectivity is challenging due to complex spatiotemporal correlations and low signal-to-noise ratios inherent in fMRI data. This paper introduces a joint spatiotemporal Baye",
+      "url": "https://doi.org/10.1002/sim.70712",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Statistics in Medicine",
+      "authors": [
+        "Parisa Naseri",
+        "Yuliya Shapovalova",
+        "Ioan Gabriel Bucur",
+        "Charlotte Cambier van Nooten",
+        "Giancarlo Valente"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1002/sim.70712"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "connectome"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7124719622",
+      "kind": "paper",
+      "title": "Common and distinct contributions of the dorsomedial prefrontal and posterior parietal cortices to social episodic memory",
+      "summary": "Abstract The self-reference effect (SRE) refers to the robust mnemonic advantage for self-relevant information and is characterised by a graded pattern spanning the self, close others, and distant others. Despite extensive behavioural evidence, causal evidence for the neural mechanisms supporting the SRE remains limited, particularly during incidental encoding and across source memory, metacognition, and emotional valence. We investigated the causal contributions of the dorsomedial prefrontal cortex (dmPFC) and posterior parietal cortex (PPC) to self–other episodic memory and metacognition usi",
+      "url": "https://doi.org/10.1093/scan/nsag070",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Social Cognitive and Affective Neuroscience",
+      "authors": [
+        "Chloe Bates",
+        "Andrew Martin"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1093/scan/nsag070"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204154241",
+      "kind": "paper",
+      "title": "Acute taVNS modulates lateralized hypoactivity in the right cerebral hemisphere in individuals with subjective cognitive decline",
+      "summary": "Background Subjective cognitive decline (SCD) is considered a preclinical stage of Alzheimer’s disease and represents a critical window for early intervention. Transcutaneous auricular vagus nerve stimulation (taVNS) can modulate cognition-related brain networks. However, its effects in SCD remain unclear. Purpose This study aimed to investigate the immediate neural responses of the brain to taVNS at different frequencies in individuals with SCD. Methodology Fifty-one individuals with SCD and forty healthy controls (HCs) were enrolled. Individuals with SCD underwent acute taVNS at 1 Hz and 20 ",
+      "url": "https://doi.org/10.3389/fnins.2026.1884933",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Xiaocheng Li",
+        "Jiazhu Huang",
+        "Liyuan Zhou",
+        "Bo Liu",
+        "Kaixuan Zhou"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1884933/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204177517",
+      "kind": "paper",
+      "title": "Advanced imaging–integrated rTMS therapy for frontal network recovery after traumatic brain injury",
+      "summary": "Background Traumatic brain injury is frequently followed by persistent executive dysfunction linked to disruption of frontal and frontoparietal networks. High-frequency repetitive transcranial magnetic stimulation (rTMS) targeting the dorsolateral prefrontal cortex (DLPFC) has been proposed as a potential adjunctive intervention to support frontal-network recovery. Still, evidence remains heterogeneous and biomarker-guided interpretation is limited. Methods This retrospective multicenter observational cohort study evaluated adults with traumatic brain injury and persistent executive dysfunctio",
+      "url": "https://doi.org/10.3389/fnhum.2026.1900612",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Frontiers in Human Neuroscience",
+      "authors": [
+        "Nan Hu",
+        "Zhiling Chen",
+        "Jiante Li",
+        "Yang Zheng"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1900612/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204197136",
+      "kind": "paper",
+      "title": "Molecular abnormalities scale across three models of cerebral injury",
+      "summary": "Human studies have demonstrated that repetitive head acceleration events (HAEs) disrupt metabolic homeostasis, raising the question of whether similar biochemical cascades scale across diverse platforms, from human to rodent to cell, for other traumatic brain injuries (TBIs). This study analyzed molecular disruptions in (i) humans with repetitive HAEs, (ii) mice with singular blast-elicited HAE with loss of consciousness, and (iii) a human 3D in vitro model of blunt injury. Humans exhibited metabolic, protein glycation, and epigenetic regulation abnormalities, with 30 pre-season metabolites pr",
+      "url": "https://doi.org/10.3389/fnmol.2026.1844343",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Frontiers in Molecular Neuroscience",
+      "authors": [
+        "Volha Liaudanskaya",
+        "Matthew J. Robson",
+        "Nicole L. Vike",
+        "Sumra Bari",
+        "Christopher O’Connell"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1844343/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2031753087",
+      "kind": "paper",
+      "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+      "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+      "url": "https://doi.org/10.1137/1010093",
+      "publishedAt": "1968-10-01T00:00:00.000Z",
+      "source": "SIAM Review",
+      "authors": [
+        "Benoît B. Mandelbrot",
+        "John W. Van Ness"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 7762
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 191,
+        "previousValue": 342,
+        "delta": -151,
+        "growthRate": -0.4415,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7138938898",
+      "kind": "paper",
+      "title": "Loss of neuronal population organization links pathology to behavior in a model of Alzheimer’s disease",
+      "summary": "Abstract Alzheimer’s disease (AD) and related dementias (ADRD) are defined by molecular and cellular pathology and cognitive decline, but linking these levels requires understanding how pathology alters large-scale neuronal activity. We longitudinally tracked behavior, multi-area neuronal population activity, and fluid and histological biomarkers in a macaque model of early-stage ADRD. As pathology progressed, visually guided behavior became increasingly disorganized, reflected in less structured exploration despite preserved task performance. Guided by systems neuroscience principles linking ",
+      "url": "https://doi.org/10.1073/pnas.2614164123",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Proceedings of the National Academy of Sciences",
+      "authors": [
+        "Douglas A. Ruff",
+        "Drew E G Sheets",
+        "Ramanujan Srinath",
+        "Giovanne B. Diniz",
+        "Devon J. Griggs"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1073/pnas.2614164123"
+      },
+      "metrics": {
+        "citedByCount": 1
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1,
+        "previousValue": 0,
+        "delta": 1,
+        "growthRate": 1,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "cortex"
+      ],
+      "signalScore": 17,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204181926",
+      "kind": "paper",
+      "title": "Western Classical Music versus Chinese Traditional Music: the Ideological Battle in Chinese Preschool Education.",
+      "summary": "This paper compares Western classical music versus Chinese traditional music in Chinese preschool education. It will also indicate what students think about traditional Chinese music and Western classical music and how they value traditions in academic Chinese music. A sociological survey, a statistical analysis, and a content analysis of relevant scientific papers were also used. The technique was put in place as a result of a scientific experiment. A survey of kindergarten students was carried out with three groups of 25 people each (the general sample consisted of 75 respondents). The tool ",
+      "url": "https://doi.org/10.60087/jissr.v4i01.365",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "source": "Journal of Interdisciplinary Social Sciences Review ISSN 3078-8358",
+      "authors": [
+        "Jun Zhao",
+        "Marianne Zhao"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.60087/jissr.v4i01.365"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204189045",
+      "kind": "paper",
+      "title": "Observational indistinguishability between classical diffusion and thermal quantum propagation on networks",
+      "summary": "Abstract The heat kernel of a graph Laplacian is widely used to describe diffusion, transport, correlations and geometry in complex networks. In this work, we show that the same heat-kernel operator emerges both as the propagator of classical diffusion on a network and as the thermal Green's function of a network of coupled quantum harmonic oscillators restricted to the one-particle sector. We demonstrate that the geometry induced by this operator can be reconstructed from multiple observational experiments without direct access to the microscopic physical substrate generating the dynamics. Co",
+      "url": "https://doi.org/10.1098/rspa.2026.0513",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "source": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "authors": [
+        "Ernesto Estrada"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1098/rspa.2026.0513"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415357635",
+      "kind": "paper",
+      "title": "Autonomic and neural activity dynamically couple during infant attention",
+      "summary": "Abstract The developing brain does not regulate attention in isolation, but coordinates with the body’s peripheral signals. However, empirical research quantifying the dynamic interplay between neural oscillations and autonomic signals during infancy is lacking. Here, we provide the first evidence of real-time coupling between cortical activity and parasympathetic tone in 3-month-old infants during a sustained attention task. Using simultaneous EEG and ECG, we extracted continuous time series of respiratory sinus arrhythmia (RSA) and EEG power across theta, alpha, and beta bands. Cross-correla",
+      "url": "https://doi.org/10.1038/s42003-026-10761-4",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Communications Biology",
+      "authors": [
+        "Anne Brandes-Aitken",
+        "John E. Richards",
+        "Amy Hume",
+        "Isabella Stallworthy",
+        "Stephen H. Braren"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s42003-026-10761-4_reference.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204153630",
+      "kind": "paper",
+      "title": "Effects of pyrimidine nucleotides on local cerebral blood flow under conditions of impaired circulation",
+      "summary": "Background: The search for new agents to correct cerebrovascular disorders remains an important task in neuroscience, given the prevalence and increasing incidence of ischemic brain injury and its consequences. In this regard, endogenous biologically active compounds, especially neurochemical components of brain tissue, are of particular interest. Based on these findings, the importance of nucleotides in regulating brain activity has been confirmed. Pyrimidine nucleotides such as cytidine and uridine are essential endogenous compounds that play an important role in nucleic acid synthesis (DNA/",
+      "url": "https://doi.org/10.31989/ffhd.v16i8.2068",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Functional Foods in Health and Disease",
+      "authors": [
+        "Milena Khachaturyan",
+        "Hakob Topchyan",
+        "Arusyak G. Zhamharyan",
+        "Lilit T. Soghbatyan",
+        "Sona H. Grigoryan"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.ffhdj.com/index.php/ffhd/article/download/2068/5352"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204154464",
+      "kind": "paper",
+      "title": "Experience of Pediatric Brain Tumor Surgery at the Punjab Institute of Neurosciences, Lahore, Pakistan: A Retrospective Analysis of Outcomes and Challenges",
+      "summary": "Background: Brain tumours are the most prevalent solid cancers in children and are a significant cause of cancer morbidity. However, there is limited information on surgical outcomes in Pakistan, particularly in newly established paediatric neurosurgery units. This study aimed to determine the incidence, clinical features, imaging findings, surgical treatment and prognosis of supratentorial and infratentorial brain tumours in children.Methodology: This was a descriptive retrospective study conducted at the Punjab Institute of Neurosciences from June 2023 to June 2024, including 92 pediatric pa",
+      "url": "https://doi.org/10.37018/wert7854",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Journal of Fatima Jinnah Medical University",
+      "authors": [
+        "Hassaan Zahid",
+        "Ahtesham Khizar",
+        "Asad Iftikhar",
+        "Maryem Tanweer",
+        "Zia Ul Rehman Najeeb"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.37018/wert7854"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204160144",
+      "kind": "paper",
+      "title": "Wearable vagus nerve stimulation for depression: mechanisms, devices, and the road toward personalized neuromodulation",
+      "summary": "Major depressive disorder remains a leading cause of global disability, with a substantial fraction of patients exhibiting inadequate response to conventional pharmacological and psychotherapeutic treatments. Vagus nerve stimulation has emerged as an effective neuromodulation strategy for treatment-resistant depression, yet implantable systems are limited by surgical risk, cost, and restricted scalability. Recent advances in non-invasive, wearable vagus nerve stimulation technologies, particularly transcutaneous auricular and cervical approaches, offer a promising pathway toward accessible, ho",
+      "url": "https://doi.org/10.1007/s44258-026-00092-8",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Med-X",
+      "authors": [
+        "Vivian Wei",
+        "Xiaofeng Chen",
+        "Jiayi Li",
+        "Zhiyi Wang",
+        "王锡淦"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s44258-026-00092-8.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuromodulation",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204186492",
+      "kind": "paper",
+      "title": "Sex-related biological variation and mental toughness in soccer: a 2D:4D digit-ratio study of Type a, Type B and Type C classification across playing positions",
+      "summary": "Background Sex-related variation in psychological traits is usually studied as a categorical male–female contrast, which conflates a grouping variable with the continuous biology underlying it. The second-to-fourth digit ratio (2D:4D) provides a non-invasive marker of the prenatal androgen environment, but its relationship with mental toughness and playing position in soccer remains poorly understood. This study examined the associations between 2D:4D-derived classification, playing position, sex and mental toughness, testing whether mental toughness tracks a continuous sex-related biological ",
+      "url": "https://doi.org/10.3389/fnbeh.2026.1934922",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Frontiers in Behavioral Neuroscience",
+      "authors": [
+        "Hamza Kaya Besler",
+        "Gulferi M. Yildirim",
+        "Sinan Canan",
+        "Sinan Seyhan",
+        "Görkem Açar"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1934922/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204186597",
+      "kind": "paper",
+      "title": "Deep medullary veins score is associated with idiopathic normal pressure hydrocephalus in patients with arteriolosclerotic cerebral small vessel disease",
+      "summary": "Objective This study aimed to investigate the association between deep medullary veins (DMVs) score and comorbid idiopathic normal pressure hydrocephalus (iNPH) in patients with arteriolosclerotic cerebral small vessel disease (aCSVD), and to analyze its role as an independent associated factor. Methods A total of 80 patients with aCSVD, 40 patients with arteriolosclerotic cerebral small vessel disease comorbid with idiopathic normal pressure hydrocephalus (aCSVD-iNPH), and 30 healthy controls were enrolled. All participants underwent 3.0-T brain MRI to assess DMVs score, periventricular white",
+      "url": "https://doi.org/10.3389/fnins.2026.1854469",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Frontiers in Neuroscience",
+      "authors": [
+        "Lijuan Liang",
+        "Qiaoling Wu",
+        "Jiaxin Chen",
+        "Jiaxin Cai",
+        "Jing Huang"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1854469/pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2104135721",
+      "kind": "paper",
+      "title": "A robust and high-throughput Cre reporting and characterization system for the whole mouse brain",
+      "summary": "",
+      "url": "https://doi.org/10.1038/nn.2467",
+      "publishedAt": "2009-12-20T00:00:00.000Z",
+      "source": "Nature Neuroscience",
+      "authors": [
+        "Linda Madisen",
+        "Theresa A. Zwingman",
+        "Susan M. Sunkin",
+        "Seung Wook Oh",
+        "Hatim A. Zariwala"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/nn.2467.pdf"
+      },
+      "metrics": {
+        "citedByCount": 7550
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 395,
+        "previousValue": 717,
+        "delta": -322,
+        "growthRate": -0.4491,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2116658855",
+      "kind": "paper",
+      "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+      "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+      "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+      "publishedAt": "2007-02-28T00:00:00.000Z",
+      "source": "Journal of Neuroscience",
+      "authors": [
+        "William W. Seeley",
+        "Vinod Menon",
+        "Alan F. Schatzberg",
+        "Jennifer Keller",
+        "Gary H. Glover"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+      },
+      "metrics": {
+        "citedByCount": 7630
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 332,
+        "previousValue": 472,
+        "delta": -140,
+        "growthRate": -0.2966,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4362585872",
+      "kind": "paper",
+      "title": "Electrophysiological indices of hierarchical speech processing differentially reflect the comprehension of speech in noise",
+      "summary": "ABSTRACT The past few years have seen an increase in the use of encoding models to explain neural responses to natural speech. The goal of these models is to characterize how the human brain converts acoustic energy into distinct linguistic representations that enable everyday speech comprehension. For example, researchers have shown that electroencephalography (EEG) data can be modeled in terms of acoustic features of speech, such as its amplitude envelope or spectrogram, linguistic features such as phonemes and phoneme probability, and higher-level linguistic features like context-based word",
+      "url": "https://doi.org/10.1523/eneuro.0069-26.2026",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "eNeuro",
+      "authors": [
+        "Shyanthony R. Synigal",
+        "Andrew J. Anderson",
+        "Edmund C. Lalor"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1523/eneuro.0069-26.2026"
+      },
+      "metrics": {
+        "citedByCount": 14
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 4,
+        "previousValue": 4,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4405767741",
+      "kind": "paper",
+      "title": "The Hydrodynamic Limit of Neural Networks with Balanced Excitation and Inhibition",
+      "summary": "Abstract. The theory of balanced neural networks is a very popular explanation for the high degree of variability and stochasticity in the brain’s activity. We determine equations for the hydrodynamic limit of a balanced all-to-all network of [Formula: see text] neurons for asymptotically large [Formula: see text]. The neurons are divided into two classes (excitatory and inhibitory). Each excitatory neuron excites every other neuron, and each inhibitory neuron inhibits all of the other neurons. The model is of a stochastic hybrid nature, such that the synaptic response of each neuron is govern",
+      "url": "https://doi.org/10.1137/25m1742515",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "SIAM Journal on Mathematical Analysis",
+      "authors": [
+        "James MacLaurin",
+        "Pedro Vilanova"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://arxiv.org/pdf/2412.17273"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7130679676",
+      "kind": "paper",
+      "title": "Visual-semantic tuning across the cortex shifts between tasks",
+      "summary": "Abstract Attention is a powerful mechanism that dynamically optimizes brain representations to prioritize behaviorally-relevant information. While previous studies focusing on single tasks have demonstrated that attention shifts tuning towards attended targets, real-world behavior often requires humans to switch between tasks with different demands. How does visual semantic tuning in the human brain shift to support the behavioral demands of different naturalistic tasks? To answer this question, we used voxelwise encoding models to compare visual semantic tuning across the human cerebral corte",
+      "url": "https://doi.org/10.1523/eneuro.0183-26.2026",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "eNeuro",
+      "authors": [
+        "Tianjiao Zhang",
+        "Jack L. Gallant"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1523/eneuro.0183-26.2026"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain",
+        "cortex"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204192983",
+      "kind": "paper",
+      "title": "Linguistic frame switching in German–English bilinguals: implications for neuroscience",
+      "summary": "Introduction: Multilingual speakers frequently report that operating in a different language involves more than a change in grammatical system. The phenomenon at issue is linguistic frame switching (LFS): the involuntary reorganisation of cognitive, emotional, and identity-relevant schemas when a multilingual speaker moves between languages. This study investigated whether German–English bilinguals exhibit systematic language-dependent differences in self-perception and narrative content. Materials and methods: This report presents findings from an original mixed-methods study of 27 German–Eng",
+      "url": "https://doi.org/10.20935/acadneurosci8481",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Academia Neuroscience and Brain Research",
+      "authors": [
+        "Judith Zangerle"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2751884637",
+      "kind": "paper",
+      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+      "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+      "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+      "publishedAt": "2017-09-01T00:00:00.000Z",
+      "source": "The Lancet",
+      "authors": [
+        "Theo Vos",
+        "Amanuel Alemu Abajobir",
+        "Kalkidan Hassen Abate",
+        "Cristiana Abbafati",
+        "Kaja Abbas"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
+      },
+      "metrics": {
+        "citedByCount": 13625
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 285,
+        "previousValue": 652,
+        "delta": -367,
+        "growthRate": -0.5629,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2105824687",
+      "kind": "paper",
+      "title": "Power failure: why small sample size undermines the reliability of neuroscience",
+      "summary": "",
+      "url": "https://doi.org/10.1038/nrn3475",
+      "publishedAt": "2013-04-10T00:00:00.000Z",
+      "source": "Nature reviews. Neuroscience",
+      "authors": [
+        "Katherine S. Button",
+        "John P. A. Ioannidis",
+        "Claire Mokrysz",
+        "Brian A. Nosek",
+        "Jonathan Flint"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/nrn3475.pdf"
+      },
+      "metrics": {
+        "citedByCount": 8011
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 458,
+        "previousValue": 625,
+        "delta": -167,
+        "growthRate": -0.2672,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2166073443",
+      "kind": "paper",
+      "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+      "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+      "url": "https://doi.org/10.1155/2011/156869",
+      "publishedAt": "2010-12-23T00:00:00.000Z",
+      "source": "Computational Intelligence and Neuroscience",
+      "authors": [
+        "Robert Oostenveld",
+        "Pascal Fries",
+        "Eric Maris",
+        "Jan‐Mathijs Schoffelen"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+      },
+      "metrics": {
+        "citedByCount": 11478
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 571,
+        "previousValue": 1214,
+        "delta": -643,
+        "growthRate": -0.5297,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2135894974",
+      "kind": "paper",
+      "title": "Nonparametric statistical testing of EEG- and MEG-data",
+      "summary": "",
+      "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+      "publishedAt": "2007-04-11T00:00:00.000Z",
+      "source": "Journal of Neuroscience Methods",
+      "authors": [
+        "Eric Maris",
+        "Robert Oostenveld"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+      },
+      "metrics": {
+        "citedByCount": 9380
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 571,
+        "previousValue": 1012,
+        "delta": -441,
+        "growthRate": -0.4358,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2138825607",
+      "kind": "paper",
+      "title": "Image processing with ImageJ",
+      "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+      "url": "https://dspace.library.uu.nl/handle/1874/204900",
+      "publishedAt": "2004-01-01T00:00:00.000Z",
+      "source": "Data Archiving and Networked Services (DANS)",
+      "authors": [
+        "Michael D. Abràmoff",
+        "Paulo Magalhães",
+        "Sunanda J. Ram"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://dspace.library.uu.nl/handle/1874/204900"
+      },
+      "metrics": {
+        "citedByCount": 11923
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1,
+        "previousValue": 215,
+        "delta": -214,
+        "growthRate": -0.9953,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2158553737",
+      "kind": "paper",
+      "title": "Emotion Circuits in the Brain",
+      "summary": "The field of neuroscience has, after a long period of looking the other way, again embraced emotion as an important research area. Much of the progress has come from studies of fear, and especially fear conditioning. This work has pinpointed the amygdala as an important component of the system involved in the acquisition, storage, and expression of fear memory and has elucidated in detail how stimuli enter, travel through, and exit the amygdala. Some progress has also been made in understanding the cellular and molecular mechanisms that underlie fear conditioning, and recent studies have also ",
+      "url": "https://doi.org/10.1146/annurev.neuro.23.1.155",
+      "publishedAt": "2000-03-01T00:00:00.000Z",
+      "source": "Annual Review of Neuroscience",
+      "authors": [
+        "Joseph E. LeDoux"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 8470
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 186,
+        "previousValue": 265,
+        "delta": -79,
+        "growthRate": -0.2981,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7162340404",
+      "kind": "paper",
+      "title": "Disrupted proprioceptive timing estimates contribute to upper limb motor impairment in chronic stroke",
+      "summary": "Abstract In this task, the participants' ( p < 0.01) and variability ( p < 0.01) than controls, indicating impaired proprioceptive timing in a task that did not require active motor output from the tested limb. Larger proprioceptive timing errors were strongly correlated with poor performance on VGR (ρ > 0.57, p < 0.01) and APM in individuals with stroke (ρ > 0.49, p < 0.01). These results suggest that the estimation of timing for dynamic sensory signals is disrupted in individuals with stroke and likely contributes to dysfunction in coordinated movement and static estimations of limb position",
+      "url": "https://doi.org/10.1007/s00221-026-07378-8",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Experimental Brain Research",
+      "authors": [
+        "Devin S. Austin",
+        "Arianna G. Eimont",
+        "Jennifer A. Semrau"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s00221-026-07378-8.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204153640",
+      "kind": "paper",
+      "title": "Electrodermal Activity During Emotional Visual Stimuli in Adolescent Major Depressive Disorder: Time, Spectral, and Nonlinear Analysis",
+      "summary": "Abstract Background Adolescents with major depressive disorder (MDD) are associated with significant emotional dysregulation, yet objective physiological biomarkers remain elusive. While traditional electrodermal activity (EDA) measures provide a window into sympathetic arousal, the utility of spectral and nonlinear EDA analysis in characterizing adolescents with MDD is not well explored. Objective This study aimed to evaluate sympathetic reactivity in adolescents with MDD by comprehensive EDA analysis (time-domain, spectral, and nonlinear) during emotional visual stimuli. Methods We examined ",
+      "url": "https://doi.org/10.1007/s44411-026-00834-5",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "source": "Bratislavské lekárske listy/Bratislava medical journal",
+      "authors": [
+        "Zuzana Višňovcová",
+        "Nikola Ferencová",
+        "Igor Ondrejka",
+        "Igor Hrtánek",
+        "Ingrid Tonhajzerová"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/s44411-026-00834-5.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neural"
+      ],
+      "signalScore": 8,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    }
+  ]
 }
