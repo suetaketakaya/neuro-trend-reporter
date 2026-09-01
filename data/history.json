@@ -1624,5 +1624,102 @@
       }
     ],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-09-01T22:51:11.628Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 0
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Support-Vector Networks",
+        "url": "https://doi.org/10.1023/a:1022627411411",
+        "publishedAt": "1995-09-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2505,
+          "previousValue": 2092,
+          "delta": 413,
+          "growthRate": 0.1974,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Emergent spatiotemporal dynamics in large-scale brain networks with next generation neural mass models",
+        "url": "https://doi.org/10.1016/j.physd.2026.135232",
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Distinct Temporal Stages of Infant Brain Processing Associate With Early Versus Later Autism Diagnosis",
+        "url": "https://doi.org/10.1111/desc.70244",
+        "publishedAt": "2026-09-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
