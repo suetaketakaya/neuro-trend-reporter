@@ -21,20 +21,20 @@
         "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
       },
       "metrics": {
-        "citedByCount": 33884
+        "citedByCount": 33914
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 2505,
-        "previousValue": 2092,
-        "delta": 413,
-        "growthRate": 0.1974,
+        "currentValue": 2533,
+        "previousValue": 2091,
+        "delta": 442,
+        "growthRate": 0.2114,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 417,
+      "signalScore": 446,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -48,23 +48,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7154463473",
+      "id": "https://openalex.org/W7205014621",
       "kind": "paper",
-      "title": "Cycle-by-cycle respiration waveforms are coupled with the shape of neural oscillations",
-      "summary": "Abstract Beyond sustaining life, breathing is a vital physiological rhythm that shapes cognition, perception, emotional regulation, and mental health. Breathing has a direct effect on neuronal excitability and is coupled to neural oscillations across a variety of brain regions. Notably, both respiration and neural oscillations are asymmetric and not perfectly rhythmic: for example, every breath has a different shape and duration, and is interspersed with variable pauses. Here, we examined the coupling between breathing and the brain by quantifying the nonsinusoidal features of each breath and ",
-      "url": "https://doi.org/10.1523/jneurosci.0731-26.2026",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Journal of Neuroscience",
+      "title": "A review of research on culturally adapted cognitive behavioral therapy (CA-CBT)",
+      "summary": "Cognitive behavioral therapy (CBT) is a short-term, highly effective, evidence-based treatment recommended by numerous national organizations; however, because it is rooted in Western cultural values, its direct application to non-Western cultural groups may result in reduced efficacy and high dropout rates. Consequently, culturally adapted cognitive behavioral therapy (CA-CBT) has emerged. This paper conducted a systematic review of empirical studies, randomized controlled trials, and meta-analyses on CA-CBT published between 2010 and 2024 in databases such as Web of Science, PubMed, and Psyc",
+      "url": "https://doi.org/10.54254/2753-7102/2026.36556",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Advances in Social Behavior Research",
       "authors": [
-        "Eena L. Kosik",
-        "Guangyu Zhou",
-        "Andrew Sheriff",
-        "Joshua M. Rosenow",
-        "Stephan Schuele"
+        "Yizhou Zhang"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.64898/2026.04.13.718339"
+        "url": "https://doi.org/10.54254/2753-7102/2026.36556"
       },
       "metrics": {
         "citedByCount": 0
@@ -82,8 +78,7 @@
       "relevanceKeywords": [
         "neuroscience",
         "mental health",
-        "brain",
-        "neural"
+        "cognitive neuroscience"
       ],
       "signalScore": 28,
       "access": {
@@ -99,19 +94,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7204008956",
+      "id": "https://openalex.org/W7205709338",
       "kind": "paper",
-      "title": "What Sets the Neural Resting Spectrum - Spectral computation from screened pair interactions",
-      "summary": "A resting cortical spectrum has a narrow alpha peak near 10 Hz, a weaker and equally narrow beta peak near 20 Hz, and a broad background carrying no resolvable peak above them. Existing accounts locate each rhythm in a time constant, so one circuit delivers one band, a second band needs a second circuit, and nothing predicts how strong either is relative to the other. This note computes all three features from a single object. The proposal is that alpha and beta are not two mechanisms but two internal states of one bound pair: an excitatory and an inhibitory population transient that hold each",
-      "url": "https://doi.org/10.5281/zenodo.22057056",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title": "Brain cognition gaps reveal associations with dopamine and factors related to brain health through artificial intelligence prediction of functional connectome",
+      "summary": "A key question in human neuroscience is to understand how individual differences in brain function relate to cognitive differences. However, the optimal condition of brain function to study between-person differences in cognition remains unclear. While many studies have developed objective biomarkers to accurately predict intelligence and general cognition, consensus on domain-specific markers has not yet emerged. Brain age has been proposed as a potential candidate, but recent research suggests that brain age offers minimal additional information on cognitive decline beyond what chronological",
+      "url": "https://doi.org/10.7554/elife.104053.4",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "eLife",
       "authors": [
-        "Pascal Moser"
+        "Morteza Esmaeili",
+        "Erin Beate Bjørkeli",
+        "Robin Pedersen",
+        "Farshad Falahati",
+        "Jarkko Johansson"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.22057056"
+        "url": "https://doi.org/10.7554/elife.104053.4"
       },
       "metrics": {
         "citedByCount": 0
@@ -128,11 +127,10 @@
       },
       "relevanceKeywords": [
         "neuroscience",
-        "computational neuroscience",
         "brain",
-        "neural"
+        "connectome"
       ],
-      "signalScore": 28,
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -146,72 +144,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W4404170712",
+      "id": "https://openalex.org/W7117677913",
       "kind": "paper",
-      "title": "Autistic neural ‘shiftability’: the distinct pharmacological landscape of the autistic brain",
-      "summary": "Functionally inter-connected large-scale brain networks regulated by multiple neurotransmitter systems underpin complex human behaviour. A wide range of alterations in this neurofunctional landscape have been associated with autism. However, this evidence is mostly derived from cross-sectional analyses and thus assumes that any differences are ‘static’. Indeed, large sample sizes are required to identify reproducible baseline differences in functional connectivity between autistic and non-autistic individuals. Instead, we propose that what is different in autism is not necessarily the baseline",
-      "url": "https://doi.org/10.1038/s41398-026-04371-1",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Translational Psychiatry",
+      "title": "Volume Electron Microscopy of Cortical Organoids: Methods for Region Identification, Connectome Reconstruction, and Organelle Segmentation",
+      "summary": "Abstract Volume electron microscopy (vEM) has become a powerful tool for 3D ultrastructural analysis of neural circuits, yet its application to human brain organoids remains limited, particularly for connectomic studies. Here, we established a comprehensive and scalable workflow for applying vEM to human cortical organoids, integrating correlative light and electron microscopy, large-area SEM (scanning electron microscopy) mosaic imaging, focused ion beam–SEM (FIB-SEM), and transmission electron microscopy (TEM) validation. By systematically comparing two embedding protocols in use, we demonst",
+      "url": "https://doi.org/10.1007/s10571-026-01814-7",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Cellular and Molecular Neurobiology",
       "authors": [
-        "Tobias P. Whelan",
-        "Lucas G. S. França",
-        "Mihail Dimitrov",
-        "Charlotte M. Pretzsch",
-        "Hester Velthuis"
+        "Sveva Dallere",
+        "Anna Mattioni",
+        "Marta Turégano-López",
+        "Lidia Blazquez-Llorca",
+        "Angel Merchàn-Perez"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1038/s41398-026-04371-1"
-      },
-      "metrics": {
-        "citedByCount": 4
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 3,
-        "delta": -2,
-        "growthRate": -0.6667,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "mental health",
-        "brain",
-        "neural"
-      ],
-      "signalScore": 20,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7126221479",
-      "kind": "paper",
-      "title": "Mass univariate aggregation methods for machine learning in neuroscience",
-      "summary": "Machine learning is a ubiquitous part of the modern neuroimaging toolkit, particularly for research aimed towards precision medicine goals of improving individual-level diagnosis and treatment. However, the high dimensionality of neuroimaging data poses significant challenges for constructing interpretable predictive models. Several established methods, such as Connectome-based Predictive Modeling (CPM), Polyneuro Risk Scores (PNRS, inspired by Polygenic Risk Scores), and Polyconnectomic Scoring (PCS), offer an interpretable approach, which we term “Mass Univariate Aggregation” (MUA). MUA appr",
-      "url": "https://doi.org/10.52294/001c.165448",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Aperture Neuro",
-      "authors": [
-        "Fatemeh Doshvargar",
-        "Fabricio Cravo",
-        "Hallee Shearer",
-        "Stephanie Noble"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.52294/001c.165448"
+        "url": "https://doi.org/10.1007/s10571-026-01814-7"
       },
       "metrics": {
         "citedByCount": 0
@@ -227,7 +176,8 @@
         "available": true
       },
       "relevanceKeywords": [
-        "neuroscience",
+        "brain",
+        "neural",
         "connectome"
       ],
       "signalScore": 20,
@@ -244,20 +194,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7204751591",
+      "id": "https://openalex.org/W7204998918",
       "kind": "paper",
-      "title": "King Midas's Ears and Musical Perception: A Neurocognitive Interpretation of Myth",
-      "summary": "The myth of King Midas, traditionally interpreted as a moral allegory concerning poor aesthetic judgement, introduces a distinct anatomical punishment: the acquisition of donkey ears following his arbitration in a musical contest between Apollo and Pan. This study re-evaluates the narrative to explore whether it reflects early empirical observations of craniofacial variance and atypical auditory perception rather than abstract symbolism alone. An interdisciplinary analysis was conducted by integrating classical textual sources, specifically Ovid’s Metamorphoses, with forensic archaeological fi",
-      "url": "https://doi.org/10.5281/zenodo.22207228",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title": "Artificial intelligence is reshaping neuroscience across scales",
+      "summary": "Across every scale at which we study the brain, from folded proteins and single neurons to cortical populations and the moving body, artificial intelligence (AI) has shifted from a bespoke tool into a driver of measurement and, increasingly, a generative engine for hypotheses. Here, I review recent progress (and open challenges) in applying AI for neuroscience along this scale axis: structure prediction for proteins, simulation-based inference for biophysical neurons, latent and dynamical models for neural populations, task-trained networks as minimal models of circuit computation, computer vi",
+      "url": "https://doi.org/10.1016/j.conb.2026.103265",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Current Opinion in Neurobiology",
       "authors": [
-        "Tayfun Hakan",
-        "Muzaffer Ece Hakan Şahin"
+        "Mackenzie Weygandt Mathis"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.22207228"
+        "url": "https://doi.org/10.1016/j.conb.2026.103265"
       },
       "metrics": {
         "citedByCount": 0
@@ -274,7 +223,8 @@
       },
       "relevanceKeywords": [
         "neuroscience",
-        "cognitive neuroscience"
+        "brain",
+        "neural"
       ],
       "signalScore": 20,
       "access": {
@@ -306,16 +256,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 7766
+        "citedByCount": 7770
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 195,
+        "currentValue": 199,
         "previousValue": 342,
-        "delta": -147,
-        "growthRate": -0.4298,
+        "delta": -143,
+        "growthRate": -0.4181,
         "available": true
       },
       "relevanceKeywords": [
@@ -338,40 +288,40 @@
       }
     },
     {
-      "id": "https://openalex.org/W7154850026",
+      "id": "https://openalex.org/W4411115420",
       "kind": "paper",
-      "title": "Multiscale characterization of cortical signatures in positive and negative schizotypy:a worldwide ENIGMA study",
-      "summary": "Positive and negative schizotypy reflect distinct patterns of subclinical traits in the general population associated with neurodevelopmental and schizophrenia-spectrum pathologies. Yet, a comprehensive characterization of the unique and shared neuroanatomical signatures of these schizotypy dimensions is lacking. Leveraging 3D brain MRI data from 2730 unmedicated healthy individuals, we identified neuroanatomical profiles of positive and negative schizotypy and systematically compared them with disorder-specific, microarchitectural, neurotransmitter-level, and connectome measures. Positive and",
-      "url": "https://doi.org/10.1038/s41380-026-03547-x",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "VU Research Portal",
+      "title": "Hyperpolarization-activated cation channels confer tonotopic specialization for temporal encoding of sound frequency in the cochlear nucleus",
+      "summary": "Sensory neurons are equipped with physiological properties vital for accurate signal processing. The functional importance of such properties is exemplified in auditory circuits where intrinsic excitability is optimized to detect frequency-specific features. In birds, the neurons of nucleus magnocellularis (NM) receive primary auditory input (Rubel and Parks, 1975a; Parks and Rubel, 1978; Jackson et al., 1982) and are arranged tonotopically. NM comprises a superficially homogenous neural population, but several physiological properties vary systematically along its tonotopic frequency axis. In",
+      "url": "https://doi.org/10.1523/jneurosci.1323-25.2026",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Journal of Neuroscience",
       "authors": [
-        "Matthias Kirschner",
-        "Benazir Hodzic-Santor",
-        "Leda Kennedy",
-        "Justine Y. Hansen",
-        "Mathilde Antoniades"
+        "Kwame Owusu-Nyantakyi",
+        "Lashaka Sierra Hamlette",
+        "Go Ashida",
+        "Sonia R. Weimann",
+        "Stefan N. Oline"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://hdl.handle.net/1871.1/6dd7ae51-733c-4f2f-8e3b-f6114824cb96"
+        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/06/07/2025.06.03.657729.full.pdf"
       },
       "metrics": {
-        "citedByCount": 0
+        "citedByCount": 1
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
         "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
+        "previousValue": 1,
+        "delta": -1,
+        "growthRate": -1,
         "available": true
       },
       "relevanceKeywords": [
-        "brain",
-        "connectome"
+        "neuroscience",
+        "neural"
       ],
       "signalScore": 16,
       "access": {
@@ -387,23 +337,69 @@
       }
     },
     {
-      "id": "https://openalex.org/W7163706841",
+      "id": "https://openalex.org/W4413341073",
       "kind": "paper",
-      "title": "Cerebral glucose utilisation during musical emotions: A multimodal functional PET/MRI study:A multimodal functional PET/MRI study",
-      "summary": "Functional magnetic resonance imaging (fMRI) studies have demonstrated music-induced activation of the blood-oxygen-level-dependent (BOLD) signal across brain networks associated with auditory perception, motor control, and emotion. However, BOLD-fMRI reflects vascular responses that may not fully capture underlying neural activity. Here, we used simultaneous [ 18F]fluorodeoxyglucose (FDG) functional positron emission tomography (fPET) and fMRI to examine glucose metabolism closely linked to neural activity, alongside hemodynamic responses during pleasurable music listening. Thirty-five female",
-      "url": "https://doi.org/10.1016/j.neuroimage.2026.122035",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "Åbo Akademi University Research Portal",
+      "title": "Neurophysiological signatures of Stanford Neuromodulation Therapy in treatment resistant depression",
+      "summary": "ABSTRACT Objective Stanford Neuromodulation Therapy (SNT) has demonstrated impressive efficacy for treatment-resistant depression (TRD), but its neurophysiological mechanisms remain poorly understood. This study investigated the neurophysiological correlates of SNT using transcranial magnetic stimulation with electroencephalography (TMS-EEG). Method A double-blind, randomized, sham-controlled clinical trial was conducted at Stanford University. Twenty-four participants with TRD (12 active, 12 sham) received TMS-EEG measurements at baseline, before/after each treatment day across the 5-day prot",
+      "url": "https://doi.org/10.1038/s41380-026-03837-4",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Molecular Psychiatry",
       "authors": [
-        "Vesa Putkinen",
-        "Andreas Hahn",
-        "Jouni Tuisku",
-        "Harri Harju",
-        "Kerttu Seppälä"
+        "Davide Momi",
+        "Derrick Matthew Buchanan",
+        "Masataka Wada",
+        "Andrew Geoly",
+        "Noriah J. Johnson"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://research.abo.fi/ws/files/77643420/1-s2.0-S1053811926003502-main.pdf"
+        "url": "https://doi.org/10.1038/s41380-026-03837-4"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuromodulation",
+        "cortex"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416026038",
+      "kind": "paper",
+      "title": "A unified model of short- and long-term plasticity: Effects on network connectivity and information capacity",
+      "summary": "Abstract Activity-dependent synaptic plasticity is a fundamental learning mechanism that shapes the connectivity and activity of neural circuits. Existing computational models of Spike-Timing-Dependent Plasticity (STDP) capture long-term synaptic changes with varying degrees of biological detail. A common approach is to neglect the influence of short-term dynamics on long-term plasticity, which may be an oversimplification for certain neuron types. Thus, there is a need for new models to investigate how short-term dynamics influence long-term plasticity. To address this gap, we introduce a nov",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014730",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "PLoS Computational Biology",
+      "authors": [
+        "Iiro Ahokainen",
+        "Marja‐Leena Linne"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1371/journal.pcbi.1014730"
       },
       "metrics": {
         "citedByCount": 0
@@ -422,6 +418,425 @@
         "brain",
         "neural",
         "cortex"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7204988742",
+      "kind": "paper",
+      "title": "Research progress and challenges of stem cell therapy for Parkinson's disease",
+      "summary": "Parkinson's Disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic neurons in the substantia nigra, leading to striatal dopamine depletion and resulting motor (e.g., tremor, bradykinesia) and non-motor symptoms (e.g., cognitive decline and sleep abnormalities). Current treatment strategies mainly focus on dopamine replacement therapy and deep brain stimulation. Although these methods can temporarily relieve symptoms, they cannot reverse nerve damage, and long-term use is associated with obvious side effects and potential risks. There is thus an urgen",
+      "url": "https://doi.org/10.54254/3049-5458/2026.36497",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Journal of clinical technology and theory.",
+      "authors": [
+        "Liancheng Zhi"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.54254/3049-5458/2026.36497"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7205006947",
+      "kind": "paper",
+      "title": "Erotic Intimation: A theoretical neuroscience framework for pre-orgasmic anticipation",
+      "summary": "How does the brain know that orgasm is coming before orgasm begins? Masters and Johnson described sensations signaling approaching orgasm, but the neural basis of this anticipatory awareness remains unexplained.The present article terms this period Erotic Intimation. It begins at the proposed Intimation threshold, when bottom-up sexual information captures attention, and continues while orgasm feels increasingly imminent, but escalation remains redirectable. Although sexual-neuroscience studies have documented cerebellar activity before and during orgasm, they have not examined its possible pr",
+      "url": "https://doi.org/10.1080/17470919.2026.2726756",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Social Neuroscience",
+      "authors": [
+        "Kyung Hee Kim"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7205709525",
+      "kind": "paper",
+      "title": "Effects of a neuroscience informed brain based learning approach on reading attitude and self efficacy among EFL students",
+      "summary": "This quasi-experimental study examined the impact of a Brain-Based Learning Approach (BBLA) on reading attitude and self-efficacy among English as a Foreign Language (EFL) students at Jimma University, Ethiopia. A pretest-posttest control group design was implemented with 109 first-year social science students (experimental: n = 54; control: n = 55). The experimental group received a 16-week BBLA intervention incorporating kinesthetic, visualization, collaborative, and mindfulness strategies, while the control group received conventional instruction. Reading attitude and reading self-efficacy ",
+      "url": "https://doi.org/10.1007/s44217-026-02095-4",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Discover Education",
+      "authors": [
+        "Abraham Hussein",
+        "Tekle Ferede",
+        "Adege Alemu"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.1007/s44217-026-02095-4"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206154681",
+      "kind": "paper",
+      "title": "Theory of Time and Consciousness: Conceptual Framework and Ontological Grounding",
+      "summary": "THEORY OF TIME AND CONSCIOUSNESS (Abstract of an Interdisciplinary Theory) Authors: Azhar Donenbayeva Dossayev Assan Mazhitov Mikhail Target Audience: Broad interdisciplinary community of consciousness researchers and complex adaptive systems: philosophers of mind, theoretical and applied mathematicians, physicists, cyberneticists, artificial intelligence and machine learning specialists, neuro- and systems biologists, psychologists and psychiatrists, geneticists, evolutionary biologists, clinical neurologists, as well as scientists working with open thermodynamic and information systems. Obje",
+      "url": "https://doi.org/10.5281/zenodo.22257784",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Azhar Donenbayeva",
+        "Assan Dossayev",
+        "Mikhail Mazhitov"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22257784"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206163955",
+      "kind": "paper",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: The Individual and the Cycle — An Empirical Companion",
+      "summary": "This project contains the eighth paper in the Emotional Engineer 1-2, 3-6-9, 3-3-3 series — the empirical companion to Paper 7. Using the same convergent citation mapping method as Papers 2, 5, and 6, this paper maps published research from developmental psychology, attachment theory, adverse childhood experience research, somatic trauma science, affective neuroscience, self-compassion research, and neuroplasticity science onto each stage of the cycle as it operates in the interior life of a human being. The evidence reflects the formation of the mask through Stage 3 coherence building; the am",
+      "url": "https://doi.org/10.5281/zenodo.22260202",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Brian Burgess"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22260202"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206185255",
+      "kind": "paper",
+      "title": "SISTEMAS ROBÓTICOS: EXOESQUELETOS COM BIOSSENSORES PARA AUXÍLIO AO MOVIMENTO HUMANO",
+      "summary": "This article analyzes the evolution of robotic exoskeletons in Brazil over the last decade, highlighting their significant role in motor rehabilitation and the augmentation of physical capabilities. The research emphasizes the importance of integrating biosensors—such as EMG and EEG electrodes—which establish natural human-machine interfaces by converting biological signals into real-time control commands. A key milestone discussed is the \"Walk Again\" Project (*Projeto Andar de Novo*), led by Miguel Nicolelis; in 2014, this project demonstrated the clinical viability of brain-controlled exoske",
+      "url": "https://doi.org/10.51891/rease.v12i9.29747",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Revista Ibero-Americana de Humanidades, Ciências e Educação",
+      "authors": [
+        "Donizetti Aparecido de Souza Júnior",
+        "Lucas de Almeida Oliveira Santos",
+        "Fabiano Fagundes",
+        "Rodrigo Rodrigues Franco"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.51891/rease.v12i9.29747"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206203920",
+      "kind": "paper",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: The Individual and the Cycle — An Empirical Companion",
+      "summary": "This project contains the eighth paper in the Emotional Engineer 1-2, 3-6-9, 3-3-3 series — the empirical companion to Paper 7. Using the same convergent citation mapping method as Papers 2, 5, and 6, this paper maps published research from developmental psychology, attachment theory, adverse childhood experience research, somatic trauma science, affective neuroscience, self-compassion research, and neuroplasticity science onto each stage of the cycle as it operates in the interior life of a human being. The evidence reflects the formation of the mask through Stage 3 coherence building; the am",
+      "url": "https://doi.org/10.5281/zenodo.22260201",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Brian Burgess"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22260201"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206204758",
+      "kind": "paper",
+      "title": "Theory of Time and Consciousness: Conceptual Framework and Ontological Grounding",
+      "summary": "THEORY OF TIME AND CONSCIOUSNESS (Abstract of an Interdisciplinary Theory) Authors: Azhar Donenbayeva Dossayev Assan Mazhitov Mikhail Target Audience: Broad interdisciplinary community of consciousness researchers and complex adaptive systems: philosophers of mind, theoretical and applied mathematicians, physicists, cyberneticists, artificial intelligence and machine learning specialists, neuro- and systems biologists, psychologists and psychiatrists, geneticists, evolutionary biologists, clinical neurologists, as well as scientists working with open thermodynamic and information systems. Obje",
+      "url": "https://doi.org/10.5281/zenodo.22257783",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Azhar Donenbayeva",
+        "Assan Dossayev",
+        "Mikhail Mazhitov"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22257783"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4392201548",
+      "kind": "paper",
+      "title": "Habit learning shapes activity dynamics in the central nucleus of the amygdala",
+      "summary": "A habit develops as a motivated behavior that is strengthened by extended experience and feedback. While the performance component of a habit is relatively well studied, being linked to action-related neural dynamics in the basal ganglia and beyond, neural mechanisms for outcome feedback during habit formation, the reinforcement component, remain unknown. One candidate for this feedback mechanism is in the central nucleus of the amygdala (CeA). Here, we identify CeA neural firing dynamics in male and female rats that serve to promote habit formation. We used a novel maze task with rewards of d",
+      "url": "https://doi.org/10.1523/jneurosci.0751-26.2026",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "source": "Journal of Neuroscience",
+      "authors": [
+        "Kenneth A. Amaya",
+        "James E. Carmichael",
+        "Jeffrey J. Stott",
+        "Erica S. Townsend",
+        "Elizabeth A. Bien"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.jneurosci.org/content/jneuro/early/2026/08/31/JNEUROSCI.0751-26.2026.full.pdf"
+      },
+      "metrics": {
+        "citedByCount": 2
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 1,
+        "delta": -1,
+        "growthRate": -1,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural"
       ],
       "signalScore": 16,
       "access": {
@@ -505,16 +920,16 @@
         "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
       },
       "metrics": {
-        "citedByCount": 7637
+        "citedByCount": 7643
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 340,
+        "currentValue": 346,
         "previousValue": 471,
-        "delta": -131,
-        "growthRate": -0.2781,
+        "delta": -125,
+        "growthRate": -0.2654,
         "available": true
       },
       "relevanceKeywords": [
@@ -535,206 +950,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7151789685",
+      "id": "https://openalex.org/W4411991201",
       "kind": "paper",
-      "title": "Emergent spatiotemporal dynamics in large-scale brain networks with next generation neural mass models",
-      "summary": "Understanding the dynamics of large-scale brain models remains a central challenge due to the inherent complexity of these systems. In this work, we explore the emergence of complex spatiotemporal patterns in a large-scale brain model composed of 90 interconnected brain regions coupled through empirically derived anatomical connectivity. An important aspect of our formulation is that the local dynamics of each brain region are described by a next-generation neural mass model, which explicitly captures the macroscopic gamma activity of coupled excitatory and inhibitory neural populations (PING ",
-      "url": "https://doi.org/10.1016/j.physd.2026.135232",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
-      "authors": [
-        "Rosa Maria Delicado Moll",
-        "Gemma Huguet",
-        "Pau Clusella Coberó"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://upcommons.upc.edu/bitstreams/aa44a20a-3e48-4d5b-9a33-0fee195fdd52/download"
-      },
-      "metrics": {
-        "citedByCount": 1
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural"
-      ],
-      "signalScore": 13,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7167638558",
-      "kind": "paper",
-      "title": "Distinct Temporal Stages of Infant Brain Processing Associate With Early Versus Later Autism Diagnosis",
-      "summary": "The expression of autism traits sufficient to meet criteria for a diagnosis can occur early (by 3 years) or later (from mid-childhood onwards). It remains unknown whether variation in age of onset is due to clinical recognition or reflects distinct biological pathways. One way of addressing this question is by investigating biological differences very early in development associated with a later age of diagnosis. We use a prospective family history design to look at event-related potentials to faces, one of the most robust biomarkers in autism. A sample of 102 infants (aged 6–10 months, 54% fe",
-      "url": "https://doi.org/10.1111/desc.70244",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "Research Portal (King's College London)",
-      "authors": [
-        "? ?",
-        "Tony; id_orcid 0000-0003-1993-6549 Charman",
-        "Mark H. Johnson",
-        "Emily J.H. Jones"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://kclpure.kcl.ac.uk/portal/en/publications/f9f3eee3-ef8d-431c-81a9-d485b5dfe19e"
-      },
-      "metrics": {
-        "citedByCount": 1
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural"
-      ],
-      "signalScore": 13,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7204831228",
-      "kind": "paper",
-      "title": "CHAPTER III: Applications and Implementations Behavioral Modeling, Accessibility, and Closed-Loop Demonstrations",
-      "summary": "CHAPTER III: Applications and Implementations Behavioral Modeling, Accessibility, and Closed-LoopDemonstrations Sean MorinSpecialized Systems Architect, 13forge August 31, 2026Status: Chapter III (Part II) of Little Nistam and The Lattice of HarmonyPrerequisite: Chapter II Parts I & II (Formal Mathematics + Prediction Engine Foundations)Scope: Speculative applications, behavioral instantiations, and four technical demonstrations Scope and Hedging This chapter applies the formal D=T+F+R mathematics to behavioral modeling, cognitive psy-chology, and accessibility design. **Psychological interpre",
-      "url": "https://doi.org/10.5281/zenodo.22216795",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Sean Everett Morin"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.22216795"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7204847179",
-      "kind": "paper",
-      "title": "CHAPTER III: Applications and Implementations Behavioral Modeling, Accessibility, and Closed-Loop Demonstrations",
-      "summary": "CHAPTER III: Applications and Implementations Behavioral Modeling, Accessibility, and Closed-LoopDemonstrations Sean MorinSpecialized Systems Architect, 13forge August 31, 2026Status: Chapter III (Part II) of Little Nistam and The Lattice of HarmonyPrerequisite: Chapter II Parts I & II (Formal Mathematics + Prediction Engine Foundations)Scope: Speculative applications, behavioral instantiations, and four technical demonstrations Scope and Hedging This chapter applies the formal D=T+F+R mathematics to behavioral modeling, cognitive psy-chology, and accessibility design. **Psychological interpre",
-      "url": "https://doi.org/10.5281/zenodo.22216796",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Sean Everett Morin"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.22216796"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W4409962080",
-      "kind": "paper",
-      "title": "Go figure: transparency in neuroscience images preserves context and clarifies interpretation",
+      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
       "summary": "",
-      "url": "https://doi.org/10.1038/s41592-026-03206-7",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Nature Methods",
+      "url": "https://doi.org/10.1038/s41586-026-10690-6",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Nature",
       "authors": [
-        "Paul A. Taylor",
-        "Himanshu Aggarwal",
-        "Peter A. Bandettini",
-        "Marco Barilari",
-        "Molly G. Bright"
+        "Krista E. Perks",
+        "Mariela D. Petkova",
+        "Salomon Z. Muller",
+        "Michael Genecin",
+        "Adishree Ghatare"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12036441"
+        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/03/2025.07.03.662989.full.pdf"
       },
       "metrics": {
         "citedByCount": 2
@@ -743,16 +975,64 @@
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 2,
-        "delta": -2,
-        "growthRate": -1,
+        "currentValue": 2,
+        "previousValue": 0,
+        "delta": 2,
+        "growthRate": 1,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "connectome"
+      ],
+      "signalScore": 14,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7154896959",
+      "kind": "paper",
+      "title": "Deep FLASH-seq profiling of purified canine sensory neurons uncovers species-specific signatures relevant to pain and itch",
+      "summary": "ABSTRACT: Naturally occurring pain and itch disorders in the domestic dog represent an important and underexploited opportunity for translational sensory neuroscience. These conditions largely mirror human disease, highlighting the need for detailed comparative understanding of canine somatosensory neurobiology. Here, we present a single-cell transcriptomic characterisation of the canine dorsal root ganglion (DRG), providing molecular insights into sensory neuron diversity in a species of direct veterinary and biomedical relevance. We develop a novel mechanical dissociation and fluorescence-ac",
+      "url": "https://doi.org/10.1097/j.pain.0000000000004102",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Pain",
+      "authors": [
+        "Paula Ledesma Fernández",
+        "Brandi Butler",
+        "Heidi Theis",
+        "Stefan Paulusch",
+        "Elena De Domenico"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.64898/2026.04.17.719254"
+      },
+      "metrics": {
+        "citedByCount": 1
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1,
+        "previousValue": 0,
+        "delta": 1,
+        "growthRate": 1,
         "available": true
       },
       "relevanceKeywords": [
         "neuroscience"
       ],
-      "signalScore": 12,
+      "signalScore": 13,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -766,23 +1046,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7117129122",
+      "id": "https://openalex.org/W7141645842",
       "kind": "paper",
-      "title": "Functional fractionation of large-scale brain networks in the human subcortex",
-      "summary": "Brain network mapping plays a crucial role in advancing our understanding of human brain organization and the neuroanatomic foundations of cognition. Historically, the identification of large-scale brain networks has focused on the cerebral cortex. Some cortical networks have been fractionated into subnetworks, yielding valuable insights into their domain-specific cognitive functions. In contrast, functional mapping of large-scale brain networks within subcortical regions remains an emerging and challenging field, hindered by a low signal-to-noise ratio in subcortical functional MRI data and a",
-      "url": "https://doi.org/10.1073/pnas.2608875123",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Proceedings of the National Academy of Sciences",
+      "title": "Early adolescent self-harm: examining prevalence and risk factors in a multi-ethnic Asian birth cohort",
+      "summary": "Abstract Background Early adolescence marks a vulnerable developmental phase for the emergence of self-harm behaviours, which can potentially be life-threatening. However, the prevalence and risk factors of early adolescent self-harm, particularly in non-Western community-based populations, remain underexplored. This study investigated the prevalence and psychosocial correlates of self-harm in a multi-ethnic Asian cohort of 13-year-olds, an age when self-harm commonly emerges. Methods Our sample of 666 participants was embedded in the Growing Up in Singapore Towards healthy Outcomes (GUSTO) bi",
+      "url": "https://doi.org/10.1186/s13034-026-01167-5",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Child and Adolescent Psychiatry and Mental Health",
       "authors": [
-        "Jian Li",
-        "Alexander S. Atalay",
-        "Mark Olchanyi",
-        "Morgan K. Cambareri",
-        "Satrajit S. Ghosh"
+        "Johanna E.M. Ruess",
+        "Germaine Y. Q. Tng",
+        "Yap Seng Chong",
+        "Johan G. Eriksson",
+        "Helen Y. Chen"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/12/24/2025.12.23.696301.full.pdf"
+        "url": "https://doi.org/10.1186/s13034-026-01167-5"
       },
       "metrics": {
         "citedByCount": 0
@@ -795,201 +1075,6 @@
         "previousValue": 0,
         "delta": 0,
         "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "cortex"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7134897520",
-      "kind": "paper",
-      "title": "The ongoing oleoylethanolamide story: Therapeutic implications in the control of obesity and its comorbidities",
-      "summary": "The global burden of obesity continues to rise, demanding effective pharmacological strategies for individuals in whom prevention alone is insufficient. Recent incretin‐based and multi‐agonist therapies have delivered unprecedented weight loss, demonstrating that the simultaneous modulation of multiple metabolic pathways can optimize body weight control and improve obesity‐related comorbidities. However, biological heterogeneity, interindividual variability in treatment response and uncertainties regarding long‐term outcomes highlight the need to explore complementary regulatory mechanisms. Ol",
-      "url": "https://doi.org/10.1111/bph.70649",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "British Journal of Pharmacology",
-      "authors": [
-        "Marzia Friuli",
-        "Alessia Campagna",
-        "Barbara Eramo",
-        "C. Sepe",
-        "Anna Rita Zuena"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1111/bph.70649"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7204745107",
-      "kind": "paper",
-      "title": "Tenecteplase versus standard medical treatment for minor stroke due to anterior-circulation medium-vessel occlusion: a multicenter observational study",
-      "summary": "Purpose To assess whether intravenous tenecteplase is associated with improved clinical outcomes compared with standard medical treatment (SMT) in patients with minor acute ischemic stroke (AIS) caused by medium-vessel occlusion (MeVO). Methods We conducted a multicenter, retrospective observational study of consecutive patients with minor AIS, defined as a National Institutes of Health Stroke Scale score <6, and imaging-confirmed anterior-circulation MeVO. Patients were classified into the tenecteplase group or the SMT group (without intravenous thrombolysis) based on their initial treatment ",
-      "url": "https://doi.org/10.3389/fnins.2026.1931392",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Jiang He",
-        "Huijuan Zhang",
-        "Kai Qiu",
-        "Ying Liu",
-        "Yanguo Chen"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1931392/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7204747779",
-      "kind": "paper",
-      "title": "NeuroPlast: a learnable activation function evaluated under knowledge distillation for medical image classification",
-      "summary": "Deep neural networks for medical image classification rely almost exclusively on fixed activation functions such as ReLU. We introduce NeuroPlast, a parametric activation function whose four differentiable components (a shifted sigmoid modeling NMDA-type voltage gating, a Gaussian plateau inspired by AMPA receptor scaling, an excitatory rectifier, and an inhibitory leak) are combined through six learnable parameters. Two mixing strategies are evaluated: a static variant with fixed learned weights, and a metaplastic variant whose mixing coefficients adapt per sample via a lightweight squeeze-ex",
-      "url": "https://doi.org/10.3389/frai.2026.1849571",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Frontiers in Artificial Intelligence",
-      "authors": [
-        "Fabrice Vaussenat",
-        "Abhiroop Bhattacharya",
-        "Julie Payette",
-        "T. Desmettre",
-        "Alireza Saidi"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1849571/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain",
-        "neural"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2751884637",
-      "kind": "paper",
-      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
-      "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
-      "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
-      "publishedAt": "2017-09-01T00:00:00.000Z",
-      "source": "The Lancet",
-      "authors": [
-        "Theo Vos",
-        "Amanuel Alemu Abajobir",
-        "Kalkidan Hassen Abate",
-        "Cristiana Abbafati",
-        "Kaja Abbas"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
-      },
-      "metrics": {
-        "citedByCount": 13636
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 294,
-        "previousValue": 652,
-        "delta": -358,
-        "growthRate": -0.5491,
         "available": true
       },
       "relevanceKeywords": [
@@ -1009,217 +1094,34 @@
       }
     },
     {
-      "id": "https://openalex.org/W2105824687",
+      "id": "https://openalex.org/W7204990834",
       "kind": "paper",
-      "title": "Power failure: why small sample size undermines the reliability of neuroscience",
+      "title": "Traumatic Brain Injury: State-of-the-Science Advances in the Journal of Neuropsychiatry and Clinical Neurosciences",
       "summary": "",
-      "url": "https://doi.org/10.1038/nrn3475",
-      "publishedAt": "2013-04-10T00:00:00.000Z",
-      "source": "Nature reviews. Neuroscience",
+      "url": "https://doi.org/10.1176/appi.neuropsych.20263804",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Journal of Neuropsychiatry",
       "authors": [
-        "Katherine S. Button",
-        "John P. A. Ioannidis",
-        "Claire Mokrysz",
-        "Brian A. Nosek",
-        "Jonathan Flint"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.nature.com/articles/nrn3475.pdf"
-      },
-      "metrics": {
-        "citedByCount": 8017
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 464,
-        "previousValue": 625,
-        "delta": -161,
-        "growthRate": -0.2576,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2166073443",
-      "kind": "paper",
-      "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
-      "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
-      "url": "https://doi.org/10.1155/2011/156869",
-      "publishedAt": "2010-12-23T00:00:00.000Z",
-      "source": "Computational Intelligence and Neuroscience",
-      "authors": [
-        "Robert Oostenveld",
-        "Pascal Fries",
-        "Eric Maris",
-        "Jan‐Mathijs Schoffelen"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
-      },
-      "metrics": {
-        "citedByCount": 11486
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 579,
-        "previousValue": 1214,
-        "delta": -635,
-        "growthRate": -0.5231,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2135894974",
-      "kind": "paper",
-      "title": "Nonparametric statistical testing of EEG- and MEG-data",
-      "summary": "",
-      "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
-      "publishedAt": "2007-04-11T00:00:00.000Z",
-      "source": "Journal of Neuroscience Methods",
-      "authors": [
-        "Eric Maris",
-        "Robert Oostenveld"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
-      },
-      "metrics": {
-        "citedByCount": 9387
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 578,
-        "previousValue": 1012,
-        "delta": -434,
-        "growthRate": -0.4289,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2138825607",
-      "kind": "paper",
-      "title": "Image processing with ImageJ",
-      "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
-      "url": "https://dspace.library.uu.nl/handle/1874/204900",
-      "publishedAt": "2004-01-01T00:00:00.000Z",
-      "source": "Utrecht University Repository (Utrecht University)",
-      "authors": [
-        "Michael D. Abràmoff",
-        "Paulo Magalhães",
-        "Sunanda J. Ram"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://dspace.library.uu.nl/handle/1874/204900"
-      },
-      "metrics": {
-        "citedByCount": 11923
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 215,
-        "delta": -214,
-        "growthRate": -0.9953,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W2158553737",
-      "kind": "paper",
-      "title": "Emotion Circuits in the Brain",
-      "summary": "The field of neuroscience has, after a long period of looking the other way, again embraced emotion as an important research area. Much of the progress has come from studies of fear, and especially fear conditioning. This work has pinpointed the amygdala as an important component of the system involved in the acquisition, storage, and expression of fear memory and has elucidated in detail how stimuli enter, travel through, and exit the amygdala. Some progress has also been made in understanding the cellular and molecular mechanisms that underlie fear conditioning, and recent studies have also ",
-      "url": "https://doi.org/10.1146/annurev.neuro.23.1.155",
-      "publishedAt": "2000-03-01T00:00:00.000Z",
-      "source": "Annual Review of Neuroscience",
-      "authors": [
-        "Joseph E. LeDoux"
+        "Erik Fraunberger",
+        "Margo Lauterbach",
+        "Lindsey Gurin",
+        "David B. Arciniegas"
       ],
       "openAccess": {
         "isOpen": false,
         "url": ""
       },
       "metrics": {
-        "citedByCount": 8476
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 193,
-        "previousValue": 264,
-        "delta": -71,
-        "growthRate": -0.2689,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
@@ -1240,69 +1142,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7160526803",
+      "id": "https://openalex.org/W7205002970",
       "kind": "paper",
-      "title": "Neurophysiological Correlates of Neuroanatomical Dimensions in Major Depressive Disorder: Electroencephalographic Markers of Brain Function and Treatment Outcome.",
-      "summary": "",
-      "url": "https://doi.org/10.1016/j.bpsgos.2026.100750",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "PubMed",
+      "title": "Changes in Emotional and Vocal Expression in Job Interview Simulations with an AI-Enhanced Chatbot for University Students",
+      "summary": "This study examined whether AI-powered chatbot-based training was associated with changes in university students’ Facial and Vocal Emotional Reaction Time Proportions during simulated job interviews. A one-group pretest–posttest design was conducted with 54 third- and fourth-year students enrolled in a Human Talent Management course at a private Latin American university. This study was implemented in an Applied Neuroscience Laboratory using iMotions-supported facial-expression recognition and vocal analysis technologies. Participants first completed a baseline simulated interview, followed by",
+      "url": "https://doi.org/10.3390/bs16091554",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Behavioral Sciences",
       "authors": [
-        "Wenyi Xiao",
-        "Rachel D. Woodham",
-        "Mathilde Antoniades",
-        "Srinivasan Dp",
-        "Yong Fan"
+        "Alberto Grájeda",
+        "Pamela Córdova Olivera",
+        "Juan Pablo Córdova",
+        "María Pueyo",
+        "Patricia Gasser"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://kclpure.kcl.ac.uk/ws/files/383287281/NeurophysiologicalCorrelates_Xiao_GoldVoR.pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 8,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7204495369",
-      "kind": "paper",
-      "title": "Biological Embedding of Adverse Childhood Experiences: Neurobiological and Immune Mechanisms Linking Early-Life Stress to Addiction Vulnerability.",
-      "summary": "Adverse childhood experiences (ACEs) are associated with elevated risk for substance use disorders (SUDs), yet prevailing accounts often emphasize psychosocial pathways and reward-circuit recalibration without fully articulating immunobiological mechanisms that may converge on these processes. This narrative review advances a biological embedding framework linking early adversity to SUD vulnerability through two partially overlapping pathways: 1) stress-reward neurodevelopmental recalibration and 2) immune embedding with downstream neuroimmune feedback. Drawing on epide- miologic and mechanist",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647830",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "source": "PubMed",
-      "authors": [
-        "Samantha E Clark",
-        "Mollie A. Monnig",
-        "Peter M Monti"
-      ],
-      "openAccess": {
-        "isOpen": false,
-        "url": ""
+        "url": "https://doi.org/10.3390/bs16091554"
       },
       "metrics": {
         "citedByCount": 0
@@ -1320,7 +1176,7 @@
       "relevanceKeywords": [
         "neuroscience"
       ],
-      "signalScore": 8,
+      "signalScore": 12,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -1334,22 +1190,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W4413722664",
+      "id": "https://openalex.org/W7206170330",
       "kind": "paper",
-      "title": "Mendelian randomisation and colocalisation reveal pleiotropic effects of the CD40/SLC12A5 locus on CD40 protein, depression, and immune disease",
-      "summary": "Abstract Inflammatory pathways are implicated in depression, but the specific immune proteins and causal variants involved remain unclear. This study investigated potential causal relationships between 91 immune-related plasma proteins and depression using generalized summary Mendelian randomisation. We identified a robust association between CD40 protein levels and depression (OR: 0.95, 95% CI: 0.94 - 0.97, p = 1.71 × 10⁻¹¹), primarily driven by cis- acting variants. However, pairwise statistical colocalisation analyses of the CD40 locus indicated that CD40 protein and depression had distinct",
-      "url": "https://doi.org/10.1038/s41398-026-04397-5",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Translational Psychiatry",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: An Empirical Companion",
+      "summary": "This project contains the empirical companion paper to the Emotional Engineer 1-2, 3-6-9, 3-3-3 — the second paper in a nine-paper series. The theoretical foundation is established in Project 1. Readers unfamiliar with the framework are directed there first. The 1-2, 3-6-9, 3-3-3 cycle — Emotion, Duality, Coherence, Resonance, Maturation/Saturation, followed by Accept, Reject, or Redirect — is mapped against peer-reviewed published research from neuroscience, stress physiology, cellular biology, relationship science, and collective dynamics. None of this research was designed to confirm the fr",
+      "url": "https://doi.org/10.5281/zenodo.22259304",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Rachel Laattoe",
-        "Elina Hyppönen",
-        "David Stacey",
-        "Sarah Cohen‐Woods"
+        "Brian Burgess"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1038/s41398-026-04397-5"
+        "url": "https://doi.org/10.5281/zenodo.22259304"
       },
       "metrics": {
         "citedByCount": 0
@@ -1365,9 +1218,9 @@
         "available": true
       },
       "relevanceKeywords": [
-        "brain"
+        "neuroscience"
       ],
-      "signalScore": 8,
+      "signalScore": 12,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -1381,21 +1234,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W4416021868",
+      "id": "https://openalex.org/W7206192608",
       "kind": "paper",
-      "title": "Epithelial convergent extension as a tuning process",
-      "summary": "Self-tuning—the ability of disordered systems to develop desired collective behaviors by tuning internal couplings in response to feedback—has recently emerged as a powerful framework for understanding adaptation in amorphous solids, mechanical metamaterials, and electrical networks. These systems can learn desired responses, encode memory, and robustly reorganize under repeated stimuli, much like artificial neural networks but without requiring processors to adjust their weights. Here, we extend this paradigm to morphogenesis and show that it is useful to view the epithelium as tunable matter",
-      "url": "https://doi.org/10.1073/pnas.2532099123",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": "Proceedings of the National Academy of Sciences",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: Desire, Duality, and Resonance — An Empirical Companion to the Observer Framework",
+      "summary": "This project contains the empirical companion to the quantum observer extension — the fifth paper in a nine-paper series. Paper 4 proposed that desire, duality, coherence, and resonance form a sequence that culminates in quantum field interaction. This paper maps published research from four independent domains onto each stage of that sequence. The four domains examined are: quantum physics — evidence that observation affects outcome and that the observer's intent or presence may be a variable (Radin et al., 2012, 2016; Engel et al., 2007; Lambert et al., 2013); affective neuroscience — eviden",
+      "url": "https://doi.org/10.5281/zenodo.22259859",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Sadjad Arzash",
-        "Andrea J. Liu",
-        "M. Lisa Manning"
+        "Brian Burgess"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/11/07/2025.11.06.687029.full.pdf"
+        "url": "https://doi.org/10.5281/zenodo.22259859"
       },
       "metrics": {
         "citedByCount": 0
@@ -1411,9 +1262,141 @@
         "available": true
       },
       "relevanceKeywords": [
-        "neural"
+        "neuroscience"
       ],
-      "signalScore": 8,
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206203228",
+      "kind": "paper",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: A Theoretical Framework",
+      "summary": "This project contains the theoretical framework paper for the Emotional Engineer 1-2, 3-6-9, 3-3-3 — the first paper in a nine-paper series. The framework proposes that emotion is not a reaction to thought, physiology, or environment but their primary architect. Every human system, from a single cell to a civilization, operates through the same structural cycle: Stage 1 (Emotion), Stage 2 (Duality), Stage 3 (Coherence), Stage 6 (Resonance), and Stage 9 (Maturation/Saturation). At Stage 9, the system faces three and only three outcomes: Accept the existing pattern and continue it, Reject it and",
+      "url": "https://doi.org/10.5281/zenodo.22258896",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Brian Burgess"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22258896"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206208082",
+      "kind": "paper",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: An Empirical Companion",
+      "summary": "This project contains the empirical companion paper to the Emotional Engineer 1-2, 3-6-9, 3-3-3 — the second paper in a nine-paper series. The theoretical foundation is established in Project 1. Readers unfamiliar with the framework are directed there first. The 1-2, 3-6-9, 3-3-3 cycle — Emotion, Duality, Coherence, Resonance, Maturation/Saturation, followed by Accept, Reject, or Redirect — is mapped against peer-reviewed published research from neuroscience, stress physiology, cellular biology, relationship science, and collective dynamics. None of this research was designed to confirm the fr",
+      "url": "https://doi.org/10.5281/zenodo.22259305",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Brian Burgess"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22259305"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7206215326",
+      "kind": "paper",
+      "title": "The Emotional Engineer 1-2, 3-6-9, 3-3-3: A Theoretical Framework",
+      "summary": "This project contains the theoretical framework paper for the Emotional Engineer 1-2, 3-6-9, 3-3-3 — the first paper in a nine-paper series. The framework proposes that emotion is not a reaction to thought, physiology, or environment but their primary architect. Every human system, from a single cell to a civilization, operates through the same structural cycle: Stage 1 (Emotion), Stage 2 (Duality), Stage 3 (Coherence), Stage 6 (Resonance), and Stage 9 (Maturation/Saturation). At Stage 9, the system faces three and only three outcomes: Accept the existing pattern and continue it, Reject it and",
+      "url": "https://doi.org/10.5281/zenodo.22258895",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Brian Burgess"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.22258895"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
