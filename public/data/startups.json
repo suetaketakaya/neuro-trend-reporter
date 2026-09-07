@@ -19,10 +19,41 @@
         "brain-computer interface"
       ],
       "metrics": {
-        "points": 4,
+        "points": 5,
         "comments": 1
       },
-      "signalScore": 43,
+      "signalScore": 43.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49600418",
+      "kind": "startup_hn_signal",
+      "title": "$70 Open Source Brain-Computer Interface Octopus 16 by PiEEG",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.indiegogo.com/en/projects/pieeg/pieeg_octopus",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49600418",
+      "publishedAt": "2026-09-07T16:57:13.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 4,
+        "comments": 0
+      },
+      "signalScore": 42,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -79,10 +110,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 3,
-        "comments": 5
+        "points": 4,
+        "comments": 6
       },
-      "signalScore": 34.5,
+      "signalScore": 36,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -96,22 +127,22 @@
       }
     },
     {
-      "id": "49566847",
+      "id": "49590995",
       "kind": "startup_hn_signal",
-      "title": "Ask HN: Looking for a sci-fi short story posted here",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=49566847",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49566847",
-      "publishedAt": "2026-09-04T16:30:13.000Z",
+      "title": "Creativity: The Helsinki bus station theory",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://medium.com/change-your-mind/the-most-powerful-lesson-on-creativity-youll-ever-hear-helsinki-bus-theory-41d20a289aee",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49590995",
+      "publishedAt": "2026-09-06T21:11:45.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "BCI startup"
+        "neurotech"
       ],
       "metrics": {
-        "points": 5,
+        "points": 3,
         "comments": 3
       },
-      "signalScore": 33.5,
+      "signalScore": 32.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -205,35 +236,6 @@
         "comments": 9
       },
       "signalScore": 31,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49559079",
-      "kind": "startup_hn_signal",
-      "title": "Therapeutic Food (Child Malnutrition)",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://en.wikipedia.org/wiki/Therapeutic_food",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49559079",
-      "publishedAt": "2026-09-04T00:42:51.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -678,6 +680,35 @@
       }
     },
     {
+      "id": "49203707",
+      "kind": "startup_hn_signal",
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://zenodo.org/records/21359923",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49203707",
+      "publishedAt": "2026-08-06T22:50:09.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 19,
+        "comments": 1
+      },
+      "signalScore": 24.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "47116630",
       "kind": "startup_hn_signal",
       "title": "China's brain-computer interface industry is racing ahead",
@@ -868,37 +899,6 @@
       "url": "https://sabi.com/",
       "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
       "publishedAt": "2026-04-21T08:24:38.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "47672141",
-      "kind": "startup_hn_signal",
-      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://news.ycombinator.com/item?id=47672141",
-      "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
-      "publishedAt": "2026-04-07T08:15:13.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "neural interface",
