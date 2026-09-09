@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T23:03:31.215Z",
+  "generatedAt": "2026-09-09T22:47:47.861Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -33,20 +33,20 @@
             "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
           },
           "metrics": {
-            "citedByCount": 33955
+            "citedByCount": 33988
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 2571,
+            "currentValue": 2603,
             "previousValue": 2091,
-            "delta": 480,
-            "growthRate": 0.2296,
+            "delta": 512,
+            "growthRate": 0.2449,
             "available": true
           },
           "relevanceKeywords": [],
-          "signalScore": 484,
+          "signalScore": 516,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -60,20 +60,119 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210275227",
+          "id": "https://openalex.org/W7211885239",
           "kind": "paper",
-          "title": "Rethinking sympathetic regulation in cancer: From uniform signaling to context-dependent precision targeting",
-          "summary": "Accumulating evidence has established the sympathetic nervous system (SNS) as a critical regulator of tumor progression, making adrenergic signaling an attractive therapeutic target in oncology. Consequently, β-adrenergic blockade has been widely investigated as a strategy to inhibit cancer progression. However, recent advances in cancer neuroscience indicate that sympathetic regulation is considerably more complex than previously appreciated. Distinct adrenergic receptor subtypes, direct target cells, and tissue niches generate diverse biological outcomes, suggesting that indiscriminate inhib",
-          "url": "https://doi.org/10.1016/j.tranon.2026.103016",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Translational Oncology",
+          "title": "The Mechanism of Brain-Computer Interfaces: Converting Motor Cortex Neural Signals into Robotic Arm Control Commands",
+          "summary": "Brain-computer interfaces (BCIs) can provide patients with severe motor disorders with a new way to bypass damaged nerve pathways and control external devices by decoding the nerve activity of the motor cortex. Current research has made progress in continuous movement, multi-degree-of-freedom control and sensory feedback, but long-term stability, control accuracy and clinical safety are still limited. This paper analyses the signal acquisition characteristics of invasive, non-invasive and intravascular BCIs, sorts out the signal preprocessing, feature extraction and neural decoding processes, ",
+          "url": "https://doi.org/10.54254/2753-8818/2026.hz36492",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Theoretical and Natural Science",
           "authors": [
-            "Jun-yi Xu",
-            "Guozhong Yi"
+            "Hao Kang"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://www.sciencedirect.com/science/article/pii/S1936523326003529/pdf"
+            "url": "https://tns.ewapub.com/article/view/36492.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "neural decoding",
+            "neural interface",
+            "brain",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 40,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211902620",
+          "kind": "paper",
+          "title": "Brain–Computer Interfaces in Functional Recovery from Severe Motor Disabilities: A Focus on ALS and High‑Level Paraplegia",
+          "summary": "Motor disabilities like amyotrophic lateral sclerosis (ALS), or high-level paraplegia severely affect patient's interaction with their environment and independence. Brain-computer interfaces (BCIs) are an essential technology linking neural activity to external devices to recover lost functions. Advances in signal acquisition and decoding algorithms have greatly enhanced the accuracy and stability of BCIs; however, there remains much room for improvement concerning long-term biocompatibility and seamless integration within everyday life. This review analyzes the present role of BCIs in functio",
+          "url": "https://doi.org/10.54254/2753-8818/2026.hz36503",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Theoretical and Natural Science",
+          "authors": [
+            "Xilu Liu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://tns.ewapub.com/article/view/36503.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "neuromodulation",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211937743",
+          "kind": "paper",
+          "title": "What bilingualism demands",
+          "summary": "Abstract Bilingualism research sits at the intersection of linguistics, cognitive neuroscience, and psychology, yet these disciplines often operate in relative isolation, limiting explanatory power and theoretical progress. This paper argues that deeper, more purposeful cross-fertilization among these fields is both possible and necessary to address some of the most pressing questions in the study of bilingualism. After establishing a shared foundation through a concise history of mind–brain–language inquiry, we outline the componential architecture of language — spanning phonology, syntax, mo",
+          "url": "https://doi.org/10.1075/lab.26033.rot",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Linguistic Approaches to Bilingualism",
+          "authors": [
+            "Jason Rothman",
+            "David Miller",
+            "Vincent DeLuca",
+            "Sergio Miguel Pereira Soares",
+            "Jubin Abutalebi"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1075/lab.26033.rot"
           },
           "metrics": {
             "citedByCount": 0
@@ -90,8 +189,58 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "neuromodulation",
+            "cognitive neuroscience",
+            "brain",
             "neural"
+          ],
+          "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211946114",
+          "kind": "paper",
+          "title": "Corticospinal tract structure and descending motor output following anterior cruciate ligament reconstruction: an exploratory multimodal neuroimaging assessment",
+          "summary": "Background Functional and structural differences in the central nervous system, including higher motor cortex activation, lower corticospinal excitability, and smaller corticospinal tract volume have been proposed as potential contributors to persistent quadriceps strength deficits following anterior cruciate ligament reconstruction (ACLR). However, prior work has largely examined these differences using isolated single modality neuroimaging approaches, limiting integration across brain activation, corticospinal excitability, and neural structure. Therefore, our primary aim was to compare neur",
+          "url": "https://doi.org/10.3389/fnhum.2026.1888579",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "HoWon Kim",
+            "Cole Geschwender",
+            "Adam S. Lepley"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1888579/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "cortex"
           ],
           "signalScore": 24,
           "access": {
@@ -107,20 +256,22 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210263703",
+          "id": "https://openalex.org/W7211938248",
           "kind": "paper",
-          "title": "The Algebra of the Infinium: A New Quantum Foundation for Mathematics (From a Single Triangle to the Riemann Zeta Function, Noncommutative Geometry, and Universal Computation)",
-          "summary": "We construct a novel C-algebra, denoted 𝒜 = C_r(𝒢), from the space of all tilings by a single prototile: the right isosceles triangle △₁ₓ₁ with legs 1 and hypotenuse √2. We call this object the infinium. Unlike the structureless point, the infinium possesses three intrinsic, mutually reinforcing properties—orthogonality, exact self‑similarity, and built‑in measure—which together generate a complete mathematical universe. We prove that the self‑similarity of the infinium gives rise to a natural interval object isomorphic to the affine line A¹, and that the localization of the category of △‑ti",
-          "url": "https://doi.org/10.5281/zenodo.22480209",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "DeepMoCo: graph neural network-based adaptive correction for motion artifacts in fluorescence microscopy",
+          "summary": "Abstract Fluorescence microscopy has emerged as an indispensable tool in neuroscience research, enabling subcellular-resolution imaging of neural circuits and monitoring of brain function in vivo. However, physiological motion artifacts which include both rigid displacements and non-rigid deformations induced by respiration and tissue dynamics, significantly compromise imaging fidelity and quantitative analysis reliability. In this paper, we propose DeepMoCo, an innovative deep learning-based framework that integrates a graph neural network (GNN) to establish spatiotemporal feature correlation",
+          "url": "https://doi.org/10.1186/s43074-026-00279-7",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "PhotoniX",
           "authors": [
-            "Alexey (KAMAZ) Petrov",
-            "Email: infinium.science@mail.ru Saratov"
+            "Shuyue Wang",
+            "Ruiwen Wang",
+            "Gelang Hu",
+            "Zhijing Zhu"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22480209"
+            "url": "https://link.springer.com/content/pdf/10.1186/s43074-026-00279-7.pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -137,237 +288,8 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "cognitive neuroscience"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7210267306",
-          "kind": "paper",
-          "title": "The Algebra of the Infinium: A New Quantum Foundation for Mathematics (From a Single Triangle to the Riemann Zeta Function, Noncommutative Geometry, and Universal Computation)",
-          "summary": "We construct a novel C-algebra, denoted 𝒜 = C_r(𝒢), from the space of all tilings by a single prototile: the right isosceles triangle △₁ₓ₁ with legs 1 and hypotenuse √2. We call this object the infinium. Unlike the structureless point, the infinium possesses three intrinsic, mutually reinforcing properties—orthogonality, exact self‑similarity, and built‑in measure—which together generate a complete mathematical universe. We prove that the self‑similarity of the infinium gives rise to a natural interval object isomorphic to the affine line A¹, and that the localization of the category of △‑ti",
-          "url": "https://doi.org/10.5281/zenodo.22480210",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Alexey (KAMAZ) Petrov",
-            "Email: infinium.science@mail.ru Saratov"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22480210"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "cognitive neuroscience"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7210274656",
-          "kind": "paper",
-          "title": "What if we never lost it",
-          "summary": "Abstract This paper explores the broad implications of a hypothetical chain: embodied experience → calibrated inner compass → right-hemisphere-leading functioning → more direct memory encoding → neuroprotection. If this chain were to be empirically confirmed, it would not touch on a single subfield but on the foundations of multiple disciplines simultaneously — from developmental neuroscience and Alzheimer’s research to education, mental healthcare, and contemplative traditions. The analysis concludes with a reflexive meta-problem: the very instrument we would use to validate the chain is itse",
-          "url": "https://doi.org/10.5281/zenodo.22500814",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Mart Wijn"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22500814"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "mental health"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7210284559",
-          "kind": "paper",
-          "title": "What if we never lost it",
-          "summary": "Abstract This paper explores the broad implications of a hypothetical chain: embodied experience → calibrated inner compass → right-hemisphere-leading functioning → more direct memory encoding → neuroprotection. If this chain were to be empirically confirmed, it would not touch on a single subfield but on the foundations of multiple disciplines simultaneously — from developmental neuroscience and Alzheimer’s research to education, mental healthcare, and contemplative traditions. The analysis concludes with a reflexive meta-problem: the very instrument we would use to validate the chain is itse",
-          "url": "https://doi.org/10.5281/zenodo.22500815",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Mart Wijn"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22500815"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "mental health"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208806564",
-          "kind": "paper",
-          "title": "Causal Effects of Behavioral Neuroscience Reform on Institutional Accountability in Uganda: A Difference-in-Differences Design",
-          "summary": "Institutional accountability in African public sectors is often analysed through principal-agent theory, yet the cognitive and affective mechanisms that enable officials to translate mandates into conduct remain undertheorised. The argument proceeds in three stages. First, it synthesises evidence from cognitive neuroscience and organisational psychology to specify a plausible causal pathway from neurocognitive capacity to accountable conduct. Second, it formalises this pathway within a difference-in-differences design that exploits the staggered rollout of neuroscience-informed reforms across ",
-          "url": "https://doi.org/10.5281/zenodo.22318201",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Achieng Mary Goretti",
-            "Byaruhanga Robert Barigye",
-            "Nakayiwa Sandra Musoke"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22318201"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "cognitive neuroscience"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208808336",
-          "kind": "paper",
-          "title": "Causal Effects of Behavioral Neuroscience Reform on Institutional Accountability in Uganda: A Difference-in-Differences Design",
-          "summary": "Institutional accountability in African public sectors is often analysed through principal-agent theory, yet the cognitive and affective mechanisms that enable officials to translate mandates into conduct remain undertheorised. The argument proceeds in three stages. First, it synthesises evidence from cognitive neuroscience and organisational psychology to specify a plausible causal pathway from neurocognitive capacity to accountable conduct. Second, it formalises this pathway within a difference-in-differences design that exploits the staggered rollout of neuroscience-informed reforms across ",
-          "url": "https://doi.org/10.5281/zenodo.22318198",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Achieng Mary Goretti",
-            "Byaruhanga Robert Barigye",
-            "Nakayiwa Sandra Musoke"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22318198"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "cognitive neuroscience"
+            "brain",
+            "neural"
           ],
           "signalScore": 20,
           "access": {
@@ -399,16 +321,16 @@
             "url": ""
           },
           "metrics": {
-            "citedByCount": 7778
+            "citedByCount": 7782
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 207,
+            "currentValue": 209,
             "previousValue": 342,
-            "delta": -135,
-            "growthRate": -0.3947,
+            "delta": -133,
+            "growthRate": -0.3889,
             "available": true
           },
           "relevanceKeywords": [
@@ -431,19 +353,20 @@
           }
         },
         {
-          "id": "https://openalex.org/W7208817369",
+          "id": "https://openalex.org/W7211913378",
           "kind": "paper",
-          "title": "Towards a unified theory of subjective consciousness and the natural universe",
-          "summary": "This review examines a unified naturalism or theories of everything that include both the natural universe and subjective consciousness, by applying two critical filters to theories of existence, including those surveyed in Robert Lawrence Kuhn’s (2024) “Landscape of Consciousness”, hereinafter referred to as LoC: (1) The No Supervenience (NS) theorem, which asserts that subjective consciousness is not supervenient on the physical universe, and (2) The Principle of Natural Empiricism critical to experimental scientific discoveries and empirical experiences. (1) is equivalent to accepting that ",
-          "url": "https://doi.org/10.56280/1766264419",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Journal of Multiscale Neuroscience",
+          "title": "Microbiota-Derived Metabolites and Neuropsychiatric Disorders: Butyrate, Propionate, and Secondary Bile Acids as Neuromodulators",
+          "summary": "The microbiota-gut-brain axis represents one of the most significant discoveries in neuroscience and psychiatry over the past two decades, fundamentally reshaping our understanding of the pathophysiology of neuropsychiatric disorders. Accumulating evidence demonstrates that microbial metabolites, particularly short-chain fatty acids and secondary bile acids, function as critical neuromodulators that regulate neurotransmitter synthesis, modulate neuroinflammation, enhance intestinal barrier integrity, and regulate hypothalamic-pituitary-adrenal axis function. This comprehensive review synthesiz",
+          "url": "https://doi.org/10.6084/m9.figshare.33457144",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Figshare",
           "authors": [
-            "Christopher R. King"
+            "Deivis O. Guimaraes",
+            "Thulio de Almeida"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.56280/1766264419"
+            "url": "https://doi.org/10.6084/m9.figshare.33457144"
           },
           "metrics": {
             "citedByCount": 0
@@ -476,23 +399,21 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210274485",
+          "id": "https://openalex.org/W7211933913",
           "kind": "paper",
-          "title": "Time as a cue for human hunger",
-          "summary": "Many people eat at around the same times each day. This may result in meal times becoming predictive of eating's potential to be rewarding at that time (i.e., hunger). Time as a predictor of food reward has received much attention in animals but less in humans, even though many people organise eating around breakfast, lunch and dinner - words implying particular times of day. In this narrative review we examine if and how habitual meal times might cause hunger in people. We start by addressing a basic premise, can time-of-day predict food availability outside of modern clock-driven societies? ",
-          "url": "https://doi.org/10.1016/j.neubiorev.2026.106945",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Neuroscience & Biobehavioral Reviews",
+          "title": "A Taxonomy of Mental Model Mismatches for Human-Robot Interaction",
+          "summary": "Mental model mismatches (MMM) in human-robot interaction occur when humans’ internal representations of robots diverge from robots’ actual properties or behaviors, leading to communication breakdowns, task failures, and reduced trust. These mismatches are subtle and difficult to detect, yet the field lacks shared terminology to identify specific types. This makes it difficult to diagnose problems, design targeted interventions, or compare findings across studies. We present a theoretically grounded taxonomy of sixteen MMM types organized by the Sense-Plan-Act (SPA) architecture into sensing (7",
+          "url": "https://doi.org/10.1145/3846186",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "ACM Transactions on Human-Robot Interaction",
           "authors": [
-            "Richard J. Stevenson",
-            "Heather Francis",
-            "Elizabeth Machan",
-            "Kieron Rooney",
-            "Rick Wassing"
+            "Phillip Richter",
+            "Heiko Wersing",
+            "Anna-Lisa Vollmer"
           ],
           "openAccess": {
-            "isOpen": true,
-            "url": "https://www.sciencedirect.com/science/article/pii/S0149763426004021/pdf"
+            "isOpen": false,
+            "url": ""
           },
           "metrics": {
             "citedByCount": 0
@@ -509,7 +430,7 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "neural"
+            "cognitive neuroscience"
           ],
           "signalScore": 16,
           "access": {
@@ -525,23 +446,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210289961",
+          "id": "https://openalex.org/W7211943404",
           "kind": "paper",
-          "title": "Perineural invasion in hepatocellular carcinoma: clinical evidence and mechanistic hypotheses",
-          "summary": "Hepatocellular carcinoma (HCC) is a major cause of cancer mortality worldwide. Emerging evidence in cancer neuroscience suggests that tumor–nerve crosstalk can modulate tumor growth, immune remodeling, dissemination, and therapy resistance. Perineural invasion (PNI) is a hallmark of aggressive tumors and correlates with recurrence, metastasis, disease-specific death, and neuropathic pain, yet its prevalence and prognostic relevance in primary HCC remain inconsistently defined. Given the limited and heterogeneous clinical data, we synthesize available observations and propose mechanistic hypoth",
-          "url": "https://doi.org/10.1186/s12967-026-08910-8",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Journal of Translational Medicine",
+          "title": "Tumor-nerve crosstalk: peripheral mechanisms mediating bone tumor progression and cancer-induced bone pain",
+          "summary": "Cancer-induced bone pain (CIBP) is one of the most debilitating complications of primary bone tumors and bone metastases. Traditionally regarded as a consequence of bone destruction and mechanical compression, CIBP is now recognized as a complex pathological process involving dynamic interactions among tumor cells, peripheral nerves, immune cells, and the bone microenvironment. Increasing evidence indicates that tumor–nerve crosstalk contributes not only to nociceptive sensitization and neural remodeling but also to tumor progression and immune regulation. In the bone tumor microenvironment, t",
+          "url": "https://doi.org/10.3389/fonc.2026.1906776",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Oncology",
           "authors": [
-            "Meijing Yi",
-            "Jingting Zhang",
-            "Zhuo Liu",
-            "Wei Peng",
-            "Wenhui Gao"
+            "Huirong He",
+            "Lingduo Zhang",
+            "Yingying Zhang",
+            "Su Yi",
+            "Lihua Hang"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1186/s12967-026-08910-8"
+            "url": "https://doi.org/10.3389/fonc.2026.1906776"
           },
           "metrics": {
             "citedByCount": 0
@@ -593,16 +514,16 @@
             "url": "https://www.nature.com/articles/nn.2467.pdf"
           },
           "metrics": {
-            "citedByCount": 7560
+            "citedByCount": 7568
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 407,
-            "previousValue": 716,
-            "delta": -309,
-            "growthRate": -0.4316,
+            "currentValue": 415,
+            "previousValue": 715,
+            "delta": -300,
+            "growthRate": -0.4196,
             "available": true
           },
           "relevanceKeywords": [
@@ -642,16 +563,16 @@
             "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
           },
           "metrics": {
-            "citedByCount": 7645
+            "citedByCount": 7649
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 348,
+            "currentValue": 352,
             "previousValue": 471,
-            "delta": -123,
-            "growthRate": -0.2611,
+            "delta": -119,
+            "growthRate": -0.2527,
             "available": true
           },
           "relevanceKeywords": [
@@ -672,19 +593,209 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210265917",
+          "id": "https://openalex.org/W4393319711",
           "kind": "paper",
-          "title": "Consciousness as an entropic phenomenon: from viruses to planetary intelligence in light of the Acta Universi hypothesis / Сознание как энтропийный феномен: от вирусов к планетарному разуму в свете гипотезы Acta Universi",
-          "summary": "Abstract (English) This paper develops a unified ontological theory of consciousness within the Acta Universi (AU) hypothesis. Consciousness is defined as the generation of coherent thought-forms that create irreversible entropic records in the universal archive . The definition does not require a nervous system and applies to informational processes at all levels of organisation of matter. An entropic measure of consciousness is introduced, allowing different forms of life to be compared within a single scale — from viruses and microorganisms to fungi, plants, animals, collective human activi",
-          "url": "https://doi.org/10.5281/zenodo.22453270",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Temporal prediction captures retinal spiking responses across animal species",
+          "summary": "Abstract The retina’s role in visual processing has been viewed as two extremes: an efficient compressor of incoming visual stimuli, akin to a camera, or a predictor of future stimuli. Addressing this dichotomy, we developed a spiking neural network model of the retina trained on natural movies under metabolic-like constraints to either encode the present or to predict future scenes. When optimized for efficient temporal prediction ~100 ms into the future, the model not only captures retina-like receptive fields and their mosaic-like organizations, but also exhibits complex retinal processes s",
+          "url": "https://doi.org/10.1038/s41467-026-77399-y",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Nature Communications",
           "authors": [
-            "Dmitry Yashchenko"
+            "Luke Taylor",
+            "Friedemann Zenke",
+            "Andrew J. King",
+            "Nicol S. Harper"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22453270"
+            "url": "https://doi.org/10.1038/s41467-026-77399-y"
+          },
+          "metrics": {
+            "citedByCount": 4
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 1,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4406859557",
+          "kind": "paper",
+          "title": "Functional Brain Responses to Short-Duration Light Physical Activity in Children: Insights From Near-Infrared Spectroscopy",
+          "summary": "Background/Objectives: The prefrontal cortex (PFC) plays a crucial role in cognitive functions such as attention, working memory and executive functions. Physical activity (PA), even at light-intensity, has been shown to increase PFC activity. However, most studies have focused on moderate- to vigorous-intensity exercises or on adults, while little data is available for children engaging in light-intensity PA (LPA). The aim of this study was to investigate the changes in the hemodynamics of the PFC during short-term, light-intensity exercises in children using functional near-infrared spectros",
+          "url": "https://doi.org/10.1177/00315125261485790",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Perceptual and Motor Skills",
+          "authors": [
+            "Tanja Petrušič",
+            "Brigita Mieziene",
+            "Dario Novak"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1177/00315125261485790"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4416332055",
+          "kind": "paper",
+          "title": "Atypical sensory traits and changes in white matter microstructures connected to the amygdala and hippocampus of the autistic brain",
+          "summary": "Abstract Aim Autism spectrum disorder (ASD) is characterized by atypical sensory traits. Understanding whether these traits of individuals with ASD are associated with white matter fiber tracts connected to these subcortical structures may be important; however, this relationship remains unexplored. Therefore, we examined associations between sensory traits and abnormalities in white matter fiber tracts in individuals with ASD. Methods Overall, 40 adults with ASD and 83 typically developing (TD) adults were included, and all participants were aged over 18 years. The participants completed the ",
+          "url": "https://doi.org/10.1007/s00702-026-03264-3",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Journal of Neural Transmission",
+          "authors": [
+            "Taku Kamiya",
+            "Kaie Habata",
+            "Yongjeon Cheong",
+            "Daichi Shiotsu",
+            "Takuya Makino"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1007/s00702-026-03264-3"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211867639",
+          "kind": "paper",
+          "title": "Transgenerational Inheritance of Odour-Specific Fear Memory",
+          "summary": "Transgenerational epigenetic inheritance suggests that environmental experiences can influence offspring biology through mechanisms that do not involve changes to DNA sequence. Previous studies have demonstrated that paternal fear conditioning to a specific odour can alter offspring sensitivity and behavioural responses to that same odour, indicating that parental experiences may be transmitted across generations. However, the neural mechanisms underlying these effects remain poorly understood. This study investigates the neural mechanisms underlying this phenomenon. Using ArcCreERT2; Ai14 mic",
+          "url": "https://doi.org/10.54254/2753-7048/2026.36531",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Lecture Notes in Education Psychology and Public Media",
+          "authors": [
+            "Vivian Zhu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://lnep.ewapub.com/article/view/36531.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211873711",
+          "kind": "paper",
+          "title": "Artificial Intelligence in Clinical Neuroscience: Predictive Biomarkers in Neurodegenerative Diseases",
+          "summary": "The integration of artificial intelligence and machine learning with biomarker discovery represents a paradigm shift in the diagnosis, prognosis, and management of neurodegenerative diseases. Traditional diagnostic approaches rely on clinical assessment and structural neuroimaging, which often detect pathology only after substantial neuronal loss has occurred. Emerging evidence demonstrates that artificial intelligence algorithms applied to multimodal biomarker data including neuroimaging, cerebrospinal fluid biomarkers, plasma biomarkers, and genetic data can predict disease onset and progres",
+          "url": "https://doi.org/10.6084/m9.figshare.33457168",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Figshare",
+          "authors": [
+            "Deivis O. Guimaraes",
+            "Thulio de Almeida"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.6084/m9.figshare.33457168"
           },
           "metrics": {
             "citedByCount": 0
@@ -716,20 +827,22 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210272886",
+          "id": "https://openalex.org/W7211929469",
           "kind": "paper",
-          "title": "Causal Explanation from a Conceptual Engineering Perspective: Non-Reductionism, Precision, and Pluralism",
-          "summary": "Abstract While projects in philosophy of science often focus on similar sorts of topics, there are often massive differences in how philosophers approach them. One approach that has enjoyed significant success—and that is modeled in the work of Wimsatt and others—involves taking a conceptual engineering perspective in analyzing these topics. In this paper, we outline main features of this conceptual engineering approach and use it to advance three emerging claims regarding causal explanation in biology and neuroscience. We suggest that causal explanation in these domains is non-reductive in co",
-          "url": "https://doi.org/10.1007/s10441-026-09538-3",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Acta Biotheoretica",
+          "title": "Kirrel3 homophilic adhesion function is required for male-directed aggression and vomeronasal acuity to urine chemosignals",
+          "summary": "The accessory olfactory system regulates social and reproductive behaviours in mice that are essential for survival. Proper function of this system depends on the accurate mapping of chemosensory information detected by vomeronasal sensory neurons (VSNs) into glomerular activation patterns. The formation of glomerular maps requires members of the Kirrel family of cell adhesion proteins, which mediate the coalescence of VSN axons into glomeruli. Disruption of Kirrel3 function, either through genetic deletion ( Kirrel3 −/− ) or by impairing its homophilic interaction via a single amino acid subs",
+          "url": "https://doi.org/10.3389/fncel.2026.1926504",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Cellular Neuroscience",
           "authors": [
-            "Jaehyun Lee",
-            "Lauren N. Ross"
+            "Sydney Fearnley",
+            "Neelima Vaddadi",
+            "Émilie Dumontier",
+            "Jean-François Cloutier"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1007/s10441-026-09538-3"
+            "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2026.1926504/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -761,22 +874,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210285749",
+          "id": "https://openalex.org/W7211934525",
           "kind": "paper",
-          "title": "Sex and age impact the developmental trajectory of perineuronal net number in the rat dorsal hippocampus",
-          "summary": "Abstract Background As there has been increased focus on sex differences in neuroscience research, perineuronal nets have come forward as a possible piece in the sex difference puzzle. There are sex differences in neurodevelopmental disorders such as autism spectrum disorder (ASD) as well as sex differences in perineuronal net development. Day to day changes in perineuronal net density in the developing hippocampus may be relevant to further understanding a relationship between neurodevelopmental disorders and perineuronal nets. Methods In this study we aimed to determine a timeline of perineu",
-          "url": "https://doi.org/10.1186/s13293-026-00961-2",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Biology of Sex Differences",
+          "title": "Case Report: Seizure freedom after resection of a temporal choroidal fissure cyst in drug-resistant epilepsy",
+          "summary": "Background Choroidal fissure cysts (CFCs) are relatively rare, and their exact prevalence in the general population remains unclear. These cysts are most often detected incidentally during neuroimaging performed for unrelated reasons. Whether CFCs are associated with specific clinical symptoms and their potential clinical significance remain controversial. Case description A 35-year-old woman developed epileptic seizures at age 15 after a high fever. Her seizures remained poorly controlled despite multiple antiseizure drugs. Neuroimaging revealed a choroidal fissure cyst in the right hippocamp",
+          "url": "https://doi.org/10.3389/fnins.2026.1905779",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
           "authors": [
-            "Abigail W. Hamilton",
-            "Ellie K. Pritchard",
-            "Richard G. Hunter",
-            "Susan L. Zup"
+            "Guanglin Fu",
+            "Ye Fan",
+            "Shanshan Lu",
+            "X. Sun",
+            "Peng Zhou"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1186/s13293-026-00961-2"
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1905779/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -808,19 +922,163 @@
           }
         },
         {
-          "id": "https://openalex.org/W7210287802",
+          "id": "https://openalex.org/W7211935449",
           "kind": "paper",
-          "title": "Consciousness as an entropic phenomenon: from viruses to planetary intelligence in light of the Acta Universi hypothesis / Сознание как энтропийный феномен: от вирусов к планетарному разуму в свете гипотезы Acta Universi",
-          "summary": "Abstract (English) This paper develops a unified ontological theory of consciousness within the Acta Universi (AU) hypothesis. Consciousness is defined as the generation of coherent thought-forms that create irreversible entropic records in the universal archive . The definition does not require a nervous system and applies to informational processes at all levels of organisation of matter. An entropic measure of consciousness is introduced, allowing different forms of life to be compared within a single scale — from viruses and microorganisms to fungi, plants, animals, collective human activi",
-          "url": "https://doi.org/10.5281/zenodo.22453269",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Trends and mechanistic insights into hypertension-associated hearing loss: a 20-year perspective (2005–2025)",
+          "summary": "Introduction Hypertension and hearing loss (HL) are increasingly prevalent in rapidly aging societies and pose major public health challenges; existing evidence suggests a potential association between the two. Although the association between hypertension and HL has received extensive attention, there is still a lack of in-depth exploration and systematic summary regarding the potential molecular interaction mechanisms underlying their coexistence, as well as the overall research trends in this field. Methods Publications from 2005 to 2025 were retrieved from the Web of Science Core Collectio",
+          "url": "https://doi.org/10.3389/fnmol.2026.1864657",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Molecular Neuroscience",
           "authors": [
-            "Dmitry Yashchenko"
+            "Jianlong Xiong",
+            "Tao Xu",
+            "Huan Wu",
+            "Liubo Xiang",
+            "Zhihao Zhao"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22453269"
+            "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1864657/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211939097",
+          "kind": "paper",
+          "title": "Electrophysiological correlates of presuppositional inference in contrastive focus",
+          "summary": "This study investigated the electrophysiological correlates of presuppositional inferences in contrastive focus during online reading. In a series of mini-discourses involving two characters, contrastive focus was marked by either the Chinese focus particle zhiyou (equivalent to only ) or shi (equivalent to an it -cleft), which carry different presuppositions. Before the focus sentence, a critical context sentence was presented that was congruent with the zhiyou -presupposition (i.e., the two characters previously did the action together) or with the shi -presupposition (i.e., the other charac",
+          "url": "https://doi.org/10.3389/fnhum.2026.1905786",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "Zhiqiang Yang",
+            "Hongshuang Nie",
+            "Kevin B. Paterson",
+            "Shu‐Le Li",
+            "Lijing Chen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1905786/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211939767",
+          "kind": "paper",
+          "title": "The association pathway between music practice and mental health: a study on social connectedness, perceived stress, and anxiety among individuals with piano experience",
+          "summary": "Objective To explore the association pathway between daily participation in music practice and mental health indicators, focusing on analyzing the cross-sectional network relationships among performing flow experience, social connectedness, perceived stress, and anxiety among individuals with piano experience. Methods A cross-sectional online survey design was adopted, yielding a total of 890 valid questionnaires. Based on the presence or absence of piano practice experience, the sample was divided into two questionnaire coding groups: Group A (no experience/stopped practicing, n = 318) and Gr",
+          "url": "https://doi.org/10.3389/fpsyg.2026.1957899",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Psychology",
+          "authors": [
+            "Jie Tan"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1957899/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7211942570",
+          "kind": "paper",
+          "title": "Early prediction of post-stroke depression using polysomnography parameters: a prospective cohort study",
+          "summary": "Background Post-stroke depression (PSD) affects approximately one-third of stroke survivors and significantly impacts functional recovery. This study aimed to develop and validate a prediction model for PSD using polysomnography (PSG) parameters combined with clinical characteristics. Methods We conducted a prospective cohort study enrolling 437 acute ischemic stroke patients who underwent PSG assessment within 7 days of stroke onset between January 2022 and December 2024. The primary outcome was PSD at 3-month follow-up, defined as Patient Health Questionnaire-9 (PHQ-9) score ≥10. Multivariat",
+          "url": "https://doi.org/10.3389/fnins.2026.1926299",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
+          "authors": [
+            "Lan Chen",
+            "Lan Chen",
+            "Bin Wang",
+            "Dan Kuang",
+            "Lei Chen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1926299/pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -900,35 +1158,34 @@
           }
         },
         {
-          "id": "https://openalex.org/W2105824687",
+          "id": "https://openalex.org/W2166073443",
           "kind": "paper",
-          "title": "Power failure: why small sample size undermines the reliability of neuroscience",
-          "summary": "",
-          "url": "https://doi.org/10.1038/nrn3475",
-          "publishedAt": "2013-04-10T00:00:00.000Z",
-          "source": "Nature reviews. Neuroscience",
+          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+          "url": "https://doi.org/10.1155/2011/156869",
+          "publishedAt": "2010-12-23T00:00:00.000Z",
+          "source": "Computational Intelligence and Neuroscience",
           "authors": [
-            "Katherine S. Button",
-            "John P. A. Ioannidis",
-            "Claire Mokrysz",
-            "Brian A. Nosek",
-            "Jonathan Flint"
+            "Robert Oostenveld",
+            "Pascal Fries",
+            "Eric Maris",
+            "Jan‐Mathijs Schoffelen"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://www.nature.com/articles/nrn3475.pdf"
+            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
           },
           "metrics": {
-            "citedByCount": 8026
+            "citedByCount": 11503
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 473,
-            "previousValue": 625,
-            "delta": -152,
-            "growthRate": -0.2432,
+            "currentValue": 598,
+            "previousValue": 1211,
+            "delta": -613,
+            "growthRate": -0.5062,
             "available": true
           },
           "relevanceKeywords": [
@@ -948,38 +1205,37 @@
           }
         },
         {
-          "id": "https://openalex.org/W2166073443",
+          "id": "https://openalex.org/W2003490123",
           "kind": "paper",
-          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
-          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
-          "url": "https://doi.org/10.1155/2011/156869",
-          "publishedAt": "2010-12-23T00:00:00.000Z",
-          "source": "Computational Intelligence and Neuroscience",
+          "title": "Social Relationships and Mortality Risk: A Meta-analytic Review",
+          "summary": "BACKGROUND: The quality and quantity of individuals' social relationships has been linked not only to mental health but also to both morbidity and mortality. OBJECTIVES: This meta-analytic review was conducted to determine the extent to which social relationships influence risk for mortality, which aspects of social relationships are most highly predictive, and which factors may moderate the risk. DATA EXTRACTION: Data were extracted on several participant characteristics, including cause of mortality, initial health status, and pre-existing health conditions, as well as on study characteristi",
+          "url": "https://doi.org/10.1371/journal.pmed.1000316",
+          "publishedAt": "2010-07-27T00:00:00.000Z",
+          "source": "PLoS Medicine",
           "authors": [
-            "Robert Oostenveld",
-            "Pascal Fries",
-            "Eric Maris",
-            "Jan‐Mathijs Schoffelen"
+            "Julianne Holt‐Lunstad",
+            "Timothy B. Smith",
+            "J. Bradley Layton"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+            "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000316&type=printable"
           },
           "metrics": {
-            "citedByCount": 11496
+            "citedByCount": 7329
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 592,
-            "previousValue": 1211,
-            "delta": -619,
-            "growthRate": -0.5111,
+            "currentValue": 418,
+            "previousValue": 641,
+            "delta": -223,
+            "growthRate": -0.3479,
             "available": true
           },
           "relevanceKeywords": [
-            "neuroscience"
+            "mental health"
           ],
           "signalScore": 12,
           "access": {
@@ -1011,16 +1267,16 @@
             "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
           },
           "metrics": {
-            "citedByCount": 9402
+            "citedByCount": 9407
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 594,
+            "currentValue": 600,
             "previousValue": 1011,
-            "delta": -417,
-            "growthRate": -0.4125,
+            "delta": -411,
+            "growthRate": -0.4065,
             "available": true
           },
           "relevanceKeywords": [
@@ -1086,112 +1342,22 @@
           }
         },
         {
-          "id": "https://openalex.org/W2158553737",
+          "id": "https://openalex.org/W4414523368",
           "kind": "paper",
-          "title": "Emotion Circuits in the Brain",
-          "summary": "The field of neuroscience has, after a long period of looking the other way, again embraced emotion as an important research area. Much of the progress has come from studies of fear, and especially fear conditioning. This work has pinpointed the amygdala as an important component of the system involved in the acquisition, storage, and expression of fear memory and has elucidated in detail how stimuli enter, travel through, and exit the amygdala. Some progress has also been made in understanding the cellular and molecular mechanisms that underlie fear conditioning, and recent studies have also ",
-          "url": "https://doi.org/10.1146/annurev.neuro.23.1.155",
-          "publishedAt": "2000-03-01T00:00:00.000Z",
-          "source": "Annual Review of Neuroscience",
+          "title": "Computer models predict differential dendritic vulnerability with ischemia and spreading depression",
+          "summary": "Abstract Ischemia, whether abrupt or chronic, limits ATP production and disrupts ATP-dependent homeostatic mechanisms, leading to alterations in both intracellular and extracellular ion concentrations. Inadequate neuronal ATP triggers K + release and increased extracellular K + depolarizes neurons, leading to additional K + release; this positive feedback phenomenon is known as spreading depolarization (SD). When the depolarizing effects are strong enough, the cells undergo depolarization blockade, known as spreading depression. Excess extracellular K + increases energy demand from the Na + -K",
+          "url": "https://doi.org/10.1371/journal.pcbi.1014701",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "PLoS Computational Biology",
           "authors": [
-            "Joseph E. LeDoux"
-          ],
-          "openAccess": {
-            "isOpen": false,
-            "url": ""
-          },
-          "metrics": {
-            "citedByCount": 8481
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 198,
-            "previousValue": 264,
-            "delta": -66,
-            "growthRate": -0.25,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208815333",
-          "kind": "paper",
-          "title": "Differences related to sex in adolescent obese Zucker rats: locomotor activity and dendritic arborization of neurons in layer V of the primary motor cortex",
-          "summary": "Obesity is a metabolic disorder characterized by the accumulation of excess body fat, which has been linked to skeletal muscle and motor behavior changes. Despite the high prevalence of obesity among children and adolescents in Mexico, it has mostly been studied using adult obese animal models. The objective of the present study was to analyze open-field locomotor activity and dendritic length and dendritic spine density in layer V pyramidal neurons of the primary motor cortex (M1) in adolescent (60-day-old) obese Zucker diabetic fatty (ZDF) rats of both sexes. Long-Evans (LE) rats were used a",
-          "url": "https://doi.org/10.1007/s00418-026-02537-y",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "Histochemistry and Cell Biology",
-          "authors": [
-            "Lesly Domínguez-Juárez",
-            "Adriana Berenice Silva Gómez"
+            "Adam J. H. Newton",
+            "William W. Lytton",
+            "Marcello DiStasio",
+            "Robert A. McDougal"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://link.springer.com/content/pdf/10.1007/s00418-026-02537-y.pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "cortex"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208828217",
-          "kind": "paper",
-          "title": "Optimization of Multi-modal Relaxometry MR Acquisitions for Estimating Quantitative Brain Microstructure Parameters",
-          "summary": "This study addresses the optimization of MRI acquisition protocols to improve the estimation of brain microstructure descriptors, with a focus on the myelin fraction. The problem is formulated as a binary optimization task with constraints, where each decision variable encodes whether a specific repetition time is included in the protocol. Each candidate protocol is evaluated through an objective function that quantifies the relative error in the estimation of the myelin fraction. Different approximated optimization strategies were analyzed, including local search and memetic algorithms with a",
-          "url": "https://doi.org/10.61467/2007.1558.2026.v17i5.1191",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "source": "International Journal of Combinatorial Optimization Problems and Informatics.",
-          "authors": [
-            "Ashley Dafne Aguilar-Salinas",
-            "Alonso Ramírez-Manzanares",
-            "Ramon Orlando Ruiz-Olais",
-            "Carlos Segura"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://ijcopi.org/ojs/article/download/1191/622"
+            "url": "https://doi.org/10.1371/journal.pcbi.1014701"
           },
           "metrics": {
             "citedByCount": 0
@@ -1223,160 +1389,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7208714646",
+          "id": "https://openalex.org/W7211866336",
           "kind": "paper",
-          "title": "Dopamine D2/3 receptors and functional connectivity during fear extinction: A PET-fMRI study",
-          "summary": "Background The ability to learn what is dangerous in the environment and what no longer exerts a threat is essential for survival. The latter process is studied using Pavlovian fear extinction, the repeated presentation of a feared stimulus that gradually attenuates the fear response. Dysregulation of the extinction process is implicated in a range of anxiety disorders, yet the neurobiological mechanisms supporting extinction learning in humans remain incompletely mapped, particularly with respect to the modulating role of dopamine. Objective To examine the role of baseline dopamine D2/3 recep",
-          "url": "https://doi.org/10.1016/j.ynirp.2026.100402",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "Neuroimage Reports",
+          "title": "Disruption of Ascending and Descending Visual Processing Circuits",
+          "summary": "Parkinson's disease (PD) is a neurodegenerative disorder caused by the loss of dopamine-carrying neurons in the substantia nigra in the brain. Non-motor symptoms (particularly visual impairment) significantly impair patients' quality of life, but the primary pathogenesis is poorly understood. This study aims to investigate the mechanisms by which the brain uses structural changes in the enzyme leucine-rich ribonuclease 2 (LRRK2) to process visual information, with a particular focus on abnormalities in top-down brain control and bottom-up sensory pathways. The results show that the LRRK2-G2019",
+          "url": "https://doi.org/10.54254/2753-8818/2026.36626",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "source": "Theoretical and Natural Science",
           "authors": [
-            "Ashika Anne Roy",
-            "Johan Vegelius",
-            "Johannes Björkstrand",
-            "Mark Lubberink",
-            "Mats Fredrikson"
+            "Ziyi Ye"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://www.sciencedirect.com/science/article/pii/S2666956026000851/pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neural"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208805029",
-          "kind": "paper",
-          "title": "Amyloid beta plaque pathology induces chemosensory deficits and increases apnoeas in the 5XFAD mouse model of Alzheimer's disease",
-          "summary": "Abstract Sleep disordered breathing (SDB) commonly co‐presents with other ventilatory impairments in patients with Alzheimer's disease (AD). Typically reported as either obstructive (OSA) or complex sleep apnoea in AD patients, SDB results in repeated bouts of hypoxia and hypercapnia from insufficient ventilation. It is thought not only that these repeated hypoxic events result in an exacerbation of AD but also that SDB and other ventilatory impairments may be a precursor to neurodegenerative diseases. Although the cause of SDB in AD patients is unclear, chemosensory drive malfunction, a respo",
-          "url": "https://doi.org/10.1113/jp290936",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "The Journal of Physiology",
-          "authors": [
-            "Ryan J. Sprenger",
-            "Andrea C. Ewald",
-            "Phinea Z. Romero",
-            "Kaitlyn M. Marino",
-            "Maia G. Gumnit"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP290936"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208805525",
-          "kind": "paper",
-          "title": "The Future Architecture of Criminal Law: Redefining Culpability and Jurisdiction from Neuro-Criminology to Planetary Ecocide",
-          "summary": "The advent of the twenty-first century has precipitated an ontological crisis within the traditional architecture of criminal law. Historically anchored in the foundational pillars of individual moral culpability (mens rea) and strict territorial jurisdiction, contemporary penal jurisprudence is increasingly ill-equipped to address the unprecedented challenges posed by rapid technological advancement and systemic environmental degradation. This article critically examines the shifting paradigms of criminal liability across two distinct frontiers: the internal erosion of human agency and the ex",
-          "url": "https://doi.org/10.63108/ijlmh.12811",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "International Journal of Law Management & Humanities",
-          "authors": [
-            "Vishal Anand"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://ijlmh.com/article/download/future-architecture-criminal-law-redefining-culpability/1061"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7208808389",
-          "kind": "paper",
-          "title": "The Intervention Programme Based on Chatbots \"Brain in Action\" and the Development of Critical Thinking among Secondary School Students in Lima, 2025",
-          "summary": "This study examines the impact of the chatbot-based intervention programme Brain in Action (PIBIAC) on the development of critical thinking among secondary school students in Lima, Peru, aligned with Sustainable Development Goal 4 (SDG 4). Adopting a quantitative approach and a quasi-experimental design with control and experimental groups (n=62), the study evaluated the effectiveness of chatbots as mechanisms of cognitive mediation. Data were collected using an instrument that measures critical thinking across five dimensions and analysed through descriptive and inferential statistics, specif",
-          "url": "https://doi.org/10.36941/jesr-2026-0414",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "source": "Journal of Educational and Social Research",
-          "authors": [
-            "Exalto Celso Rojas Hilario",
-            "Wilfredo Carcausto-Calla"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://www.richtmann.org/journal/index.php/jesr/article/download/14917/14504"
+            "url": "https://tns.ewapub.com/article/view/36626.pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -1562,6 +1587,31 @@
         },
         {
           "kind": "research_news",
+          "title": "Researchers reveal deeper workings of brain’s information hub",
+          "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+          "publishedAt": "2026-08-20T00:38:34.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
           "title": "Money problems may age your brain faster",
           "summary": "Persistent financial hardship in early and middle adulthood was linked to poorer thinking skills by the 50s and more signs of brain aging later in life. Researchers say years of chronic stress and financial worry may gradually take a toll on the brain.",
           "url": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm",
@@ -1571,7 +1621,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 24,
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1595,7 +1645,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 24,
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1619,32 +1669,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Researchers reveal deeper workings of brain’s information hub",
-          "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-          "publishedAt": "2026-08-20T00:38:34.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain",
-            "cortex"
-          ],
-          "signalScore": 20,
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2251,39 +2276,10 @@
             "BCI startup"
           ],
           "metrics": {
-            "points": 4,
+            "points": 5,
             "comments": 6
           },
-          "signalScore": 36,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49590995",
-          "kind": "startup_hn_signal",
-          "title": "Creativity: The Helsinki bus station theory",
-          "summary": "Matched Hacker News query: neurotech",
-          "url": "https://medium.com/change-your-mind/the-most-powerful-lesson-on-creativity-youll-ever-hear-helsinki-bus-theory-41d20a289aee",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49590995",
-          "publishedAt": "2026-09-06T21:11:45.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "neurotech"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 3
-          },
-          "signalScore": 32.5,
+          "signalScore": 36.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2359,6 +2355,35 @@
           }
         },
         {
+          "id": "49605147",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Archprint, infer architecture lint rules from your repo's import graph",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://github.com/Tommkruix/archprint",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49605147",
+          "publishedAt": "2026-09-08T02:41:41.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          },
+          "signalScore": 32,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
           "id": "46245673",
           "kind": "startup_hn_signal",
           "title": "Is Entertainment Discovery Fundamentally Broken?",
@@ -2377,6 +2402,35 @@
             "comments": 9
           },
           "signalScore": 31,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "49609568",
+          "kind": "startup_hn_signal",
+          "title": "GitHub CI outages in EU due to status 401 on public repos",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://github.com/orgs/community/discussions/206581",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49609568",
+          "publishedAt": "2026-09-08T12:43:00.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 29.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2530,36 +2584,6 @@
             "comments": 0
           },
           "signalScore": 28,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49243199",
-          "kind": "startup_hn_signal",
-          "title": "Would you trust your boss with data about your brain?",
-          "summary": "Matched Hacker News query: neurotech",
-          "url": "https://calmatters.org/economy/technology/2026/08/california-moves-to-regulate-neurotechnology/",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49243199",
-          "publishedAt": "2026-08-10T13:14:19.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "brain",
-            "neurotech"
-          ],
-          "metrics": {
-            "points": 5,
-            "comments": 1
-          },
-          "signalScore": 27.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2821,35 +2845,6 @@
           }
         },
         {
-          "id": "49203707",
-          "kind": "startup_hn_signal",
-          "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://zenodo.org/records/21359923",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49203707",
-          "publishedAt": "2026-08-06T22:50:09.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 19,
-            "comments": 1
-          },
-          "signalScore": 24.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
           "id": "47116630",
           "kind": "startup_hn_signal",
           "title": "China's brain-computer interface industry is racing ahead",
@@ -3062,6 +3057,37 @@
             "available": false,
             "reason": "access metrics not configured"
           }
+        },
+        {
+          "id": "47672141",
+          "kind": "startup_hn_signal",
+          "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=47672141",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
+          "publishedAt": "2026-04-07T08:15:13.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 22.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
         }
       ]
     },
@@ -3094,20 +3120,20 @@
           "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
         },
         "metrics": {
-          "citedByCount": 33955
+          "citedByCount": 33988
         },
         "trend": {
           "metric": "citations_by_year",
           "currentYear": 2026,
           "previousYear": 2025,
-          "currentValue": 2571,
+          "currentValue": 2603,
           "previousValue": 2091,
-          "delta": 480,
-          "growthRate": 0.2296,
+          "delta": 512,
+          "growthRate": 0.2449,
           "available": true
         },
         "relevanceKeywords": [],
-        "signalScore": 484,
+        "signalScore": 516,
         "access": {
           "metric": "access_views",
           "currentYear": 2026,
