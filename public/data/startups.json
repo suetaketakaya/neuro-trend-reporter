@@ -5,13 +5,13 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "49578928",
+      "id": "49688047",
       "kind": "startup_hn_signal",
-      "title": "China completes first commercial brain-computer interface implant",
+      "title": "Hitting a NERVE with attacks on AI-powered brain-computer interfaces",
       "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
-      "publishedAt": "2026-09-05T17:50:18.000Z",
+      "url": "https://anil.recoil.org/notes/nerve-attacks",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49688047",
+      "publishedAt": "2026-09-13T19:59:52.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "brain-computer interface",
@@ -19,10 +19,10 @@
         "brain-computer interface"
       ],
       "metrics": {
-        "points": 5,
+        "points": 3,
         "comments": 1
       },
-      "signalScore": 43.5,
+      "signalScore": 42.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -67,6 +67,37 @@
       }
     },
     {
+      "id": "49578928",
+      "kind": "startup_hn_signal",
+      "title": "China completes first commercial brain-computer interface implant",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
+      "publishedAt": "2026-09-05T17:50:18.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 5,
+        "comments": 1
+      },
+      "signalScore": 35.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "49553421",
       "kind": "startup_hn_signal",
       "title": "A common measure of communication for thought-to-text brain-computer interfaces",
@@ -85,35 +116,6 @@
         "comments": 1
       },
       "signalScore": 34,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49655318",
-      "kind": "startup_hn_signal",
-      "title": "DSCI goes pre beta testing – need early feedback",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=49655318",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49655318",
-      "publishedAt": "2026-09-11T08:46:34.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 5,
-        "comments": 2
-      },
-      "signalScore": 32.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -189,22 +191,22 @@
       }
     },
     {
-      "id": "49386514",
+      "id": "49644238",
       "kind": "startup_hn_signal",
-      "title": "Ask HN: Do teams really need to use GitHub?",
+      "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=49386514",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49386514",
-      "publishedAt": "2026-08-21T11:26:50.000Z",
+      "url": "https://github.com/Kidus-M/MaruCheck",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49644238",
+      "publishedAt": "2026-09-10T14:24:38.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 6,
-        "comments": 8
+        "points": 3,
+        "comments": 2
       },
-      "signalScore": 31,
+      "signalScore": 31.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -236,122 +238,6 @@
         "comments": 9
       },
       "signalScore": 31,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49657937",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: A Modern C++ course with videos and interactive GitHub homeworks",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/cpp-for-yourself",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49657937",
-      "publishedAt": "2026-09-11T13:18:44.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 1
-      },
-      "signalScore": 30,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49644238",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/Kidus-M/MaruCheck",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49644238",
-      "publishedAt": "2026-09-10T14:24:38.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49643566",
-      "kind": "startup_hn_signal",
-      "title": "Opinion: We have started losing control of AI. It's time to shut it down",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49643566",
-      "publishedAt": "2026-09-10T13:40:37.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49643036",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Pragma Twice – A dystopian sci-fi themed programming game",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://www.bryanpg.com/pragma_twice/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49643036",
-      "publishedAt": "2026-09-10T13:00:51.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -768,6 +654,35 @@
       }
     },
     {
+      "id": "41040729",
+      "kind": "startup_hn_signal",
+      "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=41040729",
+      "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
+      "publishedAt": "2024-07-22T23:01:58.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 11,
+        "comments": 10
+      },
+      "signalScore": 24.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "47183899",
       "kind": "startup_hn_signal",
       "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -907,6 +822,99 @@
         "comments": 0
       },
       "signalScore": 23,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47846089",
+      "kind": "startup_hn_signal",
+      "title": "The first neural interface that transforms your thoughts into text",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://sabi.com/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
+      "publishedAt": "2026-04-21T08:24:38.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47672141",
+      "kind": "startup_hn_signal",
+      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://news.ycombinator.com/item?id=47672141",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
+      "publishedAt": "2026-04-07T08:15:13.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47432372",
+      "kind": "startup_hn_signal",
+      "title": "Shared databases are not modular, they are just a weakness",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://news.ycombinator.com/item?id=47432372",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47432372",
+      "publishedAt": "2026-03-18T22:48:31.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 1
+      },
+      "signalScore": 22.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,

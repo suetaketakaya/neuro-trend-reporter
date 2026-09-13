@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T22:49:29.903Z",
+  "generatedAt": "2026-09-13T22:41:05.022Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -33,20 +33,20 @@
             "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
           },
           "metrics": {
-            "citedByCount": 34023
+            "citedByCount": 34000
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 2639,
+            "currentValue": 2661,
             "previousValue": 2091,
-            "delta": 548,
-            "growthRate": 0.2621,
+            "delta": 570,
+            "growthRate": 0.2726,
             "available": true
           },
           "relevanceKeywords": [],
-          "signalScore": 552,
+          "signalScore": 574,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -60,19 +60,22 @@
           }
         },
         {
-          "id": "https://openalex.org/W7212117767",
+          "id": "https://openalex.org/W7212258884",
           "kind": "paper",
-          "title": "Neurological Auditory Bypass",
-          "summary": "Prototype / setup / clinical integration sequence Build the nonimplantable NeuroHair array. Fabricate 32–64 flexible sensing elements with deliberately different mechanical resonances. Couple each hair to a piezoelectric or capacitive transducer. At this stage nothing touches neural tissue. Characterize every hair independently. Place the array in a calibrated acoustic test enclosure. Sweep known tones through the intended range and record for every channel. Determine each element's measured resonant frequency , bandwidth and gain. Create its calibration matrix. Store describing the response o",
-          "url": "https://doi.org/10.5281/zenodo.22698195",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "NeuroStream: spectral-spatio-temporal deep learning for visual stimulus classification from EEG",
+          "summary": "Electroencephalography (EEG)-based visual classification is a challenging task due to low spatial resolution, complex temporal dynamics, and potential experimental confounds, yet with the recent advances in EEG classification, it offers a cost-effective, portable alternative with millisecond-level temporal resolution to Functional Magnetic Resonance Imaging (fMRI) for large scale studies and real-time applications. We propose a novel Spectral-Spatio-Temporal (SST) representation that transforms raw EEG signals into a structured, video-like format. Specifically, we compute wavelet transforms fo",
+          "url": "https://doi.org/10.1038/s41598-026-68186-2",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Scientific Reports",
           "authors": [
-            "Jeffrey Alexander Webb"
+            "Mohamed Abdelmagid",
+            "Marwa Yusuf",
+            "Basem M. ElHalawany",
+            "Ahmed Fares"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22698195"
+            "url": "https://doi.org/10.1038/s41598-026-68186-2"
           },
           "metrics": {
             "citedByCount": 0
@@ -89,7 +92,57 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "neural interface",
+            "brain-computer interface",
+            "cognitive neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 36,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212246766",
+          "kind": "paper",
+          "title": "Solving the FitzHugh-Nagumo Equation Using Physics-Informed Neural Networks (PINNs) and Deep Galerkin Methods",
+          "summary": "When the coefficients in the partial differential equations (PDEs) vary with spatial position, as in the FitzHugh-Nagumo (FHN) equations, the numerical solution is more difficult. In this work, a novel framework that combines Physics-Informed Neural Networks (PINNs) and Deep Galerkin Methods (DGM) is proposed to overcome these difficulties, which marks a paradigm shift in solving PDEs using AI. The neural network structure is the same in both methods, with hidden layers, and is over-trained using the Adam optimization algorithm. The optimization of collocation point selection based on Sobol se",
+          "url": "https://doi.org/10.66879/jmla.2026.46",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Journal of Machine Learning Advances",
+          "authors": [
+            "Taimoor Iqbal",
+            "Shareen Shafique",
+            "Muhammad Asif"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.66879/jmla.2026.46"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "computational neuroscience",
             "neural"
           ],
           "signalScore": 24,
@@ -106,19 +159,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7212144833",
+          "id": "https://openalex.org/W7212400994",
           "kind": "paper",
-          "title": "Neurological Auditory Bypass",
-          "summary": "Prototype / setup / clinical integration sequence Build the nonimplantable NeuroHair array. Fabricate 32–64 flexible sensing elements with deliberately different mechanical resonances. Couple each hair to a piezoelectric or capacitive transducer. At this stage nothing touches neural tissue. Characterize every hair independently. Place the array in a calibrated acoustic test enclosure. Sweep known tones through the intended range and record for every channel. Determine each element's measured resonant frequency , bandwidth and gain. Create its calibration matrix. Store describing the response o",
-          "url": "https://doi.org/10.5281/zenodo.22698194",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Variational Integration of Epistemic, Utilitarian, and Normative Interactions for Mental Wellbeing",
+          "summary": "Mental wellbeing emerges from the continuous integration of perception, decision-making, and social regulation. We propose a unified mathematical framework based on the Field Theory of Representation (FTR), in which these interacting processes are modeled as a variational field defined over a learned semantic manifold. Within FTR, an agent’s cognitive state evolves according to a Lagrangian density whose potential term V (E, U, N) captures the coupled influence of epistemic evidence E, utilitarian objectives U, and normative constraints N. These three components represent complementary forces ",
+          "url": "https://doi.org/10.67335/3143-4371.1013",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Innovative Insights in Digital Health",
           "authors": [
-            "Jeffrey Alexander Webb"
+            "Edouard Siregar"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22698194"
+            "url": "https://doi.org/10.67335/3143-4371.1013"
           },
           "metrics": {
             "citedByCount": 0
@@ -135,54 +188,7 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "neural interface",
-            "neural"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7212128650",
-          "kind": "paper",
-          "title": "Neuroscience of elephant intelligence and communication",
-          "summary": "Elephants possess one of the most remarkable nervous systems in the animal kingdom, surpassing only by certain marine mammals and primates in terms of complexity and cognitive capabilities. Renowned for their intelligence, memory and strong social bonds, elephants possess one of the most advanced nervous systems among terrestrial animals. Their massive brain and highly specialized sensory organs allow them to experience the world in ways that continue to fascinate scientists. From detecting faint scents carried by the wind to sensing distant vibrations through the ground, elephants rely on an ",
-          "url": "https://doi.org/10.5281/zenodo.22684636",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Surjith K.P1*., Rajani C.V2., Patki H.S1., Abhin Raj K.P1., Indu V.R2. and Maya S3."
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22684636"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain",
-            "neural"
+            "computational neuroscience"
           ],
           "signalScore": 20,
           "access": {
@@ -198,23 +204,21 @@
           }
         },
         {
-          "id": "https://openalex.org/W7212128853",
+          "id": "https://openalex.org/W7212323269",
           "kind": "paper",
-          "title": "SUBCONSCIOUS PROCESSES IN BODY–MIND COMMUNICATION AND DECISION MAKING",
-          "summary": "The mind–body connection has long been a central topic in psychology, neuroscience, and philosophy. Moving beyond traditional dualistic frameworks, this study conceptualizes the subconscious as a mediating system that facilitates continuous interaction between physical processes and mental states. Subconscious communication is defined as an automatic, non-conscious flow of information that encompasses bodily signals, emotional responses, and cognitive activity. By integrating classical psychological theories, contemporary neuroscientific findings, and data collected from university students, t",
-          "url": "https://doi.org/10.5281/zenodo.22689930",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Bibliometric analysis of transcranial Doppler ultrasound",
+          "summary": "Background: Transcranial Doppler (TCD) ultrasound is a valuable noninvasive diagnostic tool for assessing the cerebral vasculature and has been widely used in clinical care and research settings. However, no systematic reviews have investigated the development history, global landscape, and trend evolution at the macroscopic level in this field. Therefore, this study employs bibliometric techniques to analyze TCD publications from 1990 to 2025 (search date: November 28, 2025), investigating international cooperation networks, knowledge foundations, research hotspots, and future developmental t",
+          "url": "https://doi.org/10.1097/md.0000000000050625",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Medicine",
           "authors": [
-            "A. Mehrad",
-            "S Rizova",
-            "I. Tasevska",
-            "E. Karakash",
-            "F. Popovski"
+            "Le Yang",
+            "Wenjie Zhang",
+            "Xu Hou"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22689930"
+            "url": "https://doi.org/10.1097/md.0000000000050625"
           },
           "metrics": {
             "citedByCount": 0
@@ -231,102 +235,7 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "mental health"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7212157029",
-          "kind": "paper",
-          "title": "Neuroscience of elephant intelligence and communication",
-          "summary": "Elephants possess one of the most remarkable nervous systems in the animal kingdom, surpassing only by certain marine mammals and primates in terms of complexity and cognitive capabilities. Renowned for their intelligence, memory and strong social bonds, elephants possess one of the most advanced nervous systems among terrestrial animals. Their massive brain and highly specialized sensory organs allow them to experience the world in ways that continue to fascinate scientists. From detecting faint scents carried by the wind to sensing distant vibrations through the ground, elephants rely on an ",
-          "url": "https://doi.org/10.5281/zenodo.22684635",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Surjith K.P1*., Rajani C.V2., Patki H.S1., Abhin Raj K.P1., Indu V.R2. and Maya S3."
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22684635"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain",
-            "neural"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7212182877",
-          "kind": "paper",
-          "title": "SUBCONSCIOUS PROCESSES IN BODY–MIND COMMUNICATION AND DECISION MAKING",
-          "summary": "The mind–body connection has long been a central topic in psychology, neuroscience, and philosophy. Moving beyond traditional dualistic frameworks, this study conceptualizes the subconscious as a mediating system that facilitates continuous interaction between physical processes and mental states. Subconscious communication is defined as an automatic, non-conscious flow of information that encompasses bodily signals, emotional responses, and cognitive activity. By integrating classical psychological theories, contemporary neuroscientific findings, and data collected from university students, t",
-          "url": "https://doi.org/10.5281/zenodo.22689929",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "A. Mehrad",
-            "S Rizova",
-            "I. Tasevska",
-            "E. Karakash",
-            "F. Popovski"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22689929"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "mental health"
+            "cognitive neuroscience"
           ],
           "signalScore": 20,
           "access": {
@@ -358,16 +267,16 @@
             "url": ""
           },
           "metrics": {
-            "citedByCount": 7782
+            "citedByCount": 7778
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 211,
+            "currentValue": 214,
             "previousValue": 342,
-            "delta": -131,
-            "growthRate": -0.383,
+            "delta": -128,
+            "growthRate": -0.3743,
             "available": true
           },
           "relevanceKeywords": [
@@ -377,6 +286,102 @@
             "cortex"
           ],
           "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212106842",
+          "kind": "paper",
+          "title": "Long‐Lasting Electrohydrodynamically Printed Transparent Soft Microelectrode for Implantable Biointerfaces",
+          "summary": "ABSTRACT Reliable and scalable soft implantable neural interface fabrication remains a key challenge for chronic bioelectronic applications. Here, we present a transparent soft microelectrode fabricated with electrohydrodynamic (EHD) printing, utilizing the fluorinated polymer poly(vinylidene fluoride‐co‐hexafluoropropylene) (PVDF‐HFP) and poly (3, 4‐ethylenedioxythiophene) polystyrene sulfonate (PEDOT: PSS) to form seamless, selectively patterned multilayer structures with low impedance and long‐term stability. Controlled in situ curing during printing yields dense, void‐free substrate and en",
+          "url": "https://doi.org/10.1002/adfm.78133",
+          "publishedAt": "2026-09-10T00:00:00.000Z",
+          "source": "Advanced Functional Materials",
+          "authors": [
+            "Hyeongjin Jo",
+            "Gaeun Lee",
+            "Yujun Song",
+            "Seo Yeon Kim",
+            "Minho Kim"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.78133"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural interface",
+            "neural"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212107267",
+          "kind": "paper",
+          "title": "Genetic Diagnosis in Epilepsy: Implications for Clinical Management",
+          "summary": "PURPOSE OF REVIEW: To describe the clinical implications of genetic diagnoses in epilepsy and the recent advancements in this field. RECENT FINDINGS: A genetic diagnosis in epilepsy has been shown to impact clinical management in almost half of individuals, often within three months of diagnosis, with anti-seizure medication recommendations being the most common change. More recently, data from somatic genetic testing in brain tissue has shown the potential to impact prognostic information and medication recommendations. Genetic testing is becoming routine clinical care in epilepsy and is reco",
+          "url": "https://doi.org/10.1007/s11910-026-01514-1",
+          "publishedAt": "2026-09-10T00:00:00.000Z",
+          "source": "Current Neurology and Neuroscience Reports",
+          "authors": [
+            "Krista S. Schatz",
+            "Dawn B. Lammert",
+            "Christa W. Habela"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/s11910-026-01514-1.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -409,16 +414,16 @@
             "url": "https://www.nature.com/articles/nn.2467.pdf"
           },
           "metrics": {
-            "citedByCount": 7573
+            "citedByCount": 7571
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 420,
+            "currentValue": 424,
             "previousValue": 715,
-            "delta": -295,
-            "growthRate": -0.4126,
+            "delta": -291,
+            "growthRate": -0.407,
             "available": true
           },
           "relevanceKeywords": [
@@ -458,16 +463,16 @@
             "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
           },
           "metrics": {
-            "citedByCount": 7658
+            "citedByCount": 7657
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 361,
+            "currentValue": 364,
             "previousValue": 471,
-            "delta": -110,
-            "growthRate": -0.2335,
+            "delta": -107,
+            "growthRate": -0.2272,
             "available": true
           },
           "relevanceKeywords": [
@@ -488,22 +493,72 @@
           }
         },
         {
-          "id": "https://openalex.org/W7212158161",
+          "id": "https://openalex.org/W7212351320",
           "kind": "paper",
-          "title": "Compassion as a learning process in Health Professions Education (HPE)",
-          "summary": "The field of health professions education (HPE) has yet to integrate lived experience understandings of compassion from the varied perspectives of provider and patient with the psychology and neuroscience research-informed notion of compassion as an emotion. This study integrated these understandings into a learning paradigm as a way to inform the teaching of compassion in HPE. This phenomenological dissertation research explored learning compassion using a conceptual framework of emotion regulation and a definition of compassion informed by the fields of HPE, psychology, and neuroscience. Par",
-          "url": "https://doi.org/10.1186/s12909-026-10320-9",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "BMC Medical Education",
+          "title": "AI‐Enabled Organoid Chips for Modeling and Decoding Nerve‐Tumor Interactions",
+          "summary": "ABSTRACT The nervous system is emerging as a central regulator of tumor initiation, progression, and therapeutic response. However, the dynamic mechanisms linking neural activity to malignant, immune, and barrier states remain difficult to dissect in vivo. Animal models capture key aspects of cancer neuroscience, but poorly control human‐specific multicellular interfaces, neural activity, secreted signals, and real‐time readouts. AI‐enabled organoid chip platforms offer a complementary route to reconstruct and interrogate the nerve‐tumor interface by integrating human‐derived organoids, microf",
+          "url": "https://doi.org/10.1002/adfm.78364",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Advanced Functional Materials",
           "authors": [
-            "Nicole Guerin",
-            "Daren Graves",
-            "Tanya Cohn",
-            "Anne‐Marie Barron"
+            "Junlei Han",
+            "Fanwei Meng",
+            "Jiemeng Ding",
+            "Jun Chen",
+            "Li Wang"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212352552",
+          "kind": "paper",
+          "title": "A case study to engage students in the research design and ethics of high-throughput metagenomics",
+          "summary": "Case studies present students with an opportunity to learn and apply course content through problem solving and critical thinking. Supported by the High-throughput Discovery Science & Inquiry-based Case Studies for Today's Students (HITS) Research Coordination Network, our interdisciplinary team designed, implemented, and assessed two case study modules entitled \"You Are What You Eat.\" Collectively, the case study modules present students with an opportunity to engage in experimental research design and the ethical considerations regarding microbiome research and society. In this manuscript, w",
+          "url": "https://doi.org/10.17615/dmnm-ff08",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "UNC Libraries",
+          "authors": [
+            "Preston J. Dihle",
+            "Scott A. Salger",
+            "Monica M. Gaudier‐Diaz",
+            "Adam J. Kleinschmit",
+            "Nic M. Vega"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1186/s12909-026-10320-9"
+            "url": "https://doi.org/10.17615/dmnm-ff08"
           },
           "metrics": {
             "citedByCount": 0
@@ -535,19 +590,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7103884738",
+          "id": "https://openalex.org/W7212366589",
           "kind": "paper",
-          "title": "SYNDROME HIPPOCAMPE",
-          "summary": "Axe conceptuel : conformisme structurel épigénétique Sujet : le conformisme comme production structurelle Objet : mécanisme normatif d’adhésion collective Substrat : dispositif, règlement, forme spatiale Trame : du biopouvoir au stress doux — hypothèse d’inscription épigénétique L’essai analyse comment un dispositif spatial — ici, la série de portes d’un studio en copropriété — produit des schèmes perceptifs, règle les comportements, normalise les récits et installe — par signaux faibles répétés — une plasticité hippocampique orientée. Cette plasticité n’est pas une altération brutale : elle c",
-          "url": "https://doi.org/10.5281/zenodo.17517374",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
+          "title": "AI-Mediated Rehabilitation Within Electronic Monitoring Infrastructure: A Multidisciplinary Framework for Behavioral Support and Long-Term Desistance",
+          "summary": "Abstract Electronic monitoring technologies have expanded the capacity of criminal justice systems to supervise individuals beyond conventional custodial settings, yet their primary function remains surveillance rather than rehabilitation. This paper proposes a multidisciplinary framework for extending electronic monitoring infrastructure with an AI-mediated rehabilitation layer designed to support behavioral change, psychological self-regulation, social reintegration, and long-term desistance from crime. Rather than conceptualizing artificial intelligence as an autonomous therapeutic authorit",
+          "url": "https://doi.org/10.5281/zenodo.22718425",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
           "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "GEMINET"
+            "Jace (Jeong Hyeon) Kim"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.17517374"
+            "url": "https://doi.org/10.5281/zenodo.22718425"
           },
           "metrics": {
             "citedByCount": 0
@@ -579,23 +634,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7211985577",
+          "id": "https://openalex.org/W7212368048",
           "kind": "paper",
-          "title": "Inner speech-related brain areas mapped using a novel rhyming task",
-          "summary": "Introduction The brain functional correlates of phonological encoding have been examined by means of tasks requiring silent articulation, in many cases utilizing judgments of whether two words rhyme or not. However, most studies have employed written stimuli, which may not be appropriate in languages with transparent orthography (e.g. Spanish), and control tasks have often been less than ideal for functional imaging purposes. We aimed to identify brain activations during phonological encoding using a visual rhyming judgment task that minimized reading-related confounds, and we employed a novel",
-          "url": "https://doi.org/10.3389/fpsyg.2026.1856832",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Frontiers in Psychology",
+          "title": "Neuroimmune crosstalk in pancreatic ductal adenocarcinoma: integrating neuroscience and immuno-oncology",
+          "summary": "",
+          "url": "https://doi.org/10.1016/j.intimp.2026.117371",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "International Immunopharmacology",
           "authors": [
-            "Lucila Barbosa",
-            "Pablo Del Olmo-Encabo",
-            "Ana Aquino-Servín",
-            "Alejandro Sotero",
-            "Noemí Hostalet"
+            "Jialong Chen",
+            "Yan Du",
+            "Jubao Niu",
+            "Weixiong Zhu",
+            "Yao Xiao"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1856832/pdf"
+            "url": "https://doi.org/10.1016/j.intimp.2026.117371"
           },
           "metrics": {
             "citedByCount": 0
@@ -611,8 +666,7 @@
             "available": true
           },
           "relevanceKeywords": [
-            "brain",
-            "cortex"
+            "neuroscience"
           ],
           "signalScore": 12,
           "access": {
@@ -628,20 +682,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7211992502",
+          "id": "https://openalex.org/W7212378846",
           "kind": "paper",
-          "title": "Hyperglycemia associated brain dysfunction: rodent models for studying diabetic cognitive deficits",
-          "summary": "Diabetes and chronic hyperglycemia exert a profound impact on the central nervous system, significantly increasing the risk of cognitive impairment and neurodegenerative disease. This neurological decline is driven by a complex interplay of molecular and cellular mechanisms, including dysregulated insulin signaling, impaired cerebral glucose metabolism, excitotoxic glutamate accumulation, oxidative stress, and neuroinflammation. Collectively, these metabolic stressors compromise synaptic integrity and plasticity, promoting pathological hallmarks such as amyloid-beta accumulation, tau hyperphos",
-          "url": "https://doi.org/10.1007/s11011-026-01979-6",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Metabolic Brain Disease",
+          "title": "AI-Mediated Rehabilitation Within Electronic Monitoring Infrastructure: A Multidisciplinary Framework for Behavioral Support and Long-Term Desistance",
+          "summary": "Abstract Electronic monitoring technologies have expanded the capacity of criminal justice systems to supervise individuals beyond conventional custodial settings, yet their primary function remains surveillance rather than rehabilitation. This paper proposes a multidisciplinary framework for extending electronic monitoring infrastructure with an AI-mediated rehabilitation layer designed to support behavioral change, psychological self-regulation, social reintegration, and long-term desistance from crime. Rather than conceptualizing artificial intelligence as an autonomous therapeutic authorit",
+          "url": "https://doi.org/10.5281/zenodo.22718426",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Brianna M. Balsamo",
-            "Darrin H. Brager"
+            "Jace (Jeong Hyeon) Kim"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://link.springer.com/content/pdf/10.1007/s11011-026-01979-6.pdf"
+            "url": "https://doi.org/10.5281/zenodo.22718426"
           },
           "metrics": {
             "citedByCount": 0
@@ -657,8 +710,7 @@
             "available": true
           },
           "relevanceKeywords": [
-            "brain",
-            "cortex"
+            "neuroscience"
           ],
           "signalScore": 12,
           "access": {
@@ -674,22 +726,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7211992711",
+          "id": "https://openalex.org/W7212386038",
           "kind": "paper",
-          "title": "Do Specific Diseases Matter?",
-          "summary": "Abstract: Although extensive research has examined the link between subjective aging (i.e., individuals’ subjective age and their self-perceptions of aging) and health-related outcomes, little is known about the role of specific chronic diseases in shaping long-term trajectories of subjective aging. This longitudinal study examined the role of three common chronic diseases (diabetes, cancer, and mental health conditions) in subjective aging trajectories across 7 years of follow-up time, using data from the German Ageing Survey ( N = 4,349; age range: 40-85 years). Results from adjusted linear ",
-          "url": "https://doi.org/10.1024/1662-9647/a000374",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "GeroPsych",
+          "title": "Aquawareness: per una definizione di Olismo Scientifico (it) - Toward a Definition of Scientific Holism (en)",
+          "summary": "Abstract (IT) Aquawareness: per una definizione di Olismo Scientifico Questo contributo propone una definizione teorica di Aquawareness come forma di olismo scientifico applicato all'ambiente acquatico. L'articolo sostiene che Aquawareness non sia semplicemente un metodo natatorio, ma una pratica di consapevolezza basata sull'interazione tra le leggi fisiche dell'acqua e la complessità neurobiologica dell'essere umano. Attraverso una rilettura critica del concetto di Basic Swimming, l'attenzione viene spostata dalla prestazione tecnica e cronometrica alla percezione del respiro, del galleggiam",
+          "url": "https://doi.org/10.5281/zenodo.22723049",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Moritz Gehring",
-            "Markus Wettstein",
-            "A.J. Reinhard",
-            "Susanne Wurm"
+            "Giancarlo De Leo"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://econtent.hogrefe.com/doi/pdf/10.1024/1662-9647/a000374?download=true"
+            "url": "https://doi.org/10.5281/zenodo.22723049"
           },
           "metrics": {
             "citedByCount": 0
@@ -705,7 +754,422 @@
             "available": true
           },
           "relevanceKeywords": [
-            "mental health"
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212389679",
+          "kind": "paper",
+          "title": "Aquawareness: per una definizione di Olismo Scientifico (it) - Toward a Definition of Scientific Holism (en)",
+          "summary": "Abstract (IT) Aquawareness: per una definizione di Olismo Scientifico Questo contributo propone una definizione teorica di Aquawareness come forma di olismo scientifico applicato all'ambiente acquatico. L'articolo sostiene che Aquawareness non sia semplicemente un metodo natatorio, ma una pratica di consapevolezza basata sull'interazione tra le leggi fisiche dell'acqua e la complessità neurobiologica dell'essere umano. Attraverso una rilettura critica del concetto di Basic Swimming, l'attenzione viene spostata dalla prestazione tecnica e cronometrica alla percezione del respiro, del galleggiam",
+          "url": "https://doi.org/10.5281/zenodo.22723050",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Giancarlo De Leo"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22723050"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212396259",
+          "kind": "paper",
+          "title": "5 Sciences Answer: Can Men and Women Really Just Be Friends?",
+          "summary": "Popular debate over whether men and women can 'just be friends' typically collapses into one of two extremes, either flat denial or dismissive certainty, without engaging the actual research across psychology, neuroscience, and anthropology. This article surveys that research directly. It opens by testing the popular 'Men Are from Mars' framing against Janet Hyde's Gender Similarities Hypothesis and a 106-meta-analysis synthesis finding an average psychological difference of just d = 0.21, evidence men and women are considerably more alike than different. It then examines the documented gap be",
+          "url": "https://doi.org/10.5281/zenodo.22727303",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Narayan Rout"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22727303"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212400923",
+          "kind": "paper",
+          "title": "5 Sciences Answer: Can Men and Women Really Just Be Friends?",
+          "summary": "Popular debate over whether men and women can 'just be friends' typically collapses into one of two extremes, either flat denial or dismissive certainty, without engaging the actual research across psychology, neuroscience, and anthropology. This article surveys that research directly. It opens by testing the popular 'Men Are from Mars' framing against Janet Hyde's Gender Similarities Hypothesis and a 106-meta-analysis synthesis finding an average psychological difference of just d = 0.21, evidence men and women are considerably more alike than different. It then examines the documented gap be",
+          "url": "https://doi.org/10.5281/zenodo.22727302",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Narayan Rout"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22727302"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212259061",
+          "kind": "paper",
+          "title": "Finding a place for new approach methodologies (NAMs) in biomedical research",
+          "summary": "Abstract New approach methodologies (NAMs) can greatly contribute to the replacement and reduction of animal experiments in biomedical science. However, while NAMs have seen considerable investment and adoption in toxicology, this growth has not found a parallel in basic and translational biomedical research. Here we examine the opportunities and the challenges of systematic implementation of NAMs in biomedical research. We demonstrate that NAMs offer considerable scientific value by enabling tailored investigations into biological mechanisms and disease processes, addressing aspects of human ",
+          "url": "https://doi.org/10.1038/s41684-026-01806-6",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Lab Animal",
+          "authors": [
+            "Alexandra Schaffert",
+            "Arti Ahluwalia",
+            "Jeffrey J. Bajramović",
+            "Nuno Henrique Franco",
+            "Winfried Neuhaus"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1038/s41684-026-01806-6"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212268605",
+          "kind": "paper",
+          "title": "Ultra-low-field portable MRI in neuroscience: Current status and future directions",
+          "summary": "INTRODUCTION: Modern medical imaging currently relies exclusively on high field magnetic resonance imaging (MRI) at high field (1.5 or 3 Tesla), which high purchase price, operational and maintenance costs represent major obstacles to access for about 90% of the world population. Recently, ultra-low field (100 mT or below) portable MRI (pMRI) systems have proven capable of producing images of adequate imaging quality within reasonable scan times, at significantly lower costs than standard systems. This article provides a review of currently operational pMRI systems that have applications in ne",
+          "url": "https://doi.org/10.1016/j.neurad.2026.101603",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Journal of Neuroradiology",
+          "authors": [
+            "J. Sciancalepore",
+            "G. Kuchcinski",
+            "François Dubus",
+            "P. Vermersch",
+            "D. Labat"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1016/j.neurad.2026.101603"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212300582",
+          "kind": "paper",
+          "title": "Translational Inefficiencies in Traumatic Brain Injury Research: Evidence From 94 399 Publications",
+          "summary": "BACKGROUND AND OBJECTIVES: Despite extensive investigation, no proven neuroprotective therapy exists for traumatic brain injury. Although this translational gap has been widely discussed, it has not been objectively characterized through systematic analysis. We hypothesized that this deficit reflects not only biological intractability but also constraints within the research ecosystem that impede translational progress. METHODS: Web of Science, PubMed, and Scopus were searched without date or document type restrictions. A natural language processing pipeline screened results and classified stu",
+          "url": "https://doi.org/10.1227/neu.0000000000004208",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Neurosurgery",
+          "authors": [
+            "Daniel N. de Souza",
+            "Spencer Frome",
+            "Eric A. Grin",
+            "Scott N. Grossman",
+            "Paul P. Huang"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212311422",
+          "kind": "paper",
+          "title": "Identifiability of Bayesian models of perception",
+          "summary": "Inferring the underlying computational processes from behavioral measurements is a fundamental approach in cognitive science and neuroscience. Although Bayesian decision theory has become a major normative framework for modeling perception and cognition, it is unclear to what extent its modeling components (i.e., prior belief, likelihood function, and loss function) can be recovered from behavioral data. Here, we systematically investigated the problem of inferring such Bayesian models from behavioral tasks. We determined the situations under which some components of Bayesian models are system",
+          "url": "https://doi.org/10.1073/pnas.2601013123",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "Proceedings of the National Academy of Sciences",
+          "authors": [
+            "Michael Hahn",
+            "Entang Wang",
+            "Xue-Xin Wei"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1073/pnas.2601013123"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212323468",
+          "kind": "paper",
+          "title": "Re-architecting Montessori for Generation Beta: A Neuro-Pedagogical Framework (2025–2039)",
+          "summary": "The emergence of Generation Beta (born 2025–2039) has brought about a demographic shift never seen before. These children are raised in a sophisticated technological environment where spatial computing, autonomous systems, and artificial intelligence are all commonplace. Conventional educational paradigms are vulnerable to either falling victim to digital overstimulation or retreating into outdated, low-tech isolation. This paper's Neuro-Pedagogical Adaptation of the Montessori Method incorporates Researchers Methodology, a pedagogical framework that prioritizes adaptive emotional regulation, ",
+          "url": "https://doi.org/10.63711/ijdr.net20260306",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "source": "International Journal of Digital Research",
+          "authors": [
+            "Shamsa Rehna",
+            "Sana Zahra",
+            "Nazia Yasmeen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.63711/ijdr.net20260306"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7204184847",
+          "kind": "paper",
+          "title": "The transfer function as a method to reduce morphological models into point-neuron models",
+          "summary": "BACKGROUND: Building a simple model that precisely and functionally characterizes a neuron is a challenging and important task to select the best concise and computationally efficient model. However, this type of work has only been done for subthreshold properties of neurons. NEW METHOD: Here, we take a different perspective and propose a method to obtain point-neuron models from morphologically-detailed models with dendrites, preserving their transfer-function properties and firing rate statistics under in vivo-like conditions. RESULTS: To do this, we focus on the functional characterization ",
+          "url": "https://doi.org/10.1016/j.jneumeth.2026.110899",
+          "publishedAt": "2026-09-10T00:00:00.000Z",
+          "source": "Journal of Neuroscience Methods",
+          "authors": [
+            "Mikal Daou",
+            "Tihana Jovanic",
+            "Alain Destexhe"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165027026002293/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
           ],
           "signalScore": 12,
           "access": {
@@ -740,7 +1204,7 @@
             "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
           },
           "metrics": {
-            "citedByCount": 13638
+            "citedByCount": 13633
           },
           "trend": {
             "metric": "citations_by_year",
@@ -787,16 +1251,16 @@
             "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
           },
           "metrics": {
-            "citedByCount": 11511
+            "citedByCount": 11502
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 606,
+            "currentValue": 610,
             "previousValue": 1211,
-            "delta": -605,
-            "growthRate": -0.4996,
+            "delta": -601,
+            "growthRate": -0.4963,
             "available": true
           },
           "relevanceKeywords": [
@@ -833,16 +1297,16 @@
             "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000316&type=printable"
           },
           "metrics": {
-            "citedByCount": 7336
+            "citedByCount": 7339
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 425,
+            "currentValue": 431,
             "previousValue": 641,
-            "delta": -216,
-            "growthRate": -0.337,
+            "delta": -210,
+            "growthRate": -0.3276,
             "available": true
           },
           "relevanceKeywords": [
@@ -878,16 +1342,16 @@
             "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
           },
           "metrics": {
-            "citedByCount": 9419
+            "citedByCount": 9411
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 612,
+            "currentValue": 616,
             "previousValue": 1011,
-            "delta": -399,
-            "growthRate": -0.3947,
+            "delta": -395,
+            "growthRate": -0.3907,
             "available": true
           },
           "relevanceKeywords": [
@@ -924,7 +1388,7 @@
             "url": "https://dspace.library.uu.nl/handle/1874/204900"
           },
           "metrics": {
-            "citedByCount": 11922
+            "citedByCount": 11920
           },
           "trend": {
             "metric": "citations_by_year",
@@ -951,475 +1415,6 @@
             "available": false,
             "reason": "access metrics not configured"
           }
-        },
-        {
-          "id": "https://openalex.org/W7212187926",
-          "kind": "paper",
-          "title": "Caregiving Reconsidered: How Confounding Helping with Suffering has Obscured a Major Health-Promoting Behavior",
-          "summary": "The widely cited claim that informal caregiving (e.g., providing care to a spouse or parent with dementia) increases mortality risk has shaped public policy, media narratives, and clinical practice for over two decades. However, this claim originated from a single study and multiple other population-based studies have found the opposite: that caregiving is associated with reduced mortality. We argue that the disconnect between what is widely accepted and what the data actually show arises because the construct of “caregiving” confounds two psychologically and physiologically distinct experienc",
-          "url": "https://doi.org/10.1097/psy.0000000000001525",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "source": "Psychosomatic Medicine",
-          "authors": [
-            "Naomi I. Eisenberger",
-            "Flora Blandl",
-            "Maria Naclerio"
-          ],
-          "openAccess": {
-            "isOpen": false,
-            "url": ""
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7106732680",
-          "kind": "paper",
-          "title": "Design and validation of a modular smart headband with embroidered electrodes for comfortable EEG monitoring",
-          "summary": "BACKGROUND: Wearable electroencephalography (EEG) systems enable neural monitoring beyond controlled laboratory environments. However, conventional EEG devices are limited by bulky hardware, lengthy setup procedures, electrode-related discomfort or irritation, and high costs, restricting their suitability for long-term real-world use. OBJECTIVE: This study presents the design and validation of a modular smart EEG headband integrated with soft e-textile electrodes for comfortable, reliable out-of-lab EEG acquisition suitable for long-term neural monitoring. METHODS: This research developed six ",
-          "url": "https://doi.org/10.1371/journal.pone.0347189",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "PLoS ONE",
-          "authors": [
-            "Komal Komal",
-            "Frances Cleary",
-            "Ram Prasadh Narayanan",
-            "John S. G. Wells",
-            "Marco Buiatti"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0347189&type=printable"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neural"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7160457462",
-          "kind": "paper",
-          "title": "Leakage-audited benchmarking reveals limited evidence for cross-subject auditory-evoked EEG vowel perception decoding",
-          "summary": "OBJECTIVE: We evaluated cross-subject five-vowel perception decoding from auditory-evoked EEG with explicit trial definitions, participant-grouped validation, complete prediction coverage, and participant-level inference. Approach. We parsed all Study 2 event tables from OpenNeuro ds006104 version 1.0.1 and analysed the consonant-vowel (CV) pair task. Marker-stimulus pairing converted 7,680 event rows into 3,840 independent CV trials. Excluding active-condition trials left 1,280 eligible control trials. A 400 μV maximum across-channel peak-to-peak criterion rejected 186 epochs,retaining 1,094 ",
-          "url": "https://doi.org/10.1088/1741-2552/aea4f7",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Journal of Neural Engineering",
-          "authors": [
-            "Xiaoyang Li",
-            "Zeyan Tao"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://iopscience.iop.org/article/10.1088/1741-2552/aea4f7/pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neural"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7201989360",
-          "kind": "paper",
-          "title": "Early Emergence of Cultural Differences in Audiovisual Speech Perception",
-          "summary": "Integrating auditory and visual cues is a hallmark of human speech perception, yet adults from East Asian backgrounds show less reliance on visual speech than their Western counterparts. The origins of this cultural difference, however, remain unknown. To investigate whether this divergence is established early in infancy, we examined audiovisual integration in 6- to 12-month-old White Canadian (n = 111) and Chinese (n = 115) infants using a novel paradigm measuring their perception of the McGurk effect. Across four experiments, we found a clear developmental divergence: Canadian infants showe",
-          "url": "https://doi.org/10.1111/desc.70284",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Developmental Science",
-          "authors": [
-            "Linlin Yan",
-            "Shuaike Hu",
-            "Yue Ding",
-            "Mengke Jin",
-            "Anna Krasotkina"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/desc.70284"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7202272460",
-          "kind": "paper",
-          "title": "Blue screen filters reduce visual discomfort and disrupt the relationship between neural and subjective responses to unnatural images",
-          "summary": "Heightened sensory sensitivity, including visual discomfort, is common in migraine, autism, and the wider population, and is linked to headaches, perceptual disturbances, and reduced quality of life. We tested whether coloured screen filters reduce visual discomfort and whether such effects are reflected in neural responses. Nineteen participants with self-identified sensory sensitivity completed a within-subject task viewing natural scenes, striped gratings, and filtered-noise \"bump\" textures under greyscale, red, and blue screen filters. Subjective discomfort was rated after each trial, and ",
-          "url": "https://doi.org/10.1016/j.visres.2026.108897",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Vision Research",
-          "authors": [
-            "Caelan Dow",
-            "Jordi M. Asher",
-            "Paul B. Hibbard",
-            "Caitlin Evans",
-            "Louise O’Hare"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://www.sciencedirect.com/science/article/pii/S0042698926001495/pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neural"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7211985993",
-          "kind": "paper",
-          "title": "Genetic associations link lung cancer liability to brain imaging phenotypes and nominate an FN1-associated tumor–oligodendrocyte program in small-cell lung cancer",
-          "summary": "Background Brain metastasis is a major cause of mortality in lung cancer, particularly in small-cell lung cancer (SCLC). Whether genetic susceptibility to lung cancer is associated with brain structural and functional traits relevant to metastatic vulnerability remains unclear. We investigated subtype-specific genetic associations with brain imaging phenotypes and explored the biological context of the SCLC-associated white-matter signal. Methods Bidirectional two-sample Mendelian randomization (MR) was performed using European genome-wide association study summary statistics for three lung ca",
-          "url": "https://doi.org/10.3389/fonc.2026.1890325",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Frontiers in Oncology",
-          "authors": [
-            "Kai Xu",
-            "Peihang Xu",
-            "Kunsong Su",
-            "Zhenkun Liu",
-            "Hao Yang"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1890325/pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7211995082",
-          "kind": "paper",
-          "title": "Interactions of ACEA and WIN 55,212-2 mesylate with temozolomide and cisplatin in neuroblastoma and glioblastoma cell lines: an isobolographic analysis",
-          "summary": "Glioblastoma is still the most aggressive primary brain tumor in adults. Recently, several advanced experimental treatment options have been proposed for glioblastoma patients, including the application of cannabinoids as an add-on therapy. In the MTT, LDH, and BrdU assays, the anti-proliferative effects of arachidonyl-2’-chloroethylamide (ACEA – a potent selective cannabinoid CB1 receptor agonist) and WIN 55,212-2 mesylate (a non-selective cannabinoid CB1 and CB2 receptor agonist) on neuroblastoma and glioblastoma cell lines (CHP-134, KELLY, U-87MG, T98G, and C6) were determined. The interact",
-          "url": "https://doi.org/10.1007/s43440-026-00898-8",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "source": "Pharmacological Reports",
-          "authors": [
-            "Katarzyna Załuska-Ogryzek",
-            "Paula Wróblewska-Łuczka",
-            "Agnieszka Góralczyk",
-            "Michał Chojnacki",
-            "Jarogniew J. Łuszczki"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://link.springer.com/content/pdf/10.1007/s43440-026-00898-8.pdf"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W1996024251",
-          "kind": "paper",
-          "title": "Copper-Zinc Superoxide Dismutase (SOD1) Is Released by Microglial Cells and Confers Neuroprotection against 6-OHDA Neurotoxicity",
-          "summary": "Microglial-neuronal interactions are essential for brain physiopathology. In this framework, recent data have changed the concept of microglia from essentially macrophagic cells to crucial elements in maintaining neuronal homeostasis and function through the release of neuroprotective molecules. Using proteomic analysis, here we identify copper-zinc superoxide dismutase (SOD1) as a protein produced and released by cultured rat primary microglia. Evidence for a neuroprotective role of microglia-derived SOD1 resulted from experiments in which primary cerebellar granule neurons (CGNs) were expose",
-          "url": "https://doi.org/10.1159/000337115",
-          "publishedAt": "2012-05-09T00:00:00.000Z",
-          "source": "Neurosignals",
-          "authors": [
-            "Elisabetta Polazzi",
-            "Ilaria Mengoni",
-            "Marco Caprini",
-            "Emiliano Peña‐Altamira",
-            "Ewelina Kurtys"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://www.karger.com/Article/Pdf/337115"
-          },
-          "metrics": {
-            "citedByCount": 9018
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 1,
-            "previousValue": 140,
-            "delta": -139,
-            "growthRate": -0.9929,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W2024165284",
-          "kind": "paper",
-          "title": "Tensor Decompositions and Applications",
-          "summary": "Abstract. This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or [Formula: see text]-way array. Decompositions of higher-order tensors (i.e., [Formula: see text]-way arrays with [Formula: see text]) have applications in psychometrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value de",
-          "url": "https://doi.org/10.1137/07070111x",
-          "publishedAt": "2009-08-05T00:00:00.000Z",
-          "source": "SIAM Review",
-          "authors": [
-            "Tamara G. Kolda",
-            "Brett W. Bader"
-          ],
-          "openAccess": {
-            "isOpen": false,
-            "url": ""
-          },
-          "metrics": {
-            "citedByCount": 10681
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 503,
-            "previousValue": 833,
-            "delta": -330,
-            "growthRate": -0.3962,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W1966327575",
-          "kind": "paper",
-          "title": "WGCNA: an R package for weighted correlation network analysis",
-          "summary": "BACKGROUND: Correlation networks are increasingly being used in bioinformatics applications. For example, weighted gene co-expression network analysis is a systems biology method for describing the correlation patterns among genes across microarray samples. Weighted correlation network analysis (WGCNA) can be used for finding clusters (modules) of highly correlated genes, for summarizing such clusters using the module eigengene or an intramodular hub gene, for relating modules to one another and to external sample traits (using eigengene network methodology), and for calculating module members",
-          "url": "https://doi.org/10.1186/1471-2105-9-559",
-          "publishedAt": "2008-12-01T00:00:00.000Z",
-          "source": "BMC Bioinformatics",
-          "authors": [
-            "Peter Langfelder",
-            "Steve Horvath"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/1471-2105-9-559"
-          },
-          "metrics": {
-            "citedByCount": 29982
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 2414,
-            "previousValue": 3904,
-            "delta": -1490,
-            "growthRate": -0.3817,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 8,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
         }
       ]
     },
@@ -1431,10 +1426,10 @@
       "items": [
         {
           "kind": "research_news",
-          "title": "Popular brain supplement linked to shorter lifespan in men",
-          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-          "publishedAt": "2026-09-06T21:21:25.000Z",
+          "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+          "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+          "publishedAt": "2026-09-13T13:56:06.000Z",
           "source": "sciencedaily.com",
           "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
           "relevanceKeywords": [
@@ -1491,6 +1486,30 @@
             "cortex"
           ],
           "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Popular brain supplement linked to shorter lifespan in men",
+          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+          "publishedAt": "2026-09-06T21:21:25.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2018,7 +2037,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 16,
+          "signalScore": 10,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2042,7 +2061,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 16,
+          "signalScore": 10,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2066,7 +2085,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 16,
+          "signalScore": 10,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2090,7 +2109,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 16,
+          "signalScore": 10,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2114,31 +2133,7 @@
           "relevanceKeywords": [
             "brain"
           ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
-          "summary": "AI has helped scientists measure the brain’s hidden cleaning system, revealing that fluid moves rapidly around its outer spaces but about 50 times more slowly through deep tissue. The discovery could eventually help researchers detect circulation problems linked to Alzheimer’s, aging, and concussions.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
-          "publishedAt": "2026-08-13T02:05:30.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
+          "signalScore": 10,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2160,13 +2155,13 @@
       "sourceCount": 7,
       "items": [
         {
-          "id": "49578928",
+          "id": "49688047",
           "kind": "startup_hn_signal",
-          "title": "China completes first commercial brain-computer interface implant",
+          "title": "Hitting a NERVE with attacks on AI-powered brain-computer interfaces",
           "summary": "Matched Hacker News query: brain-computer interface",
-          "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
-          "publishedAt": "2026-09-05T17:50:18.000Z",
+          "url": "https://anil.recoil.org/notes/nerve-attacks",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49688047",
+          "publishedAt": "2026-09-13T19:59:52.000Z",
           "source": "Hacker News",
           "relevanceKeywords": [
             "brain-computer interface",
@@ -2174,10 +2169,10 @@
             "brain-computer interface"
           ],
           "metrics": {
-            "points": 5,
+            "points": 3,
             "comments": 1
           },
-          "signalScore": 43.5,
+          "signalScore": 42.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2222,6 +2217,37 @@
           }
         },
         {
+          "id": "49578928",
+          "kind": "startup_hn_signal",
+          "title": "China completes first commercial brain-computer interface implant",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
+          "publishedAt": "2026-09-05T17:50:18.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          },
+          "signalScore": 35.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
           "id": "49553421",
           "kind": "startup_hn_signal",
           "title": "A common measure of communication for thought-to-text brain-computer interfaces",
@@ -2240,35 +2266,6 @@
             "comments": 1
           },
           "signalScore": 34,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49655318",
-          "kind": "startup_hn_signal",
-          "title": "DSCI goes pre beta testing – need early feedback",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://news.ycombinator.com/item?id=49655318",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49655318",
-          "publishedAt": "2026-09-11T08:46:34.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 5,
-            "comments": 2
-          },
-          "signalScore": 32.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2344,22 +2341,22 @@
           }
         },
         {
-          "id": "49386514",
+          "id": "49644238",
           "kind": "startup_hn_signal",
-          "title": "Ask HN: Do teams really need to use GitHub?",
+          "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
           "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://news.ycombinator.com/item?id=49386514",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49386514",
-          "publishedAt": "2026-08-21T11:26:50.000Z",
+          "url": "https://github.com/Kidus-M/MaruCheck",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49644238",
+          "publishedAt": "2026-09-10T14:24:38.000Z",
           "source": "Hacker News",
           "relevanceKeywords": [
             "BCI startup"
           ],
           "metrics": {
-            "points": 6,
-            "comments": 8
+            "points": 3,
+            "comments": 2
           },
-          "signalScore": 31,
+          "signalScore": 31.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2391,122 +2388,6 @@
             "comments": 9
           },
           "signalScore": 31,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49657937",
-          "kind": "startup_hn_signal",
-          "title": "Show HN: A Modern C++ course with videos and interactive GitHub homeworks",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://github.com/cpp-for-yourself",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49657937",
-          "publishedAt": "2026-09-11T13:18:44.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 2,
-            "comments": 1
-          },
-          "signalScore": 30,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49644238",
-          "kind": "startup_hn_signal",
-          "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://github.com/Kidus-M/MaruCheck",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49644238",
-          "publishedAt": "2026-09-10T14:24:38.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 0
-          },
-          "signalScore": 29.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49643566",
-          "kind": "startup_hn_signal",
-          "title": "Opinion: We have started losing control of AI. It's time to shut it down",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49643566",
-          "publishedAt": "2026-09-10T13:40:37.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 0
-          },
-          "signalScore": 29.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "49643036",
-          "kind": "startup_hn_signal",
-          "title": "Show HN: Pragma Twice – A dystopian sci-fi themed programming game",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://www.bryanpg.com/pragma_twice/",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49643036",
-          "publishedAt": "2026-09-10T13:00:51.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 2,
-            "comments": 0
-          },
-          "signalScore": 29,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2923,6 +2804,35 @@
           }
         },
         {
+          "id": "41040729",
+          "kind": "startup_hn_signal",
+          "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=41040729",
+          "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
+          "publishedAt": "2024-07-22T23:01:58.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 11,
+            "comments": 10
+          },
+          "signalScore": 24.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
           "id": "47183899",
           "kind": "startup_hn_signal",
           "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -3073,6 +2983,99 @@
             "available": false,
             "reason": "access metrics not configured"
           }
+        },
+        {
+          "id": "47846089",
+          "kind": "startup_hn_signal",
+          "title": "The first neural interface that transforms your thoughts into text",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://sabi.com/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
+          "publishedAt": "2026-04-21T08:24:38.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 22.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47672141",
+          "kind": "startup_hn_signal",
+          "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=47672141",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
+          "publishedAt": "2026-04-07T08:15:13.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 22.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47432372",
+          "kind": "startup_hn_signal",
+          "title": "Shared databases are not modular, they are just a weakness",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=47432372",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47432372",
+          "publishedAt": "2026-03-18T22:48:31.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 1
+          },
+          "signalScore": 22.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
         }
       ]
     },
@@ -3105,20 +3108,20 @@
           "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
         },
         "metrics": {
-          "citedByCount": 34023
+          "citedByCount": 34000
         },
         "trend": {
           "metric": "citations_by_year",
           "currentYear": 2026,
           "previousYear": 2025,
-          "currentValue": 2639,
+          "currentValue": 2661,
           "previousValue": 2091,
-          "delta": 548,
-          "growthRate": 0.2621,
+          "delta": 570,
+          "growthRate": 0.2726,
           "available": true
         },
         "relevanceKeywords": [],
-        "signalScore": 552,
+        "signalScore": 574,
         "access": {
           "metric": "access_views",
           "currentYear": 2026,
