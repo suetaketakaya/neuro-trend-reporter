@@ -17,10 +17,39 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 59,
-        "comments": 33
+        "points": 60,
+        "comments": 37
       },
-      "signalScore": 90.5,
+      "signalScore": 95,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47164079",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Better Hub – A better GitHub experience",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://www.better-hub.com/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47164079",
+      "publishedAt": "2026-02-26T10:08:01.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 38,
+        "comments": 48
+      },
+      "signalScore": 76,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -65,24 +94,24 @@
       }
     },
     {
-      "id": "49578928",
+      "id": "49767689",
       "kind": "startup_hn_signal",
-      "title": "China completes first commercial brain-computer interface implant",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
-      "publishedAt": "2026-09-05T17:50:18.000Z",
+      "title": "Show HN: MNIST64 – 99.5% accuracy MNIST BNN on a stock Commodore 64",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://github.com/jarnoh/mnist64",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49767689",
+      "publishedAt": "2026-09-19T16:07:01.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
+        "neural interface",
+        "neural",
+        "neural interface"
       ],
       "metrics": {
-        "points": 5,
-        "comments": 1
+        "points": 2,
+        "comments": 0
       },
-      "signalScore": 35.5,
+      "signalScore": 41,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -108,10 +137,41 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 9,
-        "comments": 2
+        "points": 11,
+        "comments": 6
       },
-      "signalScore": 34.5,
+      "signalScore": 39.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "49578928",
+      "kind": "startup_hn_signal",
+      "title": "China completes first commercial brain-computer interface implant",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant",
+      "discussionUrl": "https://news.ycombinator.com/item?id=49578928",
+      "publishedAt": "2026-09-05T17:50:18.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 5,
+        "comments": 1
+      },
+      "signalScore": 35.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -280,35 +340,6 @@
       }
     },
     {
-      "id": "49718238",
-      "kind": "startup_hn_signal",
-      "title": "I started writing a 500-page sci-fi novel at 12 – at 14, I published it",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://lukatakki.com/side",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49718238",
-      "publishedAt": "2026-09-15T20:14:35.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 1
-      },
-      "signalScore": 30.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "49721869",
       "kind": "startup_hn_signal",
       "title": "We struggled with DevOps, so built a open source agentic platform just for this",
@@ -321,10 +352,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 2,
+        "points": 3,
         "comments": 0
       },
-      "signalScore": 29,
+      "signalScore": 29.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -429,37 +460,6 @@
       }
     },
     {
-      "id": "48608788",
-      "kind": "startup_hn_signal",
-      "title": "Longterm use of intracortical brain–computer interface for speech&cursor control",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.nature.com/articles/s41591-026-04414-6",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48608788",
-      "publishedAt": "2026-06-20T12:34:39.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 4,
-        "comments": 0
-      },
-      "signalScore": 28,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "48791964",
       "kind": "startup_hn_signal",
       "title": "Meta's Brain2Qwerty v2: A non-invasive brain-computer interface",
@@ -478,68 +478,6 @@
         "comments": 0
       },
       "signalScore": 27.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48605745",
-      "kind": "startup_hn_signal",
-      "title": "Brain-computer interface enables independent communication for man with ALS",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://health.ucdavis.edu/news/headlines/brain-computer-interface-enables-independent-accurate-communication-for-man-living-with-als/2026/06",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48605745",
-      "publishedAt": "2026-06-20T02:23:33.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 27.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48607015",
-      "kind": "startup_hn_signal",
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48607015",
-      "publishedAt": "2026-06-20T07:02:17.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 27,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -631,37 +569,6 @@
       "metrics": {
         "points": 5,
         "comments": 3
-      },
-      "signalScore": 26.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "43788400",
-      "kind": "startup_hn_signal",
-      "title": "Gate VR – Building a Non-Invasive Neural Interface for Full-Body VR",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://news.ycombinator.com/item?id=43788400",
-      "discussionUrl": "https://news.ycombinator.com/item?id=43788400",
-      "publishedAt": "2025-04-24T22:53:35.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 4
       },
       "signalScore": 26.5,
       "access": {
@@ -860,6 +767,37 @@
       }
     },
     {
+      "id": "48608788",
+      "kind": "startup_hn_signal",
+      "title": "Longterm use of intracortical brain–computer interface for speech&cursor control",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.nature.com/articles/s41591-026-04414-6",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48608788",
+      "publishedAt": "2026-06-20T12:34:39.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 4,
+        "comments": 0
+      },
+      "signalScore": 23,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "44509366",
       "kind": "startup_hn_signal",
       "title": "Show HN: I built \"Schnippi\", my dream screenshot Chrome extension",
@@ -891,6 +829,37 @@
       }
     },
     {
+      "id": "48605745",
+      "kind": "startup_hn_signal",
+      "title": "Brain-computer interface enables independent communication for man with ALS",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://health.ucdavis.edu/news/headlines/brain-computer-interface-enables-independent-accurate-communication-for-man-living-with-als/2026/06",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48605745",
+      "publishedAt": "2026-06-20T02:23:33.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "47846089",
       "kind": "startup_hn_signal",
       "title": "The first neural interface that transforms your thoughts into text",
@@ -898,6 +867,37 @@
       "url": "https://sabi.com/",
       "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
       "publishedAt": "2026-04-21T08:24:38.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47672141",
+      "kind": "startup_hn_signal",
+      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://news.ycombinator.com/item?id=47672141",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
+      "publishedAt": "2026-04-07T08:15:13.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "neural interface",
