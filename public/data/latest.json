@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T23:14:40.603Z",
+  "generatedAt": "2026-09-25T23:39:00.107Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -33,20 +33,20 @@
             "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
           },
           "metrics": {
-            "citedByCount": 34309
+            "citedByCount": 34320
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 2791,
+            "currentValue": 2818,
             "previousValue": 2091,
-            "delta": 700,
-            "growthRate": 0.3348,
+            "delta": 727,
+            "growthRate": 0.3477,
             "available": true
           },
           "relevanceKeywords": [],
-          "signalScore": 704,
+          "signalScore": 731,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -60,71 +60,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W7134040740",
+          "id": "https://openalex.org/W7214169435",
           "kind": "paper",
-          "title": "Modular memristor model with synaptic-like plasticity and volatile memory",
-          "summary": "Abstract Compact models of memristors are essential for simulating large-scale neuromorphic systems, yet they often do not include description of complex dynamics like volatile relaxation and synaptic plasticity. We introduce a modular, computationally efficient memristor model that bridges this gap by integrating principles from physics and computational neuroscience. Starting from standard memristive system dynamics, the framework incorporates synaptic-like plasticity dynamics, a mapping from state variables to cumulative conductance, a volatility module, and a saturation module. The plastic",
-          "url": "https://doi.org/10.1088/2634-4386/aeaa7e",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "source": "Neuromorphic Computing and Engineering",
+          "title": "Normalization accounts for temporal dynamics in human somatosensory cortex",
+          "summary": "Sensory processing is fundamentally shaped by stimulation history. For example, in visual cortex, neural responses are reduced for repeated or sustained stimuli (adaptation). These phenomena are well characterized and effectively modeled by divisive normalization. We asked whether these same computational principles govern somatosensory processing. We used fMRI (6 participants, all female) and intracranial electroencephalography (iEEG, 2 participants, both male) to measure responses to time-varying vibrotactile stimuli in human somatosensory cortex. Stimuli consisted of single- and paired-puls",
+          "url": "https://doi.org/10.1523/jneurosci.0782-26.2026",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Journal of Neuroscience",
           "authors": [
-            "Daniel Habart",
-            "Stephen H. Foulger",
-            "Kristyna Kovacova",
-            "Ambika Pandey",
-            "Yadu Ram Panthi"
+            "Ilona M. Bloem",
+            "Luhe Li",
+            "Stephanie Badde",
+            "Iris I.A. Groen",
+            "Wouter Schellekens"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1088/2634-4386/aeaa7e"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "neuromorphic",
-            "computational neuroscience"
-          ],
-          "signalScore": 28,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214065103",
-          "kind": "paper",
-          "title": "Neural Representation of Hedonic Valence During Narrative Listening",
-          "summary": "Abstract Hedonic valence, the intrinsic pleasantness or unpleasantness of an experience, is fundamental to human psychological functioning. Yet, how valence is represented in the brain remains an open question. Functional MRI studies have demonstrated that the brain encodes both positive and negative valence, but this evidence largely stems from experiments using simplified, controlled stimuli, such as images, sounds, or words. As a result, it remains unclear how valence is processed during rich, naturalistic experiences that more closely reflect real life. In addition, most studies adopt a si",
-          "url": "https://doi.org/10.1007/s42761-026-00408-2",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "source": "Affective Science",
-          "authors": [
-            "Xuan Yang",
-            "Christian O’Reilly",
-            "Svetlana V. Shinkareva"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.1007/s42761-026-00408-2"
+            "url": "https://doi.org/10.1523/jneurosci.0782-26.2026"
           },
           "metrics": {
             "citedByCount": 0
@@ -159,19 +111,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7204008956",
+          "id": "https://openalex.org/W7214177572",
           "kind": "paper",
-          "title": "A two-body eigenvalue problem for the resting cortical spectrum: line positions, weights, a dissociation edge, and the speed the screening has to have",
-          "summary": "A resting cortical spectrum carries a narrow peak near 10 Hz, a weaker and equally narrow peak near 20 Hz, and a broad 1/f background running beneath and above them. Mechanistic accounts locate each rhythm in a relaxation time, so a second band requires a second circuit, the ratio of the two amplitudes is predicted by nothing, and the broadband component is a residual. We compute all of it from one object. Retaining the pair correlation in the first two rungs of the hierarchy and closing at the third gives a memory kernel and a quadratic pole equation whose two time constants are fixed by the ",
-          "url": "https://doi.org/10.5281/zenodo.22057056",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "title": "Formulation of Complex Phase Transition Dynamics in Autoregressive Language Models: A Unified Framework via Computational Neuroscience, Non-Equilibrium Thermodynamics, and Topos Theory",
+          "summary": "This study establishes a novel computational neuroscientific and thermodynamic paradigm by formalizing the localized logical breakdown—specifically hallucination bursts and contextual integration attenuation observed in Large Language Models (LLMs) under extended context horizons—as a topological local isomorphism to the metabolic cognitive fatigue induced by extracellular glutamate accumulation within the human prefrontal cortex. Rejecting conventional heuristics that dismiss model degradation as stochastic noise, we model sequential autoregressive generation as a non-equilibrium dynamical sy",
+          "url": "https://doi.org/10.5281/zenodo.22933788",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
           "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Pascal Moser"
+            "Your Name"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22057056"
+            "url": "https://doi.org/10.5281/zenodo.22933788"
           },
           "metrics": {
             "citedByCount": 0
@@ -189,7 +141,7 @@
           "relevanceKeywords": [
             "neuroscience",
             "computational neuroscience",
-            "neural"
+            "cortex"
           ],
           "signalScore": 24,
           "access": {
@@ -205,21 +157,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7213972441",
+          "id": "https://openalex.org/W7214244862",
           "kind": "paper",
-          "title": "Tactile Learning: The Neuroscience Behind Braille and Touch Perception",
-          "summary": "Introduction: For those who are blind and rely on touch instead of vision, braille is a vital reading and communication tool. Research indicates that the brain adjusts by reallocating visual processing areas to improve touch perception and reading efficiency as the fingertips grow more sensitive with continued use.  Methods: Studies reveal that this neural plasticity improves the somatosensory cortex’s ability to recognize tactile patterns. Numerous technologies, including digital Braille displays and vibration-based feedback tools, have been developed to aid in the learning of Braille.  Res",
-          "url": "https://doi.org/10.38124/ijisrt/26sep196",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "International Journal of Innovative Science and Research Technology (IJISRT)",
+          "title": "Formulation of Complex Phase Transition Dynamics in Autoregressive Language Models: A Unified Framework via Computational Neuroscience, Non-Equilibrium Thermodynamics, and Topos Theory",
+          "summary": "This study establishes a novel computational neuroscientific and thermodynamic paradigm by formalizing the localized logical breakdown—specifically hallucination bursts and contextual integration attenuation observed in Large Language Models (LLMs) under extended context horizons—as a topological local isomorphism to the metabolic cognitive fatigue induced by extracellular glutamate accumulation within the human prefrontal cortex. Rejecting conventional heuristics that dismiss model degradation as stochastic noise, we model sequential autoregressive generation as a non-equilibrium dynamical sy",
+          "url": "https://doi.org/10.5281/zenodo.22933787",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
           "authors": [
-            "Aaliya Ahamed",
-            "Jade Ashley Marallag",
-            "Moanne Jleynis Rodriguez"
+            "Your Name"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.38124/ijisrt/26sep196"
+            "url": "https://doi.org/10.5281/zenodo.22933787"
           },
           "metrics": {
             "citedByCount": 0
@@ -236,11 +186,105 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "brain",
+            "computational neuroscience",
+            "cortex"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214156020",
+          "kind": "paper",
+          "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
+          "summary": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology. We survey the experimental state of the art: proof‑of‑concept components (tunable couplers and qubit excitations) have been demonstrated across superconducting, semiconducting, and photonic platforms; fully autonomous quantum learning remains theoretical. Near-term strategies harness fixed high-dimensional dynami",
+          "url": "https://doi.org/10.1007/s10791-026-10415-3",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Discover Computing",
+          "authors": [
+            "Mrittunjoy Guha Majumdar"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1007/s10791-026-10415-3"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neuromorphic"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214188110",
+          "kind": "paper",
+          "title": "Prefrontal Glx reduction during the sleep transition is associated with sleep onset latency",
+          "summary": "Understanding the neural mechanisms that facilitate the transition from wakefulness to sleep is a fundamental goal in neuroscience, yet the neurochemical dynamics underlying human sleep onset remain poorly understood. Here, we investigated whether changes in inhibitory γ-aminobutyric acid (GABA) and excitatory glutamate plus glutamine (Glx) concentrations in the medial prefrontal cortex (mPFC) are associated with sleep initiation. We leveraged the first-night effect, a transient sleep disruption induced by a novel environment, to manipulate sleep quality within participants. Twenty healthy you",
+          "url": "https://doi.org/10.1523/jneurosci.0372-26.2026",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Journal of Neuroscience",
+          "authors": [
+            "Takashi Yamada",
+            "Aaron Cochrane",
+            "Theodore LaBonte-Clark",
+            "Takeo Watanabe",
+            "Yuka Sasaki"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1523/jneurosci.0372-26.2026"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
             "neural",
             "cortex"
           ],
-          "signalScore": 24,
+          "signalScore": 20,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -254,19 +298,19 @@
           }
         },
         {
-          "id": "https://openalex.org/W7214019156",
+          "id": "https://openalex.org/W7214197794",
           "kind": "paper",
-          "title": "A two-body eigenvalue problem for the resting cortical spectrum: line positions, weights, a dissociation edge, and the speed the screening has to have",
-          "summary": "A resting cortical spectrum carries a narrow peak near 10 Hz, a weaker and equally narrow peak near 20 Hz, and a broad 1/f background running beneath and above them. Mechanistic accounts locate each rhythm in a relaxation time, so a second band requires a second circuit, the ratio of the two amplitudes is predicted by nothing, and the broadband component is a residual. We compute all of it from one object. Retaining the pair correlation in the first two rungs of the hierarchy and closing at the third gives a memory kernel and a quadratic pole equation whose two time constants are fixed by the ",
-          "url": "https://doi.org/10.5281/zenodo.22884883",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "title": "Illumination Onset: A Theoretical Neuroscience Framework for the Sudden Aha Moment",
+          "summary": "How can an Aha moment arrive after we stop trying to solve a problem? Grounded in Wallas’s account of Illumination, this theoretical neuroscience article draws on research in creativity, predictive processing, neural dynamics, and epilepsy to explain Illumination Onset, when an emerging idea is first recognized. Continued effort may keep the established understanding of a problem too dominant for alternative information to reshape it. Neuroscience studies document alpha decreases and gamma increases near reported solutions. The article terms this alpha–gamma reversal dominance inversion and su",
+          "url": "https://doi.org/10.3390/bs16101740",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Behavioral Sciences",
           "authors": [
-            "Pascal Moser"
+            "Kyung Hee Kim"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22884883"
+            "url": "https://doi.org/10.3390/bs16101740"
           },
           "metrics": {
             "citedByCount": 0
@@ -283,195 +327,8 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "computational neuroscience",
-            "neural"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7213967646",
-          "kind": "paper",
-          "title": "Sleep Deprivation, Memory Consolidation, and Cognitive Function: A Neuroscience Analysis",
-          "summary": "Although the negative effects of sleep deprivation on learning, memory and executive function are well-known, an increasing number of studies have put forward that these impairments are mainly due to a disturbance in sleep-dependent memory consolidation rather than fatigue alone. This paper investigates the connection between sleep and memory and cognition, examines how the brain processes information during sleep to promote learning, and enhances high-order thinking skills. Currently, it has been shown that memories formed in a waking state are organised during sleep through cooperation among",
-          "url": "https://doi.org/10.54254/2753-8818/2026.hz37188",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Theoretical and Natural Science",
-          "authors": [
-            "蔡安庭"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.54254/2753-8818/2026.hz37188"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain",
+            "neural",
             "cortex"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7213997047",
-          "kind": "paper",
-          "title": "Understanding stress from a cultural perspective: the role of self-construal",
-          "summary": "Stress is an adaptive psychophysiological process that plays an important role in human survival and adjustment. Increasing evidence suggests that stress responses are shaped not only by environmental demands but also by cultural and self-related psychological processes. Self-construal, which refers to how individuals define themselves in relation to others, has been widely regarded as an important mechanism linking culture to cognition, emotion, motivation, and behavior. However, its role in stress-related processes has not been systematically synthesized. The current narrative review integra",
-          "url": "https://doi.org/10.3389/fpsyg.2026.1826049",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Frontiers in Psychology",
-          "authors": [
-            "Xiang Hu",
-            "Yang He",
-            "Jiahao Luo",
-            "Zhenni Wei",
-            "Zhunzhun Liu"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.3389/fpsyg.2026.1826049"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "mental health"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214032861",
-          "kind": "paper",
-          "title": "PARENTALIDADE ATÍPICA, MATERNIDADE E ESCRITA POÉTICA",
-          "summary": "Atypical parenthood places intense challenges on mothers, involving both emotional and cognitive demands, often related to caring for children with atypical development, disabilities, or special needs. In this context, evidence-based psychology, particularly Cognitive Behavioral Therapy (CBT) and Applied Behavior Analysis (ABA), offers important resources for understanding and intervention. However, this study proposes reflecting on poetry as a symbolic outlet capable of fostering processes of subjectivity and resistance. Inspired by authors such as Rupi Kaur and Audre Lorde, poetic writing is",
-          "url": "https://doi.org/10.56579/ynfrhd98",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Revista Práxis em Saúde.",
-          "authors": [
-            "Alessandra Baptista Gonçalves Cunha",
-            "ANA PAULA MAZARIOLLI AFFONSO"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.56579/ynfrhd98"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "mental health"
-          ],
-          "signalScore": 20,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214036579",
-          "kind": "paper",
-          "title": "Closed-loop neuromodulation: a paradigm shift in precision neuroscience for clinical and cognitive applications",
-          "summary": "Closed-loop neuromodulation systems are critically synthesized here with respect to their foundational principles, mechanistic underpinnings, and systematic classifications. This comprehensive survey covers their rapid research progress and expanding clinical applications, while rigorously exploring their emerging potential for cognitive augmentation. Concurrently, persistent challenges and future research directions are identified. The scope encompasses invasive, non-invasive, and peripheral techniques, with careful examination of their therapeutic utility in neurological and psychiatric diso",
-          "url": "https://doi.org/10.3389/fnins.2026.1943905",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Frontiers in Neuroscience",
-          "authors": [
-            "Hongliang Lü",
-            "Danming Miao"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.3389/fnins.2026.1943905"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "neuromodulation"
           ],
           "signalScore": 20,
           "access": {
@@ -503,7 +360,7 @@
             "url": ""
           },
           "metrics": {
-            "citedByCount": 7818
+            "citedByCount": 7807
           },
           "trend": {
             "metric": "citations_by_year",
@@ -535,251 +392,23 @@
           }
         },
         {
-          "id": "https://openalex.org/W4416061718",
+          "id": "https://openalex.org/W7162945188",
           "kind": "paper",
-          "title": "The Thousand Brains Theory 2.0: An Extension for the Long-Range Connections of the Neocortical Heterarchy",
-          "summary": "Abstract Vernon Mountcastle hypothesized that the basis for intelligence in mammals is the replication of a general computational unit, the cortical column. The Thousand Brains Theory proposed that each column is a sensorimotor system, capable of learning structured models of objects by integrating sensory input over multiple movements. Previous papers on the Thousand Brains Theory focused on the computations that occur within individual cortical columns and how columns can use long-range connections to rapidly reach a consensus. However, several prominent long-range connection types in the ne",
-          "url": "https://doi.org/10.1162/neco.a.1579",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Neural Computation",
-          "authors": [
-            "Jeff Hawkins",
-            "Niels Leadholm",
-            "Viviane Clay"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.1162/neco.a.1579"
-          },
-          "metrics": {
-            "citedByCount": 1
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 1,
-            "previousValue": 0,
-            "delta": 1,
-            "growthRate": 1,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "brain",
-            "neural",
-            "cortex"
-          ],
-          "signalScore": 17,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7213972358",
-          "kind": "paper",
-          "title": "The Making of Media Entertainment",
-          "summary": "Abstract: Entertainment science remains a mosaic of disconnected research streams, each generating valuable insights but lacking a cross-cutting mechanism to reveal their connections. Existing understandings do not link different areas of theory, such as research on entertainment’s appeal versus research on its maladaptive effects. This paper proposes that attending to how entertainment is made can bridge these streams. What entertainment is, on this view, is a technology: entertainment is a deliberately iterated system of superstimuli (unnaturally attention-grabbing stimuli that activate evol",
-          "url": "https://doi.org/10.1027/1864-1105/a000520",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Journal of Media Psychology Theories Methods and Applications",
-          "authors": [
-            "Robert Joel Lewis"
-          ],
-          "openAccess": {
-            "isOpen": false,
-            "url": ""
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "computational neuroscience"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214001995",
-          "kind": "paper",
-          "title": "Frontiers in Research Methodology II. Conceptual and methodological issues (and solutions) in current affective social cognitive studies",
-          "summary": "The aim of the course is to provide an insight to the current research on socio-affective information processing. Socio-affective information processing is a fundamental aspect of human functioning, enabling individuals to interpret emotional cues, evaluate others, and regulate their own emotional responses in social contexts. Contemporary research adopts a predictive view increasingly highlighting the importance of the brain-body interplay for social and affective processing, and positioning deficits in the brain-body crosstalk as a potential cause of psychopathological disorders. The course ",
-          "url": "https://doi.org/10.5281/zenodo.22897096",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Carlos Ventura‐Bort"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22897096"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214031498",
-          "kind": "paper",
-          "title": "Neuroscience, Neurocentrism, Neuromania, and Neurophobia: When New Knowledge Challenges Established Ways of Knowing",
-          "summary": "Advances in neuroscience have transformed our understanding of the brain and human behavior, while also generating new ethical, philosophical, and social debates. This commentary explores neurocentrism, neuromania, neurophobia, and neurocriticism as contrasting perspectives on the growing influence of neuroscientific knowledge. A balanced and interdisciplinary approach is essential to avoid both reductionist interpretations and unjustified skepticism, while preserving the complexity of the human mind and promoting critical, evidence-based scientific communication.",
-          "url": "https://doi.org/10.82051/neu-2026-467",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "NEU",
-          "authors": [
-            "Anna Lisa Dal Fitto"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.82051/neu-2026-467"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214038486",
-          "kind": "paper",
-          "title": "Frontiers in Research Methodology II. Conceptual and methodological issues (and solutions) in current affective social cognitive studies",
-          "summary": "The aim of the course is to provide an insight to the current research on socio-affective information processing. Socio-affective information processing is a fundamental aspect of human functioning, enabling individuals to interpret emotional cues, evaluate others, and regulate their own emotional responses in social contexts. Contemporary research adopts a predictive view increasingly highlighting the importance of the brain-body interplay for social and affective processing, and positioning deficits in the brain-body crosstalk as a potential cause of psychopathological disorders. The course ",
-          "url": "https://doi.org/10.5281/zenodo.22897095",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Zenodo (CERN European Organization for Nuclear Research)",
-          "authors": [
-            "Carlos Ventura‐Bort"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.5281/zenodo.22897095"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience",
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214039516",
-          "kind": "paper",
-          "title": "Behavioral techniques for controlling visual stimuli to modulate visual processing in the brain and their implementation in augmented reality technology",
-          "summary": "This study reviews the behavioral techniques that control visual stimuli to systematically modulate visual processing in an observer’s brain. These techniques are indirect but more affordable than more-direct techniques for stimulating the brain. The limitations of these techniques and the calibrations necessary for them are also discussed. Some of the behavioral techniques can be also used in field studies by making use of Augmented Reality (AR) technology and a head-mounted display (HMD). The AR HMDs for the behavioral techniques was assembled by combining a smartphone and a wearable stereos",
-          "url": "https://doi.org/10.3389/fnins.2026.1925212",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "title": "Comparison of automated white matter lesion segmentation approaches for use in large, multi-site data analyses in Parkinson’s disease",
+          "summary": "ABSTRACT Background Parkinson’s disease (PD) is the second most common neurodegenerative disorder. PD currently lacks effective disease-modifying treatments, likely due to its diverse clinical features and underlying neuropathology. The vascular role in PD is emerging, with vascular mechanisms increasingly implicated, yet the literature remains conflicted, motivating large-data analyses with greater statistical power. White matter lesions (WML) are an accepted imaging marker of small vessel disease. Accurate automated WML segmentation techniques are crucial for large-scale studies in PD due to",
+          "url": "https://doi.org/10.3389/fnins.2026.1904361",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
           "source": "Frontiers in Neuroscience",
           "authors": [
-            "Tadamasa Sawada",
-            "Maria Dvoeglazova",
-            "Alla Zargaryan",
-            "Anna Tamrazyan",
-            "Valeria G. Kozhevnikova"
+            "Sarah Al-Bachari",
+            "So Hoon Yoon",
+            "Phoebe Emson",
+            "Shauna Angell",
+            "John Cain"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.3389/fnins.2026.1925212"
+            "url": "https://doi.org/10.3389/fnins.2026.1904361"
           },
           "metrics": {
             "citedByCount": 0
@@ -812,21 +441,21 @@
           }
         },
         {
-          "id": "https://openalex.org/W7214047926",
+          "id": "https://openalex.org/W7214147063",
           "kind": "paper",
-          "title": "Progress in Aesthetic Models: From Formal Regularities to Situated Multilevel Valuation",
-          "summary": "Aesthetic models have expanded from accounts centered on formal order, prototypicality, complexity, and processing fluency to multilevel explanations involving predictive dynamics, affective valuation, self-related meaning, expertise, cultural context, and computational representation. This structured integrative review synthesizes foundational and recent evidence from empirical aesthetics, cognitive psychology, neuroaesthetics, and computational image assessment. The evidence shows that no single tradition supersedes the others: formal variables constrain perception; recurrent cognitive opera",
-          "url": "https://doi.org/10.62177/chst.v3i3.1701",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Critical humanistic social theory.",
+          "title": "From Insulin Resistance to Mitochondrial Failure: A Staged Model of Impaired Metabolic Flexibility in Schizophrenia",
+          "summary": "Schizophrenia is a highly heritable neuropsychiatric disorder whose pathophysiology remains poorly understood. While neurotransmitter, neurodevelopmental, synaptic, and dysconnectivity hypotheses explain important aspects of the disorder, growing evidence suggests that metabolic dysfunction also plays a central role. This narrative review synthesises evidence from genetics, cell signalling, molecular neuroscience, and metabolism to propose a theoretical framework linking insulin resistance and mitochondrial dysfunction to schizophrenia. We argue that genetic susceptibility and environmental ri",
+          "url": "https://doi.org/10.3390/biom16101397",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Biomolecules",
           "authors": [
-            "Qi Li (李琦)",
-            "Chaoyuan Zhang",
-            "Qi Li (李琦)"
+            "Myles Cubitt",
+            "Bart Ellenbroek",
+            "Anne M. Haase"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.62177/chst.v3i3.1701"
+            "url": "https://doi.org/10.3390/biom16101397"
           },
           "metrics": {
             "citedByCount": 0
@@ -843,7 +472,149 @@
           },
           "relevanceKeywords": [
             "neuroscience",
-            "neural"
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214172383",
+          "kind": "paper",
+          "title": "Exploring emotional expression in invertebrates: mechanisms, functions and phylogeny",
+          "summary": "The idea that invertebrates may exhibit basic forms of emotion, and possibly sentience, is gaining traction as evidence of their advanced cognitive abilities continues to mount. While high-level cognition does not imply emotional states, invertebrates offer a unique window into whether such states can arise in small-brained animals. With their relatively simple yet highly structured nervous systems, they serve as tractable models for dissecting the mechanisms underlying emotional expression. To probe these processes, researchers have developed behavioural paradigms exposing different species t",
+          "url": "https://doi.org/10.1098/rstb.2025.0146",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Philosophical Transactions of the Royal Society B Biological Sciences",
+          "authors": [
+            "Luigi Baciadonna",
+            "Catherine Macri",
+            "David Baracchi",
+            "Martín Giurfa"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1098/rstb.2025.0146"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214205439",
+          "kind": "paper",
+          "title": "Microplastics as Emerging Neurotoxins: Brain Accumulation, Neuroinflammation, and Neurodegeneration Risk",
+          "summary": "ABSTRACT Microplastics (MPs) and nanoplastics (NPs) have emerged as ubiquitous environmental contaminants with profound implications for human neurological health. Recent landmark findings confirm the bioaccumulation of MPs/NPs in human brain tissue—with concentrations reaching 4917 μg/g in 2024 autopsy samples and up to 10‐fold higher levels in individuals with dementia—underscoring the urgent need for mechanistic understanding. This review synthesizes current evidence on the routes by which MPs/NPs traverse the blood‐brain barrier (BBB) and the olfactory pathway, their cellular effects withi",
+          "url": "https://doi.org/10.1002/jbt.71070",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Journal of Biochemical and Molecular Toxicology",
+          "authors": [
+            "Alfi Sophian",
+            "Asmariani",
+            "Erika Ismayani"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1002/jbt.71070"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214242842",
+          "kind": "paper",
+          "title": "From seeing to showing: towards a neuroscience of emotion production",
+          "summary": "Facial expressions are considered a critical feature in affective neuroscience. Consequently, extensive research has focused on how emotional facial expressions are perceived, including investigations into which brain regions are activated during their observation and how the brain processes their social significance. To advance a more comprehensive understanding of emotion, it is essential to examine all three aspects-perception, experience and production-in a balanced manner. From an evolutionary perspective, the production of facial expressions during emotional experiences is particularly s",
+          "url": "https://doi.org/10.1098/rstb.2025.0136",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Philosophical Transactions of the Royal Society B Biological Sciences",
+          "authors": [
+            "Seohyeon Lee",
+            "Solha Hwang",
+            "M. Justin Kim"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1098/rstb.2025.0136"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
           ],
           "signalScore": 16,
           "access": {
@@ -878,7 +649,7 @@
             "url": "https://www.nature.com/articles/nn.2467.pdf"
           },
           "metrics": {
-            "citedByCount": 7606
+            "citedByCount": 7603
           },
           "trend": {
             "metric": "citations_by_year",
@@ -927,16 +698,16 @@
             "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
           },
           "metrics": {
-            "citedByCount": 7683
+            "citedByCount": 7690
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 376,
+            "currentValue": 384,
             "previousValue": 471,
-            "delta": -95,
-            "growthRate": -0.2017,
+            "delta": -87,
+            "growthRate": -0.1847,
             "available": true
           },
           "relevanceKeywords": [
@@ -957,21 +728,333 @@
           }
         },
         {
-          "id": "https://openalex.org/W7163695480",
+          "id": "https://openalex.org/W7214164524",
           "kind": "paper",
-          "title": "Synchronization of topological signals in higher-order adaptive multilayer network",
-          "summary": "The study of synchronization in complex systems has recently been revolutionized by incorporating higher-order interactions through simplicial complexes. Building in particular upon the higher-order Kuramoto model, which considers oscillators on nodes, links, and higher-dimensional simplices. This work extends the monolayer framework of the higher-order Kuramoto model to multilayer networks where the layers are adaptively coupled through order parameters of the oscillators placed on the simplices. We propose two multilayer architectures: one that allows interactions between signals of the same",
-          "url": "https://doi.org/10.1038/s42005-026-02773-7",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "source": "Communications Physics",
+          "title": "A Bibliometric Analysis of Brain-Based Learning Research in Classroom Contexts (2010–2024): Trends, Influential Contributors, and Thematic Evolution",
+          "summary": "Abstract The present study investigates a discourse that has aroused general interest among educational scholars over the past few years: the influence of neuroscientific knowledge on educational research and brain-based learning within classroom contexts. The rapid growth of related research has generated a diverse body of literature with various orientations and sometimes conflicting findings, which has occasionally obscured a clear picture of its main directions and intellectual structure. To address this research gap, the current article performs a structured synthesis of the literature us",
+          "url": "https://doi.org/10.63226/majmaa.v56i3.6020",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Al-Madinah International University Journal",
           "authors": [
-            "Palash Kumar Pal",
-            "Dibakar Ghosh",
-            "Jurgen Kurths"
+            "Ahmed Rashid Matar Al-Abri",
+            "Mohamad Azrien Bin Mohamed Adnan",
+            "Nor Hazrul Mohd Salleh"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214171534",
+          "kind": "paper",
+          "title": "Empathy as ontological orientation: Embodiment, therapeutic presence and mirror‐touch synaesthesia",
+          "summary": "Abstract Empathy is widely regarded as a foundational element of effective psychotherapy and is routinely framed as a core clinical skill within training and accreditation frameworks. Despite this consensus, persistent conceptual and experiential tensions remain regarding whether empathy can genuinely be taught or whether it reflects a deeper, dispositional mode of being that precedes formal instruction. This paper argues that empathy cannot be meaningfully taught as a technique because it is not fundamentally a skill but an ontological orientation towards others grounded in embodied, pre‐refl",
+          "url": "https://doi.org/10.1111/bjp.70052",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "British Journal of Psychotherapy",
+          "authors": [
+            "Nikolaos Souvlakis"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.1038/s42005-026-02773-7"
+            "url": "https://doi.org/10.1111/bjp.70052"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214172708",
+          "kind": "paper",
+          "title": "Beyond Vocal Technique: Toward an Integrated Framework for Contemporary Vocal Pedagogy",
+          "summary": "Vocal pedagogy has historically developed through direct teacher–student transmission, artistic experience, demonstration, imitation, repertoire, and the consolidation of practices associated with different vocal traditions. Contemporary voice education, however, increasingly interacts with knowledge derived from voice science, anatomy and physiology, acoustics, psychology, neuroscience, embodied cognition, motor learning, vocal health, educational research, technology, and intercultural studies. This expansion creates a problem that is not merely informational but pedagogical: the availabilit",
+          "url": "https://doi.org/10.5281/zenodo.22941023",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Graziano D'Urso"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22941023"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214172741",
+          "kind": "paper",
+          "title": "Beyond Vocal Technique: Toward an Integrated Framework for Contemporary Vocal Pedagogy",
+          "summary": "Vocal pedagogy has historically developed through direct teacher–student transmission, artistic experience, demonstration, imitation, repertoire, and the consolidation of practices associated with different vocal traditions. Contemporary voice education, however, increasingly interacts with knowledge derived from voice science, anatomy and physiology, acoustics, psychology, neuroscience, embodied cognition, motor learning, vocal health, educational research, technology, and intercultural studies. This expansion creates a problem that is not merely informational but pedagogical: the availabilit",
+          "url": "https://doi.org/10.5281/zenodo.22941024",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Graziano D'Urso"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22941024"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214184703",
+          "kind": "paper",
+          "title": "What Is Reasoning? A Criterion by Which Reasoning Can Be Established",
+          "summary": "This paper examines a foundational question: What is reasoning? Across philosophy, psychology, cognitive science, neuroscience, and artificial intelligence, reasoning is commonly discussed through inference, deduction, induction, abduction, deliberation, problem solving, judgment, and the drawing of conclusions. These approaches provide substantial knowledge about the forms, mechanisms, standards, and performance of reasoning, but they do not all address the same question. This paper distinguishes the identification of reasoning from the evaluation of reasoning and proposes an actor-independen",
+          "url": "https://doi.org/10.5281/zenodo.22945466",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Christian Paré"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22945466"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214191116",
+          "kind": "paper",
+          "title": "Reframing Chronic Pelvic Pain in Women: Central Sensitization, Psychosocial Burden, and Mechanism-Based Multidisciplinary Care",
+          "summary": "Abstract Introduction and Hypothesis Chronic pelvic pain (CPP) often persists despite repeated organ-directed evaluation and treatment. We proposed that integrating disease-specific diagnosis with pain-mechanism phenotyping would provide a more clinically useful framework for explaining symptom persistence and selecting care. Methods A structured narrative review was conducted using PubMed/MEDLINE, PubMed Central, the Cochrane Library, professional guidelines, journal websites, and reference lists. English-language literature published from January 2020 to May 2026 was prioritized, with earlie",
+          "url": "https://doi.org/10.1007/s00192-026-06899-8",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "International Urogynecology Journal",
+          "authors": [
+            "Yael Sela",
+            "Keren Grinberg",
+            "Rachel Nissanholtz Gannot"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1007/s00192-026-06899-8"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7214223249",
+          "kind": "paper",
+          "title": "What Is Reasoning? A Criterion by Which Reasoning Can Be Established",
+          "summary": "This paper examines a foundational question: What is reasoning? Across philosophy, psychology, cognitive science, neuroscience, and artificial intelligence, reasoning is commonly discussed through inference, deduction, induction, abduction, deliberation, problem solving, judgment, and the drawing of conclusions. These approaches provide substantial knowledge about the forms, mechanisms, standards, and performance of reasoning, but they do not all address the same question. This paper distinguishes the identification of reasoning from the evaluation of reasoning and proposes an actor-independen",
+          "url": "https://doi.org/10.5281/zenodo.22945467",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Christian Paré"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.22945467"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4399317224",
+          "kind": "paper",
+          "title": "Deep learning without weight symmetry",
+          "summary": "Abstract Backpropagation, a foundational algorithm for training artificial neural networks, predominates in contemporary deep learning. Although highly successful, it is widely considered biologically implausible, because it relies on precise symmetry between feedforward and feedback weights to accurately propagate gradient signals that assign credit. The so-called weight transport problem concerns how biological brains learn to align feedforward and feedback paths while avoiding the non-biological transport of feedforward weights into feedback weights. To address this, several credit assignme",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag321",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "source": "PNAS Nexus",
+          "authors": [
+            "Jian Li",
+            "Marcus K. Benna"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://academic.oup.com/pnasnexus/advance-article-pdf/doi/10.1093/pnasnexus/pgag321/71334479/pgag321.pdf"
           },
           "metrics": {
             "citedByCount": 1
@@ -980,16 +1063,17 @@
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 1,
+            "currentValue": 0,
             "previousValue": 0,
-            "delta": 1,
-            "growthRate": 1,
+            "delta": 0,
+            "growthRate": 0,
             "available": true
           },
           "relevanceKeywords": [
-            "neuroscience"
+            "brain",
+            "neural"
           ],
-          "signalScore": 13,
+          "signalScore": 12,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1003,22 +1087,69 @@
           }
         },
         {
-          "id": "https://openalex.org/W7214064299",
+          "id": "https://openalex.org/W4417258234",
           "kind": "paper",
-          "title": "From multisensory integration to synaesthesia: a boundary-preserving continuum and research framework",
-          "summary": "Synaesthesia is commonly defined as an involuntary and consistent phenomenon in which stimulation in one sensory or cognitive domain elicits an additional experience in another domain. Yet definitions derived from perceptual psychology, neuroscience, aesthetics, cultural anthropology, and artistic practice often speak past one another. This article proposes a boundary-preserving conceptual review that uses the evolutionary history of sensing as a meta-theoretical platform for dialogue among these definitions. It makes four contributions. First, it clarifies the boundaries among congenital or d",
-          "url": "https://doi.org/10.3389/fpsyg.2026.1893904",
+          "title": "\"Is This Really a Human Peer Supporter?\": Misalignments Between Peer Supporters and Experts in LLM-Supported Interactions",
+          "summary": "Mental health is a growing global concern, prompting interest in AI-driven solutions to expand access to psychosocial support. Peer support , grounded in lived experience, offers a valuable complement to professional care. However, variability in training, effectiveness, and definitions raises concerns about quality, consistency, and safety. Large Language Models (LLMs) present new opportunities to enhance peer support interactions, particularly in real-time, text-based interactions. We present and evaluate an AI-supported system with an LLM-simulated distressed client ( SimClient ), context-s",
+          "url": "https://doi.org/10.1145/3816956",
           "publishedAt": "2026-09-23T00:00:00.000Z",
-          "source": "Frontiers in Psychology",
+          "source": "Proceedings of the ACM on Human-Computer Interaction",
           "authors": [
-            "Kaiyu Qiu",
-            "Zixiu Jiang",
-            "Ke Jiang",
-            "Huilin Qiu"
+            "Kellie Yu Hui Sim",
+            "Roy Ka-Wei Lee",
+            "Kenny Tsu Wei Choo"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.3389/fpsyg.2026.1893904"
+            "url": "https://doi.org/10.1145/3816956"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7128443156",
+          "kind": "paper",
+          "title": "Comparison of CRISPR-Cas-Based Knockdown of Endogenous mRNA in Sensory Neurons",
+          "summary": "Ribonucleic acid (RNA)-targeting clustered regularly interspaced short palindromic repeats-CRISPR-associated (CRISPR-Cas) systems enable modulation of gene expression without permanent genome modification, making them useful for sensitive cell types such as neurons. While CRISPR-Cas technologies have been most extensively applied and validated in primary hippocampal and cortical neurons, their use in sensory neurons remains largely unexplored. Sensory neurons are an established cellular model for studying axon growth and regeneration, pain mechanisms, sensory transduction, and neuron-environme",
+          "url": "https://doi.org/10.1177/25731599261489437",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "source": "The CRISPR Journal",
+          "authors": [
+            "Andrea Meulenberg",
+            "Macarena Pavez",
+            "Emma K. Gowing",
+            "David Mayo-Muñoz",
+            "Nils Birkholz"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.biorxiv.org/content/biorxiv/early/2026/02/08/2026.02.06.704510.full.pdf"
           },
           "metrics": {
             "citedByCount": 0
@@ -1050,35 +1181,82 @@
           }
         },
         {
-          "id": "https://openalex.org/W7213974516",
+          "id": "https://openalex.org/W2751884637",
           "kind": "paper",
-          "title": "Differentiated Instruction and Learning Outcomes in Vocational Pharmacy Education: A Quasi-Experimental Study",
-          "summary": "Differentiated instruction has been proposed as an effective approach for addressing learner diversity and enhancing learning outcomes. The present study investigated the effects of a differentiated instructional intervention, informed by principles of cognitive psychology, Cognitive Load Theory, and educational neuroscience, on cognitive performance, learning engagement, and perceived cognitive load among vocational education students. A quasi-experimental design was implemented with 57 students enrolled in the Pharmacy Assistant specialty program of the Greek Public Employment Service Vocati",
-          "url": "https://doi.org/10.3390/educsci16101578",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Education Sciences",
+          "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+          "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+          "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+          "publishedAt": "2017-09-01T00:00:00.000Z",
+          "source": "The Lancet",
           "authors": [
-            "Anna Apostolidi",
-            "Sotirios P. Fortis",
-            "Sofia Liossi",
-            "Effie G. Papageorgiou",
-            "Anastasios G. Kriebardis"
+            "Theo Vos",
+            "Amanuel Alemu Abajobir",
+            "Kalkidan Hassen Abate",
+            "Cristiana Abbafati",
+            "Kaja Abbas"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.3390/educsci16101578"
+            "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
           },
           "metrics": {
-            "citedByCount": 0
+            "citedByCount": 13641
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
+            "currentValue": 311,
+            "previousValue": 651,
+            "delta": -340,
+            "growthRate": -0.5223,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2166073443",
+          "kind": "paper",
+          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+          "url": "https://doi.org/10.1155/2011/156869",
+          "publishedAt": "2010-12-23T00:00:00.000Z",
+          "source": "Computational Intelligence and Neuroscience",
+          "authors": [
+            "Robert Oostenveld",
+            "Pascal Henry Fries",
+            "Eric Maris",
+            "Jan‐Mathijs Schoffelen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+          },
+          "metrics": {
+            "citedByCount": 11548
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 635,
+            "previousValue": 1211,
+            "delta": -576,
+            "growthRate": -0.4756,
             "available": true
           },
           "relevanceKeywords": [
@@ -1098,39 +1276,37 @@
           }
         },
         {
-          "id": "https://openalex.org/W7213979502",
+          "id": "https://openalex.org/W2003490123",
           "kind": "paper",
-          "title": "The CGRP-nociceptor axis in cancer: tumor-specific programs of immune evasion, stromal remodeling, and tumor growth",
-          "summary": "Cancer neuroscience has established that peripheral nerves can shape tumor growth and antitumor immunity, although the underlying mechanisms vary across malignancies. Calcitonin gene-related peptide (CGRP), released mainly by peptidergic nociceptors and sensed through the CALCRL/RAMP1 receptor complex, is emerging as a recurrent mediator of tumor-nerve communication. This review synthesizes current evidence for CGRP signaling across tumor types. In melanoma and head and neck squamous cell carcinoma (HNSCC), CGRP can directly suppress tumor-infiltrating T cell activity. In lung adenocarcinoma, ",
-          "url": "https://doi.org/10.3389/fonc.2026.1968354",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Frontiers in Oncology",
+          "title": "Social Relationships and Mortality Risk: A Meta-analytic Review",
+          "summary": "BACKGROUND: The quality and quantity of individuals' social relationships has been linked not only to mental health but also to both morbidity and mortality. OBJECTIVES: This meta-analytic review was conducted to determine the extent to which social relationships influence risk for mortality, which aspects of social relationships are most highly predictive, and which factors may moderate the risk. DATA EXTRACTION: Data were extracted on several participant characteristics, including cause of mortality, initial health status, and pre-existing health conditions, as well as on study characteristi",
+          "url": "https://doi.org/10.1371/journal.pmed.1000316",
+          "publishedAt": "2010-07-27T00:00:00.000Z",
+          "source": "PLoS Medicine",
           "authors": [
-            "Yunqi Hua",
-            "Yubo Liu",
-            "Baochun Wang",
-            "Yanhong Liu",
-            "Xiaoling Tian"
+            "Julianne Holt‐Lunstad",
+            "Timothy B. Smith",
+            "J. Bradley Layton"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.3389/fonc.2026.1968354"
+            "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000316&type=printable"
           },
           "metrics": {
-            "citedByCount": 0
+            "citedByCount": 7360
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
+            "currentValue": 448,
+            "previousValue": 641,
+            "delta": -193,
+            "growthRate": -0.3011,
             "available": true
           },
           "relevanceKeywords": [
-            "neuroscience"
+            "mental health"
           ],
           "signalScore": 12,
           "access": {
@@ -1146,77 +1322,32 @@
           }
         },
         {
-          "id": "https://openalex.org/W7213983253",
+          "id": "https://openalex.org/W2135894974",
           "kind": "paper",
-          "title": "Multiple subject tracking in long-term, behavioral studies of rodents",
-          "summary": "High-resolution, automated or semi-automated behavioral phenotyping of rodents is increasingly used in neuroscience to reveal behavioral characteristics, that are unreachable with standard manual methods. In fact, these computational approaches have become so remarkable in recent years, it is possible now to extract not only basic ethograms of animals in an observable environment, but also to dissect individual components of particular behaviors. Currently, most computational phenotyping is based on image/video processing. The automation of such behavioral analysis promises consistent, high-th",
-          "url": "https://doi.org/10.3389/fnmol.2026.1960212",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Frontiers in Molecular Neuroscience",
-          "authors": [
-            "Bartosz Zglinicki"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.3389/fnmol.2026.1960212"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214001302",
-          "kind": "paper",
-          "title": "Switching Gaussian Process Dynamical Models for Ethology and Neuroscience",
+          "title": "Nonparametric statistical testing of EEG- and MEG-data",
           "summary": "",
-          "url": "https://doi.org/10.12751/nncn.bc2026.278",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "German Neuroinformatics Node",
+          "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+          "publishedAt": "2007-04-11T00:00:00.000Z",
+          "source": "Journal of Neuroscience Methods",
           "authors": [
-            "Bennet Sakelaris",
-            "N Alex Cayco-Gajic",
-            "Heike Stein"
+            "Eric Maris",
+            "Robert Oostenveld"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.12751/nncn.bc2026.278"
+            "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
           },
           "metrics": {
-            "citedByCount": 0
+            "citedByCount": 9464
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
+            "currentValue": 650,
+            "previousValue": 1011,
+            "delta": -361,
+            "growthRate": -0.3571,
             "available": true
           },
           "relevanceKeywords": [
@@ -1236,171 +1367,33 @@
           }
         },
         {
-          "id": "https://openalex.org/W7214033677",
+          "id": "https://openalex.org/W2138825607",
           "kind": "paper",
-          "title": "Early Exposure to Neonatal Neurology and Cranial Ultrasound: A Pilot Evaluation of an Undergraduate Course",
-          "summary": "Background/Objectives: Undergraduate medical exposure to neonatal neurology and cranial ultrasound remains limited, despite their relevance to neonatal clinical care. We developed a two-day monographic course integrating developmental neuroscience, neonatal clinical reasoning, neurological assessment, and bedside-oriented cranial ultrasound. This pilot study aimed to evaluate the acceptability, perceived educational relevance, and self-reported learning associated with the intervention. Methods: We conducted a single-center cross-sectional anonymous post-course evaluation among fourth- to sixt",
-          "url": "https://doi.org/10.3390/pediatric18050124",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Pediatric Reports",
+          "title": "Image processing with ImageJ",
+          "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+          "url": "https://dspace.library.uu.nl/handle/1874/204900",
+          "publishedAt": "2004-01-01T00:00:00.000Z",
+          "source": "Utrecht University Repository (Utrecht University)",
           "authors": [
-            "Andrea Calandrino",
-            "Samuele Caruggi",
-            "Mariya Malova",
-            "Sara Uccella",
-            "Francesco Vinci"
+            "Michael D. Abràmoff",
+            "Paulo Jorge Magalhães",
+            "Sunanda J. Ram"
           ],
           "openAccess": {
             "isOpen": true,
-            "url": "https://doi.org/10.3390/pediatric18050124"
+            "url": "https://dspace.library.uu.nl/handle/1874/204900"
           },
           "metrics": {
-            "citedByCount": 0
+            "citedByCount": 11915
           },
           "trend": {
             "metric": "citations_by_year",
             "currentYear": 2026,
             "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214048040",
-          "kind": "paper",
-          "title": "Habitual Sugar Consumption: From Neuroscience to Nursing Clinical Practice. A Tool for Modifying Health-Risk Behaviors",
-          "summary": "Introduction. Habits and eating behaviour are complex processes influenced by neurobiological, cognitive and environmental factors. Sucrose consumption represents a useful model to investigate the shift from goal-directed actions to automated responses. The aim of this study was to analyse the mechanisms underlying habit formation and their role in eating behaviour, with a specific focus on sugar consumption, in order to highlight implications for nursing practice. Materials and Methods. A literature review was conducted using the PRISMA method and analysis of specialized texts. Studies addres",
-          "url": "https://doi.org/10.82051/neu-2026-329",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "NEU",
-          "authors": [
-            "Lucia Trucco",
-            "Alberto Borraccino"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.82051/neu-2026-329"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W7214054773",
-          "kind": "paper",
-          "title": "Curating (entangled) childhood(s): Narrating the past/extracting the future",
-          "summary": "The V&A Museum of Childhood in London was recently rebranded as the Young V&A and reinvented as a ‘powerhouse of creativity’. No longer solely exhibiting objects that represent the material culture of childhood, the Young V&A now curates children’s experiences as they interact with the material and ideational fabric of the museum. While supportive of the Young V&A’s child-centric ethos, this article engages critically with the future being extracted from childhood through the alignment of museum programming with the truth claims of NEAR science (Neuroscience, Epigenetics, Adverse childhood exp",
-          "url": "https://doi.org/10.1177/09213740261493664",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "source": "Cultural Dynamics",
-          "authors": [
-            "Kevin Ryan"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://doi.org/10.1177/09213740261493664"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
-            "available": true
-          },
-          "relevanceKeywords": [
-            "neuroscience"
-          ],
-          "signalScore": 12,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "https://openalex.org/W4414763072",
-          "kind": "paper",
-          "title": "A Functional Tensor Model for Dynamic Multilayer Networks with Common Invariant Subspaces and the RKHS Estimation",
-          "summary": "Dynamic multilayer networks are frequently used to describe the structure and temporal evolution of multiple relationships among common entities, with applications in fields such as sociology, economics, and neuroscience. However, exploration of analytical methods for these complex data structures remains limited. We propose a functional tensor-based model for dynamic multilayer networks, with the key feature of capturing the shared structure among common vertices across all layers, while simultaneously accommodating smoothly varying temporal dynamics and layer-specific heterogeneity. The prop",
-          "url": "https://doi.org/10.1080/10618600.2026.2737261",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "source": "Journal of Computational and Graphical Statistics",
-          "authors": [
-            "Runshi Tang",
-            "Runbing Zheng",
-            "Anru R. Zhang",
-            "Carey E. Priebe"
-          ],
-          "openAccess": {
-            "isOpen": true,
-            "url": "https://arxiv.org/pdf/2509.05221"
-          },
-          "metrics": {
-            "citedByCount": 0
-          },
-          "trend": {
-            "metric": "citations_by_year",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": 0,
-            "previousValue": 0,
-            "delta": 0,
-            "growthRate": 0,
+            "currentValue": 1,
+            "previousValue": 215,
+            "delta": -214,
+            "growthRate": -0.9953,
             "available": true
           },
           "relevanceKeywords": [
@@ -1454,17 +1447,16 @@
         },
         {
           "kind": "research_news",
-          "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-          "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-          "publishedAt": "2026-09-17T10:54:28.000Z",
+          "title": "When what you see doesn’t make sense, your brain does something remarkable",
+          "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+          "publishedAt": "2026-09-24T13:28:15.000Z",
           "source": "sciencedaily.com",
           "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
           "relevanceKeywords": [
-            "brain",
-            "neural"
+            "brain"
           ],
-          "signalScore": 28,
+          "signalScore": 24,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1575,40 +1567,17 @@
         },
         {
           "kind": "research_news",
-          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-          "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-          "publishedAt": "2026-09-18T04:25:45.000Z",
+          "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
+          "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls. Those pearl-like structures can change with neural activity and may help control how quickly electrical signals travel through the brain.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
+          "publishedAt": "2026-09-17T10:54:28.000Z",
           "source": "sciencedaily.com",
           "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
           "relevanceKeywords": [
-            "brain"
+            "brain",
+            "neural"
           ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-          "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-          "publishedAt": "2026-09-17T02:43:01.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
+          "signalScore": 20,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1659,6 +1628,54 @@
             "cortex"
           ],
           "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+          "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+          "publishedAt": "2026-09-18T04:25:45.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Hidden “immune organ” in the skull may help fight brain cancer",
+          "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+          "publishedAt": "2026-09-17T02:43:01.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2009,78 +2026,6 @@
         },
         {
           "kind": "research_news",
-          "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
-          "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
-          "publishedAt": "2026-08-26T07:28:27.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Your brain may not actually “make” decisions",
-          "summary": "A neuroscientist is challenging the idea that the brain contains a central system that actually “makes” our decisions. What we experience as choosing may instead emerge from the continuous interaction of perception, movement, the body, and the world around us.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-          "publishedAt": "2026-08-25T17:53:28.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Depression may shut down the brain’s ability to make new neurons",
-          "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-          "publishedAt": "2026-08-25T05:06:08.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
           "title": "Scientists reveal how the brain changes its connections when uncertainty strikes",
           "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
           "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
@@ -2106,10 +2051,10 @@
         },
         {
           "kind": "research_news",
-          "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
-          "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducing Nell2 in adult mice reversed the abnormal changes, raising hopes for a new way to intervene before Alzheimer’s progresses.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
-          "publishedAt": "2026-08-23T15:15:41.000Z",
+          "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+          "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+          "publishedAt": "2026-08-26T07:28:27.000Z",
           "source": "sciencedaily.com",
           "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
           "relevanceKeywords": [
@@ -2130,10 +2075,58 @@
         },
         {
           "kind": "research_news",
-          "title": "Quitting alcohol may prime the brain for relapse",
-          "summary": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-          "publishedAt": "2026-08-23T02:46:26.000Z",
+          "title": "Your brain may not actually “make” decisions",
+          "summary": "A neuroscientist is challenging the idea that the brain contains a central system that actually “makes” our decisions. What we experience as choosing may instead emerge from the continuous interaction of perception, movement, the body, and the world around us.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
+          "publishedAt": "2026-08-25T17:53:28.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Depression may shut down the brain’s ability to make new neurons",
+          "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+          "publishedAt": "2026-08-25T05:06:08.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+          "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducing Nell2 in adult mice reversed the abnormal changes, raising hopes for a new way to intervene before Alzheimer’s progresses.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+          "publishedAt": "2026-08-23T15:15:41.000Z",
           "source": "sciencedaily.com",
           "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
           "relevanceKeywords": [
@@ -2190,35 +2183,6 @@
           }
         },
         {
-          "id": "49745351",
-          "kind": "startup_hn_signal",
-          "title": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://www.mcpjam.com",
-          "discussionUrl": "https://news.ycombinator.com/item?id=49745351",
-          "publishedAt": "2026-09-17T19:23:47.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 12,
-            "comments": 9
-          },
-          "signalScore": 43,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
           "id": "49578928",
           "kind": "startup_hn_signal",
           "title": "China completes first commercial brain-computer interface implant",
@@ -2237,6 +2201,35 @@
             "comments": 1
           },
           "signalScore": 35.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "49745351",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://www.mcpjam.com",
+          "discussionUrl": "https://news.ycombinator.com/item?id=49745351",
+          "publishedAt": "2026-09-17T19:23:47.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 12,
+            "comments": 9
+          },
+          "signalScore": 35,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2386,10 +2379,10 @@
             "BCI startup"
           ],
           "metrics": {
-            "points": 3,
+            "points": 4,
             "comments": 0
           },
-          "signalScore": 29.5,
+          "signalScore": 30,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -2415,10 +2408,10 @@
             "BCI startup"
           ],
           "metrics": {
-            "points": 2,
+            "points": 3,
             "comments": 0
           },
-          "signalScore": 29,
+          "signalScore": 29.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -3110,116 +3103,20 @@
           "url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf"
         },
         "metrics": {
-          "citedByCount": 34309
+          "citedByCount": 34320
         },
         "trend": {
           "metric": "citations_by_year",
           "currentYear": 2026,
           "previousYear": 2025,
-          "currentValue": 2791,
+          "currentValue": 2818,
           "previousValue": 2091,
-          "delta": 700,
-          "growthRate": 0.3348,
+          "delta": 727,
+          "growthRate": 0.3477,
           "available": true
         },
         "relevanceKeywords": [],
-        "signalScore": 704,
-        "access": {
-          "metric": "access_views",
-          "currentYear": 2026,
-          "previousYear": 2025,
-          "currentValue": null,
-          "previousValue": null,
-          "delta": null,
-          "growthRate": null,
-          "available": false,
-          "reason": "access metrics not configured"
-        }
-      },
-      {
-        "section": "papers",
-        "id": "https://openalex.org/W4416061718",
-        "kind": "paper",
-        "title": "The Thousand Brains Theory 2.0: An Extension for the Long-Range Connections of the Neocortical Heterarchy",
-        "summary": "Abstract Vernon Mountcastle hypothesized that the basis for intelligence in mammals is the replication of a general computational unit, the cortical column. The Thousand Brains Theory proposed that each column is a sensorimotor system, capable of learning structured models of objects by integrating sensory input over multiple movements. Previous papers on the Thousand Brains Theory focused on the computations that occur within individual cortical columns and how columns can use long-range connections to rapidly reach a consensus. However, several prominent long-range connection types in the ne",
-        "url": "https://doi.org/10.1162/neco.a.1579",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "source": "Neural Computation",
-        "authors": [
-          "Jeff Hawkins",
-          "Niels Leadholm",
-          "Viviane Clay"
-        ],
-        "openAccess": {
-          "isOpen": true,
-          "url": "https://doi.org/10.1162/neco.a.1579"
-        },
-        "metrics": {
-          "citedByCount": 1
-        },
-        "trend": {
-          "metric": "citations_by_year",
-          "currentYear": 2026,
-          "previousYear": 2025,
-          "currentValue": 1,
-          "previousValue": 0,
-          "delta": 1,
-          "growthRate": 1,
-          "available": true
-        },
-        "relevanceKeywords": [
-          "brain",
-          "neural",
-          "cortex"
-        ],
-        "signalScore": 17,
-        "access": {
-          "metric": "access_views",
-          "currentYear": 2026,
-          "previousYear": 2025,
-          "currentValue": null,
-          "previousValue": null,
-          "delta": null,
-          "growthRate": null,
-          "available": false,
-          "reason": "access metrics not configured"
-        }
-      },
-      {
-        "section": "papers",
-        "id": "https://openalex.org/W7163695480",
-        "kind": "paper",
-        "title": "Synchronization of topological signals in higher-order adaptive multilayer network",
-        "summary": "The study of synchronization in complex systems has recently been revolutionized by incorporating higher-order interactions through simplicial complexes. Building in particular upon the higher-order Kuramoto model, which considers oscillators on nodes, links, and higher-dimensional simplices. This work extends the monolayer framework of the higher-order Kuramoto model to multilayer networks where the layers are adaptively coupled through order parameters of the oscillators placed on the simplices. We propose two multilayer architectures: one that allows interactions between signals of the same",
-        "url": "https://doi.org/10.1038/s42005-026-02773-7",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "source": "Communications Physics",
-        "authors": [
-          "Palash Kumar Pal",
-          "Dibakar Ghosh",
-          "Jurgen Kurths"
-        ],
-        "openAccess": {
-          "isOpen": true,
-          "url": "https://doi.org/10.1038/s42005-026-02773-7"
-        },
-        "metrics": {
-          "citedByCount": 1
-        },
-        "trend": {
-          "metric": "citations_by_year",
-          "currentYear": 2026,
-          "previousYear": 2025,
-          "currentValue": 1,
-          "previousValue": 0,
-          "delta": 1,
-          "growthRate": 1,
-          "available": true
-        },
-        "relevanceKeywords": [
-          "neuroscience"
-        ],
-        "signalScore": 13,
+        "signalScore": 731,
         "access": {
           "metric": "access_views",
           "currentYear": 2026,
