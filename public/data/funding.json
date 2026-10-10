@@ -3,5 +3,31 @@
   "title": "Funding Opportunities",
   "description": "Neuro-related funding opportunities from Grants.gov, NIH Guide, NSF, and configured RSS feeds.",
   "sourceCount": 9,
-  "items": []
+  "items": [
+    {
+      "kind": "funding_feed",
+      "title": "Request for Information (RFI): Strategies to Advance RAPIDs and Real-World Evidence for Serious Mental Illnesses and Related Brain Disorders",
+      "summary": "Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts",
+      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-090.html",
+      "publishedAt": "2026-10-08T07:36:01.000Z",
+      "source": "grants.nih.gov",
+      "sourceUrl": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+      "relevanceKeywords": [
+        "brain",
+        "brain"
+      ],
+      "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    }
+  ]
 }

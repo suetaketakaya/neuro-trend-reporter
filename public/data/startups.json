@@ -5,35 +5,6 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "49713894",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49713894",
-      "publishedAt": "2026-09-15T15:20:26.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 61,
-        "comments": 37
-      },
-      "signalScore": 87.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "49928011",
       "kind": "startup_hn_signal",
       "title": "Show HN: PhreshOS – OS for Web Apps",
@@ -51,7 +22,7 @@
         "points": 10,
         "comments": 5
       },
-      "signalScore": 50,
+      "signalScore": 42,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -158,6 +129,35 @@
       }
     },
     {
+      "id": "50001109",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://github.com/abird-ai/agentc",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50001109",
+      "publishedAt": "2026-10-08T01:53:34.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "BCI startup"
+      ],
+      "metrics": {
+        "points": 3,
+        "comments": 0
+      },
+      "signalScore": 29.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
       "id": "49578928",
       "kind": "startup_hn_signal",
       "title": "China completes first commercial brain-computer interface implant",
@@ -227,35 +227,6 @@
       "url": "https://github.com/saadnvd1/agent-os",
       "discussionUrl": "https://news.ycombinator.com/item?id=49986138",
       "publishedAt": "2026-10-07T00:18:33.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 1,
-        "comments": 0
-      },
-      "signalScore": 28.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "49977811",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Banyan, a procedural tree grown from a 32-bit seed in one HTML file",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://satyasairay.github.io/banyan/banyan_v5.html",
-      "discussionUrl": "https://news.ycombinator.com/item?id=49977811",
-      "publishedAt": "2026-10-06T13:04:47.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
@@ -913,6 +884,37 @@
         "comments": 1
       },
       "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "48607015",
+      "kind": "startup_hn_signal",
+      "title": "Brain-computer interface trials are taking off",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=48607015",
+      "publishedAt": "2026-06-20T07:02:17.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 22,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
