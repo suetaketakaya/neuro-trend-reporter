@@ -2770,5 +2770,48 @@
       }
     ],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-10-13T23:58:53.774Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 1
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Robust and replicable effects of ageing on resting-state brain electrophysiology measured with MEG",
+        "url": "https://doi.org/10.7554/elife.108829.3",
+        "publishedAt": "2026-10-12T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
