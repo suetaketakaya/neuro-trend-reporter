@@ -5,37 +5,6 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "50083201",
-      "kind": "startup_hn_signal",
-      "title": "Learn Convolutional Neural Networks Interactively for Free",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://receptive-field-flame.vercel.app/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50083201",
-      "publishedAt": "2026-10-14T06:26:20.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 1
-      },
-      "signalScore": 42,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "49928011",
       "kind": "startup_hn_signal",
       "title": "Show HN: PhreshOS – OS for Web Apps",
@@ -54,6 +23,37 @@
         "comments": 5
       },
       "signalScore": 42,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "50107564",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Receptive Field – Learn Convolutional Neural Networks Interactively",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://receptive-field-flame.vercel.app/appendix/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50107564",
+      "publishedAt": "2026-10-15T17:59:29.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 0
+      },
+      "signalScore": 41,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -98,24 +98,22 @@
       }
     },
     {
-      "id": "50107564",
+      "id": "50127389",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Receptive Field – Learn Convolutional Neural Networks Interactively",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://receptive-field-flame.vercel.app/appendix/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50107564",
-      "publishedAt": "2026-10-15T17:59:29.000Z",
+      "title": "Ask HN: Not sure but maybe that's why we all do coding",
+      "summary": "Matched Hacker News query: neurotech",
+      "url": "https://news.ycombinator.com/item?id=50127389",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50127389",
+      "publishedAt": "2026-10-17T02:45:54.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
+        "neurotech"
       ],
       "metrics": {
-        "points": 1,
-        "comments": 0
+        "points": 2,
+        "comments": 5
       },
-      "signalScore": 40.5,
+      "signalScore": 34,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -129,22 +127,22 @@
       }
     },
     {
-      "id": "50032374",
+      "id": "50107729",
       "kind": "startup_hn_signal",
-      "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+      "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://maplehill.openwants.com/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50032374",
-      "publishedAt": "2026-10-10T12:42:25.000Z",
+      "url": "https://github.com/readysettech/rdst",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50107729",
+      "publishedAt": "2026-10-15T18:09:01.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
         "points": 6,
-        "comments": 4
+        "comments": 2
       },
-      "signalScore": 35,
+      "signalScore": 33,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -189,20 +187,20 @@
       }
     },
     {
-      "id": "50107729",
+      "id": "50123777",
       "kind": "startup_hn_signal",
-      "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+      "title": "Show HN: Gondwana, a code-first C#/.NET game engine with WebGL",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/readysettech/rdst",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50107729",
-      "publishedAt": "2026-10-15T18:09:01.000Z",
+      "url": "https://github.com/Isthimius/Gondwana",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50123777",
+      "publishedAt": "2026-10-16T20:01:59.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
       ],
       "metrics": {
-        "points": 6,
-        "comments": 1
+        "points": 4,
+        "comments": 2
       },
       "signalScore": 32,
       "access": {
@@ -267,35 +265,6 @@
         "comments": 1
       },
       "signalScore": 29.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "50082777",
-      "kind": "startup_hn_signal",
-      "title": "Neurochat Running on Community GPUs",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://chat.neurogrid.cc/#endpoint=https://occurrence-advantages-venues-appearance.trycloudflare.com/v1&token=H7XSz3oDGuk21u3xf8pvCwfijCw3Jrxw_R-Nm-fi3Lc",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50082777",
-      "publishedAt": "2026-10-14T05:28:29.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 2,
-        "comments": 0
-      },
-      "signalScore": 29,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -650,35 +619,6 @@
       }
     },
     {
-      "id": "48929304",
-      "kind": "startup_hn_signal",
-      "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
-      "summary": "Matched Hacker News query: neurotech",
-      "url": "https://news.ycombinator.com/item?id=48929304",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48929304",
-      "publishedAt": "2026-07-16T01:12:35.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "neurotech"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 13
-      },
-      "signalScore": 23.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "47183899",
       "kind": "startup_hn_signal",
       "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -724,6 +664,37 @@
       "metrics": {
         "points": 15,
         "comments": 7
+      },
+      "signalScore": 23.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "44560424",
+      "kind": "startup_hn_signal",
+      "title": "Show HN: Social network where anyone can be seen (Quickpost)",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://qqpost.netlify.app/home",
+      "discussionUrl": "https://news.ycombinator.com/item?id=44560424",
+      "publishedAt": "2025-07-14T14:04:47.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 5,
+        "comments": 0
       },
       "signalScore": 23.5,
       "access": {
@@ -906,6 +877,37 @@
         "neural interface",
         "neural",
         "neural interface"
+      ],
+      "metrics": {
+        "points": 1,
+        "comments": 1
+      },
+      "signalScore": 22.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "47297631",
+      "kind": "startup_hn_signal",
+      "title": "Brain Computer Interfaces Giving Sight Back to the Blind (YC startup)",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://garryslist.org/posts/brain-computer-interfaces-are-now-giving-sight-back-to-the-blind",
+      "discussionUrl": "https://news.ycombinator.com/item?id=47297631",
+      "publishedAt": "2026-03-08T14:29:47.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
       ],
       "metrics": {
         "points": 1,
