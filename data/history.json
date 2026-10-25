@@ -2888,5 +2888,75 @@
     },
     "topCitationGrowth": [],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-10-25T22:50:34.855Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 1
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders",
+        "url": "https://doi.org/10.1176/appi.ajp.2010.09091379",
+        "publishedAt": "2010-07-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 446,
+          "previousValue": 438,
+          "delta": 8,
+          "growthRate": 0.0183,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
+        "url": "https://doi.org/10.7554/elife.103530.3",
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
