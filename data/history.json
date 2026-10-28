@@ -2958,5 +2958,129 @@
       }
     ],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-10-28T00:06:26.395Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 0
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+        "url": "https://doi.org/10.2307/1941447",
+        "publishedAt": "1992-12-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 228,
+          "previousValue": 198,
+          "delta": 30,
+          "growthRate": 0.1515,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Perceptual symbol systems",
+        "url": "https://doi.org/10.1017/s0140525x99002149",
+        "publishedAt": "1999-08-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 236,
+          "previousValue": 225,
+          "delta": 11,
+          "growthRate": 0.0489,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders",
+        "url": "https://doi.org/10.1176/appi.ajp.2010.09091379",
+        "publishedAt": "2010-07-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 446,
+          "previousValue": 438,
+          "delta": 8,
+          "growthRate": 0.0183,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "One-shot learning of paired association navigation with biologically plausible schemas",
+        "url": "https://doi.org/10.1523/jneurosci.1803-24.2026",
+        "publishedAt": "2026-10-26T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
