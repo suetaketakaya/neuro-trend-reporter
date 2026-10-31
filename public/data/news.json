@@ -6,17 +6,16 @@
   "items": [
     {
       "kind": "research_news",
-      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-      "publishedAt": "2026-10-23T11:02:25.000Z",
+      "title": "Scientists discover why chronic back pain feels so personal",
+      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+      "publishedAt": "2026-10-30T00:26:37.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "mental health",
         "brain"
       ],
-      "signalScore": 32,
+      "signalScore": 24,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -199,37 +198,14 @@
     },
     {
       "kind": "research_news",
-      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-      "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-      "publishedAt": "2026-10-24T00:48:21.000Z",
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "publishedAt": "2026-10-23T11:02:25.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 24,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "Scientists discover a hidden messaging system deep inside the brain",
-      "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new research in mice.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
-      "publishedAt": "2026-10-23T08:28:22.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
+        "mental health",
         "brain"
       ],
       "signalScore": 24,
@@ -258,6 +234,54 @@
         "brain"
       ],
       "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+      "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "publishedAt": "2026-10-24T00:48:21.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover a hidden messaging system deep inside the brain",
+      "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new research in mice.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+      "publishedAt": "2026-10-23T08:28:22.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -684,30 +708,6 @@
       "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from mouse brains, researchers identified 539 distinct chemical zones, revealing patterns and boundaries that traditional brain maps have missed. Surprisingly, even white matter, once thought to be relatively uniform, contains a complex patchwork of chemically distinct regions.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
       "publishedAt": "2026-10-13T05:00:55.000Z",
-      "source": "sciencedaily.com",
-      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-      "relevanceKeywords": [
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "kind": "research_news",
-      "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
-      "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some patients.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
-      "publishedAt": "2026-10-13T00:43:43.000Z",
       "source": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
       "relevanceKeywords": [
