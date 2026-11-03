@@ -17,10 +17,10 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 77,
+        "points": 79,
         "comments": 36
       },
-      "signalScore": 102.5,
+      "signalScore": 103.5,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -46,10 +46,41 @@
         "BCI startup"
       ],
       "metrics": {
-        "points": 35,
+        "points": 37,
         "comments": 11
       },
-      "signalScore": 56.5,
+      "signalScore": 57.5,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "50332805",
+      "kind": "startup_hn_signal",
+      "title": "American military technology beyond your imagination",
+      "summary": "Matched Hacker News query: brain-computer interface",
+      "url": "https://news.ycombinator.com/item?id=50332805",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50332805",
+      "publishedAt": "2026-11-02T03:26:23.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "brain-computer interface",
+        "brain",
+        "brain-computer interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 3
+      },
+      "signalScore": 44,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -278,13 +309,13 @@
       }
     },
     {
-      "id": "50304915",
+      "id": "50334504",
       "kind": "startup_hn_signal",
-      "title": "Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)",
+      "title": "Ask HN: Azure Linux VM's RTC loses 12 hours on reboot if set to 12:xx UTC?",
       "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://github.com/mandarvshinde/ai-bill-to-focus",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50304915",
-      "publishedAt": "2026-10-30T15:03:09.000Z",
+      "url": "https://news.ycombinator.com/item?id=50334504",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50334504",
+      "publishedAt": "2026-11-02T08:55:18.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "BCI startup"
@@ -866,37 +897,6 @@
       "url": "https://facebookresearch.github.io/brain2qwerty/",
       "discussionUrl": "https://news.ycombinator.com/item?id=48791964",
       "publishedAt": "2026-07-05T07:15:52.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "brain-computer interface",
-        "brain",
-        "brain-computer interface"
-      ],
-      "metrics": {
-        "points": 3,
-        "comments": 0
-      },
-      "signalScore": 22.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "48605745",
-      "kind": "startup_hn_signal",
-      "title": "Brain-computer interface enables independent communication for man with ALS",
-      "summary": "Matched Hacker News query: brain-computer interface",
-      "url": "https://health.ucdavis.edu/news/headlines/brain-computer-interface-enables-independent-accurate-communication-for-man-living-with-als/2026/06",
-      "discussionUrl": "https://news.ycombinator.com/item?id=48605745",
-      "publishedAt": "2026-06-20T02:23:33.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
         "brain-computer interface",
