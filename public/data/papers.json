@@ -3,6 +3,6 @@
   "title": "papers",
   "description": "Collector failed.",
   "sourceCount": 0,
-  "error": "HTTP 429 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle%2Cfrom_publication_date%3A2026-05-13%2Cto_publication_date%3A2026-11-09&sort=publication_date%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
+  "error": "HTTP 429 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle&sort=cited_by_count%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
   "items": []
 }
