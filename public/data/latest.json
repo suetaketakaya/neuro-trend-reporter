@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T00:55:43.846Z",
+  "generatedAt": "2026-11-13T01:31:24.622Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -12,11 +12,1412 @@
   "sections": [
     {
       "section": "papers",
-      "title": "papers",
-      "description": "Collector failed.",
-      "sourceCount": 0,
-      "error": "HTTP 429 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle&sort=cited_by_count%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
-      "items": []
+      "title": "Papers",
+      "description": "Recent and citation-growing neuroscience-related papers from OpenAlex.",
+      "sourceCount": 1,
+      "items": [
+        {
+          "id": "https://openalex.org/W4309674289",
+          "kind": "paper",
+          "title": "Survey of Hallucination in Natural Language Generation",
+          "summary": "Natural Language Generation (NLG) has improved exponentially in recent years thanks to the development of sequence-to-sequence deep learning technologies such as Transformer-based language models. This advancement has led to more fluent and coherent NLG, leading to improved development in downstream tasks such as abstractive summarization, dialogue generation, and data-to-text generation. However, it is also apparent that deep learning based generation is prone to hallucinate unintended text, which degrades the system performance and fails to meet user expectations in many real-world scenarios",
+          "url": "https://doi.org/10.1145/3571730",
+          "publishedAt": "2022-11-17T00:00:00.000Z",
+          "source": "ACM Computing Surveys",
+          "authors": [
+            "Ziwei Ji",
+            "Nayeon Lee",
+            "Rita Frieske",
+            "Tiezheng Yu",
+            "Dan Su"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://arxiv.org/pdf/2202.03629"
+          },
+          "metrics": {
+            "citedByCount": 7111
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 3693,
+            "previousValue": 1830,
+            "delta": 1863,
+            "growthRate": 1.018,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 1867,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4239510810",
+          "kind": "paper",
+          "title": "Support-Vector Networks",
+          "summary": "",
+          "url": "https://doi.org/10.1007/bf00994018",
+          "publishedAt": "1995-09-01T00:00:00.000Z",
+          "source": "Machine Learning",
+          "authors": [
+            "Corinna Cortes",
+            "Vladimir N. Vapnik"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf"
+          },
+          "metrics": {
+            "citedByCount": 62322
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 6300,
+            "previousValue": 5688,
+            "delta": 612,
+            "growthRate": 0.1076,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 616,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2560647685",
+          "kind": "paper",
+          "title": "Overcoming catastrophic forgetting in neural networks",
+          "summary": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possible to overcome this limitation and train networks that can maintain expertise on tasks that they have not experienced for a long time. Our approach remembers old tasks by selectively slowing down learning on the weights important for those tasks. We demonstrate our approach is scalable and effective",
+          "url": "https://doi.org/10.1073/pnas.1611835114",
+          "publishedAt": "2017-03-14T00:00:00.000Z",
+          "source": "Proceedings of the National Academy of Sciences",
+          "authors": [
+            "James Kirkpatrick",
+            "Razvan Pascanu",
+            "Neil C. Rabinowitz",
+            "Joel Veness",
+            "Guillaume Desjardins"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380101/"
+          },
+          "metrics": {
+            "citedByCount": 8831
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1992,
+            "previousValue": 1618,
+            "delta": 374,
+            "growthRate": 0.2311,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural"
+          ],
+          "signalScore": 382,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2900756811",
+          "kind": "paper",
+          "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+          "summary": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles, ectosomes, oncosomes, apoptotic bodies, and many other names. However, specific issues arise when working with these entities, whose size and amount often make them difficult to obtain as relatively pure preparations, and to characterize properly. The International Society for Extracellular Vesicle",
+          "url": "https://doi.org/10.1080/20013078.2018.1535750",
+          "publishedAt": "2018-11-23T00:00:00.000Z",
+          "source": "Journal of Extracellular Vesicles",
+          "authors": [
+            "Clotilde Théry",
+            "Kenneth Whitaker Witwer",
+            "Elena Aïkawa",
+            "María José Alcaraz",
+            "Johnathon David Anderson"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.tandfonline.com/doi/pdf/10.1080/20013078.2018.1535750?needAccess=true"
+          },
+          "metrics": {
+            "citedByCount": 11481
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1440,
+            "previousValue": 1299,
+            "delta": 141,
+            "growthRate": 0.1085,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 145,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W3029661147",
+          "kind": "paper",
+          "title": "The mutational constraint spectrum quantified from variation in 141,456 humans",
+          "summary": "Abstract Genetic variants that inactivate protein-coding genes are a powerful source of information about the phenotypic consequences of gene disruption: genes that are crucial for the function of an organism will be depleted of such variants in natural populations, whereas non-essential genes will tolerate their accumulation. However, predicted loss-of-function variants are enriched for annotation errors, and tend to be found at extremely low frequencies, so their analysis requires careful variant annotation and very large sample sizes 1 . Here we describe the aggregation of 125,748 exomes an",
+          "url": "https://doi.org/10.1038/s41586-020-2308-7",
+          "publishedAt": "2020-05-27T00:00:00.000Z",
+          "source": "Nature",
+          "authors": [
+            "Konrad J. Karczewski",
+            "Laurent C. Francioli",
+            "Grace Tiao",
+            "Beryl B. Cummings",
+            "Jessica Alföldi"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s41586-020-2308-7.pdf"
+          },
+          "metrics": {
+            "citedByCount": 10470
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1420,
+            "previousValue": 1308,
+            "delta": 112,
+            "growthRate": 0.0856,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 116,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2015159529",
+          "kind": "paper",
+          "title": "scikit-image: image processing in Python",
+          "summary": "scikit-image is an image processing library that implements algorithms and utilities for use in research, education and industry applications. It is released under the liberal Modified BSD open source license, provides a well-documented API in the Python programming language, and is developed by an active, international team of collaborators. In this paper we highlight the advantages of open source to achieve the goals of the scikit-image library, and we showcase several real-world image processing applications that use scikit-image. More information can be found on the project homepage, http:",
+          "url": "https://doi.org/10.7717/peerj.453",
+          "publishedAt": "2014-06-19T00:00:00.000Z",
+          "source": "PeerJ",
+          "authors": [
+            "Stéfan van der Walt",
+            "Johannes L. Schönberger",
+            "Juan Nunez-Iglesias",
+            "François Boulogne",
+            "Joshua Warner"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.7717/peerj.453"
+          },
+          "metrics": {
+            "citedByCount": 7355
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1200,
+            "previousValue": 1120,
+            "delta": 80,
+            "growthRate": 0.0714,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 84,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2135894974",
+          "kind": "paper",
+          "title": "Nonparametric statistical testing of EEG- and MEG-data",
+          "summary": "",
+          "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+          "publishedAt": "2007-04-11T00:00:00.000Z",
+          "source": "Journal of Neuroscience Methods",
+          "authors": [
+            "Eric Maris",
+            "Robert Oostenveld"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+          },
+          "metrics": {
+            "citedByCount": 8884
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1039,
+            "previousValue": 983,
+            "delta": 56,
+            "growthRate": 0.057,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 68,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2116658855",
+          "kind": "paper",
+          "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+          "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+          "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+          "publishedAt": "2007-02-28T00:00:00.000Z",
+          "source": "Journal of Neuroscience",
+          "authors": [
+            "William W. Seeley",
+            "Vinod Menon",
+            "Alan F. Schatzberg",
+            "Jennifer Keller",
+            "Gary H. Glover"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+          },
+          "metrics": {
+            "citedByCount": 7791
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 561,
+            "previousValue": 512,
+            "delta": 49,
+            "growthRate": 0.0957,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neural"
+          ],
+          "signalScore": 65,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2104549677",
+          "kind": "paper",
+          "title": "A global reference for human genetic variation",
+          "summary": "The 1000 Genomes Project set out to provide a comprehensive description of common human genetic variation by applying whole-genome sequencing to a diverse set of individuals from multiple populations. Here we report completion of the project, having reconstructed the genomes of 2,504 individuals from 26 populations using a combination of low-coverage whole-genome sequencing, deep exome sequencing, and dense microarray genotyping. We characterized a broad spectrum of genetic variation, in total over 88 million variants (84.7 million single nucleotide polymorphisms (SNPs), 3.6 million short inse",
+          "url": "https://doi.org/10.1038/nature15393",
+          "publishedAt": "2015-09-29T00:00:00.000Z",
+          "source": "Nature",
+          "authors": [
+            "Corresponding authors",
+            "Adam Auton",
+            "Gonçalo R. Abecasis",
+            "David Altshuler",
+            "Richard Michael Durbin"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/nature15393.pdf"
+          },
+          "metrics": {
+            "citedByCount": 18570
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 2075,
+            "previousValue": 2032,
+            "delta": 43,
+            "growthRate": 0.0212,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 47,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2119717200",
+          "kind": "paper",
+          "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+          "summary": "",
+          "url": "https://doi.org/10.1007/bf00992696",
+          "publishedAt": "1992-05-01T00:00:00.000Z",
+          "source": "Machine Learning",
+          "authors": [
+            "Ronald J. Williams"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+          },
+          "metrics": {
+            "citedByCount": 8609
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 798,
+            "previousValue": 772,
+            "delta": 26,
+            "growthRate": 0.0337,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 30,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7147496767",
+          "kind": "paper",
+          "title": "Neural Responses to Unexpected Stimulus Repetitions and Omissions in Auditory Cortex Provide Mixed Evidence for Predictive Coding",
+          "summary": "Humans and other animals process sensory uncertainty by integrating stimulus information with prior knowledge and expectations. Predictive coding conceptualizes perception as a form of Bayesian inference wherein hierarchical brain circuits update internal models to reconcile bottom-up sensory input with top-down predictions. Whereas predictive coding is a leading theory, the extent to which it is implemented in primary sensory cortices remains a matter of debate. To further investigate this issue, we examined single-neuron spiking activity in male macaque primary auditory cortex (A1) to expect",
+          "url": "https://doi.org/10.1523/jneurosci.0545-26.2026",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Journal of Neuroscience",
+          "authors": [
+            "Bhanu Shukla",
+            "Harry Shirley",
+            "Liad Goodovitch",
+            "Yonatan I. Fishman",
+            "Yale E. Cohen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1523/jneurosci.0545-26.2026"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4417117060",
+          "kind": "paper",
+          "title": "FDTest: Fluctuation-dissipation theorem as a test for memory effects in brain dynamics",
+          "summary": "A central challenge in neuroscience is to understand how the brain flexibly balances local and distributed information processing to support diverse cognitive and conscious states. We hypothesize that a key signature of this balance is the presence of memory effects, which arise when a brain region’s future activity depends not only on its current state, but also on past information fed back from the wider network. Here we introduce the FDTest, a method for assessing local memory effects in multidimensional systems by measuring violations of a generalized Fluctuation–dissipation theorem (FDT).",
+          "url": "https://doi.org/10.1371/journal.pcbi.1014883",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "PLoS Computational Biology",
+          "authors": [
+            "Sebastián Geli",
+            "J M Monti",
+            "Adrián Ponce‐Alvarez",
+            "Gustavo Deco",
+            "Yonatan Sanz Perl"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1371/journal.pcbi.1014883"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 21,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2031753087",
+          "kind": "paper",
+          "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+          "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+          "url": "https://doi.org/10.1137/1010093",
+          "publishedAt": "1968-10-01T00:00:00.000Z",
+          "source": "SIAM Review",
+          "authors": [
+            "Benoît B. Mandelbrot",
+            "John W. Van Ness"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 7732
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 333,
+            "previousValue": 356,
+            "delta": -23,
+            "growthRate": -0.0646,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225769898",
+          "kind": "paper",
+          "title": "Development of a Neuroscience-based Learning Methodology in Islamic Education From the Perspective of Nurcholish Madjid’s Inclusivism",
+          "summary": "Learning neuroscience learn function nerve healthy in the brain that is rare touched whereas can activate creative ideas and make environment Study fun. Various interesting learning​ However without touch condition participant educate so learning will in vain. It happened conflict with background behind ethnicity, religion, and practices different cultures​ happen Because lack of awareness differences. Accepting difference means acknowledge and appreciate diversity. Study This aim For add more insight​ wide about learning neurons based inclusivism . Study This use approach qualitative various ",
+          "url": "https://doi.org/10.61994/taqrib.v4i2.2338",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Taqrib Journal of Islamic Studies and Education",
+          "authors": [
+            "Muhamad Takrip",
+            "Khalimatus Sa’diyah",
+            "Rafiqa Noviyani",
+            "M.Rizkoni Salis",
+            "Muhammad Alfian Tuflih"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.61994/taqrib.v4i2.2338"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225772835",
+          "kind": "paper",
+          "title": "An EMG-driven virtual reality platform for physiology-based motor interaction: technical and functional validation",
+          "summary": "Harnessing experience-dependent neuroplasticity has become a central goal of modern neurorehabilitation. Immersive virtual reality (VR) has emerged as a promising tool, enabling task-oriented training in ecologically valid scenarios that are difficult to reproduce in conventional clinical settings. Despite these advances, interaction in most existing VR rehabilitation systems remains primarily mediated by external interfaces, such as motion tracking or handheld controllers, rather than by the user’s own physiological motor activity. Consequently, rehabilitation often fails to directly engage t",
+          "url": "https://doi.org/10.3389/fnhum.2026.1943080",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "V. Betti",
+            "M. Marucci",
+            "C. Perciballi",
+            "N. Di Francesco",
+            "D. Sili"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1943080/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7164028807",
+          "kind": "paper",
+          "title": "Prenatal exposure to maternal stress drives neurodevelopmental disruptions in the fetal hypothalamus",
+          "summary": "The hypothalamus plays a central role in integrating physiological stressors to maintain homeostasis, yet how fetal neurodevelopment in the hypothalamus is shaped by intrauterine maternal stress exposure remains understudied. This is especially true in the context of sex-divergent mechanisms underlying neurodevelopmental disorders (NDDs), which are increasingly being linked to perturbation of the intrauterine environment. Herein, we utilize a mouse model of prenatal maternal cold stress exposure to study the impacts on neural stem and progenitor cell (NSPC) developmental programs in the fetal ",
+          "url": "https://doi.org/10.1523/eneuro.0192-26.2026",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "eNeuro",
+          "authors": [
+            "Kodee Bao",
+            "Matthew Rosin",
+            "Jessica M. Rosin"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1523/eneuro.0192-26.2026"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 13,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2777347942",
+          "kind": "paper",
+          "title": "FROM PSYCHOBABBLE TO NEURO-NONSENSE: COGNITIVISM, NEUROSCIENCE AND CHILDREN’S LITERATURE",
+          "summary": "Drawing on Jacqueline Rose’s thesis on the “impossibility” of children’s literature, the study explores how childhood and the child are inherently shaped by adult desires both in what are seen to be “fiction” and “real life”. Through an examination of key theorists and critical debates, this paper analyses the influence of neuroscientific and cognitivist paradigms on the conceptualization of empathy, theory of mind, and identification. The article concludes that while cognitivist approaches and evolutionary psychology claim to offer a universal and unchanging knowledge of the child, they neces",
+          "url": "https://doi.org/10.35869/ailij.v0i24.6965",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "AILIJ Anuario de Investigación en Literatura Infantil y Juvenil",
+          "authors": [
+            "Karín Lesnik‐Oberstein"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.35869/ailij.v0i24.6965"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4408229867",
+          "kind": "paper",
+          "title": "Serotonin signaling in the rat prefrontal cortex is required for Retrieval-Induced Forgetting",
+          "summary": "Forgetting is a ubiquitous phenomenon actively promoted in many species. The act of remembering some experiences can cause forgetting of others in both humans and rats. We previously found that when rats retrieve a memory to guide exploration, it reduces later retention of other competing memories encoded in that environment. As with humans, this retrieval-induced forgetting (RIF) relies on prefrontal control processes, is competition-dependent, and cue-independent. RIF is thought to be driven by inhibitory control signals from the prefrontal cortex that target areas where memories are stored.",
+          "url": "https://doi.org/10.1523/eneuro.0293-26.2026",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "eNeuro",
+          "authors": [
+            "Maria Belen Zanoni",
+            "Mariana Imperatori",
+            "Pablo Koss",
+            "Beatriz Agustina Ortega",
+            "Melisa Bentivegna"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1523/eneuro.0293-26.2026"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7202091412",
+          "kind": "paper",
+          "title": "Haematological alterations associated with panic disorder among Sri Lankan university students: a preliminary case-control study",
+          "summary": "Panic disorder (PD) is a significant mental health concern in Sri Lanka, with a prevalence of 14% exceeding global averages. However, its pathophysiology remains unexplored locally. This preliminary case-control study aimed to assess the hematological alterations and panic severity associated with PD among university students. We evaluated 60 university students (30 PD patients and 30 healthy controls). PD patients scored significantly higher across all panic measures (* p < 0.001). RBC (* p = 0.002) and platelet (* p = 0.003) counts were significantly higher in the PD group and differential W",
+          "url": "https://doi.org/10.1186/s13104-026-08097-7",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "BMC Research Notes",
+          "authors": [
+            "Rosemarie Gayeshi Amanda Fernando",
+            "Chanika Jayasinghe"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1186/s13104-026-08097-7"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7212148782",
+          "kind": "paper",
+          "title": "A scoping review of self-silencing and mental health outcomes in women across three decades",
+          "summary": "Silencing the Self-theory proposes that women who inhibit self-expression to preserve close relationships are at greater risk of depression. This scoping review maps the empirical literature on self-silencing and women’s mental health published since 1996. Following PRISMA-ScR, we searched Scopus, Web of Science and ProQuest (1,761 records) and an AI-assisted search engine (Consensus; 108 records). After deduplication, single-reviewer title/abstract screening and quality-control checks, 184 records (1996–2026) were charted: 154 primary studies, 11 reviews and 19 non-empirical records. Two rate",
+          "url": "https://doi.org/10.1007/s44192-026-00663-6",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Discover Mental Health",
+          "authors": [
+            "CHITRA SCMS",
+            "Supriya Lamba Sahdev"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1007/s44192-026-00663-6"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225708487",
+          "kind": "paper",
+          "title": "Art-Science Fusion to Enhance Community-Building and Societal Resilience to Water-Related Disasters",
+          "summary": "Climate change is intensifying water-related disasters in Europe, exposing critical gaps in prevention, preparedness, and public awareness. Recent flood events revealed that despite scientific warnings and EU-level monitoring systems, insufficient communication and weak “risk culture” at local levels significantly increased human losses and societal impacts. While EU policies and research programs address disaster risk, a persistent disconnect between scientific knowledge, policy implementation, and local communities limits their effectiveness. The article argues for a more integrated and incl",
+          "url": "https://doi.org/10.5595/001c.173608",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "IDRiM Journal",
+          "authors": [
+            "Philippe Quevauviller"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.idrimjournal.com/article/173608.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225770015",
+          "kind": "paper",
+          "title": "How does psychoeducation on pain neuroscience knowledge benefit neurorehabilitation teams?",
+          "summary": "Incorporating pain neuroscience education (PNE) into neurorehabilitation practice may significantly enhance patient engagement and rehabilitation outcomes by improving understanding and management of pain. However, challenges such as training and resource limitations need addressing to fully realize its benefits in these settings.",
+          "url": "https://doi.org/10.5281/zenodo.24133114",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Tripdatabase"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.24133114"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225771845",
+          "kind": "paper",
+          "title": "Cognitive load detection using hyper-learning dragonfly optimization for feature selection",
+          "summary": "Introduction Cognitive load detection is essential for understanding brain responses to mental effort and cognitive demands. Electroencephalogram (EEG) signals provide valuable information about neural activity and offer a non-invasive approach to identifying cognitive load. However, accurate detection and the identification of brain regions with superior discriminative capabilities remain important challenges. Methods This study proposes an EEG-based cognitive load detection framework using empirical Fourier decomposition (EPFD), entropy-based feature extraction, and the hyper-learning binary",
+          "url": "https://doi.org/10.3389/fphys.2026.1952032",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Frontiers in Physiology",
+          "authors": [
+            "Kunamneni Chervitha",
+            "Lakhan Dev Sharma"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1952032/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225773360",
+          "kind": "paper",
+          "title": "The role of iNOS expression in cognitive impairment caused by lead exposure",
+          "summary": "Introduction The effect of lead on spatial memory has been widely confirmed. Inducible nitric oxide synthase (iNOS) is a key enzyme in inflammatory responses that is significantly upregulated upon microglia activation. However, prior to this study, there has been no direct evidence that iNOS mediates excitatory toxicity. Methods Sprague-Dawley rats (SD rats) were given ad libitum access to drinking water containing lead (Pb, 100 mg/L) from postnatal day (PND) 24 to 45, and each treatment group was paired with a supplement group that received either minocycline or S-methylisothiourea (SMT) via ",
+          "url": "https://doi.org/10.3389/fnmol.2026.1889911",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Frontiers in Molecular Neuroscience",
+          "authors": [
+            "Keke Yang",
+            "Yizi Pan",
+            "Yuling Liu",
+            "Pinqiao Zhao",
+            "Ruili Guan"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1889911/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225778593",
+          "kind": "paper",
+          "title": "CK2β variants associated with Poirier–Bienvenu neurodevelopmental syndrome differentially affect CK2 holoenzyme assembly and stability",
+          "summary": "Introduction Mutations in the CSNK2B gene, which encodes the non-catalytic CK2β subunit of human protein kinase CK2, can cause Poirier -Bienvenu neurodevelopmental syndrome (POBINDS). The CK2 holoenzyme comprises two regulatory CK2β subunits and two catalytic CK2α or CK2α′ subunits. The interaction between CK2β and the catalytic CK2α/α’ subunits influences substrate phosphorylation and protein thermostability. Key structural regions involved in α/β interactions include the αF helix and hairpin loop, whereas β/β dimerization is stabilized by the zinc finger domain. In this study, we investigate",
+          "url": "https://doi.org/10.3389/fnmol.2026.1987599",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Frontiers in Molecular Neuroscience",
+          "authors": [
+            "Johanna Fellhölter",
+            "Sandra Jordan",
+            "Christian Werner",
+            "Alexander Gast",
+            "Karsten Niefind"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1987599/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225781019",
+          "kind": "paper",
+          "title": "Mining Scholarly Impact: A Career-Adaptive Higher-Order Aggregation Framework for Multi-Domain Researcher Classification",
+          "summary": "Assessing scholarly contribution across disciplines is challenging because bibliometric indicators capture different aspects of research activity and citation practices vary by field. This study evaluates a weighted cubic-mean composite (Hr) and a career-adaptive extension (DHr) across civil engineering, computer science, mathematics, and neuroscience. The analysis considers 4479 researchers and uses recognition by professional societies as an observable benchmark, while recognizing that awards are imperfect proxies for research quality. reduce selection optimism, we performed nested cross-val",
+          "url": "https://doi.org/10.3390/computation14110285",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Computation",
+          "authors": [
+            "Hafiza Zarafshan Mukhtiar",
+            "Muhammad Tanvir Afzal",
+            "Ahmad Sami Al‐Shamayleh",
+            "Ghulam Mustafa",
+            "Isabel de la Torre Díez"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.3390/computation14110285"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7225783254",
+          "kind": "paper",
+          "title": "A 5-Digit Manipulandum System to Measure and Train Finger Coordination During Object Manipulation",
+          "summary": "Knowledge of how high-dimensional finger forces coordinate to achieve low-dimensional object manipulation is of fundamental interest in the field of sensorimotor neuroscience. We developed a novel 5-digit manipulandum integrating force sensors, actuators, and real-time software to measure and train finger force coordination within the conceptual framework of body-machine interfaces. The device enables personalized mapping between fingertip forces and two-dimensional cursor motions through a calibration process based on principal component analysis. In a proof-of-concept study, eight participan",
+          "url": "https://doi.org/10.3390/s26227126",
+          "publishedAt": "2026-11-11T00:00:00.000Z",
+          "source": "Sensors",
+          "authors": [
+            "Cecilia De Vicariis",
+            "Joseph R. Scheidt",
+            "Martina Scalella",
+            "Leigh Ann Mrotek",
+            "Maura Casadio"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.3390/s26227126"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2751884637",
+          "kind": "paper",
+          "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+          "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+          "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+          "publishedAt": "2017-09-01T00:00:00.000Z",
+          "source": "The Lancet",
+          "authors": [
+            "Theo Vos",
+            "Amanuel Alemu Abajobir",
+            "Kalkidan Hassen Abate",
+            "Cristiana Abbafati",
+            "Kaja Abbas"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
+          },
+          "metrics": {
+            "citedByCount": 13820
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 463,
+            "previousValue": 746,
+            "delta": -283,
+            "growthRate": -0.3794,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2166073443",
+          "kind": "paper",
+          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+          "url": "https://doi.org/10.1155/2011/156869",
+          "publishedAt": "2010-12-23T00:00:00.000Z",
+          "source": "Computational Intelligence and Neuroscience",
+          "authors": [
+            "Robert Oostenveld",
+            "Pascal Fries",
+            "Eric Maris",
+            "Jan‐Mathijs Schoffelen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+          },
+          "metrics": {
+            "citedByCount": 10719
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1085,
+            "previousValue": 1190,
+            "delta": -105,
+            "growthRate": -0.0882,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2138825607",
+          "kind": "paper",
+          "title": "Image processing with ImageJ",
+          "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+          "url": "https://dspace.library.uu.nl/handle/1874/204900",
+          "publishedAt": "2004-01-01T00:00:00.000Z",
+          "source": "Utrecht University Repository (Utrecht University)",
+          "authors": [
+            "Michael D. Abràmoff",
+            "Paulo Jorge Magalhães",
+            "Sunanda J. Ram"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://dspace.library.uu.nl/handle/1874/204900"
+          },
+          "metrics": {
+            "citedByCount": 11821
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 3,
+            "previousValue": 228,
+            "delta": -225,
+            "growthRate": -0.9868,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
     },
     {
       "section": "news",
@@ -147,102 +1548,6 @@
         },
         {
           "kind": "research_news",
-          "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-          "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-          "publishedAt": "2026-11-06T01:11:19.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-          "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
-          "publishedAt": "2026-11-05T12:50:34.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
-          "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
-          "publishedAt": "2026-11-04T13:24:52.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-          "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-          "publishedAt": "2026-11-04T01:00:13.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
           "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
           "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.",
           "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
@@ -279,6 +1584,102 @@
             "brain"
           ],
           "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+          "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+          "publishedAt": "2026-11-06T01:11:19.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+          "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+          "publishedAt": "2026-11-05T12:50:34.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+          "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+          "publishedAt": "2026-11-04T13:24:52.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+          "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+          "publishedAt": "2026-11-04T01:00:13.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -756,6 +2157,35 @@
       "sourceCount": 7,
       "items": [
         {
+          "id": "50471281",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Kapso – Iterative learning from enterprise data",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=50471281",
+          "discussionUrl": "https://news.ycombinator.com/item?id=50471281",
+          "publishedAt": "2026-11-12T17:51:23.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 37,
+            "comments": 9
+          },
+          "signalScore": 55.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
           "id": "50371090",
           "kind": "startup_hn_signal",
           "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
@@ -771,7 +2201,7 @@
             "points": 43,
             "comments": 10
           },
-          "signalScore": 59.5,
+          "signalScore": 51.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -803,6 +2233,35 @@
             "comments": 5
           },
           "signalScore": 36,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "50474106",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://github.com/cerulion-inc/cerulion",
+          "discussionUrl": "https://news.ycombinator.com/item?id=50474106",
+          "publishedAt": "2026-11-12T20:53:04.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 8,
+            "comments": 2
+          },
+          "signalScore": 34,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1219,35 +2678,6 @@
           }
         },
         {
-          "id": "41040729",
-          "kind": "startup_hn_signal",
-          "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
-          "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://news.ycombinator.com/item?id=41040729",
-          "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
-          "publishedAt": "2024-07-22T23:01:58.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "BCI startup"
-          ],
-          "metrics": {
-            "points": 11,
-            "comments": 10
-          },
-          "signalScore": 24.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
           "id": "49037725",
           "kind": "startup_hn_signal",
           "title": "Show HN: Jixp, a Lisp DSL for describing Jax neural nets",
@@ -1647,37 +3077,6 @@
             "available": false,
             "reason": "access metrics not configured"
           }
-        },
-        {
-          "id": "47297631",
-          "kind": "startup_hn_signal",
-          "title": "Brain Computer Interfaces Giving Sight Back to the Blind (YC startup)",
-          "summary": "Matched Hacker News query: brain-computer interface",
-          "url": "https://garryslist.org/posts/brain-computer-interfaces-are-now-giving-sight-back-to-the-blind",
-          "discussionUrl": "https://news.ycombinator.com/item?id=47297631",
-          "publishedAt": "2026-03-08T14:29:47.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "brain-computer interface",
-            "brain",
-            "brain-computer interface"
-          ],
-          "metrics": {
-            "points": 1,
-            "comments": 1
-          },
-          "signalScore": 22.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
         }
       ]
     },
@@ -1691,6 +3090,573 @@
   ],
   "rankings": {
     "growingAccessItems": [],
-    "growingCitationPapers": []
+    "growingCitationPapers": [
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4309674289",
+        "kind": "paper",
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "summary": "Natural Language Generation (NLG) has improved exponentially in recent years thanks to the development of sequence-to-sequence deep learning technologies such as Transformer-based language models. This advancement has led to more fluent and coherent NLG, leading to improved development in downstream tasks such as abstractive summarization, dialogue generation, and data-to-text generation. However, it is also apparent that deep learning based generation is prone to hallucinate unintended text, which degrades the system performance and fails to meet user expectations in many real-world scenarios",
+        "url": "https://doi.org/10.1145/3571730",
+        "publishedAt": "2022-11-17T00:00:00.000Z",
+        "source": "ACM Computing Surveys",
+        "authors": [
+          "Ziwei Ji",
+          "Nayeon Lee",
+          "Rita Frieske",
+          "Tiezheng Yu",
+          "Dan Su"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://arxiv.org/pdf/2202.03629"
+        },
+        "metrics": {
+          "citedByCount": 7111
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 3693,
+          "previousValue": 1830,
+          "delta": 1863,
+          "growthRate": 1.018,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 1867,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4239510810",
+        "kind": "paper",
+        "title": "Support-Vector Networks",
+        "summary": "",
+        "url": "https://doi.org/10.1007/bf00994018",
+        "publishedAt": "1995-09-01T00:00:00.000Z",
+        "source": "Machine Learning",
+        "authors": [
+          "Corinna Cortes",
+          "Vladimir N. Vapnik"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf"
+        },
+        "metrics": {
+          "citedByCount": 62322
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 6300,
+          "previousValue": 5688,
+          "delta": 612,
+          "growthRate": 0.1076,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 616,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2560647685",
+        "kind": "paper",
+        "title": "Overcoming catastrophic forgetting in neural networks",
+        "summary": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possible to overcome this limitation and train networks that can maintain expertise on tasks that they have not experienced for a long time. Our approach remembers old tasks by selectively slowing down learning on the weights important for those tasks. We demonstrate our approach is scalable and effective",
+        "url": "https://doi.org/10.1073/pnas.1611835114",
+        "publishedAt": "2017-03-14T00:00:00.000Z",
+        "source": "Proceedings of the National Academy of Sciences",
+        "authors": [
+          "James Kirkpatrick",
+          "Razvan Pascanu",
+          "Neil C. Rabinowitz",
+          "Joel Veness",
+          "Guillaume Desjardins"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380101/"
+        },
+        "metrics": {
+          "citedByCount": 8831
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1992,
+          "previousValue": 1618,
+          "delta": 374,
+          "growthRate": 0.2311,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neural"
+        ],
+        "signalScore": 382,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2900756811",
+        "kind": "paper",
+        "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+        "summary": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles, ectosomes, oncosomes, apoptotic bodies, and many other names. However, specific issues arise when working with these entities, whose size and amount often make them difficult to obtain as relatively pure preparations, and to characterize properly. The International Society for Extracellular Vesicle",
+        "url": "https://doi.org/10.1080/20013078.2018.1535750",
+        "publishedAt": "2018-11-23T00:00:00.000Z",
+        "source": "Journal of Extracellular Vesicles",
+        "authors": [
+          "Clotilde Théry",
+          "Kenneth Whitaker Witwer",
+          "Elena Aïkawa",
+          "María José Alcaraz",
+          "Johnathon David Anderson"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/20013078.2018.1535750?needAccess=true"
+        },
+        "metrics": {
+          "citedByCount": 11481
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1440,
+          "previousValue": 1299,
+          "delta": 141,
+          "growthRate": 0.1085,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 145,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W3029661147",
+        "kind": "paper",
+        "title": "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "summary": "Abstract Genetic variants that inactivate protein-coding genes are a powerful source of information about the phenotypic consequences of gene disruption: genes that are crucial for the function of an organism will be depleted of such variants in natural populations, whereas non-essential genes will tolerate their accumulation. However, predicted loss-of-function variants are enriched for annotation errors, and tend to be found at extremely low frequencies, so their analysis requires careful variant annotation and very large sample sizes 1 . Here we describe the aggregation of 125,748 exomes an",
+        "url": "https://doi.org/10.1038/s41586-020-2308-7",
+        "publishedAt": "2020-05-27T00:00:00.000Z",
+        "source": "Nature",
+        "authors": [
+          "Konrad J. Karczewski",
+          "Laurent C. Francioli",
+          "Grace Tiao",
+          "Beryl B. Cummings",
+          "Jessica Alföldi"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.nature.com/articles/s41586-020-2308-7.pdf"
+        },
+        "metrics": {
+          "citedByCount": 10470
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1420,
+          "previousValue": 1308,
+          "delta": 112,
+          "growthRate": 0.0856,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 116,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2015159529",
+        "kind": "paper",
+        "title": "scikit-image: image processing in Python",
+        "summary": "scikit-image is an image processing library that implements algorithms and utilities for use in research, education and industry applications. It is released under the liberal Modified BSD open source license, provides a well-documented API in the Python programming language, and is developed by an active, international team of collaborators. In this paper we highlight the advantages of open source to achieve the goals of the scikit-image library, and we showcase several real-world image processing applications that use scikit-image. More information can be found on the project homepage, http:",
+        "url": "https://doi.org/10.7717/peerj.453",
+        "publishedAt": "2014-06-19T00:00:00.000Z",
+        "source": "PeerJ",
+        "authors": [
+          "Stéfan van der Walt",
+          "Johannes L. Schönberger",
+          "Juan Nunez-Iglesias",
+          "François Boulogne",
+          "Joshua Warner"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.7717/peerj.453"
+        },
+        "metrics": {
+          "citedByCount": 7355
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1200,
+          "previousValue": 1120,
+          "delta": 80,
+          "growthRate": 0.0714,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 84,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2135894974",
+        "kind": "paper",
+        "title": "Nonparametric statistical testing of EEG- and MEG-data",
+        "summary": "",
+        "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+        "publishedAt": "2007-04-11T00:00:00.000Z",
+        "source": "Journal of Neuroscience Methods",
+        "authors": [
+          "Eric Maris",
+          "Robert Oostenveld"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+        },
+        "metrics": {
+          "citedByCount": 8884
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1039,
+          "previousValue": 983,
+          "delta": 56,
+          "growthRate": 0.057,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience"
+        ],
+        "signalScore": 68,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2116658855",
+        "kind": "paper",
+        "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+        "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+        "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+        "publishedAt": "2007-02-28T00:00:00.000Z",
+        "source": "Journal of Neuroscience",
+        "authors": [
+          "William W. Seeley",
+          "Vinod Menon",
+          "Alan F. Schatzberg",
+          "Jennifer Keller",
+          "Gary H. Glover"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+        },
+        "metrics": {
+          "citedByCount": 7791
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 561,
+          "previousValue": 512,
+          "delta": 49,
+          "growthRate": 0.0957,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience",
+          "neural"
+        ],
+        "signalScore": 65,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2104549677",
+        "kind": "paper",
+        "title": "A global reference for human genetic variation",
+        "summary": "The 1000 Genomes Project set out to provide a comprehensive description of common human genetic variation by applying whole-genome sequencing to a diverse set of individuals from multiple populations. Here we report completion of the project, having reconstructed the genomes of 2,504 individuals from 26 populations using a combination of low-coverage whole-genome sequencing, deep exome sequencing, and dense microarray genotyping. We characterized a broad spectrum of genetic variation, in total over 88 million variants (84.7 million single nucleotide polymorphisms (SNPs), 3.6 million short inse",
+        "url": "https://doi.org/10.1038/nature15393",
+        "publishedAt": "2015-09-29T00:00:00.000Z",
+        "source": "Nature",
+        "authors": [
+          "Corresponding authors",
+          "Adam Auton",
+          "Gonçalo R. Abecasis",
+          "David Altshuler",
+          "Richard Michael Durbin"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.nature.com/articles/nature15393.pdf"
+        },
+        "metrics": {
+          "citedByCount": 18570
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2075,
+          "previousValue": 2032,
+          "delta": 43,
+          "growthRate": 0.0212,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 47,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2119717200",
+        "kind": "paper",
+        "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+        "summary": "",
+        "url": "https://doi.org/10.1007/bf00992696",
+        "publishedAt": "1992-05-01T00:00:00.000Z",
+        "source": "Machine Learning",
+        "authors": [
+          "Ronald J. Williams"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+        },
+        "metrics": {
+          "citedByCount": 8609
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 798,
+          "previousValue": 772,
+          "delta": 26,
+          "growthRate": 0.0337,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 30,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4417117060",
+        "kind": "paper",
+        "title": "FDTest: Fluctuation-dissipation theorem as a test for memory effects in brain dynamics",
+        "summary": "A central challenge in neuroscience is to understand how the brain flexibly balances local and distributed information processing to support diverse cognitive and conscious states. We hypothesize that a key signature of this balance is the presence of memory effects, which arise when a brain region’s future activity depends not only on its current state, but also on past information fed back from the wider network. Here we introduce the FDTest, a method for assessing local memory effects in multidimensional systems by measuring violations of a generalized Fluctuation–dissipation theorem (FDT).",
+        "url": "https://doi.org/10.1371/journal.pcbi.1014883",
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "source": "PLoS Computational Biology",
+        "authors": [
+          "Sebastián Geli",
+          "J M Monti",
+          "Adrián Ponce‐Alvarez",
+          "Gustavo Deco",
+          "Yonatan Sanz Perl"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1371/journal.pcbi.1014883"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience",
+          "brain",
+          "neural"
+        ],
+        "signalScore": 21,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W7164028807",
+        "kind": "paper",
+        "title": "Prenatal exposure to maternal stress drives neurodevelopmental disruptions in the fetal hypothalamus",
+        "summary": "The hypothalamus plays a central role in integrating physiological stressors to maintain homeostasis, yet how fetal neurodevelopment in the hypothalamus is shaped by intrauterine maternal stress exposure remains understudied. This is especially true in the context of sex-divergent mechanisms underlying neurodevelopmental disorders (NDDs), which are increasingly being linked to perturbation of the intrauterine environment. Herein, we utilize a mouse model of prenatal maternal cold stress exposure to study the impacts on neural stem and progenitor cell (NSPC) developmental programs in the fetal ",
+        "url": "https://doi.org/10.1523/eneuro.0192-26.2026",
+        "publishedAt": "2026-11-11T00:00:00.000Z",
+        "source": "eNeuro",
+        "authors": [
+          "Kodee Bao",
+          "Matthew Rosin",
+          "Jessica M. Rosin"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1523/eneuro.0192-26.2026"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain",
+          "neural"
+        ],
+        "signalScore": 13,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ]
   }
 }
