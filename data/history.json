@@ -3936,5 +3936,291 @@
       }
     ],
     "topAccessGrowth": []
+  },
+  {
+    "generatedAt": "2026-11-15T00:26:59.218Z",
+    "compare": {
+      "currentYear": 2026,
+      "previousYear": 2025
+    },
+    "counts": {
+      "papers": 30,
+      "news": 30,
+      "startups": 30,
+      "funding": 0
+    },
+    "topCitationGrowth": [
+      {
+        "section": "papers",
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "url": "https://doi.org/10.1145/3571730",
+        "publishedAt": "2022-11-17T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 3758,
+          "previousValue": 1831,
+          "delta": 1927,
+          "growthRate": 1.0524,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Support-Vector Networks",
+        "url": "https://doi.org/10.1007/bf00994018",
+        "publishedAt": "1995-09-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 6368,
+          "previousValue": 5688,
+          "delta": 680,
+          "growthRate": 0.1195,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Overcoming catastrophic forgetting in neural networks",
+        "url": "https://doi.org/10.1073/pnas.1611835114",
+        "publishedAt": "2017-03-14T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2023,
+          "previousValue": 1618,
+          "delta": 405,
+          "growthRate": 0.2503,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+        "url": "https://doi.org/10.1080/20013078.2018.1535750",
+        "publishedAt": "2018-11-23T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1454,
+          "previousValue": 1299,
+          "delta": 155,
+          "growthRate": 0.1193,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "url": "https://doi.org/10.1038/s41586-020-2308-7",
+        "publishedAt": "2020-05-27T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1427,
+          "previousValue": 1307,
+          "delta": 120,
+          "growthRate": 0.0918,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "scikit-image: image processing in Python",
+        "url": "https://doi.org/10.7717/peerj.453",
+        "publishedAt": "2014-06-19T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1207,
+          "previousValue": 1122,
+          "delta": 85,
+          "growthRate": 0.0758,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Nonparametric statistical testing of EEG- and MEG-data",
+        "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+        "publishedAt": "2007-04-11T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1044,
+          "previousValue": 983,
+          "delta": 61,
+          "growthRate": 0.0621,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "A global reference for human genetic variation",
+        "url": "https://doi.org/10.1038/nature15393",
+        "publishedAt": "2015-09-29T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2089,
+          "previousValue": 2030,
+          "delta": 59,
+          "growthRate": 0.0291,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+        "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+        "publishedAt": "2007-02-28T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 564,
+          "previousValue": 512,
+          "delta": 52,
+          "growthRate": 0.1016,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+        "url": "https://doi.org/10.1007/bf00992696",
+        "publishedAt": "1992-05-01T00:00:00.000Z",
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 808,
+          "previousValue": 772,
+          "delta": 36,
+          "growthRate": 0.0466,
+          "available": true
+        },
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ],
+    "topAccessGrowth": []
   }
 ]
