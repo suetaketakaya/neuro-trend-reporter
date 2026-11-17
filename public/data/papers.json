@@ -24,20 +24,20 @@
         "url": "https://arxiv.org/pdf/2202.03629"
       },
       "metrics": {
-        "citedByCount": 7178
+        "citedByCount": 11086
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 3758,
-        "previousValue": 1831,
-        "delta": 1927,
-        "growthRate": 1.0524,
+        "currentValue": 5535,
+        "previousValue": 2886,
+        "delta": 2649,
+        "growthRate": 0.9179,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 1931,
+      "signalScore": 2653,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -67,20 +67,20 @@
         "url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf"
       },
       "metrics": {
-        "citedByCount": 62391
+        "citedByCount": 72094
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 6368,
-        "previousValue": 5688,
-        "delta": 680,
-        "growthRate": 0.1195,
+        "currentValue": 7901,
+        "previousValue": 6846,
+        "delta": 1055,
+        "growthRate": 0.1541,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 684,
+      "signalScore": 1059,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -113,22 +113,110 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380101/"
       },
       "metrics": {
-        "citedByCount": 8862
+        "citedByCount": 12719
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 2023,
-        "previousValue": 1618,
-        "delta": 405,
-        "growthRate": 0.2503,
+        "currentValue": 3427,
+        "previousValue": 2525,
+        "delta": 902,
+        "growthRate": 0.3572,
         "available": true
       },
       "relevanceKeywords": [
         "neural"
       ],
-      "signalScore": 413,
+      "signalScore": 910,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2212660284",
+      "kind": "paper",
+      "title": "A kernel two-sample test",
+      "summary": "We propose a framework for analyzing and comparing distributions, which we use to construct statistical tests to determine if two samples are drawn from different distributions. Our test statistic is the largest difference in expectations over functions in the unit ball of a reproducing kernel Hilbert space (RKHS), and is called the maximum mean discrepancy (MMD).We present two distributionfree tests based on large deviation bounds for the MMD, and a third test based on the asymptotic distribution of this statistic. The MMD can be computed in quadratic time, although efficient linear time appr",
+      "url": "https://doi.org/10.5555/2188385.2188410",
+      "publishedAt": "2012-03-01T00:00:00.000Z",
+      "source": "Journal of Machine Learning Research",
+      "authors": [
+        "Arthur Gretton",
+        "Karsten Michael Borgwardt",
+        "Malte J. Rasch",
+        "Bernhard Schölkopf",
+        "Alexander Johannes Smola"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://hdl.handle.net/11858/00-001M-0000-0013-B7F4-C"
+      },
+      "metrics": {
+        "citedByCount": 8070
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1851,
+        "previousValue": 1198,
+        "delta": 653,
+        "growthRate": 0.5451,
+        "available": true
+      },
+      "relevanceKeywords": [],
+      "signalScore": 657,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2119717200",
+      "kind": "paper",
+      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+      "summary": "",
+      "url": "https://doi.org/10.1007/bf00992696",
+      "publishedAt": "1992-05-01T00:00:00.000Z",
+      "source": "Machine Learning",
+      "authors": [
+        "Ronald J. Williams"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+      },
+      "metrics": {
+        "citedByCount": 12563
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1768,
+        "previousValue": 1511,
+        "delta": 257,
+        "growthRate": 0.1701,
+        "available": true
+      },
+      "relevanceKeywords": [],
+      "signalScore": 261,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -161,20 +249,20 @@
         "url": "https://www.tandfonline.com/doi/pdf/10.1080/20013078.2018.1535750?needAccess=true"
       },
       "metrics": {
-        "citedByCount": 11497
+        "citedByCount": 12150
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1454,
-        "previousValue": 1299,
-        "delta": 155,
-        "growthRate": 0.1193,
+        "currentValue": 1551,
+        "previousValue": 1376,
+        "delta": 175,
+        "growthRate": 0.1272,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 159,
+      "signalScore": 179,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -207,20 +295,20 @@
         "url": "https://www.nature.com/articles/s41586-020-2308-7.pdf"
       },
       "metrics": {
-        "citedByCount": 10477
+        "citedByCount": 11180
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1427,
-        "previousValue": 1307,
-        "delta": 120,
-        "growthRate": 0.0918,
+        "currentValue": 1526,
+        "previousValue": 1371,
+        "delta": 155,
+        "growthRate": 0.1131,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 124,
+      "signalScore": 159,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -253,20 +341,20 @@
         "url": "https://doi.org/10.7717/peerj.453"
       },
       "metrics": {
-        "citedByCount": 7364
+        "citedByCount": 8154
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1207,
-        "previousValue": 1122,
-        "delta": 85,
-        "growthRate": 0.0758,
+        "currentValue": 1391,
+        "previousValue": 1240,
+        "delta": 151,
+        "growthRate": 0.1218,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 89,
+      "signalScore": 155,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -296,22 +384,22 @@
         "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
       },
       "metrics": {
-        "citedByCount": 8890
+        "citedByCount": 9339
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1044,
-        "previousValue": 983,
-        "delta": 61,
-        "growthRate": 0.0621,
+        "currentValue": 1110,
+        "previousValue": 1019,
+        "delta": 91,
+        "growthRate": 0.0893,
         "available": true
       },
       "relevanceKeywords": [
         "neuroscience"
       ],
-      "signalScore": 73,
+      "signalScore": 103,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -325,42 +413,35 @@
       }
     },
     {
-      "id": "https://openalex.org/W2116658855",
+      "id": "https://openalex.org/W2322480672",
       "kind": "paper",
-      "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
-      "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
-      "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
-      "publishedAt": "2007-02-28T00:00:00.000Z",
-      "source": "Journal of Neuroscience",
+      "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+      "summary": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizatio",
+      "url": "https://doi.org/10.2307/1941447",
+      "publishedAt": "1992-12-01T00:00:00.000Z",
+      "source": "Ecology",
       "authors": [
-        "William W. Seeley",
-        "Vinod Menon",
-        "Alan F. Schatzberg",
-        "Jennifer Keller",
-        "Gary H. Glover"
+        "Simon A. Levin"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.2307/1941447"
       },
       "metrics": {
-        "citedByCount": 7797
+        "citedByCount": 8127
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 564,
-        "previousValue": 512,
-        "delta": 52,
-        "growthRate": 0.1016,
+        "currentValue": 336,
+        "previousValue": 239,
+        "delta": 97,
+        "growthRate": 0.4059,
         "available": true
       },
-      "relevanceKeywords": [
-        "neuroscience",
-        "neural"
-      ],
-      "signalScore": 68,
+      "relevanceKeywords": [],
+      "signalScore": 101,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -393,20 +474,20 @@
         "url": "https://www.nature.com/articles/nature15393.pdf"
       },
       "metrics": {
-        "citedByCount": 18581
+        "citedByCount": 20390
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 2089,
-        "previousValue": 2030,
-        "delta": 59,
-        "growthRate": 0.0291,
+        "currentValue": 2249,
+        "previousValue": 2178,
+        "delta": 71,
+        "growthRate": 0.0326,
         "available": true
       },
       "relevanceKeywords": [],
-      "signalScore": 63,
+      "signalScore": 75,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -420,85 +501,42 @@
       }
     },
     {
-      "id": "https://openalex.org/W2119717200",
+      "id": "https://openalex.org/W2116658855",
       "kind": "paper",
-      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
-      "summary": "",
-      "url": "https://doi.org/10.1007/bf00992696",
-      "publishedAt": "1992-05-01T00:00:00.000Z",
-      "source": "Machine Learning",
+      "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+      "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+      "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+      "publishedAt": "2007-02-28T00:00:00.000Z",
+      "source": "Journal of Neuroscience",
       "authors": [
-        "Ronald J. Williams"
+        "William W. Seeley",
+        "Vinod Menon",
+        "Alan F. Schatzberg",
+        "Jennifer Keller",
+        "Gary H. Glover"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+        "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
       },
       "metrics": {
-        "citedByCount": 8619
+        "citedByCount": 8250
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 808,
-        "previousValue": 772,
-        "delta": 36,
-        "growthRate": 0.0466,
-        "available": true
-      },
-      "relevanceKeywords": [],
-      "signalScore": 40,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7225994388",
-      "kind": "paper",
-      "title": "Multimodal fMRI and DTI correlates of affective symptoms in diarrhea-predominant irritable bowel syndrome: a subtype-focused neuroimaging study",
-      "summary": "Objective To investigate brain structural and functional alterations in diarrhea-predominant irritable bowel syndrome (IBS-D) and their associations with affective symptoms using multimodal magnetic resonance imaging (MRI). Methods 53 IBS-D patients and 55 healthy controls (HCs) underwent resting-state functional MRI (rs-fMRI) and diffusion tensor imaging (DTI). Rs-fMRI data were analyzed using fractional amplitude of low-frequency fluctuation (fALFF), z-transformed regional homogeneity (zReHo), and functional connectivity (FC). For DTI data, we extracted fractional anisotropy (FA), mean diffu",
-      "url": "https://doi.org/10.3389/fnins.2026.2000144",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Frontiers in Neuroscience",
-      "authors": [
-        "Yuxin Zhao",
-        "Man Wang",
-        "Qianyu Zhang",
-        "Hailin Wu",
-        "Xiaoyan Lei"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.2000144/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
+        "currentValue": 612,
+        "previousValue": 573,
+        "delta": 39,
+        "growthRate": 0.0681,
         "available": true
       },
       "relevanceKeywords": [
         "neuroscience",
-        "brain",
-        "cortex"
+        "neural"
       ],
-      "signalScore": 20,
+      "signalScore": 55,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -528,16 +566,16 @@
         "url": ""
       },
       "metrics": {
-        "citedByCount": 7736
+        "citedByCount": 8708
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 336,
-        "previousValue": 356,
-        "delta": -20,
-        "growthRate": -0.0562,
+        "currentValue": 448,
+        "previousValue": 420,
+        "delta": 28,
+        "growthRate": 0.0667,
         "available": true
       },
       "relevanceKeywords": [
@@ -545,6 +583,148 @@
         "brain",
         "neural",
         "cortex"
+      ],
+      "signalScore": 48,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2024165284",
+      "kind": "paper",
+      "title": "Tensor Decompositions and Applications",
+      "summary": "Abstract. This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or [Formula: see text]-way array. Decompositions of higher-order tensors (i.e., [Formula: see text]-way arrays with [Formula: see text]) have applications in psychometrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value de",
+      "url": "https://doi.org/10.1137/07070111x",
+      "publishedAt": "2009-08-05T00:00:00.000Z",
+      "source": "SIAM Review",
+      "authors": [
+        "Tamara G. Kolda",
+        "Brett W. Bader"
+      ],
+      "openAccess": {
+        "isOpen": false,
+        "url": ""
+      },
+      "metrics": {
+        "citedByCount": 12331
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 1208,
+        "previousValue": 1178,
+        "delta": 30,
+        "growthRate": 0.0255,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 38,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7208711649",
+      "kind": "paper",
+      "title": "Sensory cortical disinhibition underlies long-term fear memory in humans",
+      "summary": "Abstract How transient threats turn into persistent, long-term fear memories is a fundamental problem in neuroscience, yet the underlying mechanisms remain elusive. Early sensory cortex, traditionally viewed as a passive feature analyzer, is increasingly recognized as an active participant in fear processing. Combining high-definition α-frequency transcranial alternating current stimulation (HD α-tACS) with simultaneous EEG-fMRI (electroencephalography-functional magnetic resonance imaging) and transformer-based neural decoding, we tracked fear memory development across formation, consolidatio",
+      "url": "https://doi.org/10.1038/s41467-026-79372-1",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": "Nature Communications",
+      "authors": [
+        "Joshua A. Brown",
+        "Yijia Ma",
+        "Yifan Wang",
+        "John J. Massa",
+        "Peter Kuan-Hao Cheng"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s41467-026-79372-1_reference.pdf"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "neural decoding",
+        "neural",
+        "cortex"
+      ],
+      "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7233570048",
+      "kind": "paper",
+      "title": "Synaptic Pruning, Neuronal Isolation, and Apoptosis: Distinguishing Circuit Refinement from Cell Death",
+      "summary": "Neural disconnection is often described as though loss of communication inevitably causes neuronal death. This critical narrative review examines why that explanation confuses distinct levels of biological organization. Evidence from developmental circuit refinement, in vivo structural plasticity, complement-mediated microglial engulfment, neurotrophic signaling, and programmed cell death is evaluated to distinguish synaptic pruning from axonal remodeling and apoptosis. The literature demonstrates that synapses and neurite branches can be removed while their parent neurons survive. Activity-se",
+      "url": "https://doi.org/10.5281/zenodo.24257074",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Özduru Assoc. Prof. Dr. Ocak Korhan"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.24257074"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience",
+        "brain",
+        "neural"
       ],
       "signalScore": 20,
       "access": {
@@ -560,82 +740,33 @@
       }
     },
     {
-      "id": "https://openalex.org/W4410266985",
+      "id": "https://openalex.org/W4411686351",
       "kind": "paper",
-      "title": "Arousal state fluctuations destabilize speech intelligibility in older adults",
-      "summary": "Understanding speech in noisy, multi-talker environments is fundamental for social communication but becomes increasingly challenging as we age. Age-related hearing loss reduces audibility and degrades speech encoding, yet these deficits do not fully explain the momentary lapses in speech understanding that frustrate real-time communication. Here, we tested whether brain state fluctuations immediately before speech onset predict forthcoming speech recognition errors in older listeners. We measured the accuracy, speed, and consistency of speech recognition in 183 adults aged 18-76 years (103 fe",
-      "url": "https://doi.org/10.1523/jneurosci.2345-25.2026",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Journal of Neuroscience",
+      "title": "Spontaneous emergence of action decisions and slow ramping in a deep brain-constrained model of frontotemporal areas",
+      "summary": "Abstract Humans are capable of voluntarily initiating actions that are spontaneous—not triggered by any sensory event in the immediate context. In such cases, how does the brain make a decision that the time to act has come? To investigate this question, we used a 6-area brain-constrained neural-network model to account for the neurophysiological and anatomical features of relevant areas of the cortex. To replicate the experimental settings under which volitional non stimulus-triggered button-presses are performed, we analysed the network activity in the absence of any “sensory” input: we obse",
+      "url": "https://doi.org/10.1038/s41598-026-62812-9",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": "Scientific Reports",
       "authors": [
-        "Samuel S. Smith",
-        "Jenna A. Sugai",
-        "Daniel B. Polley"
+        "Nick Griffin",
+        "Aaron Schurger",
+        "Max Garagnani"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1523/jneurosci.2345-25.2026"
+        "url": "https://www.nature.com/articles/s41598-026-62812-9_reference.pdf"
       },
       "metrics": {
-        "citedByCount": 1
+        "citedByCount": 0
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1,
+        "currentValue": 0,
         "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 17,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7154724684",
-      "kind": "paper",
-      "title": "Children with developmental language disorder show selective impairments in low-frequency neural tracking of speech",
-      "summary": "Neural tracking of slow temporal modulations in speech supports extraction of the prosodic and syllabic structure thought to be critical for language acquisition by Temporal Sampling (TS) theory, yet whether these automatic cortical tracking mechanisms are altered in children with developmental language disorder (DLD) remains unclear. We recorded MEG while children with and without DLD listened to a story, and quantified source-level lagged speech-brain coherence and frequency-specific cortical functional connectivity across bilateral cortical regions. As expected a priori by TS theory, childr",
-      "url": "https://doi.org/10.1371/journal.pbio.3003782",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "PLoS Biology",
-      "authors": [
-        "Mahmoud Keshavarzi",
-        "Georgia Feltham",
-        "Susan Richards",
-        "Lyla Parvez",
-        "Usha Goswami"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1371/journal.pbio.3003782"
-      },
-      "metrics": {
-        "citedByCount": 1
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
@@ -643,7 +774,7 @@
         "neural",
         "cortex"
       ],
-      "signalScore": 17,
+      "signalScore": 16,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -706,42 +837,42 @@
       }
     },
     {
-      "id": "https://openalex.org/W4407884157",
+      "id": "https://openalex.org/W4226165704",
       "kind": "paper",
-      "title": "The aging human brain exhibits reduced hemodynamic and cerebrospinal fluid flow waves during sleep",
-      "summary": "Abstract Aging reduces the quality and quantity of sleep, and sleep disruption is predictive of neurodegeneration and cognitive decline. Sleep loss could affect brain health through disruption of cerebrospinal fluid (CSF) circulation, which is important for brain homeostasis. In young adults, large CSF flow waves appear during non-rapid eye movement sleep; however, whether sleep-dependent brain fluid physiology changes in aging is not known. Here we imaged large-scale CSF flow and hemodynamics in young (18–39 years) and older (60–84 years) adults during nighttime sleep. Sleep-dependent CSF flo",
-      "url": "https://doi.org/10.1038/s43587-026-01270-4",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Nature Aging",
+      "title": "The brain tumor sequence registration (BraTS-Reg) challenge for establishing correspondence between pre-operative and follow-up MRI scans of diffuse glioma patients",
+      "summary": "Abstract Registration of longitudinal brain MRI scans containing pathologies remains a challenging problem, due to substantial changes in tissue appearance. While medical image registration methods have advanced considerably, they often lack the required precision and robustness. To address this gap, we introduced the brain tumor sequence registration (BraTS-Reg) challenge, the first public benchmark specifically designed for deformable registration between pre-operative and follow-up scans of patients with adult-type diffuse gliomas. Conducted in conjunction with ISBI-2022 and MICCAI-2022, Br",
+      "url": "https://doi.org/10.1038/s41598-026-74112-3",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Scientific Reports",
       "authors": [
-        "Sydney M. Bailes",
-        "Stephanie D. Williams",
-        "Baarbod Ashenagar",
-        "Trang Pham",
-        "Zenia Valdiviezo"
+        "Bhakti Baheti",
+        "Satrajit Chakrabarty",
+        "Hamed Akbari",
+        "Michel Bilello",
+        "Benedikt Wiestler"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1038/s43587-026-01270-4"
+        "url": "https://doi.org/10.1038/s41598-026-74112-3"
       },
       "metrics": {
-        "citedByCount": 8
+        "citedByCount": 84
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 6,
-        "previousValue": 2,
-        "delta": 4,
-        "growthRate": 2,
+        "currentValue": 17,
+        "previousValue": 17,
+        "delta": 0,
+        "growthRate": 0,
         "available": true
       },
       "relevanceKeywords": [
         "brain",
         "neural"
       ],
-      "signalScore": 16,
+      "signalScore": 12,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -755,210 +886,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W7166102182",
+      "id": "https://openalex.org/W7155068957",
       "kind": "paper",
-      "title": "Btbd11 regulates glutamatergic synapse organization in GABAergic inhibitory interneurons",
-      "summary": "The mechanisms that underlie glutamatergic synapse organization and function in GABAergic inhibitory interneurons (INs) are not well described, despite evidence that impaired glutamatergic excitation of INs is implicated in psychiatric disorders such as schizophrenia and anxiety. Glutamatergic synapses received by INs have unique basal transmission properties and exhibit distinct synaptic plasticity compared to those received by excitatory neurons, likely due to cell-type specific differences in postsynaptic density (PSD) composition and maintenance mechanisms. In the present study, we show th",
-      "url": "https://doi.org/10.1523/jneurosci.1394-26.2026",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Journal of Neuroscience",
+      "title": "Brain–Heart Interactions Underlying Differential Recovery after Transient Systemic Anoxia",
+      "summary": "Global cerebral anoxia is a leading cause of death, and resuscitated patients often remain persistently affected by neurological deficits. While previous studies suggest that brain–heart electrophysiological interactions may predict severity and prognosis after hypoxic brain injury coma, little is known about the brain–heart dynamics at near death. Gaining insight into these mechanisms is crucial for developing targeted interventions in critical conditions. Using a rodent model of reversible systemic anoxia ( n = 29, male and female rats), we investigated whether brain–heart interactions durin",
+      "url": "https://doi.org/10.1523/eneuro.0189-26.2026",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "eNeuro",
       "authors": [
-        "Molly Brady",
-        "Shiyu Zhang",
-        "Aaron D. Levy",
-        "Pascal Schamber",
-        "Helene Hartman"
+        "Diego Candia‐Rivera",
+        "Sofia Carrion‐Falgarona",
+        "Mario Chávez",
+        "Fabrizio De Vico Fallani",
+        "Stéphane Charpier"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1523/jneurosci.1394-26.2026"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7225986269",
-      "kind": "paper",
-      "title": "Human Consciousness in the SRE Framework — Autonomy, the Feeling of Free Will, and Civilizational Accumulation",
-      "summary": "Within the framework of Status–Relational Entropy (SRE) dynamics (https://doi.org/10.5281/zenodo.23720861), this paper gives a structural derivation concerning human consciousness. The derivation introduces no new entity beyond the axioms of that framework, and answers only three questions: why consciousness possesses autonomy relative to external description; how that autonomy acts upon the material world; and why human beings generate the subjective feeling of \"free will\". There are five main conclusions. First, autonomy is not an exception to causal law but the kernel of a many-to-one surje",
-      "url": "https://doi.org/10.5281/zenodo.24182810",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Yue Lu"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.24182810"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "brain"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7226004858",
-      "kind": "paper",
-      "title": "Sexual Intercourse, Pornography Viewing, and Masturbation: Multidisciplinary Perspectives on Their Effects on Everyday Social Life",
-      "summary": "Abstract Sexual behavior is a central component of human biology, psychology, and social organization. This paper synthesizes evidence from medicine, endocrinology, neuroscience, genetics, behavioral science, and psychology to examine associations between sexual intercourse, pornography viewing, and masturbation and aspects of everyday social and psychological life. It reviews neuroendocrine foundations of sexual desire and reward (dopamine, oxytocin, prolactin, cortisol, and testosterone), medical and psychological correlates of partnered sexual activity, neural and relational findings relate",
-      "url": "https://doi.org/10.5281/zenodo.24184460",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-      "authors": [
-        "Myo Sett Naing"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.5281/zenodo.24184460"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience",
-        "neural"
-      ],
-      "signalScore": 16,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W4415530861",
-      "kind": "paper",
-      "title": "Protocol for generating parasympathetic neurons from hiPSCs and their coculture with hiPSC-atrial cardiomyocytes",
-      "summary": "Summary Peripheral parasympathetic ganglia lie adjacent to their target organs; their dysfunction contributes to diseases like atrial fibrillation. Due to their challenging accessibility for primary culture, we provide a step-by-step protocol to generate parasympathetic neurons from human induced pluripotent stem cells (hiPSC). They reproduce numerous native physiological features: cholinergic and autonomic markers, functional nicotinic receptors and electrophysiological properties. We also describe a co-culture system with hiPSC-atrial cardiomyocytes allowing neuromodulation of cardiomyocyte ",
-      "url": "https://doi.org/10.1016/j.xpro.2026.104955",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "STAR Protocols",
-      "authors": [
-        "Alison Thomas",
-        "Isabella Noelle Chiong",
-        "Joana F. Neves",
-        "Andrew Tinker",
-        "Franziska Denk"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1016/j.xpro.2026.104955"
-      },
-      "metrics": {
-        "citedByCount": 1
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 1,
-        "previousValue": 0,
-        "delta": 1,
-        "growthRate": 1,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuromodulation"
-      ],
-      "signalScore": 13,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7124240028",
-      "kind": "paper",
-      "title": "2-AG as a potential biomarker for predicting response to short-term fluoxetine treatment in a mouse model of depression",
-      "summary": "Major depressive disorder (MDD) is a complex psychiatric condition with significant individual and social impact and marked variability in treatment response. Identifying biomarkers that predict antidepressant efficacy remains a major challenge, and metabolomic approaches offer a powerful tool to uncover biochemical changes associated with depression and treatment outcome. The prefrontal cortex and the hippocampus are key brain regions involved in the pathophysiology of MDD and antidepressant response. Fluoxetine, one of the most commonly prescribed antidepressants, influences not only seroton",
-      "url": "https://doi.org/10.1038/s41398-026-04548-8",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Translational Psychiatry",
-      "authors": [
-        "Andrea Rodríguez-López",
-        "El Chérif Ibrahim",
-        "Victor Gorgievski",
-        "Miquel Martín",
-        "Patricia Robledo"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://www.nature.com/articles/s41398-026-04548-8_reference.pdf"
+        "url": "https://doi.org/10.1523/eneuro.0189-26.2026"
       },
       "metrics": {
         "citedByCount": 0
@@ -991,23 +935,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7162320446",
+      "id": "https://openalex.org/W7233562572",
       "kind": "paper",
-      "title": "Young people’s preferences for mental health intervention in Ghana and Zimbabwe",
-      "summary": "Common mental disorders (CMDs) are a leading but under-addressed burden among young people globally, with prevalence estimates among the 10–19 age group reaching up to 52.6% in sub-Sahara Africa. Despite this, health systems across the region remain ill-equipped to meet the mental health needs of young people, contributing to persistent gaps in universal health coverage. This study explored young people’s preferences for mental health delivery services in in Ghana and Zimbabwe, examining how social contexts, trust and stigma may influence engagement with care. A qualitative cross-sectional des",
-      "url": "https://doi.org/10.1007/s44192-026-00617-y",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Discover Mental Health",
+      "title": "ОСВІТНЯ НЕЙРОНАУКА: СТАНОВЛЕННЯ, МЕТА ТА ОСНОВНІ ПОНЯТТЯ",
+      "summary": "Educational neuroscience has existed for some time as an interdisciplinary field within the international scientific community. Its primary aim is to translate findings from neuroscience research into the educational domain in order to improve the quality of education. An analysis of the scientific literature indicates that an increasing number of Ukrainian researchers in the field of education are turning to its principles as a tool for addressing educational challenges. At the same time, researchers have not yet undertaken a fundamental analysis of the content and methodological foundations ",
+      "url": "https://doi.org/10.35619/pse.vi7.203",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Педагогічна наука і освіта XXI століття.",
       "authors": [
-        "Moses Kumwenda",
-        "Rebecca Jopling",
-        "Rufaro Hamish Mushonga",
-        "Suzanne Dodd",
-        "Franklin N. Glozah"
+        "Daria Pylypyshyna"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1007/s44192-026-00617-y"
+        "url": "https://doi.org/10.35619/pse.vi7.203"
       },
       "metrics": {
         "citedByCount": 0
@@ -1023,7 +963,7 @@
         "available": true
       },
       "relevanceKeywords": [
-        "mental health"
+        "neuroscience"
       ],
       "signalScore": 12,
       "access": {
@@ -1039,23 +979,110 @@
       }
     },
     {
-      "id": "https://openalex.org/W7162392073",
+      "id": "https://openalex.org/W7233577556",
       "kind": "paper",
-      "title": "MRI Microscopic Fractional Anisotropy Differences in Genetic Frontotemporal Degeneration",
-      "summary": "BACKGROUND: In genetic frontotemporal degeneration (FTD), cortical and subcortical brain volume differences have been detected using volumetric MRI decades before symptoms appear. Microscopic fractional anisotropy (μFA) is a diffusion MRI metric that is sensitive to diffusion anisotropy regardless of relative fiber orientations within a voxel and is more accurate than conventional DTI metrics for detecting age-related microstructural changes in healthy individuals and differences in some neurological diseases. PURPOSE: To compare μFA, mean diffusivity (MD), and volume between genetic frontotem",
-      "url": "https://doi.org/10.1002/jmri.70582",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Journal of Magnetic Resonance Imaging",
+      "title": "Emotional Deprivation, Romantic Attachment, and Behavioral Changes in Older Men: A Critical Review of Dependency, Narcissistic Traits, and Late-Life Depression",
+      "summary": "This narrative review examines why an older man may display conspicuous changes in spending, conversational focus, and willingness to accommodate a former romantic interest. Such changes are often interpreted as emotional dependency, narcissism, or a compensatory response to loneliness. Yet no single behavior justifies those inferences. Drawing on attachment theory, socioemotional selectivity, research on perceived isolation, late-life depression, narcissistic admiration and rivalry,and the neuroscience of romantic motivation, the article develops a differential framework for interpreting rene",
+      "url": "https://doi.org/10.5281/zenodo.24253872",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Isis So",
-        "Ricardo Ríos-Carrillo",
-        "Kristy K. L. Coleman",
-        "Elizabeth C. Finger",
-        "Corey Allan Baron"
+        "Özduru Dr. Ocak Korhan"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1002/jmri.70582"
+        "url": "https://doi.org/10.5281/zenodo.24253872"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7233587738",
+      "kind": "paper",
+      "title": "The Medium Nobody Was Reading",
+      "summary": "This paper surveys communication and sensing channels beyond conventional radio, and grades each by evidence and by buildability at the scale of a solo maker working with ESP32-class hardware. Twenty-one methods are assessed — from WiFi channel-state sensing and RF backscatter to muon tomography, through-earth ELF, and quantum key distribution — across five layers: the methods themselves; the physics and mathematics that bound them (Shannon–Hartley, Landauer, the no-communication theorem); the historical and scriptural record of signaling; the poets and artists who imagined or built channels; ",
+      "url": "https://doi.org/10.5281/zenodo.24261603",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Kyle Schneller"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://doi.org/10.5281/zenodo.24261603"
+      },
+      "metrics": {
+        "citedByCount": 0
+      },
+      "trend": {
+        "metric": "citations_by_year",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": 0,
+        "previousValue": 0,
+        "delta": 0,
+        "growthRate": 0,
+        "available": true
+      },
+      "relevanceKeywords": [
+        "neuroscience"
+      ],
+      "signalScore": 12,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7233604108",
+      "kind": "paper",
+      "title": "Aversive conditioning prevents perceptual habituation, but not cortical adaptation to odors",
+      "summary": "Abstract To save attentional resources, the human brain learns to decrease its response to non-threatening stimuli. The decreased behavioral response is known as habituation, while the decreased peripheral and central neural response is called adaptation. In this investigation, we were interested in whether initially non-threatening olfactory stimuli, when paired with aversive shock, may become less prone to habituation and adaptation. To this end, in 46 individuals (24 females; M age =24.8 ± 5.7 years), we examined changes in cortical response and perceptual assessments of three odors, of whi",
+      "url": "https://doi.org/10.1038/s41598-026-80377-5",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Scientific Reports",
+      "authors": [
+        "Anna Oleszkiewicz",
+        "Felix Riedel",
+        "Charlotte Sinding",
+        "Thomas R. Hummel"
+      ],
+      "openAccess": {
+        "isOpen": true,
+        "url": "https://www.nature.com/articles/s41598-026-80377-5.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1072,7 +1099,7 @@
       },
       "relevanceKeywords": [
         "brain",
-        "cortex"
+        "neural"
       ],
       "signalScore": 12,
       "access": {
@@ -1088,20 +1115,19 @@
       }
     },
     {
-      "id": "https://openalex.org/W7214089738",
+      "id": "https://openalex.org/W7233622214",
       "kind": "paper",
-      "title": "Technology-enhanced learning in undergraduate neuroscience education: tractography-based virtual dissection in psychology",
-      "summary": "Neuroanatomy poses a significant challenge for Psychology students due to its spatial and conceptual complexity. Educational approaches that enhance the relevance and visualization of neuroanatomical content may improve students’ learning experiences. This study implemented a tractography-based virtual dissection activity in undergraduate Psychology students. Feasibility, dissection performance, and the association between perceived learning and students’ perceptions of utility, difficulty and handling, and organizational aspects were examined. First-year undergraduate Psychology students part",
-      "url": "https://doi.org/10.1186/s12909-026-10811-9",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "BMC Medical Education",
+      "title": "The Experimental Architecture of Ontological State Mechanics: A Unified Falsifiability Compendium and Laboratory Verification Guide Across Physics, Neuroscience, and Biology",
+      "summary": "A genuine Theory of Everything must not merely reproduce known physical laws; it must eliminate arbitrary empirical tuning parameters and expose itself to decisive,unambiguous experimental falsification across every scale of nature. This standalone supplementary manuscript consolidates the complete mathematical, observational,and laboratory verification architecture for the Ontological State Mechanics (OSM) trilogy: Truthfulness of Measurement (OSM I), The Geometry of Focus and 5D Persistence(OSM II), and The Architecture of Matter and Biological Form (OSM III). Starting from eight parameter-f",
+      "url": "https://doi.org/10.5281/zenodo.24263433",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Diana López-Barroso",
-        "María José Torres‐Prioris"
+        "Curtis Matthew Conaway"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1186/s12909-026-10811-9"
+        "url": "https://doi.org/10.5281/zenodo.24263433"
       },
       "metrics": {
         "citedByCount": 0
@@ -1133,71 +1159,22 @@
       }
     },
     {
-      "id": "https://openalex.org/W7225984425",
+      "id": "https://openalex.org/W7148898734",
       "kind": "paper",
-      "title": "USP4-stabilized IRF1 is a key regulator of disease-associated microglial responses in Alzheimer’s disease",
-      "summary": "Background Microglial dysfunction is a hallmark of Alzheimer’s disease (AD) pathology. Although interferon regulatory factor 1 (IRF1) is traditionally considered a pro-inflammatory factor, its role in regulating microglial function in AD remains poorly understood. Methods To investigate the role of IRF1 in AD, we generated microglia-specific IRF1 conditional knockout (cKO) mice on the FAD 4T amyloid mouse background. Behavioral assessment, immunofluorescence, flow cytometry, and SMART-seq II-based ribonucleic acid (RNA) sequencing were performed to evaluate disease progression and microglial p",
-      "url": "https://doi.org/10.3389/fnagi.2026.1997174",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Frontiers in Aging Neuroscience",
+      "title": "Neurophysiological evidence for rapid semantic integration via fast mapping",
+      "summary": "Theories of declarative memory consolidation hold that novel associative information is integrated into cortical semantic networks slowly and with hippocampal support. However, an encoding paradigm called fast mapping (FM) has been proposed to permit rapid cortical integration of novel item-label associations, particularly when the novel item shares substantial visual-semantic features with a simultaneously presented known concept. We tested whether associations encoded through FM immediately engage semantic memory networks, indexed by the N400 event-related potential. In contrast to behaviora",
+      "url": "https://doi.org/10.3758/s13415-026-01502-5",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": "Cognitive Affective & Behavioral Neuroscience",
       "authors": [
-        "Qingyu Lu",
-        "Zhi Ma",
-        "Syed Ali Raza",
-        "Chenfeng Ma",
-        "Wei Wu"
+        "Ann-Kathrin Zaiser",
+        "Lisa Festag",
+        "Regine Bader",
+        "Patric Meyer"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1997174/pdf"
-      },
-      "metrics": {
-        "citedByCount": 0
-      },
-      "trend": {
-        "metric": "citations_by_year",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": 0,
-        "previousValue": 0,
-        "delta": 0,
-        "growthRate": 0,
-        "available": true
-      },
-      "relevanceKeywords": [
-        "neuroscience"
-      ],
-      "signalScore": 12,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
-      "id": "https://openalex.org/W7225986315",
-      "kind": "paper",
-      "title": "Healthcare experiences, pain, and quality of life of patients attending an integrated pelvic pain clinic in the United States",
-      "summary": "Background: Individuals living with chronic genitopelvic pain and dysesthesia face many barriers to accessing validating and effective treatment. Literature has begun to highlight factors such as effective healthcare provider communication as underpinnings of effective care. Aim: The present study used a mixed-methods, cross-sectional approach to examine healthcare experiences reported by individuals with various genitopelvic pain conditions who were patients at a US-based integrated pelvic pain clinic. The clinic features a personalized, trauma-informed, evidence-based, neuroscience driven bi",
-      "url": "https://doi.org/10.1177/22840265261499056",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Journal of Endometriosis and Pelvic Pain Disorders",
-      "authors": [
-        "Maeve Mulroy",
-        "Robert Echenberg",
-        "Kate E Hunker",
-        "Suraya Meghji",
-        "Caroline F. Pukall"
-      ],
-      "openAccess": {
-        "isOpen": true,
-        "url": "https://doi.org/10.1177/22840265261499056"
+        "url": "https://link.springer.com/content/pdf/10.3758/s13415-026-01502-5.pdf"
       },
       "metrics": {
         "citedByCount": 0
@@ -1248,16 +1225,16 @@
         "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
       },
       "metrics": {
-        "citedByCount": 13823
+        "citedByCount": 14640
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 465,
-        "previousValue": 746,
-        "delta": -281,
-        "growthRate": -0.3767,
+        "currentValue": 534,
+        "previousValue": 828,
+        "delta": -294,
+        "growthRate": -0.3551,
         "available": true
       },
       "relevanceKeywords": [
@@ -1295,16 +1272,16 @@
         "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
       },
       "metrics": {
-        "citedByCount": 10726
+        "citedByCount": 11364
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 1091,
-        "previousValue": 1191,
-        "delta": -100,
-        "growthRate": -0.084,
+        "currentValue": 1234,
+        "previousValue": 1258,
+        "delta": -24,
+        "growthRate": -0.0191,
         "available": true
       },
       "relevanceKeywords": [
@@ -1341,16 +1318,16 @@
         "url": "https://dspace.library.uu.nl/handle/1874/204900"
       },
       "metrics": {
-        "citedByCount": 11821
+        "citedByCount": 15117
       },
       "trend": {
         "metric": "citations_by_year",
         "currentYear": 2026,
         "previousYear": 2025,
-        "currentValue": 3,
-        "previousValue": 228,
-        "delta": -225,
-        "growthRate": -0.9868,
+        "currentValue": 381,
+        "previousValue": 515,
+        "delta": -134,
+        "growthRate": -0.2602,
         "available": true
       },
       "relevanceKeywords": [
@@ -1370,23 +1347,23 @@
       }
     },
     {
-      "id": "https://openalex.org/W4405810628",
+      "id": "https://openalex.org/W4410842837",
       "kind": "paper",
-      "title": "Contextualizing biological heterogeneity in brain structural normativity assessments across the aging continuum with the nearest neighbor normativity framework",
-      "summary": "Abstract Background: Despite established consensus about the individuality of brain physiology and structural changes, current neuroimaging biomarker paradigms heavily rely on population averages. Here, we define normativity not as a single reference point but as a landscape of permissible configurations arising from diverse physiological manifestations. Methods: We introduce the Nearest Neighbor Normativity (N 3 ) framework, designed to parse the natural heterogeneity in brain structural measurements into a diversity-aware biomarker of brain structural decline. Through repeated comparisons wi",
-      "url": "https://doi.org/10.1038/s43856-026-01903-0",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "source": "Communications Medicine",
+      "title": "Fixel-based analysis identifies selective vulnerability of non-dominant fiber populations in aging and mild cognitive impairment",
+      "summary": "Fixel-based analysis (FBA) resolves fiber-specific white matter properties within crossing-fiber regions, where conventional diffusion tensor imaging is limited. We applied single-shell three-tissue constrained spherical deconvolution to diffusion MRI from 295 older adults in the Vanderbilt Memory and Aging Project cohort, quantifying fiber density (FD), fiber-bundle cross-section (FC), and their composite (FDC) across the primary (N1), secondary (N2), and tertiary (N3) fiber populations within each white matter voxel. White matter was stratified into crossing-fiber complexity strata defined b",
+      "url": "https://doi.org/10.1007/s00429-026-03224-3",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": "Brain Structure and Function",
       "authors": [
-        "Ramona Leenings",
-        "Nils Ralf Winter",
-        "Jan Ernsting",
-        "Maximilian Konowski",
-        "Vincent Holstein"
+        "Aditi Sathe",
+        "Ankita Chatterjee",
+        "Niranjana Shashikumar",
+        "Kimberly R. Pechman",
+        "Kurt G. Schilling"
       ],
       "openAccess": {
         "isOpen": true,
-        "url": "https://doi.org/10.1038/s43856-026-01903-0"
+        "url": "https://link.springer.com/content/pdf/10.1007/s00429-026-03224-3.pdf"
       },
       "metrics": {
         "citedByCount": 1
