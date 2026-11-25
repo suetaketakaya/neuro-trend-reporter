@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T01:10:15.747Z",
+  "generatedAt": "2026-11-25T03:49:37.265Z",
   "compare": {
     "currentYear": 2026,
     "previousYear": 2025
@@ -12,11 +12,1399 @@
   "sections": [
     {
       "section": "papers",
-      "title": "papers",
-      "description": "Collector failed.",
-      "sourceCount": 0,
-      "error": "HTTP 429 for https://api.openalex.org/works?search=neuroscience&filter=type%3Aarticle%2Cfrom_publication_date%3A2026-05-27%2Cto_publication_date%3A2026-11-23&sort=publication_date%3Adesc&per-page=40&select=id%2Cdoi%2Cdisplay_name%2Cpublication_date%2Ccited_by_count%2Ccounts_by_year%2Cauthorships%2Cprimary_location%2Copen_access%2Cabstract_inverted_index",
-      "items": []
+      "title": "Papers",
+      "description": "Recent and citation-growing neuroscience-related papers from OpenAlex.",
+      "sourceCount": 1,
+      "items": [
+        {
+          "id": "https://openalex.org/W4309674289",
+          "kind": "paper",
+          "title": "Survey of Hallucination in Natural Language Generation",
+          "summary": "Natural Language Generation (NLG) has improved exponentially in recent years thanks to the development of sequence-to-sequence deep learning technologies such as Transformer-based language models. This advancement has led to more fluent and coherent NLG, leading to improved development in downstream tasks such as abstractive summarization, dialogue generation, and data-to-text generation. However, it is also apparent that deep learning based generation is prone to hallucinate unintended text, which degrades the system performance and fails to meet user expectations in many real-world scenarios",
+          "url": "https://doi.org/10.1145/3571730",
+          "publishedAt": "2023-03-03T00:00:00.000Z",
+          "source": "ACM Computing Surveys",
+          "authors": [
+            "Ziwei Ji",
+            "Nayeon Lee",
+            "Rita Frieske",
+            "Tiezheng Yu",
+            "Dan Su"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://arxiv.org/pdf/2202.03629"
+          },
+          "metrics": {
+            "citedByCount": 11535
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 5949,
+            "previousValue": 2949,
+            "delta": 3000,
+            "growthRate": 1.0173,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 3004,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4239510810",
+          "kind": "paper",
+          "title": "Support-Vector Networks",
+          "summary": "",
+          "url": "https://doi.org/10.1007/bf00994018",
+          "publishedAt": "1995-09-01T00:00:00.000Z",
+          "source": "Machine Learning",
+          "authors": [
+            "Corinna Cortes",
+            "Vladimir N. Vapnik"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf"
+          },
+          "metrics": {
+            "citedByCount": 74183
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 8381,
+            "previousValue": 6997,
+            "delta": 1384,
+            "growthRate": 0.1978,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 1388,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2560647685",
+          "kind": "paper",
+          "title": "Overcoming catastrophic forgetting in neural networks",
+          "summary": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possible to overcome this limitation and train networks that can maintain expertise on tasks that they have not experienced for a long time. Our approach remembers old tasks by selectively slowing down learning on the weights important for those tasks. We demonstrate our approach is scalable and effective",
+          "url": "https://doi.org/10.1073/pnas.1611835114",
+          "publishedAt": "2017-03-14T00:00:00.000Z",
+          "source": "Proceedings of the National Academy of Sciences",
+          "authors": [
+            "James Kirkpatrick",
+            "Razvan Pascanu",
+            "Neil C. Rabinowitz",
+            "Joel Veness",
+            "Guillaume Desjardins"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380101/"
+          },
+          "metrics": {
+            "citedByCount": 13080
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 3730,
+            "previousValue": 2587,
+            "delta": 1143,
+            "growthRate": 0.4418,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural"
+          ],
+          "signalScore": 1151,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2119717200",
+          "kind": "paper",
+          "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+          "summary": "",
+          "url": "https://doi.org/10.1007/bf00992696",
+          "publishedAt": "1992-05-01T00:00:00.000Z",
+          "source": "Machine Learning",
+          "authors": [
+            "Ronald J. Williams"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+          },
+          "metrics": {
+            "citedByCount": 12909
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 2005,
+            "previousValue": 1494,
+            "delta": 511,
+            "growthRate": 0.342,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 515,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2900756811",
+          "kind": "paper",
+          "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+          "summary": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles, ectosomes, oncosomes, apoptotic bodies, and many other names. However, specific issues arise when working with these entities, whose size and amount often make them difficult to obtain as relatively pure preparations, and to characterize properly. The International Society for Extracellular Vesicle",
+          "url": "https://doi.org/10.1080/20013078.2018.1535750",
+          "publishedAt": "2018-11-23T00:00:00.000Z",
+          "source": "Journal of Extracellular Vesicles",
+          "authors": [
+            "Clotilde Théry",
+            "Kenneth Whitaker Witwer",
+            "Elena Aïkawa",
+            "María José Alcaraz",
+            "Johnathon David Anderson"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.tandfonline.com/doi/pdf/10.1080/20013078.2018.1535750?needAccess=true"
+          },
+          "metrics": {
+            "citedByCount": 12383
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1625,
+            "previousValue": 1382,
+            "delta": 243,
+            "growthRate": 0.1758,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 247,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W3029661147",
+          "kind": "paper",
+          "title": "The mutational constraint spectrum quantified from variation in 141,456 humans",
+          "summary": "Genetic variants that inactivate protein-coding genes are a powerful source of information about the phenotypic consequences of gene disruption: genes that are crucial for the function of an organism will be depleted of such variants in natural populations, whereas non-essential genes will tolerate their accumulation. However, predicted loss-of-function variants are enriched for annotation errors, and tend to be found at extremely low frequencies, so their analysis requires careful variant annotation and very large sample sizes 1 . Here we describe the aggregation of 125,748 exomes and 15,708 ",
+          "url": "https://doi.org/10.1038/s41586-020-2308-7",
+          "publishedAt": "2020-05-27T00:00:00.000Z",
+          "source": "Nature",
+          "authors": [
+            "Konrad J. Karczewski",
+            "Laurent C. Francioli",
+            "Grace Tiao",
+            "Beryl B. Cummings",
+            "Jessica Alföldi"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s41586-020-2308-7.pdf"
+          },
+          "metrics": {
+            "citedByCount": 11330
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1591,
+            "previousValue": 1379,
+            "delta": 212,
+            "growthRate": 0.1537,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 216,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2135894974",
+          "kind": "paper",
+          "title": "Nonparametric statistical testing of EEG- and MEG-data",
+          "summary": "",
+          "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+          "publishedAt": "2007-04-11T00:00:00.000Z",
+          "source": "Journal of Neuroscience Methods",
+          "authors": [
+            "Eric Maris",
+            "Robert Oostenveld"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+          },
+          "metrics": {
+            "citedByCount": 9417
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1154,
+            "previousValue": 983,
+            "delta": 171,
+            "growthRate": 0.174,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 183,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2104549677",
+          "kind": "paper",
+          "title": "A global reference for human genetic variation",
+          "summary": "The 1000 Genomes Project set out to provide a comprehensive description of common human genetic variation by applying whole-genome sequencing to a diverse set of individuals from multiple populations. Here we report completion of the project, having reconstructed the genomes of 2,504 individuals from 26 populations using a combination of low-coverage whole-genome sequencing, deep exome sequencing, and dense microarray genotyping. We characterized a broad spectrum of genetic variation, in total over 88 million variants (84.7 million single nucleotide polymorphisms (SNPs), 3.6 million short inse",
+          "url": "https://doi.org/10.1038/nature15393",
+          "publishedAt": "2015-09-30T00:00:00.000Z",
+          "source": "Nature",
+          "authors": [
+            "Corresponding authors",
+            "Adam Auton",
+            "Gonçalo Rocha Abecasis",
+            "David Altshuler",
+            "Richard Michael Durbin"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/nature15393.pdf"
+          },
+          "metrics": {
+            "citedByCount": 20757
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 2349,
+            "previousValue": 2178,
+            "delta": 171,
+            "growthRate": 0.0785,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 175,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W1966327575",
+          "kind": "paper",
+          "title": "WGCNA: an R package for weighted correlation network analysis",
+          "summary": "BACKGROUND: Correlation networks are increasingly being used in bioinformatics applications. For example, weighted gene co-expression network analysis is a systems biology method for describing the correlation patterns among genes across microarray samples. Weighted correlation network analysis (WGCNA) can be used for finding clusters (modules) of highly correlated genes, for summarizing such clusters using the module eigengene or an intramodular hub gene, for relating modules to one another and to external sample traits (using eigengene network methodology), and for calculating module members",
+          "url": "https://doi.org/10.1186/1471-2105-9-559",
+          "publishedAt": "2008-12-01T00:00:00.000Z",
+          "source": "BMC Bioinformatics",
+          "authors": [
+            "Peter Langfelder",
+            "Steve Horvath"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/1471-2105-9-559"
+          },
+          "metrics": {
+            "citedByCount": 31417
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 4121,
+            "previousValue": 4004,
+            "delta": 117,
+            "growthRate": 0.0292,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 125,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2024165284",
+          "kind": "paper",
+          "title": "Tensor Decompositions and Applications",
+          "summary": "This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or [Formula: see text]-way array. Decompositions of higher-order tensors (i.e., [Formula: see text]-way arrays with [Formula: see text]) have applications in psychometrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value decompositio",
+          "url": "https://doi.org/10.1137/07070111x",
+          "publishedAt": "2009-08-05T00:00:00.000Z",
+          "source": "SIAM Review",
+          "authors": [
+            "Tamara G. Kolda",
+            "Brett W. Bader"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 12546
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1297,
+            "previousValue": 1186,
+            "delta": 111,
+            "growthRate": 0.0936,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 119,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2322480672",
+          "kind": "paper",
+          "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+          "summary": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizatio",
+          "url": "https://doi.org/10.2307/1941447",
+          "publishedAt": "1992-12-01T00:00:00.000Z",
+          "source": "Ecology",
+          "authors": [
+            "Simon A. Levin"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.2307/1941447"
+          },
+          "metrics": {
+            "citedByCount": 8420
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 354,
+            "previousValue": 242,
+            "delta": 112,
+            "growthRate": 0.4628,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 116,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2166073443",
+          "kind": "paper",
+          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+          "url": "https://doi.org/10.1155/2011/156869",
+          "publishedAt": "2010-12-23T00:00:00.000Z",
+          "source": "Computational Intelligence and Neuroscience",
+          "authors": [
+            "Robert Oostenveld",
+            "Pascal Fries",
+            "Eric Maris",
+            "Jan‐Mathijs Schoffelen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+          },
+          "metrics": {
+            "citedByCount": 11465
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1270,
+            "previousValue": 1218,
+            "delta": 52,
+            "growthRate": 0.0427,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 64,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2031753087",
+          "kind": "paper",
+          "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+          "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+          "url": "https://doi.org/10.1137/1010093",
+          "publishedAt": "1968-10-01T00:00:00.000Z",
+          "source": "SIAM Review",
+          "authors": [
+            "Benoît B. Mandelbrot",
+            "John W. Van Ness"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 8940
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 465,
+            "previousValue": 425,
+            "delta": 40,
+            "growthRate": 0.0941,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 60,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W1897139626",
+          "kind": "paper",
+          "title": "Estimating the reproducibility of psychological science",
+          "summary": "Reproducibility is a defining feature of science, but the extent to which it characterizes current research is unknown. We conducted replications of 100 experimental and correlational studies published in three psychology journals using high-powered designs and original materials when available. Replication effects were half the magnitude of original effects, representing a substantial decline. Ninety-seven percent of original studies had statistically significant results. Thirty-six percent of replications had statistically significant results; 47% of original effect sizes were in the 95% con",
+          "url": "https://doi.org/10.1126/science.aac4716",
+          "publishedAt": "2015-08-27T00:00:00.000Z",
+          "source": "Science",
+          "authors": [
+            "Open Science Collaboration"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://discovery.dundee.ac.uk/ws/files/7385883/RPP_SCIENCE_2015.pdf"
+          },
+          "metrics": {
+            "citedByCount": 10038
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 765,
+            "previousValue": 739,
+            "delta": 26,
+            "growthRate": 0.0352,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 30,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2004293194",
+          "kind": "paper",
+          "title": "Whole Brain Segmentation",
+          "summary": "",
+          "url": "https://doi.org/10.1016/s0896-6273(02)00569-x",
+          "publishedAt": "2002-01-01T00:00:00.000Z",
+          "source": "Neuron",
+          "authors": [
+            "Bruce R. Fischl",
+            "David H. Salat",
+            "Evelina Busa",
+            "Marilyn Albert",
+            "Megan Dieterich"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "http://www.cell.com/article/S089662730200569X/pdf"
+          },
+          "metrics": {
+            "citedByCount": 9628
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 645,
+            "previousValue": 628,
+            "delta": 17,
+            "growthRate": 0.0271,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 25,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7204173920",
+          "kind": "paper",
+          "title": "Autism polygenic score is associated with sex-dependent broadening of brain network variability",
+          "summary": "Autism polygenic scores (PGS) reliably predict case–control status yet explain little variance in autism-related traits. Landscape accounts of neurodevelopmental diversity propose that genetic liability broadens the range of viable neural configurations rather than shifting brain organisation toward dysfunction. We tested whether autism polygenic load is associated with increased variability in functional network organisation among non-autistic adults. We analysed resting-state functional connectivity from 910 non-autistic adults (aged 22–35) in the Human Connectome Project. Polygenic scores w",
+          "url": "https://doi.org/10.1186/s13229-026-00750-z",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Molecular Autism",
+          "authors": [
+            "Joe Bathelt",
+            "Danae Mitsea",
+            "Hilde M. Geurts"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1186/s13229-026-00750-z"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural",
+            "connectome"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4407079389",
+          "kind": "paper",
+          "title": "A shared meaning component across languages in the human brain",
+          "summary": "",
+          "url": "https://doi.org/10.1038/s41593-026-02523-6",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Nature Neuroscience",
+          "authors": [
+            "Andrea Gregor de Varda",
+            "Saima Malik-Moraleda",
+            "Greta Tuckute",
+            "Evelina G. Fedorenko"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1101/2025.02.01.636044"
+          },
+          "metrics": {
+            "citedByCount": 9
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 4,
+            "previousValue": 5,
+            "delta": -1,
+            "growthRate": -0.2,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7171513474",
+          "kind": "paper",
+          "title": "Bayesian Complete-Pooling in Cross-Subject Classification for Motor Imagery Electroencephalogram",
+          "summary": "Brain-computer interfaces (BCIs) have long sought calibration-free operation, yet classifiers are typically benchmarked on discrimination alone. Discrimination is blind to calibration, a meaningful gap given that electroencephalogram (EEG) signals are nonstationary and point-estimate classifiers can become overconfident under distribution shift. We conducted a large-scale study contrasting Bayesian complete-pooling models against frequentist baselines for cross-subject, left-hand versus right-hand motor imagery EEG classification across 20 datasets. Each of six frequentist pipelines was paired",
+          "url": "https://doi.org/10.1088/2057-1976/aec567",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Biomedical Physics & Engineering Express",
+          "authors": [
+            "Ethan Davis"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://arxiv.org/pdf/2607.22980"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4408403627",
+          "kind": "paper",
+          "title": "Genetic liability to depression has distinctive associations with cardiometabolic diseases",
+          "summary": "Mental disorders and cardiometabolic diseases (CMDs) share genetic factors, but whether these genetic links are disorder specific or reflect genetic overlap among mental disorders remains unclear. In 355,717 participants from Sweden, Norway and Estonia, we examined associations between polygenic scores (PGS) for six mental disorders and ten clinically diagnosed CMDs. Here we show that the major depressive disorder PGS had the most consistent associations with CMDs and remained robust after adjustment for other mental disorder PGS, body mass index, smoking and educational attainment. The PGS fo",
+          "url": "https://doi.org/10.1038/s44220-026-00749-8",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Nature Mental Health",
+          "authors": [
+            "Jacob Bergstedt",
+            "Kadri Kõiv",
+            "Andreas Jangmo",
+            "Marit Haram",
+            "Piotr Pawel Jaholkowski"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1038/s44220-026-00749-8"
+          },
+          "metrics": {
+            "citedByCount": 5
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 4,
+            "previousValue": 1,
+            "delta": 3,
+            "growthRate": 3,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 15,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7164021015",
+          "kind": "paper",
+          "title": "Capacity-controlled EEG denoising: diminishing reconstruction returns on semi-synthetic benchmarks and task-dependent downstream utility",
+          "summary": "Objective. Electroencephalography (EEG) denoising is often ranked by clean-reference reconstruction metrics, although downstream task performance is less often assessed. We tested capacity effects and when reconstruction fidelity tracks utility. Approach. A depthwise-separable convolutional denoiser spanned 1.05K–40.26K parameters. Capacity was evaluated on semi-synthetic clean-reference benchmarks (EEGDenoiseNet and a mixed-artifact corpus) and by zero-shot reconstruction on brain–computer interface (BCI) Competition IV-2a/IV-2b. Downstream effects and same-condition metric–utility associatio",
+          "url": "https://doi.org/10.1088/1741-2552/aec595",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Journal of Neural Engineering",
+          "authors": [
+            "Jasmeet Singh Bindra",
+            "Siddharth Panwar"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://arxiv.org/pdf/2606.08594"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 13,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7171402699",
+          "kind": "paper",
+          "title": "Cycles of discourse, speech dysfluency, and active inference.",
+          "summary": "Speech is a complex motor and social act. We must not only produce and understand sequences of variable-length words formed from ordered syllables but also speak and listen in turn. This theoretical article introduces a computational model of speech production and auditory segmentation based on sequences of discrete phonemes . The purpose of this model is to develop a vehicle for testing (in silico) hypotheses about the mechanisms that govern the loss of speech fluency , something may occur transiently in people who stutter or progressively in various neurodegenerative conditions. The modeling",
+          "url": "https://doi.org/10.1037/rev0000654",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Psychological Review",
+          "authors": [
+            "Thomas Parr",
+            "Birtan Demirel",
+            "Youssuf Saleh",
+            "Sanjay Manohar"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1037/rev0000654"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 13,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7124824155",
+          "kind": "paper",
+          "title": "Neural representation of tactile and visual words in the ventral occipitotemporal cortex",
+          "summary": "While reading is typically grounded in visual experience, growing evidence suggests that the ventral occipitotemporal cortex (vOTC)—canonically associated with visual word recognition—may encode word representations in a modality-independent manner. Here, we investigated how this region supports word representations across visual and tactile modalities and adapts to modality-specific demands. Using functional MRI, we examined sighted adults as they explored 3D-printed words by touch and viewed matched visual stimuli. Both modalities activated the vOTC, and cross-modal decoding revealed shared ",
+          "url": "https://doi.org/10.1038/s42003-026-11321-6",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Communications Biology",
+          "authors": [
+            "Zhenglong Lin",
+            "Yufei Tan",
+            "Canhuang Luo",
+            "Jiajia Yang",
+            "Geqi Qi"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s42003-026-11321-6_reference.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7148294355",
+          "kind": "paper",
+          "title": "Alzheimer’s disease brain phenotypes are age-dependent",
+          "summary": "A widespread view of neurodegenerative disorders, including Alzheimer’s Disease (AD), frames their effects as accelerated aging, with the brain-age gap (BAG, the deviation of predicted ‘brain age’ from chronological age) as a staple biomarker. However, BAG relies on a fundamental, untested assumption: that AD can be identified via age-invariant brain phenotypes. Using invariant representation learning on brain MRI from 44,482 individuals, we created neural representations that optimally convey age information (age-aware) or conversely remove it (age-invariant) while minimizing reconstruction d",
+          "url": "https://doi.org/10.1038/s44400-026-00151-2",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "npj Dementia",
+          "authors": [
+            "Fermín Travi",
+            "Anushree Mehta",
+            "Eduardo Castro",
+            "Hongyang Li",
+            "Jenna Reinen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s44400-026-00151-2.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2751884637",
+          "kind": "paper",
+          "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+          "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+          "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+          "publishedAt": "2017-09-01T00:00:00.000Z",
+          "source": "The Lancet",
+          "authors": [
+            "Theo Vos",
+            "Amanuel Alemu Abajobir",
+            "Kalkidan Hassen Abate",
+            "Cristiana Abbafati",
+            "Kaja Abbas"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
+          },
+          "metrics": {
+            "citedByCount": 14927
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 565,
+            "previousValue": 855,
+            "delta": -290,
+            "growthRate": -0.3392,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2138825607",
+          "kind": "paper",
+          "title": "Image processing with ImageJ",
+          "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+          "url": "https://dspace.library.uu.nl/handle/1874/204900",
+          "publishedAt": "2004-01-01T00:00:00.000Z",
+          "source": "Utrecht University Repository (Utrecht University)",
+          "authors": [
+            "Michael D. Abràmoff",
+            "Paulo Jorge Magalhães",
+            "Sunanda J. Ram"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://dspace.library.uu.nl/handle/1874/204900"
+          },
+          "metrics": {
+            "citedByCount": 15556
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 402,
+            "previousValue": 531,
+            "delta": -129,
+            "growthRate": -0.2429,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7141441899",
+          "kind": "paper",
+          "title": "Rules-and-facts model for simultaneous generalization and memorization in neural networks",
+          "summary": "A key capability of modern neural networks is their capacity to simultaneously learn underlying rules and memorize specific facts or exceptions. Yet, theoretical understanding of this dual capability remains limited. We introduce the Rules-and-Facts (RAF) model, a minimal solvable setting that enables precise characterization of this phenomenon by bridging two classical lines of work in the statistical physics of learning: the teacher-student framework for generalization and Gardner-style capacity analysis for memorization. In the RAF model, a fraction 1 − ε of training labels is generated by ",
+          "url": "https://doi.org/10.1103/zz3s-48m6",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Physical Review X",
+          "authors": [
+            "Gabriele Farné",
+            "Fabrizio Boncoraglio",
+            "Lenka Zdeborová"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1103/zz3s-48m6"
+          },
+          "metrics": {
+            "citedByCount": 3
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 3,
+            "previousValue": 0,
+            "delta": 3,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural"
+          ],
+          "signalScore": 11,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4411584912",
+          "kind": "paper",
+          "title": "Linguistic contextualization in the human hippocampus",
+          "summary": "",
+          "url": "https://doi.org/10.1038/s41562-026-02543-z",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Nature Human Behaviour",
+          "authors": [
+            "Kalman A. Katlowitz",
+            "James L. Belanger",
+            "Taha Ismail",
+            "Ana G. Chavez",
+            "Assia Chericoni"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.biorxiv.org/content/biorxiv/early/2025/06/24/2025.06.23.661103.full.pdf"
+          },
+          "metrics": {
+            "citedByCount": 12
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 9,
+            "previousValue": 3,
+            "delta": 6,
+            "growthRate": 2,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2259938310",
+          "kind": "paper",
+          "title": "An integrated encyclopedia of DNA elements in the human genome",
+          "summary": "The human genome encodes the blueprint of life, but the function of the vast majority of its nearly three billion bases is unknown. The Encyclopedia of DNA Elements (ENCODE) project has systematically mapped regions of transcription, transcription factor association, chromatin structure and histone modification. These data enabled us to assign biochemical functions for 80% of the genome, in particular outside of the well-studied protein-coding regions. Many discovered candidate regulatory elements are physically associated with one another and with expressed genes, providing new insights into ",
+          "url": "https://doi.org/10.1038/nature11247",
+          "publishedAt": "2012-09-01T00:00:00.000Z",
+          "source": "Nature",
+          "authors": [
+            "Ian Dunham",
+            "Ewan Birney",
+            "Javier Herrero",
+            "Steven P. Wilder",
+            "Damian Keefe"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/nature11247.pdf"
+          },
+          "metrics": {
+            "citedByCount": 20060
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1188,
+            "previousValue": 1182,
+            "delta": 6,
+            "growthRate": 0.0051,
+            "available": true
+          },
+          "relevanceKeywords": [],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W4416914294",
+          "kind": "paper",
+          "title": "snRNA-seq of a Huntington’s disease mouse model indicates cell type-specific transcriptional disease signatures and disease-relevant pathways",
+          "summary": "A common feature of neurodegeneration is selective vulnerability, where certain neurons succumb to disease, while others remain spared. The molecular underpinnings of these differences remain elusive. Here, we use single-nucleus RNA-sequencing to investigate transcriptional alterations in the motor cortex of a mouse model of Huntington's disease (HD), a movement disorder caused by a CAG repeat expansion in the Huntingtin gene. We observe transcriptomic separation of HD and control samples within the vulnerable glutamatergic, but not disease-resistant GABAergic cell clusters. Gene expression ch",
+          "url": "https://doi.org/10.1016/j.celrep.2026.118332",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "Cell Reports",
+          "authors": [
+            "Dennis Feigenbutz",
+            "Miguel da Silva Padilha",
+            "Elena Evangelia Möller",
+            "Marco Niestroj",
+            "Kerstin Voelkl"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.1016/j.celrep.2026.118332"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "cortex"
+          ],
+          "signalScore": 9,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7148238792",
+          "kind": "paper",
+          "title": "ATP8B1–TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
+          "summary": "Sensory hair cells convert sound-induced vibrations into electrical signals through a process called mechano-electrical transduction (MET). While the protein components of the MET complex are well studied, increasing evidence indicates that MET channel properties are significantly modulated by the surrounding lipid bilayer. The asymmetric distribution of membrane lipids between the inner and outer membrane leaflets is well established to shape membrane mechanics. The recent discovery that the core MET components TMC1 and TMC2 also act as lipid scramblases suggests a direct role for membrane li",
+          "url": "https://doi.org/10.7554/elife.110466.4",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "source": "eLife",
+          "authors": [
+            "Henry Newkirk De Hoyos",
+            "Sihan Li",
+            "Jun-Sub Im",
+            "Alyssa Luz-Ricca",
+            "Takesha Foster"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.7554/elife.110466.4"
+          },
+          "metrics": {
+            "citedByCount": 1
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 0,
+            "delta": 1,
+            "growthRate": 1,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 9,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
     },
     {
       "section": "news",
@@ -24,6 +1412,31 @@
       "description": "Brain and neuroscience related research news from configured RSS feeds.",
       "sourceCount": 4,
       "items": [
+        {
+          "kind": "research_news",
+          "title": "Depression may be an early warning sign of Alzheimer's disease",
+          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain, the faster depressive symptoms increased, suggesting that mood changes could emerge before cognitive decline.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+          "publishedAt": "2026-11-24T00:31:03.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "mental health",
+            "brain"
+          ],
+          "signalScore": 32,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
         {
           "kind": "research_news",
           "title": "AI may not work like the human brain after all, scientists discover",
@@ -87,6 +1500,78 @@
             "neural"
           ],
           "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+          "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+          "publishedAt": "2026-11-24T23:31:52.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Mice slept 70% less after scientists switched off these brain cells",
+          "summary": "Scientists have discovered brain cells that actively generate the irresistible urge to sleep, and shutting them down allowed mice to sleep 70% less than normal. Remarkably, many of the animals avoided the severe behavioral consequences of sleep deprivation, raising intriguing possibilities for future sleep research.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+          "publishedAt": "2026-11-23T02:02:10.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover a surprising link between weak bones and faster brain aging",
+          "summary": "Weakening bones may reveal more about brain health than scientists previously realized, with new research linking lower spinal bone density to faster cognitive decline and accelerated changes in the brain's white matter. The surprising connection suggests that routine medical scans could help uncover hidden warning signs of brain aging and identify people at increased risk of dementia.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
+          "publishedAt": "2026-11-23T00:45:42.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -197,102 +1682,6 @@
         },
         {
           "kind": "research_news",
-          "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
-          "summary": "Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The breakthrough could pave the way for less invasive treatments using injectable particles and wearable magnetic headbands.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
-          "publishedAt": "2026-11-18T03:49:24.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-          "publishedAt": "2026-11-17T11:39:45.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-          "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
-          "publishedAt": "2026-11-16T12:41:09.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
-          "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
-          "publishedAt": "2026-11-16T01:40:04.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 24,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
           "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
           "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
           "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
@@ -354,6 +1743,102 @@
             "brain"
           ],
           "signalScore": 18,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
+          "summary": "Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The breakthrough could pave the way for less invasive treatments using injectable particles and wearable magnetic headbands.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
+          "publishedAt": "2026-11-18T03:49:24.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+          "publishedAt": "2026-11-17T11:39:45.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+          "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+          "publishedAt": "2026-11-16T12:41:09.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+          "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+          "publishedAt": "2026-11-16T01:40:04.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -653,102 +2138,6 @@
             "available": false,
             "reason": "access metrics not configured"
           }
-        },
-        {
-          "kind": "research_news",
-          "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-          "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overlap, potentially allowing faster responses to danger. This \"better safe than sorry\" survival mechanism could help explain why people with anxiety or PTSD sometimes experience intense fear in completely safe situations.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-          "publishedAt": "2026-11-03T13:03:02.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-          "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that target the disease at its roots.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-          "publishedAt": "2026-11-03T04:11:58.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Extra weight may be aging your brain faster than you think",
-          "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effects of obesity on brain health.",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
-          "publishedAt": "2026-11-02T13:55:28.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "kind": "research_news",
-          "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-          "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-          "publishedAt": "2026-11-01T13:24:51.000Z",
-          "source": "sciencedaily.com",
-          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
-          "relevanceKeywords": [
-            "brain"
-          ],
-          "signalScore": 16,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
         }
       ]
     },
@@ -881,20 +2270,20 @@
           }
         },
         {
-          "id": "50601881",
+          "id": "50634239",
           "kind": "startup_hn_signal",
-          "title": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
+          "title": "Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
           "summary": "Matched Hacker News query: BCI startup",
-          "url": "https://github.com/pkukielka/gitfold",
-          "discussionUrl": "https://news.ycombinator.com/item?id=50601881",
-          "publishedAt": "2026-11-22T17:38:28.000Z",
+          "url": "https://github.com/wakeshift/server",
+          "discussionUrl": "https://news.ycombinator.com/item?id=50634239",
+          "publishedAt": "2026-11-24T20:27:48.000Z",
           "source": "Hacker News",
           "relevanceKeywords": [
             "BCI startup"
           ],
           "metrics": {
-            "points": 2,
-            "comments": 1
+            "points": 4,
+            "comments": 0
           },
           "signalScore": 30,
           "access": {
@@ -928,35 +2317,6 @@
             "comments": 1
           },
           "signalScore": 29.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
-          "id": "50603705",
-          "kind": "startup_hn_signal",
-          "title": "Ask HN: CVE craziness – are you on a path to burnout?",
-          "summary": "Matched Hacker News query: neurotech",
-          "url": "https://news.ycombinator.com/item?id=50603705",
-          "discussionUrl": "https://news.ycombinator.com/item?id=50603705",
-          "publishedAt": "2026-11-22T20:47:18.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "neurotech"
-          ],
-          "metrics": {
-            "points": 1,
-            "comments": 0
-          },
-          "signalScore": 28.5,
           "access": {
             "metric": "access_views",
             "currentYear": 2026,
@@ -1342,35 +2702,6 @@
           }
         },
         {
-          "id": "48929304",
-          "kind": "startup_hn_signal",
-          "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
-          "summary": "Matched Hacker News query: neurotech",
-          "url": "https://news.ycombinator.com/item?id=48929304",
-          "discussionUrl": "https://news.ycombinator.com/item?id=48929304",
-          "publishedAt": "2026-07-16T01:12:35.000Z",
-          "source": "Hacker News",
-          "relevanceKeywords": [
-            "neurotech"
-          ],
-          "metrics": {
-            "points": 3,
-            "comments": 13
-          },
-          "signalScore": 23.5,
-          "access": {
-            "metric": "access_views",
-            "currentYear": 2026,
-            "previousYear": 2025,
-            "currentValue": null,
-            "previousValue": null,
-            "delta": null,
-            "growthRate": null,
-            "available": false,
-            "reason": "access metrics not configured"
-          }
-        },
-        {
           "id": "47183899",
           "kind": "startup_hn_signal",
           "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
@@ -1677,6 +3008,68 @@
             "available": false,
             "reason": "access metrics not configured"
           }
+        },
+        {
+          "id": "48607015",
+          "kind": "startup_hn_signal",
+          "title": "Brain-computer interface trials are taking off",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48607015",
+          "publishedAt": "2026-06-20T07:02:17.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 22,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "48555036",
+          "kind": "startup_hn_signal",
+          "title": "Brain-computer interface enables accurate communication for man with ALS",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://medicalxpress.com/news/2026-06-brain-interface-enables-independent-accurate.html",
+          "discussionUrl": "https://news.ycombinator.com/item?id=48555036",
+          "publishedAt": "2026-06-16T13:31:01.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 22,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
         }
       ]
     },
@@ -1690,6 +3083,1085 @@
   ],
   "rankings": {
     "growingAccessItems": [],
-    "growingCitationPapers": []
+    "growingCitationPapers": [
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4309674289",
+        "kind": "paper",
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "summary": "Natural Language Generation (NLG) has improved exponentially in recent years thanks to the development of sequence-to-sequence deep learning technologies such as Transformer-based language models. This advancement has led to more fluent and coherent NLG, leading to improved development in downstream tasks such as abstractive summarization, dialogue generation, and data-to-text generation. However, it is also apparent that deep learning based generation is prone to hallucinate unintended text, which degrades the system performance and fails to meet user expectations in many real-world scenarios",
+        "url": "https://doi.org/10.1145/3571730",
+        "publishedAt": "2023-03-03T00:00:00.000Z",
+        "source": "ACM Computing Surveys",
+        "authors": [
+          "Ziwei Ji",
+          "Nayeon Lee",
+          "Rita Frieske",
+          "Tiezheng Yu",
+          "Dan Su"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://arxiv.org/pdf/2202.03629"
+        },
+        "metrics": {
+          "citedByCount": 11535
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 5949,
+          "previousValue": 2949,
+          "delta": 3000,
+          "growthRate": 1.0173,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 3004,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4239510810",
+        "kind": "paper",
+        "title": "Support-Vector Networks",
+        "summary": "",
+        "url": "https://doi.org/10.1007/bf00994018",
+        "publishedAt": "1995-09-01T00:00:00.000Z",
+        "source": "Machine Learning",
+        "authors": [
+          "Corinna Cortes",
+          "Vladimir N. Vapnik"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf"
+        },
+        "metrics": {
+          "citedByCount": 74183
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 8381,
+          "previousValue": 6997,
+          "delta": 1384,
+          "growthRate": 0.1978,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 1388,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2560647685",
+        "kind": "paper",
+        "title": "Overcoming catastrophic forgetting in neural networks",
+        "summary": "The ability to learn tasks in a sequential fashion is crucial to the development of artificial intelligence. Until now neural networks have not been capable of this and it has been widely thought that catastrophic forgetting is an inevitable feature of connectionist models. We show that it is possible to overcome this limitation and train networks that can maintain expertise on tasks that they have not experienced for a long time. Our approach remembers old tasks by selectively slowing down learning on the weights important for those tasks. We demonstrate our approach is scalable and effective",
+        "url": "https://doi.org/10.1073/pnas.1611835114",
+        "publishedAt": "2017-03-14T00:00:00.000Z",
+        "source": "Proceedings of the National Academy of Sciences",
+        "authors": [
+          "James Kirkpatrick",
+          "Razvan Pascanu",
+          "Neil C. Rabinowitz",
+          "Joel Veness",
+          "Guillaume Desjardins"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380101/"
+        },
+        "metrics": {
+          "citedByCount": 13080
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 3730,
+          "previousValue": 2587,
+          "delta": 1143,
+          "growthRate": 0.4418,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neural"
+        ],
+        "signalScore": 1151,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2119717200",
+        "kind": "paper",
+        "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+        "summary": "",
+        "url": "https://doi.org/10.1007/bf00992696",
+        "publishedAt": "1992-05-01T00:00:00.000Z",
+        "source": "Machine Learning",
+        "authors": [
+          "Ronald J. Williams"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://link.springer.com/content/pdf/10.1007/BF00992696.pdf"
+        },
+        "metrics": {
+          "citedByCount": 12909
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2005,
+          "previousValue": 1494,
+          "delta": 511,
+          "growthRate": 0.342,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 515,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2900756811",
+        "kind": "paper",
+        "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+        "summary": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles, ectosomes, oncosomes, apoptotic bodies, and many other names. However, specific issues arise when working with these entities, whose size and amount often make them difficult to obtain as relatively pure preparations, and to characterize properly. The International Society for Extracellular Vesicle",
+        "url": "https://doi.org/10.1080/20013078.2018.1535750",
+        "publishedAt": "2018-11-23T00:00:00.000Z",
+        "source": "Journal of Extracellular Vesicles",
+        "authors": [
+          "Clotilde Théry",
+          "Kenneth Whitaker Witwer",
+          "Elena Aïkawa",
+          "María José Alcaraz",
+          "Johnathon David Anderson"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/20013078.2018.1535750?needAccess=true"
+        },
+        "metrics": {
+          "citedByCount": 12383
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1625,
+          "previousValue": 1382,
+          "delta": 243,
+          "growthRate": 0.1758,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 247,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W3029661147",
+        "kind": "paper",
+        "title": "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "summary": "Genetic variants that inactivate protein-coding genes are a powerful source of information about the phenotypic consequences of gene disruption: genes that are crucial for the function of an organism will be depleted of such variants in natural populations, whereas non-essential genes will tolerate their accumulation. However, predicted loss-of-function variants are enriched for annotation errors, and tend to be found at extremely low frequencies, so their analysis requires careful variant annotation and very large sample sizes 1 . Here we describe the aggregation of 125,748 exomes and 15,708 ",
+        "url": "https://doi.org/10.1038/s41586-020-2308-7",
+        "publishedAt": "2020-05-27T00:00:00.000Z",
+        "source": "Nature",
+        "authors": [
+          "Konrad J. Karczewski",
+          "Laurent C. Francioli",
+          "Grace Tiao",
+          "Beryl B. Cummings",
+          "Jessica Alföldi"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.nature.com/articles/s41586-020-2308-7.pdf"
+        },
+        "metrics": {
+          "citedByCount": 11330
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1591,
+          "previousValue": 1379,
+          "delta": 212,
+          "growthRate": 0.1537,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 216,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2135894974",
+        "kind": "paper",
+        "title": "Nonparametric statistical testing of EEG- and MEG-data",
+        "summary": "",
+        "url": "https://doi.org/10.1016/j.jneumeth.2007.03.024",
+        "publishedAt": "2007-04-11T00:00:00.000Z",
+        "source": "Journal of Neuroscience Methods",
+        "authors": [
+          "Eric Maris",
+          "Robert Oostenveld"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/56430/1/56430.pdf"
+        },
+        "metrics": {
+          "citedByCount": 9417
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1154,
+          "previousValue": 983,
+          "delta": 171,
+          "growthRate": 0.174,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience"
+        ],
+        "signalScore": 183,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2104549677",
+        "kind": "paper",
+        "title": "A global reference for human genetic variation",
+        "summary": "The 1000 Genomes Project set out to provide a comprehensive description of common human genetic variation by applying whole-genome sequencing to a diverse set of individuals from multiple populations. Here we report completion of the project, having reconstructed the genomes of 2,504 individuals from 26 populations using a combination of low-coverage whole-genome sequencing, deep exome sequencing, and dense microarray genotyping. We characterized a broad spectrum of genetic variation, in total over 88 million variants (84.7 million single nucleotide polymorphisms (SNPs), 3.6 million short inse",
+        "url": "https://doi.org/10.1038/nature15393",
+        "publishedAt": "2015-09-30T00:00:00.000Z",
+        "source": "Nature",
+        "authors": [
+          "Corresponding authors",
+          "Adam Auton",
+          "Gonçalo Rocha Abecasis",
+          "David Altshuler",
+          "Richard Michael Durbin"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.nature.com/articles/nature15393.pdf"
+        },
+        "metrics": {
+          "citedByCount": 20757
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 2349,
+          "previousValue": 2178,
+          "delta": 171,
+          "growthRate": 0.0785,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 175,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W1966327575",
+        "kind": "paper",
+        "title": "WGCNA: an R package for weighted correlation network analysis",
+        "summary": "BACKGROUND: Correlation networks are increasingly being used in bioinformatics applications. For example, weighted gene co-expression network analysis is a systems biology method for describing the correlation patterns among genes across microarray samples. Weighted correlation network analysis (WGCNA) can be used for finding clusters (modules) of highly correlated genes, for summarizing such clusters using the module eigengene or an intramodular hub gene, for relating modules to one another and to external sample traits (using eigengene network methodology), and for calculating module members",
+        "url": "https://doi.org/10.1186/1471-2105-9-559",
+        "publishedAt": "2008-12-01T00:00:00.000Z",
+        "source": "BMC Bioinformatics",
+        "authors": [
+          "Peter Langfelder",
+          "Steve Horvath"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/1471-2105-9-559"
+        },
+        "metrics": {
+          "citedByCount": 31417
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 4121,
+          "previousValue": 4004,
+          "delta": 117,
+          "growthRate": 0.0292,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain"
+        ],
+        "signalScore": 125,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2322480672",
+        "kind": "paper",
+        "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+        "summary": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizatio",
+        "url": "https://doi.org/10.2307/1941447",
+        "publishedAt": "1992-12-01T00:00:00.000Z",
+        "source": "Ecology",
+        "authors": [
+          "Simon A. Levin"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.2307/1941447"
+        },
+        "metrics": {
+          "citedByCount": 8420
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 354,
+          "previousValue": 242,
+          "delta": 112,
+          "growthRate": 0.4628,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 116,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2024165284",
+        "kind": "paper",
+        "title": "Tensor Decompositions and Applications",
+        "summary": "This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or [Formula: see text]-way array. Decompositions of higher-order tensors (i.e., [Formula: see text]-way arrays with [Formula: see text]) have applications in psychometrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value decompositio",
+        "url": "https://doi.org/10.1137/07070111x",
+        "publishedAt": "2009-08-05T00:00:00.000Z",
+        "source": "SIAM Review",
+        "authors": [
+          "Tamara G. Kolda",
+          "Brett W. Bader"
+        ],
+        "openAccess": {
+          "isOpen": false,
+          "url": ""
+        },
+        "metrics": {
+          "citedByCount": 12546
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1297,
+          "previousValue": 1186,
+          "delta": 111,
+          "growthRate": 0.0936,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience"
+        ],
+        "signalScore": 119,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2166073443",
+        "kind": "paper",
+        "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+        "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+        "url": "https://doi.org/10.1155/2011/156869",
+        "publishedAt": "2010-12-23T00:00:00.000Z",
+        "source": "Computational Intelligence and Neuroscience",
+        "authors": [
+          "Robert Oostenveld",
+          "Pascal Fries",
+          "Eric Maris",
+          "Jan‐Mathijs Schoffelen"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+        },
+        "metrics": {
+          "citedByCount": 11465
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1270,
+          "previousValue": 1218,
+          "delta": 52,
+          "growthRate": 0.0427,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience"
+        ],
+        "signalScore": 64,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2031753087",
+        "kind": "paper",
+        "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+        "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+        "url": "https://doi.org/10.1137/1010093",
+        "publishedAt": "1968-10-01T00:00:00.000Z",
+        "source": "SIAM Review",
+        "authors": [
+          "Benoît B. Mandelbrot",
+          "John W. Van Ness"
+        ],
+        "openAccess": {
+          "isOpen": false,
+          "url": ""
+        },
+        "metrics": {
+          "citedByCount": 8940
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 465,
+          "previousValue": 425,
+          "delta": 40,
+          "growthRate": 0.0941,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neuroscience",
+          "brain",
+          "neural",
+          "cortex"
+        ],
+        "signalScore": 60,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W1897139626",
+        "kind": "paper",
+        "title": "Estimating the reproducibility of psychological science",
+        "summary": "Reproducibility is a defining feature of science, but the extent to which it characterizes current research is unknown. We conducted replications of 100 experimental and correlational studies published in three psychology journals using high-powered designs and original materials when available. Replication effects were half the magnitude of original effects, representing a substantial decline. Ninety-seven percent of original studies had statistically significant results. Thirty-six percent of replications had statistically significant results; 47% of original effect sizes were in the 95% con",
+        "url": "https://doi.org/10.1126/science.aac4716",
+        "publishedAt": "2015-08-27T00:00:00.000Z",
+        "source": "Science",
+        "authors": [
+          "Open Science Collaboration"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://discovery.dundee.ac.uk/ws/files/7385883/RPP_SCIENCE_2015.pdf"
+        },
+        "metrics": {
+          "citedByCount": 10038
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 765,
+          "previousValue": 739,
+          "delta": 26,
+          "growthRate": 0.0352,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 30,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2004293194",
+        "kind": "paper",
+        "title": "Whole Brain Segmentation",
+        "summary": "",
+        "url": "https://doi.org/10.1016/s0896-6273(02)00569-x",
+        "publishedAt": "2002-01-01T00:00:00.000Z",
+        "source": "Neuron",
+        "authors": [
+          "Bruce R. Fischl",
+          "David H. Salat",
+          "Evelina Busa",
+          "Marilyn Albert",
+          "Megan Dieterich"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "http://www.cell.com/article/S089662730200569X/pdf"
+        },
+        "metrics": {
+          "citedByCount": 9628
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 645,
+          "previousValue": 628,
+          "delta": 17,
+          "growthRate": 0.0271,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain"
+        ],
+        "signalScore": 25,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4411584912",
+        "kind": "paper",
+        "title": "Linguistic contextualization in the human hippocampus",
+        "summary": "",
+        "url": "https://doi.org/10.1038/s41562-026-02543-z",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Nature Human Behaviour",
+        "authors": [
+          "Kalman A. Katlowitz",
+          "James L. Belanger",
+          "Taha Ismail",
+          "Ana G. Chavez",
+          "Assia Chericoni"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.biorxiv.org/content/biorxiv/early/2025/06/24/2025.06.23.661103.full.pdf"
+        },
+        "metrics": {
+          "citedByCount": 12
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 9,
+          "previousValue": 3,
+          "delta": 6,
+          "growthRate": 2,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 10,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W2259938310",
+        "kind": "paper",
+        "title": "An integrated encyclopedia of DNA elements in the human genome",
+        "summary": "The human genome encodes the blueprint of life, but the function of the vast majority of its nearly three billion bases is unknown. The Encyclopedia of DNA Elements (ENCODE) project has systematically mapped regions of transcription, transcription factor association, chromatin structure and histone modification. These data enabled us to assign biochemical functions for 80% of the genome, in particular outside of the well-studied protein-coding regions. Many discovered candidate regulatory elements are physically associated with one another and with expressed genes, providing new insights into ",
+        "url": "https://doi.org/10.1038/nature11247",
+        "publishedAt": "2012-09-01T00:00:00.000Z",
+        "source": "Nature",
+        "authors": [
+          "Ian Dunham",
+          "Ewan Birney",
+          "Javier Herrero",
+          "Steven P. Wilder",
+          "Damian Keefe"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://www.nature.com/articles/nature11247.pdf"
+        },
+        "metrics": {
+          "citedByCount": 20060
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1188,
+          "previousValue": 1182,
+          "delta": 6,
+          "growthRate": 0.0051,
+          "available": true
+        },
+        "relevanceKeywords": [],
+        "signalScore": 10,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4408403627",
+        "kind": "paper",
+        "title": "Genetic liability to depression has distinctive associations with cardiometabolic diseases",
+        "summary": "Mental disorders and cardiometabolic diseases (CMDs) share genetic factors, but whether these genetic links are disorder specific or reflect genetic overlap among mental disorders remains unclear. In 355,717 participants from Sweden, Norway and Estonia, we examined associations between polygenic scores (PGS) for six mental disorders and ten clinically diagnosed CMDs. Here we show that the major depressive disorder PGS had the most consistent associations with CMDs and remained robust after adjustment for other mental disorder PGS, body mass index, smoking and educational attainment. The PGS fo",
+        "url": "https://doi.org/10.1038/s44220-026-00749-8",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Nature Mental Health",
+        "authors": [
+          "Jacob Bergstedt",
+          "Kadri Kõiv",
+          "Andreas Jangmo",
+          "Marit Haram",
+          "Piotr Pawel Jaholkowski"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1038/s44220-026-00749-8"
+        },
+        "metrics": {
+          "citedByCount": 5
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 4,
+          "previousValue": 1,
+          "delta": 3,
+          "growthRate": 3,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "mental health"
+        ],
+        "signalScore": 15,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W7141441899",
+        "kind": "paper",
+        "title": "Rules-and-facts model for simultaneous generalization and memorization in neural networks",
+        "summary": "A key capability of modern neural networks is their capacity to simultaneously learn underlying rules and memorize specific facts or exceptions. Yet, theoretical understanding of this dual capability remains limited. We introduce the Rules-and-Facts (RAF) model, a minimal solvable setting that enables precise characterization of this phenomenon by bridging two classical lines of work in the statistical physics of learning: the teacher-student framework for generalization and Gardner-style capacity analysis for memorization. In the RAF model, a fraction 1 − ε of training labels is generated by ",
+        "url": "https://doi.org/10.1103/zz3s-48m6",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Physical Review X",
+        "authors": [
+          "Gabriele Farné",
+          "Fabrizio Boncoraglio",
+          "Lenka Zdeborová"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1103/zz3s-48m6"
+        },
+        "metrics": {
+          "citedByCount": 3
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 3,
+          "previousValue": 0,
+          "delta": 3,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "neural"
+        ],
+        "signalScore": 11,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W7164021015",
+        "kind": "paper",
+        "title": "Capacity-controlled EEG denoising: diminishing reconstruction returns on semi-synthetic benchmarks and task-dependent downstream utility",
+        "summary": "Objective. Electroencephalography (EEG) denoising is often ranked by clean-reference reconstruction metrics, although downstream task performance is less often assessed. We tested capacity effects and when reconstruction fidelity tracks utility. Approach. A depthwise-separable convolutional denoiser spanned 1.05K–40.26K parameters. Capacity was evaluated on semi-synthetic clean-reference benchmarks (EEGDenoiseNet and a mixed-artifact corpus) and by zero-shot reconstruction on brain–computer interface (BCI) Competition IV-2a/IV-2b. Downstream effects and same-condition metric–utility associatio",
+        "url": "https://doi.org/10.1088/1741-2552/aec595",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Journal of Neural Engineering",
+        "authors": [
+          "Jasmeet Singh Bindra",
+          "Siddharth Panwar"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://arxiv.org/pdf/2606.08594"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain",
+          "neural"
+        ],
+        "signalScore": 13,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W7171402699",
+        "kind": "paper",
+        "title": "Cycles of discourse, speech dysfluency, and active inference.",
+        "summary": "Speech is a complex motor and social act. We must not only produce and understand sequences of variable-length words formed from ordered syllables but also speak and listen in turn. This theoretical article introduces a computational model of speech production and auditory segmentation based on sequences of discrete phonemes . The purpose of this model is to develop a vehicle for testing (in silico) hypotheses about the mechanisms that govern the loss of speech fluency , something may occur transiently in people who stutter or progressively in various neurodegenerative conditions. The modeling",
+        "url": "https://doi.org/10.1037/rev0000654",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Psychological Review",
+        "authors": [
+          "Thomas Parr",
+          "Birtan Demirel",
+          "Youssuf Saleh",
+          "Sanjay Manohar"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1037/rev0000654"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain",
+          "neural"
+        ],
+        "signalScore": 13,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W4416914294",
+        "kind": "paper",
+        "title": "snRNA-seq of a Huntington’s disease mouse model indicates cell type-specific transcriptional disease signatures and disease-relevant pathways",
+        "summary": "A common feature of neurodegeneration is selective vulnerability, where certain neurons succumb to disease, while others remain spared. The molecular underpinnings of these differences remain elusive. Here, we use single-nucleus RNA-sequencing to investigate transcriptional alterations in the motor cortex of a mouse model of Huntington's disease (HD), a movement disorder caused by a CAG repeat expansion in the Huntingtin gene. We observe transcriptomic separation of HD and control samples within the vulnerable glutamatergic, but not disease-resistant GABAergic cell clusters. Gene expression ch",
+        "url": "https://doi.org/10.1016/j.celrep.2026.118332",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "Cell Reports",
+        "authors": [
+          "Dennis Feigenbutz",
+          "Miguel da Silva Padilha",
+          "Elena Evangelia Möller",
+          "Marco Niestroj",
+          "Kerstin Voelkl"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.1016/j.celrep.2026.118332"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "cortex"
+        ],
+        "signalScore": 9,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      },
+      {
+        "section": "papers",
+        "id": "https://openalex.org/W7148238792",
+        "kind": "paper",
+        "title": "ATP8B1–TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
+        "summary": "Sensory hair cells convert sound-induced vibrations into electrical signals through a process called mechano-electrical transduction (MET). While the protein components of the MET complex are well studied, increasing evidence indicates that MET channel properties are significantly modulated by the surrounding lipid bilayer. The asymmetric distribution of membrane lipids between the inner and outer membrane leaflets is well established to shape membrane mechanics. The recent discovery that the core MET components TMC1 and TMC2 also act as lipid scramblases suggests a direct role for membrane li",
+        "url": "https://doi.org/10.7554/elife.110466.4",
+        "publishedAt": "2026-11-23T00:00:00.000Z",
+        "source": "eLife",
+        "authors": [
+          "Henry Newkirk De Hoyos",
+          "Sihan Li",
+          "Jun-Sub Im",
+          "Alyssa Luz-Ricca",
+          "Takesha Foster"
+        ],
+        "openAccess": {
+          "isOpen": true,
+          "url": "https://doi.org/10.7554/elife.110466.4"
+        },
+        "metrics": {
+          "citedByCount": 1
+        },
+        "trend": {
+          "metric": "citations_by_year",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": 1,
+          "previousValue": 0,
+          "delta": 1,
+          "growthRate": 1,
+          "available": true
+        },
+        "relevanceKeywords": [
+          "brain"
+        ],
+        "signalScore": 9,
+        "access": {
+          "metric": "access_views",
+          "currentYear": 2026,
+          "previousYear": 2025,
+          "currentValue": null,
+          "previousValue": null,
+          "delta": null,
+          "growthRate": null,
+          "available": false,
+          "reason": "access metrics not configured"
+        }
+      }
+    ]
   }
 }
