@@ -5,35 +5,6 @@
   "sourceCount": 7,
   "items": [
     {
-      "id": "50471281",
-      "kind": "startup_hn_signal",
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "summary": "Matched Hacker News query: BCI startup",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50471281",
-      "publishedAt": "2026-11-12T17:51:23.000Z",
-      "source": "Hacker News",
-      "relevanceKeywords": [
-        "BCI startup"
-      ],
-      "metrics": {
-        "points": 61,
-        "comments": 19
-      },
-      "signalScore": 69.5,
-      "access": {
-        "metric": "access_views",
-        "currentYear": 2026,
-        "previousYear": 2025,
-        "currentValue": null,
-        "previousValue": null,
-        "delta": null,
-        "growthRate": null,
-        "available": false,
-        "reason": "access metrics not configured"
-      }
-    },
-    {
       "id": "50589555",
       "kind": "startup_hn_signal",
       "title": "Playing GTA VI with a brain computer interface",
@@ -96,24 +67,22 @@
       }
     },
     {
-      "id": "46245673",
+      "id": "50655719",
       "kind": "startup_hn_signal",
-      "title": "Is Entertainment Discovery Fundamentally Broken?",
-      "summary": "Matched Hacker News query: neural interface",
-      "url": "https://news.ycombinator.com/item?id=46245673",
-      "discussionUrl": "https://news.ycombinator.com/item?id=46245673",
-      "publishedAt": "2025-12-12T16:27:39.000Z",
+      "title": "Ask HN: What's the next big sci-fi thing to become real?",
+      "summary": "Matched Hacker News query: BCI startup",
+      "url": "https://news.ycombinator.com/item?id=50655719",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50655719",
+      "publishedAt": "2026-11-26T14:33:01.000Z",
       "source": "Hacker News",
       "relevanceKeywords": [
-        "neural interface",
-        "neural",
-        "neural interface"
+        "BCI startup"
       ],
       "metrics": {
         "points": 2,
-        "comments": 9
+        "comments": 5
       },
-      "signalScore": 31,
+      "signalScore": 34,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
@@ -140,9 +109,40 @@
       ],
       "metrics": {
         "points": 4,
-        "comments": 0
+        "comments": 1
       },
-      "signalScore": 30,
+      "signalScore": 31,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "id": "46245673",
+      "kind": "startup_hn_signal",
+      "title": "Is Entertainment Discovery Fundamentally Broken?",
+      "summary": "Matched Hacker News query: neural interface",
+      "url": "https://news.ycombinator.com/item?id=46245673",
+      "discussionUrl": "https://news.ycombinator.com/item?id=46245673",
+      "publishedAt": "2025-12-12T16:27:39.000Z",
+      "source": "Hacker News",
+      "relevanceKeywords": [
+        "neural interface",
+        "neural",
+        "neural interface"
+      ],
+      "metrics": {
+        "points": 2,
+        "comments": 9
+      },
+      "signalScore": 31,
       "access": {
         "metric": "access_views",
         "currentYear": 2026,
